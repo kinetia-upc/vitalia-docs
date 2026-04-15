@@ -1,0 +1,25 @@
+# Carpeta de salida donde se generará el documento
+build/
+
+# Archivos compilados pdf
+*.pdf
+
+# Archivos temporales de LaTeX
+*.aux
+*.bbl
+*.blg
+*.fls
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas de configuración del editor
+.vscode/
+.idea/
