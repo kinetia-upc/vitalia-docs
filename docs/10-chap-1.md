@@ -159,14 +159,22 @@ En términos de funcionamiento, se espera que la plataforma sea robusta, ágil y
 #### *1.2.2.3. Lean UX Hypothesis Statements*
 
 **Hypothesis Statement 1**
+
 Creemos que brindar acceso digital a los resultados y diagnósticos reducirá las consultas presenciales o telefónicas solo para recojo de información. Sabremos que lo hemos logrado cuando el número de solicitudes presenciales de copias de historias clínicas disminuya en un 40% durante los primeros tres meses tras su implementación.
 
 **Hypothesis Statement 2**
+
 Creemos que simplificar el proceso de reserva de citas en pocos pasos, agilizará la gestión y satisfacción de los pacientes. Sabremos que lo hemos logrado cuando se registre un 50% más de reservas en digitales en comparación a las tradicionales.
 
 **Hypothesis Statement 3**
+
 Creemos que la automatización de métricas y resúmenes de actividad clínica eliminará la necesidad de reportes manuales al final de la jornada. Sabremos que lo hemos logrado cuando el personal administrativo reduzca en un 30% las horas semanales dedicadas exclusivamente a la elaboración de informes de gestión y auditoría.
 
 #### *1.2.2.4. Lean UX Canvas*
+
+Link: https://canva.link/pgncw7ixx515oud
+
+*Figura 2 (Lean Product Canvas)*  
+![Lean Product Canvas](../assets/images/figures/02-lean_canvas.jpg)
 
 ## 1.3. Segmentos objetivo
