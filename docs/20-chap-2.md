@@ -45,11 +45,83 @@
 
 ### 2.2.2. Registro de entrevistas
 
-Link:
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
+**Entrevista 1**
+
+| Entrevistado: | Entrevistadora: Alejandra Astocondor |
+| ------------- | -------------- |
+| ![administrador-01](../assets/images/figures/entrevista-administrador01.png) | ![entrevistador-01](../assets/images/figures/entrevistador01.png) |
+| Inicia: | 13:23 |
+| Duración:| 4:04 |
+| Nombre completo: | Christian David Bazan Calderon |
+| Edad: | 46 |
+| Distrito: | Surco |
+| Resumen: | Christian señala que actualmente utilizan múltiples herramientas no integradas (teléfono, Excel, WhatsApp y facturación electrónica). Identifica como principal problema la falta de integración, lo que genera ineficiencias. Considera que el uso y la adaptación del personal son factores clave para implementar un nuevo sistema. Propone un sistema integral que conecte citas, historias clínicas, facturación y servicios como laboratorio e imágenes. Destaca que la digitalización permite ahorrar tiempo, recursos y mejorar la toma de decisiones. |
+
+**Entrevista 2**
+
+| Entrevistado: | Entrevistadora: Alejandra Astocondor |
+| ------------- | -------------- |
+| ![administrador-02](../assets/images/figures/entrevista-administrador02.png) | ![entrevistador-02](../assets/images/figures/entrevistador02.png) |
+| Inicia: | 17:27 |
+| Duración: | 7:38 |
+| Nombre completo: | Diego Leonardo Bazan Calderon |
+| Edad: | 36 |
+| Distrito: | San Juan de Miraflores |
+| Resumen: | Diego describe el uso de múltiples plataformas (WhatsApp, Google Calendar, sistema en Access y software de facturación), lo que genera duplicación de datos. Considera que la integración es el principal valor de un nuevo sistema, seguido del costo. También destaca la importancia de cumplir con la normativa peruana y permitir integraciones mediante APIs. Subraya el valor del análisis de datos para la toma de decisiones estratégicas, como identificar servicios más rentables o perfiles de pacientes. |
+
+**Entrevista 3**
+
+| Entrevistada: | Entrevistadora: Alejandra Astocondor |
+| ------------- | -------------- |
+| ![administrador-03](../assets/images/figures/entrevista-administrador03.png) | ![entrevistador-03](../assets/images/figures/entrevistador03.png) |
+| Inicia: | 25:40 |
+| Duración: | 4:20 |
+| Nombre completo: | Iris Carpio Bazan |
+| Edad: | 64 |
+| Distrito: | La victoria |
+| Resumen: | Iris explica que utilizan el sistema SIHCE, pero aún no existe integración completa entre áreas como admisión, laboratorio y atención médica. Considera que el principal reto es la interconexión de servicios. Destaca que el sistema debe ser fácil de usar, especialmente para personal mayor, y que los recursos económicos son una limitante importante. Su objetivo es mejorar la eficiencia del servicio y reducir tiempos de espera. |
+
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+
+**Entrevista 1**
+
+| Entrevistada: | Entrevistadora: Alejandra Astocondor |
+| -------------- | -------------- |
+| ![doctor-01](../assets/images/figures/entrevista-doctor01.png) | ![entrevistador-04](../assets/images/figures/entrevistador04.png) |
+| Inicia: | 0:00 |
+| Duración: | 4:57 |
+| Nombre completo: | Carmen Patricia Gabriela Perez |
+| Edad: | 62 años |
+| Distrito: | Lima |
+| Resumen: | La doctora describe una consulta breve y estructurada de aproximadamente 12 minutos, donde realiza preguntas rápidas para obtener una visión general del paciente antes de profundizar en el motivo principal. Utiliza el sistema ESI para registrar información clínica, pero enfrenta limitaciones como el poco tiempo disponible y fallas del internet que incluso ocasionan pérdida de datos. Aunque no ha tenido errores de duplicidad, reconoce que pueden ocurrir. Se siente cómoda con el uso de herramientas digitales y valora su eficiencia frente al registro manual. Propone como mejora un sistema inteligente que genere resúmenes automáticos del historial y que permita registrar información mediante reconocimiento de voz. |
+
+**Entrevista 2**
+
+| Entrevistado: | Entrevistadora: Alejandra Astocondor |
+| ------------- | -------------- |
+| ![doctor-02](../assets/images/figures/entrevista-doctor02.png) | ![entrevistador-05](../assets/images/figures/entrevistador05.png) |
+| Inicia | 4:57 |
+| Duración: | 4:50 |
+| Nombre completo: | Jorge Mendoza Toribio |
+| Edad: | 35 años |
+| Distrito: | Lima |
+| Resumen: | El médico explica un flujo clínico ordenado basado en anamnesis, examen físico y plan de tratamiento. Utiliza historia clínica electrónica y considera que el sistema es funcional, aunque presenta problemas de conectividad entre establecimientos y lentitud por sobrecarga. No ha experimentado errores en los datos. Indica que la gestión de recetas y exámenes es sencilla con experiencia. Propone implementar un triaje previo para optimizar el tiempo de consulta y resalta la importancia de integrar sistemas entre distintas instituciones de salud. |
+
+**Entrevista 3**
+
+| Entrevistado: | Entrevistadora: Alejandra Astocondor |
+| ------------- | -------------- |
+| ![doctor-03](../assets/images/figures/entrevista-doctor03.png) | ![entrevistador-06](../assets/images/figures/entrevistador06.png) |
+| Inicia | 9:47 |
+| Duración: | 3:36 |
+| Nombre completo: | Jose Miguel Mejia Azañero |
+| Edad: | 40  |
+| Distrito: | Lima |
+| Resumen: | El entrevistado describe consultas de duración de 12 minutos en promedio y el uso del sistema ESI sin mayores dificultades. El principal problema es la lentitud del sistema o del internet. Considera que la gestión de citas, recetas y exámenes es sencilla, pero puede optimizarse. Sugiere incorporar triaje previo y automatizar funciones como la repetición de recetas con un solo clic. Se siente cómodo con herramientas digitales y enfatiza la necesidad de mayor rapidez y eficiencia. |
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
