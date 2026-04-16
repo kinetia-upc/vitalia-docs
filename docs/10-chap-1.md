@@ -46,7 +46,7 @@ KinetiaLabs ofrece más que desarrollo de software, proporcionamos una asociaci�
 |  |  |  |
 | ![](../assets/images/team-photos/ale-photo.png) | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
 |  |  |  |
-|  |  |  |
+| ![](../assets/images/team-photos/leo-photo.png) | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
 
 ## 1.2. Solution Profile
 
