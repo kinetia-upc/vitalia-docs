@@ -180,6 +180,18 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
+**Entrevista 1**
+
+| Entrevistada: | Entrevistador: Nestor Rojas |
+| ------------- | -------------- |
+| <img src="../assets/images/figures/30-entrevista-paciente01.png" alt="paciente-01" width= "150"/> | <img src="../assets/images/figures/31-entrevistador07.png" alt="entrevistador-07" width= "150"/> |
+| Inicia | 30:00 |
+| Duración: | 5:08 |
+| Nombre completo: | Gianella Levice |
+| Edad: | 30 |
+| Distrito: | Los Olivos |
+| Resumen: | La paciente describe una experiencia positiva en clínicas privadas, donde puede agendar citas fácilmente mediante aplicaciones o páginas web. Destaca la rapidez, la disponibilidad de opciones y el acceso digital a resultados médicos. Valora los recordatorios de citas por múltiples canales. Señala que este nivel de digitalización aún no se replica en el sistema público. Considera muy útil una plataforma que integre toda la información médica. |
+
 ### 2.2.3. Análisis de entrevistas
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
