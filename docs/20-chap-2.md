@@ -254,17 +254,17 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 12 (Empathy Mapping 1)*  
-![User Journey Mapping 1](../assets/images/figures/12-empathy-mapping-1.png)
+![Empathy Mapping 1](../assets/images/figures/12-empathy-mapping-1.png)
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 13 (Empathy Mapping 2)*  
-![User Journey Mapping 2](../assets/images/figures/13-empathy-mapping-2.png)
+![Empathy Mapping 2](../assets/images/figures/13-empathy-mapping-2.png)
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 14 (Empathy Mapping 3)*  
-![User Journey Mapping 3](../assets/images/figures/14-empathy-mapping-3.png)
+![Empathy Mapping 3](../assets/images/figures/14-empathy-mapping-3.png)
 ## 2.4. Big Picture EventStorming
 
 ## 2.5. Ubiquitous Language
