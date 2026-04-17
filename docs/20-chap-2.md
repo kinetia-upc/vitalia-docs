@@ -196,9 +196,19 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
+*Figura 3 (User Persona 1)*  
+![User Persona 1](../assets/images/figures/03-user-persona-1.png)
+
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
+*Figura 4 (User Persona 2)*  
+![User Persona 2](../assets/images/figures/04-user-persona-2.png)
+
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+*Figura 5 (User Persona 3)*  
+![User Persona 3](../assets/images/figures/05-user-persona-3.png)
+
 
 ## 2.3. Needfinding
 
