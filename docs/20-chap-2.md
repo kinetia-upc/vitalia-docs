@@ -10,15 +10,11 @@
 
 Realizar un análisis competitivo es fundamental para comprender el entorno en el que se desarrollará Vitalia, identificando las soluciones existentes, sus limitaciones y las oportunidades del mercado. Este análisis permite reconocer las fortalezas y debilidades de los competidores, detectar brechas; especialmente en el Primer Nivel de Atención de Salud (PNAS), y definir una propuesta de valor diferenciada, alineada a las necesidades reales de los segmentos objetivo. Asimismo, resulta clave para posicionar a Vitalia como una solución más accesible, simple y adaptada al sistema de salud peruano, frente a alternativas complejas, costosas o poco eficientes.
 
-*Product*
+*Logos*
 
-![vitalia-logo](../assets/images/others/vitalia-logo.png) Vitalia
-
-*Competidores*
-
-![doctoralia-logo](../assets/images/others/doctoralia-logo.png) Doctoralia
-![medilink-logo](../assets/images/others/medilink-logo.png) Medilink
-![agendapro-logo](../assets/images/others/agendapro-logo.png) AgendaPro
+| Vitalia | Doctoralia | Medilink | AgendaPro |
+| --- | --- | --- | --- |
+| <img src="../assets/images/others/vitalia-logo.png" alt="vitalia-logo" width="150"/> | <img src="../assets/images/others/doctoralia-logo.png" alt="doctoralia-logo" width="150"/> | <img src="../assets/images/others/medilink-logo.png" alt="medilink-logo" width="150"/> | <img src="../assets/images/others/agendapro-logo.png" alt="agendapro-logo" width="150"/> |
 
 *Perfil*
 
