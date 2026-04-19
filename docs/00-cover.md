@@ -44,7 +44,7 @@
 | 0.1.5 | 16/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
 | 0.1.6 | 17/4/26 | @kamil-tron | docs: añadir todos los puntos de needfinding |
 | 0.1.7 | 17/4/26 | @nes-rojas | docs: añadir segmentos objetivo |
-| 0.1.7 | 17/4/26 | @AleeAsto | docs: añadir análisis de entrevistas |
+| 0.1.8 | 19/4/26 | @AleeAsto | docs: añadir análisis de entrevistas |
 
 # Project Report Collaboration Insights
 
