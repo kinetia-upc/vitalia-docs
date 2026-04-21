@@ -108,7 +108,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/01-entrevista-administrador01.png" alt="administrador-01" width="250"/> | <img src="../assets/images/interviews/needfinding/02-entrevistador01.png" alt="entrevistador-01" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/01-entrevista-administrador01.png" width="545"/> | <img src="../assets/images/interviews/needfinding/02-entrevistador01.png" width="175"/> |
 | Inicia: | 13:23 |
 | Duración:| 4:04 |
 | Nombre completo: | Christian David Bazan Calderon |
@@ -120,7 +120,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/03-entrevista-administrador02.png" alt="administrador-02" width="250"/> | <img src="../assets/images/interviews/needfinding/04-entrevistador02.png" alt="entrevistador-02" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/03-entrevista-administrador02.png" alt="administrador-02" width="505"/> | <img src="../assets/images/interviews/needfinding/04-entrevistador02.png" alt="entrevistador-02" width="175"/> |
 | Inicia: | 17:27 |
 | Duración: | 7:38 |
 | Nombre completo: | Diego Leonardo Bazan Calderon |
@@ -132,7 +132,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/05-entrevista-administrador03.png" alt="administrador-03" width="250"/> | <img src="../assets/images/interviews/needfinding/06-entrevistador03.png" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/05-entrevista-administrador03.png" alt="administrador-03" width="435"/> | <img src="../assets/images/interviews/needfinding/06-entrevistador03.png" width="170"/> |
 | Inicia: | 25:40 |
 | Duración: | 4:20 |
 | Nombre completo: | Iris Carpio Bazan |
@@ -146,7 +146,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | -------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/07-entrevista-doctor01.png" alt="doctor-01" width="250"/> | <img src="../assets/images/interviews/needfinding/08-entrevistador04.png" alt="entrevistador-04" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/07-entrevista-doctor01.png" alt="doctor-01" width="650"/> | <img src="../assets/images/interviews/needfinding/08-entrevistador04.png" alt="entrevistador-04" width="165"/> |
 | Inicia: | 0:00 |
 | Duración: | 4:57 |
 | Nombre completo: | Carmen Patricia Gabriela Perez |
@@ -158,7 +158,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/09-entrevista-doctor02.png" alt="doctor-02" width="250"/> | <img src="../assets/images/interviews/needfinding/10-entrevistador05.png" alt="entrevistador-05" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/09-entrevista-doctor02.png" alt="doctor-02" width="500"/> | <img src="../assets/images/interviews/needfinding/10-entrevistador05.png" alt="entrevistador-05" width="168"/> |
 | Inicia | 4:57 |
 | Duración: | 4:50 |
 | Nombre completo: | Jorge Mendoza Toribio |
@@ -170,7 +170,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/11-entrevista-doctor03.png" alt="doctor-03" width="250"/> | <img src="../assets/images/interviews/needfinding/12-entrevistador06.png" alt="entrevistador-06" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/11-entrevista-doctor03.png" alt="doctor-03" width="458"/> | <img src="../assets/images/interviews/needfinding/12-entrevistador06.png" alt="entrevistador-06" width="167"/> |
 | Inicia | 9:47 |
 | Duración: | 3:36 |
 | Nombre completo: | Jose Miguel Mejia Azañero |
@@ -184,7 +184,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/13-entrevista-paciente01.png" alt="paciente-01" width="250"/> | <img src="../assets/images/interviews/needfinding/14-entrevistador07.png" alt="entrevistador-07" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/13-entrevista-paciente01.png" alt="paciente-01" width="430"/> | <img src="../assets/images/interviews/needfinding/14-entrevistador07.png" alt="entrevistador-07" width="168"/> |
 | Inicia | 30:00 |
 | Duración: | 5:08 |
 | Nombre completo: | Gianella Levice |
@@ -196,7 +196,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Kamil Diaz |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/15-entrevista-paciente02.png" alt="paciente-02" width= "150"/> | <img src="../assets/images/interviews/needfinding/16-entrevistador08.png" alt="entrevistador-08" width= "150"/> |
+| <img src="../assets/images/interviews/needfinding/15-entrevista-paciente02.png" alt="paciente-02" width= "417"/> | <img src="../assets/images/interviews/needfinding/16-entrevistador08.png" alt="entrevistador-08" width= "170"/> |
 | Inicia | 35:09 |
 | Duración: | 4:46 |
 | Nombre completo: | Jean Pool Miller Barco |
@@ -208,7 +208,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Adrian Ruiz |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/17-entrevista-paciente03.png" alt="paciente-03" width= "150"/> | <img src="../assets/images/interviews/needfinding/18-entrevistador09.png" alt="entrevistador-09" width= "150"/> |
+| <img src="../assets/images/interviews/needfinding/17-entrevista-paciente03.png" alt="paciente-03" width= "417"/> | <img src="../assets/images/interviews/needfinding/18-entrevistador09.png" alt="entrevistador-09" width= "167"/> |
 | Inicia | 39:55 |
 | Duración: | 5:10 |
 | Nombre completo: | Luis Vasquez Molina |
@@ -220,7 +220,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Leo Dulanto |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/19-entrevista-paciente04.png" alt="paciente-04" width= "150"/> | <img src="../assets/images/interviews/needfinding/20-entrevistador10.png" alt="entrevistador-10" width= "150"/> |
+| <img src="../assets/images/interviews/needfinding/19-entrevista-paciente04.png" alt="paciente-04" width= "500"/> | <img src="../assets/images/interviews/needfinding/20-entrevistador10.png" alt="entrevistador-10" width= "167"/> |
 | Inicia | 45:05 |
 | Duración: | 5:32 |
 | Nombre completo: | Victoria Margarita Espino Huatay |
