@@ -2,7 +2,6 @@
 
 ## 3.1. User Stories
 
-<<<<<<< HEAD
 **Epics**
 
 | Epic ID | Título | Descripción |
@@ -10,7 +9,7 @@
 | E1 | Portal del Paciente Accesible | **Como** paciente, **quiero** interactuar con una interfaz segmentada y accesible, **para** facilitar el uso de la plataforma sin importar mi edad o nivel tecnológico. |
 | E2 | Atención Clínica Eficiente | **Como** médico, **quiero** utilizar un sistema ágil y robusto, **para** no retrasar mis atenciones clínicas debido a la lentitud o sobrecarga de la plataforma. |
 | E3 | Gestión Administrativa Integrada | **Como** personal administrativo, **quiero** automatizar tareas repetitivas, **para** reducir mi carga de trabajo manual. |
-| E4 | Experiencia Digital Confiable | **Como** usuario, **quiero** que la aplicación funcione de manera rápida, adaptativa, sencilla y accesible en cualquier dispositivo, **para** contar con una experiencia agradable. |
+| E4 | Experiencia Digital Confiable | **Como** usuario, **quiero** que la aplicación funcione de manera rápida, adaptativa, sencilla y accesible en cualquier dispositivo, **para** contar con una experiencia agradable. | 
 | E5 | Landing Page Comercial | **Como** usuario, **quiero** acceder a una landing page informativa del software, **para** conocer más acerca de su propuesta y características. |
 
 **User Stories**
@@ -62,12 +61,10 @@
 | US043 | Evidencia de diferenciación competitiva | **Como** visitante institucional, **quiero** entender qué diferencia a Vitalia de otras alternativas, **para** sustentar una posible decisión de compra. | **Scenario 1: Diferenciadores visibles**<br>**Given** que el visitante compara soluciones del mercado,<br>**When** revisa la landing page de Vitalia,<br>**Then** encuentra mensajes claros sobre integración clínica, accesibilidad y adaptación al contexto peruano.<br><br>**Scenario 2: Información insuficiente para decidir**<br>**Given** que el visitante busca argumentos concretos de valor,<br>**When** entra a la sección comparativa o de beneficios,<br>**Then** el sistema le ofrece información suficiente para continuar hacia contacto comercial. | E5 |
 | US044 | Llamados a la acción visibles | **Como** visitante, **quiero** encontrar botones de acción claros en la landing page, **para** solicitar información sin perder tiempo buscando cómo continuar. | **Scenario 1: CTA disponible en puntos clave**<br>**Given** que el visitante recorre la landing page,<br>**When** llega a secciones principales del sitio,<br>**Then** visualiza llamados a la acción para contacto o demostración.<br><br>**Scenario 2: Navegación sin fricción hacia conversión**<br>**Given** que el visitante decide solicitar más información,<br>**When** selecciona un botón de acción visible,<br>**Then** el sistema lo dirige directamente al formulario o canal de contacto correspondiente. | E5 |
 
-=======
-
 
 ## 3.2. Impact Mapping
 
 
 
 ## 3.3. Product Backlog
->>>>>>> 78be6e6f9a73bafc3955743326fda929beccd629
+
