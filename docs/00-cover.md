@@ -39,17 +39,17 @@
 | 0.1.0 | 15/4/26 | @AleeAsto | docs: añadir la descripción del startup y antecedentes y problematica |
 | 0.1.1 | 15/4/26 | @AdrixRyz | docs: añadir los puntos previos al capitulo 1 |
 | 0.1.2 | 16/4/26 | @Leotens | docs: añadir todos los puntos de Lean UX Process |
-| 0.1.3 | 16/4/26 | @AleeAsto | docs: añadir diseño de entrevistas |
-| 0.1.4 | 16/4/26 | @Leotens | docs: añadir registro de entrevistas |
-| 0.1.5 | 16/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
-| 0.1.6 | 17/4/26 | @kamil-tron | docs: añadir todos los puntos de needfinding |
-| 0.1.7 | 17/4/26 | @nes-ro | docs: añadir segmentos objetivo |
-| 0.1.8 | 19/4/26 | @AleeAsto | docs: añadir análisis de entrevistas |
-| 0.1.9 | 20/4/26 | @AdrixRyz | docs: añadir ubiquitous language  |
-| 0.1.10 | 21/4/26 | @Leotens | docs: añadir user stories |
-| 0.1.11 | 22/4/26 | @AleeAsto | docs: añadir todos los puntos de software configuration management |
-| 0.1.12 | 23/4/26 | @AdrixRyz | docs: añadir todos los puntos de style guidelines |
-| 0.1.13 | 24/4/26 | @AleeAsto | docs: añadir landing page UI design |
+| 0.1.3 | 16/4/26 | @Leotens | docs: añadir diseño y registro de entrevistas |
+| 0.1.4 | 16/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
+| 0.1.5 | 17/4/26 | @kamil-tron | docs: añadir todos los puntos de needfinding |
+| 0.1.6 | 17/4/26 | @nes-ro | docs: añadir segmentos objetivo |
+| 0.1.7 | 19/4/26 | @AleeAsto | docs: añadir análisis de entrevistas |
+| 0.1.8 | 20/4/26 | @AdrixRyz | docs: añadir ubiquitous language  |
+| 0.1.9 | 21/4/26 | @nes-ro | docs: añadir bigpicture eventstorming |
+| 0.1.10 | 22/4/26 | @AleeAsto | docs: añadir todos los puntos de software configuration management |
+| 0.1.11 | 23/4/26 | @AdrixRyz | docs: añadir todos los puntos de style guidelines |
+| 0.1.12 | 23/4/26 | @Leotens | docs: añadir todos los puntos del capitulo 3 |
+| 0.1.13 | 24/4/26 | @AleeAsto | docs: añadir landing page ui design |
 
 # Project Report Collaboration Insights
 
