@@ -66,23 +66,23 @@
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 16 (Impact Map 1)*  
-<img src="../assets/images/figures/16-Alexandra-Juárez-Impact-Map.png" alt="Impact Map 1" style="width: 100vw;">
+<img src="../assets/images/figures/16-impact-map-1.png" alt="Impact Mapppin 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 17 (Impact Map 2)*
-<img src="../assets/images/figures/17-Robert-Torres-Impact-map.png" alt="Impact Map 2" style="width: 100vw;">
+<img src="../assets/images/figures/17-impact-map-2.png" alt="Impact Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 18 (Impact Map 3)*
-<img src="../assets/images/figures/18-Nelson-Mendoza-Impact-Map.png" alt="Impact Map 3" style="width: 100vw;">
+<img src="../assets/images/figures/18-impact-map-3.png" alt="Impact Map 3" style="width: 100vw;">
 
 ## 3.3. Product Backlog
 
-Link: https://trello.com/b/dHKPrPGE/vitalia-board
+Trello Link: https://trello.com/b/dHKPrPGE/vitalia-board
 
-| \# Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
+| \# Orden | User Story ID | Título | Descripción | Story Points |
 | --- | --- | --- | --- | --- |
 | 1 | US039 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | 2 |
 | 2 | US041 | Sección de funcionalidades clave | **Como** visitante, **quiero** ver las funcionalidades principales del sistema en la landing page, **para** comprender el alcance de la solución antes de solicitar una demo. | 2 |

@@ -40,9 +40,9 @@
 | 0.1.1 | 15/4/26 | @AdrixRyz | docs: añadir los puntos previos al capitulo 1 |
 | 0.1.2 | 16/4/26 | @Leotens | docs: añadir todos los puntos de Lean UX Process |
 | 0.1.3 | 16/4/26 | @Leotens | docs: añadir diseño y registro de entrevistas |
-| 0.1.4 | 16/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
+| 0.1.4 | 17/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
 | 0.1.5 | 17/4/26 | @kamil-tron | docs: añadir todos los puntos de needfinding |
-| 0.1.6 | 17/4/26 | @nes-ro | docs: añadir segmentos objetivo |
+| 0.1.6 | 18/4/26 | @nes-ro | docs: añadir segmentos objetivo |
 | 0.1.7 | 19/4/26 | @AleeAsto | docs: añadir análisis de entrevistas |
 | 0.1.8 | 20/4/26 | @AdrixRyz | docs: añadir ubiquitous language  |
 | 0.1.9 | 21/4/26 | @nes-ro | docs: añadir bigpicture eventstorming |

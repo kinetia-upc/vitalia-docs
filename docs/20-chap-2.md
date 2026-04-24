@@ -359,35 +359,35 @@ Como hallazgos transversales tenemos:
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-*Figura 9 (User Journey Mapping 1)*
-<img src="../assets/images/figures/09-u-journey-mapping-1.png" alt="User Journey Mapping 1" style="width: 100vw;">
+*Figura 9 (User Journey Map 1)*
+<img src="../assets/images/figures/09-u-journey-map-1.png" alt="User Journey Map 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-*Figura 10 (User Journey Mapping 2)*
-<img src="../assets/images/figures/10-u-journey-mapping-2.png" alt="User Journey Mapping 2" style="width: 100vw;">
+*Figura 10 (User Journey Map 2)*
+<img src="../assets/images/figures/10-u-journey-map-2.png" alt="User Journey Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-*Figura 11 (User Journey Mapping 3)*
-<img src="../assets/images/figures/11-u-journey-mapping-3.png" alt="User Journey Mapping 3" style="width: 100vw;"> 
+*Figura 11 (User Journey Map 3)*
+<img src="../assets/images/figures/11-u-journey-map-3.png" alt="User Journey Map 3" style="width: 100vw;"> 
 
 ### 2.3.4. Empathy Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-*Figura 12 (Empathy Mapping 1)*
-<img src="../assets/images/figures/12-empathy-mapping-1.png" alt="Empathy Mapping 1" style="width: 100vw;">   
+*Figura 12 (Empathy Map 1)*
+<img src="../assets/images/figures/12-empathy-map-1.png" alt="Empathy Map 1" style="width: 100vw;">   
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-*Figura 13 (Empathy Mapping 2)*
-<img src="../assets/images/figures/13-empathy-mapping-2.png" alt="Empathy Mapping 2" style="width: 100vw;">
+*Figura 13 (Empathy Map 2)*
+<img src="../assets/images/figures/13-empathy-map-2.png" alt="Empathy Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-*Figura 14 (Empathy Mapping 3)*
-<img src="../assets/images/figures/14-empathy-mapping-3.png" alt="Empathy Mapping 3" style="width: 100vw;">  
+*Figura 14 (Empathy Map 3)*
+<img src="../assets/images/figures/14-empathy-map-3.png" alt="Empathy Map 3" style="width: 100vw;">  
 
 ## 2.4. Big Picture EventStorming
 
