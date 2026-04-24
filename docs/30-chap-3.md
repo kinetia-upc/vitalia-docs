@@ -68,3 +68,51 @@
 
 ## 3.3. Product Backlog
 
+Link: https://trello.com/b/dHKPrPGE/vitalia-board
+
+| \# Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
+| --- | --- | --- | --- | --- | --- |
+| 1 | US039 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | 2 |
+| 2 | US041 | Sección de funcionalidades clave | **Como** visitante, **quiero** ver las funcionalidades principales del sistema en la landing page, **para** comprender el alcance de la solución antes de solicitar una demo. | 2 |
+| 3 | US042 | Presentación por segmentos objetivo | **Como** visitante, **quiero** identificar cómo Vitalia ayuda a pacientes, médicos y administrativos, **para** reconocer el beneficio para cada actor del establecimiento. | 3 |
+| 4 | US043 | Evidencia de diferenciación competitiva | **Como** visitante institucional, **quiero** entender qué diferencia a Vitalia de otras alternativas, **para** sustentar una posible decisión de compra. | 2 |
+| 5 | US044 | Llamados a la acción visibles | **Como** visitante, **quiero** encontrar botones de acción claros en la landing page, **para** solicitar información sin perder tiempo buscando cómo continuar. | 2 |
+| 6 | US040 | Solicitud de contacto comercial | **Como** visitante interesado, **quiero** dejar mis datos en un formulario de contacto, **para** solicitar una demostración o mayor información del producto. | 3 |
+| 7 | US031 | Diseño responsive | **Como** usuario, **quiero** utilizar la plataforma desde celular, tablet o computadora, **para** acceder al sistema según el contexto de uso. | 5 |
+| 8 | US037 | Navegación simple | **Como** usuario, **quiero** encontrar las funciones principales con pocos pasos, **para** reducir la curva de aprendizaje y el tiempo de uso. | 3 |
+| 9 | US032 | Tiempo de respuesta ágil | **Como** usuario, **quiero** que las acciones principales respondan con rapidez, **para** no perder tiempo durante procesos críticos de atención. | 5 |
+| 10 | US035 | Protección de datos clínicos | **Como** usuario, **quiero** que la información médica se maneje de forma segura, **para** confiar en que mis datos sensibles están protegidos. | 8 |
+| 11 | US034 | Gestión de roles y permisos | **Como** usuario autorizado, **quiero** que cada rol vea solo las funciones que le corresponden, **para** proteger información sensible y evitar errores operativos. | 8 |
+| 12 | US001 | Registro de paciente | **Como** paciente nuevo, **quiero** crear mi cuenta con mis datos personales básicos, **para** acceder a mis servicios médicos desde un solo lugar. | 5 |
+| 13 | US002 | Inicio de sesión de paciente | **Como** paciente, **quiero** iniciar sesión de manera sencilla y segura, **para** consultar rápidamente mi información médica. | 3 |
+| 14 | US033 | Recuperación de contraseña | **Como** usuario, **quiero** recuperar mi contraseña de forma segura, **para** restablecer el acceso a mi cuenta sin soporte manual innecesario. | 3 |
+| 15 | US009 | Accesibilidad de interfaz | **Como** paciente adulto mayor o con baja familiaridad digital, **quiero** una interfaz clara y legible, **para** usar la plataforma sin confusión ni dependencia de terceros. | 5 |
+| 16 | US003 | Reserva digital de citas | **Como** paciente, **quiero** reservar una cita en pocos pasos, **para** evitar llamadas o trámites presenciales innecesarios. | 5 |
+| 17 | US022 | Programación de citas desde admisión | **Como** personal administrativo, **quiero** programar citas desde admisión, **para** atender solicitudes presenciales o telefónicas con mayor rapidez. | 5 |
+| 18 | US010 | Agenda médica diaria | **Como** médico, **quiero** visualizar mi agenda diaria organizada, **para** preparar mis consultas y administrar mejor mi jornada. | 3 |
+| 19 | US023 | Confirmación de asistencia | **Como** personal administrativo, **quiero** confirmar la asistencia del paciente al llegar, **para** actualizar el flujo de atención en tiempo real. | 3 |
+| 20 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | 5 |
+| 21 | US024 | Integración entre áreas | **Como** personal administrativo, **quiero** que admisión, consultorio, laboratorio y farmacia compartan la misma información, **para** eliminar reprocesos y cortes en el flujo asistencial. | 8 |
+| 22 | US011 | Consulta rápida del historial del paciente | **Como** médico, **quiero** acceder rápidamente al historial clínico del paciente antes y durante la consulta, **para** tomar decisiones con información completa. | 5 |
+| 23 | US019 | Registro de triaje previo | **Como** médico, **quiero** revisar datos de triaje antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo clínico. | 3 |
+| 24 | US012 | Registro de anamnesis y examen físico | **Como** médico, **quiero** registrar anamnesis y examen físico en una sola atención, **para** documentar la consulta de forma ordenada y completa. | 5 |
+| 25 | US013 | Emisión de diagnóstico | **Como** médico, **quiero** registrar el diagnóstico de la consulta, **para** dejar constancia clínica y orientar el tratamiento del paciente. | 3 |
+| 26 | US014 | Emisión de recetas digitales | **Como** médico, **quiero** emitir recetas digitales legibles, **para** reducir errores y facilitar la dispensación de medicamentos. | 5 |
+| 27 | US015 | Solicitud de exámenes | **Como** médico, **quiero** generar órdenes de exámenes desde la misma consulta, **para** agilizar el plan diagnóstico del paciente. | 5 |
+| 28 | US020 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | 5 |
+| 29 | US006 | Consulta de historial clínico | **Como** paciente, **quiero** visualizar mi historial clínico digital, **para** revisar diagnósticos, atenciones y continuidad de tratamiento sin depender de copias físicas. | 5 |
+| 30 | US007 | Consulta de resultados y recetas | **Como** paciente, **quiero** ver mis resultados y recetas emitidas en línea, **para** evitar ir al establecimiento solo para recoger información. | 5 |
+| 31 | US029 | Gestión de farmacia | **Como** personal administrativo o de farmacia, **quiero** consultar las recetas emitidas y su estado de dispensación, **para** coordinar la entrega de medicamentos de forma ordenada. | 5 |
+| 32 | US025 | Emisión de facturación electrónica | **Como** personal administrativo, **quiero** generar comprobantes y facturación electrónica desde la atención registrada, **para** reducir errores y pasos manuales en caja. | 8 |
+| 33 | US005 | Cancelación de citas | **Como** paciente, **quiero** cancelar una cita programada, **para** liberar el horario cuando ya no podré asistir. | 3 |
+| 34 | US004 | Reprogramación de citas | **Como** paciente, **quiero** reprogramar una cita desde mi panel, **para** adaptar mi atención a cambios en mi disponibilidad. | 5 |
+| 35 | US008 | Recordatorios de citas | **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos e inasistencias. | 5 |
+| 36 | US026 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | 3 |
+| 37 | US027 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | 5 |
+| 38 | US028 | Reportes automáticos de gestión | **Como** personal administrativo, **quiero** generar reportes automáticos de actividad clínica y operativa, **para** reducir horas dedicadas a informes manuales. | 5 |
+| 39 | US016 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | 5 |
+| 40 | US017 | Resumen automático del historial | **Como** médico, **quiero** ver un resumen automático del historial del paciente, **para** comprender rápidamente sus antecedentes dentro del tiempo limitado de consulta. | 8 |
+| 41 | US018 | Registro asistido por voz | **Como** médico, **quiero** dictar parte del registro clínico por voz, **para** disminuir el tiempo de digitación durante la consulta. | 8 |
+| 42 | US036 | Persistencia ante fallos de conexión | **Como** usuario, **quiero** que la plataforma preserve la información ingresada ante fallos temporales, **para** no repetir trabajo ni perder datos importantes. | 8 |
+| 43 | US038 | Auditoría de acciones | **Como** establecimiento de salud, **quiero** registrar acciones críticas realizadas en la plataforma, **para** contar con trazabilidad ante revisiones o auditorías. | 5 |
+| 44 | US030 | Integraciones externas mediante API | **Como** personal administrativo o directivo, **quiero** que el sistema pueda integrarse con otras plataformas mediante API, **para** no aislar la operación del establecimiento. | 8 |
