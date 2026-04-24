@@ -73,7 +73,7 @@
 Link: https://trello.com/b/dHKPrPGE/vitalia-board
 
 | \# Orden | User Story Id | Título | Descripción | Story Points (1/2/3/5/8) |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1 | US039 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | 2 |
 | 2 | US041 | Sección de funcionalidades clave | **Como** visitante, **quiero** ver las funcionalidades principales del sistema en la landing page, **para** comprender el alcance de la solución antes de solicitar una demo. | 2 |
 | 3 | US042 | Presentación por segmentos objetivo | **Como** visitante, **quiero** identificar cómo Vitalia ayuda a pacientes, médicos y administrativos, **para** reconocer el beneficio para cada actor del establecimiento. | 3 |
