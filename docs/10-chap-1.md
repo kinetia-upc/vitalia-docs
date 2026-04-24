@@ -172,10 +172,10 @@ Creemos que la automatización de métricas y resúmenes de actividad clínica e
 
 #### *1.2.2.4. Lean UX Canvas*
 
-Link: https://canva.link/pgncw7ixx515oud
+Public Canva Link: https://canva.link/ux7vanu08xalhmj
 
 *Figura 2 (Lean Product Canvas)*  
-<img src="../assets/images/figures/02-lean-product-canvas.jpg" alt="Lean UX Canvas" style="width: 100vw;">
+<img src="../assets/images/figures/02-lean-product-canvas.png" alt="Lean Product Canvas" style="width: 100vw;">
 
 ## 1.3. Segmentos objetivo
 
