@@ -49,6 +49,7 @@
 | 0.1.10 | 21/4/26 | @Leotens | docs: añadir user stories |
 | 0.1.11 | 22/4/26 | @AleeAsto | docs: añadir todos los puntos de software configuration management |
 | 0.1.12 | 23/4/26 | @AdrixRyz | docs: añadir todos los puntos de style guidelines |
+| 0.1.13 | 24/4/26 | @AleeAsto | docs: añadir landing page UI design |
 
 # Project Report Collaboration Insights
 
