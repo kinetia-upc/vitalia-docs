@@ -209,8 +209,6 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 
 ### 4.4.1. Web Applications Wireframes
 
-
-
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**

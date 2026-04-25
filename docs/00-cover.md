@@ -52,6 +52,8 @@
 | 0.1.13 | 24/4/26 | @AleeAsto | docs: añadir landing page ui design |
 | 0.1.14 | 25/4/26 | @nes-ro | docs: añadir todos los puntos de domain-driven software architecture |
 | 0.1.15 | 25/4/26 | @nes-ro | docs: añadir database design diagram |
+| 0.1.16 | 24/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
+| 0.1.17 | 25/4/26 | @kamil-tron | docs: añadir todos los puntos de Information Architecture |
 
 # Project Report Collaboration Insights
 

@@ -85,7 +85,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <td>Sección clientes</td>
       <td>Implementar Who is vitalia for? </td>
       <td>1</td>
-      <td></td>
+      <td>Kamil-tron</td>
       <td>Completed</td>
     </tr>
     <tr>
