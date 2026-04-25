@@ -257,23 +257,23 @@ En la segunda etapa, estas clases fueron organizadas en distintos Bounded Contex
 
 Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada clase dentro de su contexto, clasificándolas como Entity, Value Object o Aggregate. Esta identificación permitió definir con precisión las reglas de negocio, los límites de consistencia y las responsabilidades de cada componente dentro del dominio. Como resultado, los diagramas finales reflejan una arquitectura sólida, coherente y alineada con los principios de DDD, mostrando no solo la estructura del sistema, sino también la lógica y comportamiento del dominio.
 
-*Figura XX (Class Diagram - Identity & Tenant)*  
-<img src="../assets/images/figures/xx-class-diagram-1.png" alt="Class Diagram - Identity and Tenant" style="width: 100vw;">
+*Figura XX (Class Diagram - Identity and Clinic Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram - Identity and Clinic Context" style="width: 100vw;">
 
 *Figura XX (Class Diagram - Clinical Context)*  
-<img src="../assets/images/figures/xx-class-diagram-2.png" alt="Class Diagram - Clinical Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram - Clinical Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Schedule Context)*  
-<img src="../assets/images/figures/xx-class-diagram-3.png" alt="Class Diagram - Schedule Context" style="width: 100vw;">
+*Figura XX (Class Diagram - Scheduling Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram - Scheduling Context" style="width: 100vw;">
 
 *Figura XX (Class Diagram - Pharmacy & Inventory Context)*  
-<img src="../assets/images/figures/xx-class-diagram-4.png" alt="Class Diagram - Pharmacy & Inventory Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
 
 *Figura XX (Class Diagram - Dashboard and Analytics Context)*  
-<img src="../assets/images/figures/xx-class-diagram-5.png" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
 
 *Figura XX (Class Diagram - Billing Context)*  
-<img src="../assets/images/figures/xx-class-diagram-6.png" alt="Class Diagram - Billing Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram - Billing Context" style="width: 100vw;">
 
 ### 4.8.1. Database Diagrams
 
