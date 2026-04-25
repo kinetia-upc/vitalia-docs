@@ -1,0 +1,779 @@
+﻿@startuml
+title Vitalia - Class Diagram - Stage 1
+
+top to bottom direction
+
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+skinparam linetype ortho
+class Clinic {
+  -idClinic: Long
+  -taxId: String
+  -legalName: String
+  -tradeName: String
+  -status: ClinicStatus
+  +activate(): void
+  +suspend(): void
+}
+
+class Branch {
+  -idBranch: Long
+  -name: String
+  -address: String
+  -phone: String
+  +updateDetails(): void
+}
+
+abstract class User {
+  -idUser: Long
+  -firstNames: String
+  -lastNames: String
+  -email: String
+  -phone: String
+  -status: UserStatus
+  +signIn(email: String, password: String): void
+  +signOut(): void
+}
+
+class ClinicAdministrator {
+  -idClinicAdministrator: Long
+  -employeeCode: String
+  +manageUsers(): void
+  +viewDashboard(): void
+}
+
+class Doctor {
+  -idDoctor: Long
+  -medicalLicenseNumber: String
+  -specialty: String
+  +viewSchedule(): void
+  +recordEncounter(): void
+}
+
+class AdministrativeStaff {
+  -idAdministrativeStaff: Long
+  -employeeCode: String
+  +scheduleAppointment(): void
+  +recordPayment(): void
+}
+
+class Pharmacist {
+  -idPharmacist: Long
+  -employeeCode: String
+  +viewPrescriptions(): void
+  +dispenseMedication(): void
+}
+
+class Patient {
+  -idPatient: Long
+  -nationalId: String
+  -birthDate: Date
+  -address: String
+  +bookAppointment(): void
+  +viewRecord(): void
+}
+
+class ClinicMembership {
+  -idClinicMembership: Long
+  -joinedAt: DateTime
+  -active: Boolean
+  +assignRole(role: Role): void
+  +revokeAccess(): void
+}
+
+class Role {
+  -idRole: Long
+  -name: String
+  -description: String
+  +updatePermissions(): void
+}
+
+class Permission {
+  -idPermission: Long
+  -code: String
+  -description: String
+  +enable(): void
+}
+
+class UserSession {
+  -idUserSession: Long
+  -accessCredential: String
+  -startDate: DateTime
+  -expiresAt: DateTime
+  +expire(): void
+}
+
+class MedicalRecord {
+  -idMedicalRecord: Long
+  -recordNumber: String
+  -openedAt: DateTime
+  -status: MedicalRecordStatus
+  +open(): void
+  +generateSummary(): void
+  +addEncounter(encounter: Encounter): void
+}
+
+class MedicalHistoryEntry {
+  -idMedicalHistoryEntry: Long
+  -type: MedicalHistoryType
+  -description: String
+  -recordedAt: DateTime
+  +record(): void
+}
+
+class Encounter {
+  -idEncounter: Long
+  -startDate: DateTime
+  -closedAt: DateTime
+  -visitReason: String
+  -status: EncounterStatus
+  +saveDraft(): void
+  +closeEncounter(): void
+}
+
+class Triage {
+  -idTriage: Long
+  -date: DateTime
+  -observations: String
+  +recordVitalSigns(vitalSigns: VitalSigns): void
+}
+
+class VitalSigns {
+  -idVitalSigns: Long
+  -bloodPressure: String
+  -temperature: Decimal
+  -heartRate: Integer
+  -respiratoryRate: Integer
+  -oxygenSaturation: Decimal
+  +update(): void
+}
+
+class Diagnosis {
+  -idDiagnosis: Long
+  -icdCode: String
+  -description: String
+  -type: DiagnosisType
+  +record(): void
+}
+
+class TreatmentPlan {
+  -idTreatmentPlan: Long
+  -instructions: String
+  -followUpDate: Date
+  +updateInstructions(): void
+}
+
+class Prescription {
+  -idPrescription: Long
+  -issuedAt: DateTime
+  -status: PrescriptionStatus
+  -generalInstructions: String
+  +issue(): void
+  +reuse(): void
+  +void(): void
+}
+
+class PrescriptionItem {
+  -idPrescriptionItem: Long
+  -idMedication: Long
+  -medicationName: String
+  -dose: String
+  -frequency: String
+  -duration: String
+  +updateInstructions(): void
+}
+
+class DoctorSchedule {
+  -idDoctorSchedule: Long
+  -date: Date
+  -status: ScheduleStatus
+  +publishAvailability(): void
+  +blockTimeSlot(): void
+}
+
+class TimeSlot {
+  -idTimeSlot: Long
+  -startAt: DateTime
+  -endAt: DateTime
+  -available: Boolean
+  +reserve(): void
+  +release(): void
+}
+
+class Appointment {
+  -idAppointment: Long
+  -scheduledAt: DateTime
+  -reason: String
+  -status: AppointmentStatus
+  +confirm(): void
+  +reschedule(newDate: DateTime): void
+  +cancel(): void
+  +checkIn(): void
+}
+
+class AppointmentRequest {
+  -idAppointmentRequest: Long
+  -channel: BookingChannel
+  -requestedAt: DateTime
+  +validateAvailability(): void
+}
+
+class SchedulingPolicy {
+  -idSchedulingPolicy: Long
+  -minimumCancellationHours: Integer
+  -appointmentDurationMinutes: Integer
+  +validateCancellation(appointment: Appointment): void
+  +validateRescheduling(appointment: Appointment): void
+}
+
+class AppointmentReminder {
+  -idAppointmentReminder: Long
+  -channel: NotificationChannel
+  -scheduledAt: DateTime
+  -status: ReminderStatus
+  +schedule(): void
+  +send(): void
+}
+
+class Medication {
+  -idMedication: Long
+  -code: String
+  -name: String
+  -presentation: String
+  -status: MedicationStatus
+  +updateDetails(): void
+}
+
+class MedicationInventory {
+  -idMedicationInventory: Long
+  -currentStock: Integer
+  -minimumStock: Integer
+  -location: String
+  +increaseStock(quantity: Integer): void
+  +decreaseStock(quantity: Integer): void
+  +validateReplenishment(): void
+}
+
+class MedicationBatch {
+  -idMedicationBatch: Long
+  -batchNumber: String
+  -expirationDate: Date
+  -availableQuantity: Integer
+  +validateExpiration(): void
+}
+
+class InventoryMovement {
+  -idInventoryMovement: Long
+  -type: InventoryMovementType
+  -quantity: Integer
+  -date: DateTime
+  -reason: String
+  +record(): void
+}
+
+class Dispensing {
+  -idDispensing: Long
+  -date: DateTime
+  -status: DispensingStatus
+  +recordDelivery(): void
+  +void(): void
+}
+
+class DispensingItem {
+  -idDispensingItem: Long
+  -idPrescriptionItem: Long
+  -deliveredQuantity: Integer
+  +recordQuantity(): void
+}
+
+class StockAlert {
+  -idStockAlert: Long
+  -level: AlertLevel
+  -message: String
+  -generatedAt: DateTime
+  +markReviewed(): void
+}
+
+interface DashboardView {
+  +showMetrics(): void
+  +listAnalyticsTypes(): void
+}
+
+class AnalyticsFilter {
+  -idAnalyticsFilter: Long
+  -startDate: Date
+  -endDate: Date
+  -idDoctor: Long
+  -idBranch: Long
+  +validateConsistency(): void
+}
+
+abstract class ReportAnalytics <<domainService>> {
+  -idReportAnalytics: Long
+  -type: AnalyticsType
+  -title: String
+  +calculate(filter: AnalyticsFilter): void
+  +generateReport(filter: AnalyticsFilter): void
+}
+
+class DoctorProductivityAnalytics {
+  -idDoctorProductivityAnalytics: Long
+  +calculate(filter: AnalyticsFilter): void
+}
+
+class MedicationStockAnalytics {
+  -idMedicationStockAnalytics: Long
+  +calculate(filter: AnalyticsFilter): void
+}
+
+class PeriodRevenueAnalytics {
+  -idPeriodRevenueAnalytics: Long
+  +calculate(filter: AnalyticsFilter): void
+}
+
+class AppointmentStatusAnalytics {
+  -idAppointmentStatusAnalytics: Long
+  +calculate(filter: AnalyticsFilter): void
+}
+
+class RequestedServicesAnalytics {
+  -idRequestedServicesAnalytics: Long
+  +calculate(filter: AnalyticsFilter): void
+}
+
+class WaitTimeAnalytics {
+  -idWaitTimeAnalytics: Long
+  +calculate(filter: AnalyticsFilter): void
+}
+
+class AnalyticsReport {
+  -idAnalyticsReport: Long
+  -type: AnalyticsType
+  -title: String
+  -status: ReportStatus
+  -generatedAt: DateTime
+  +view(): void
+  +download(format: ReportFormat): void
+  +send(channel: DeliveryChannel): void
+}
+
+class ReportMetric {
+  -idReportMetric: Long
+  -name: String
+  -value: Decimal
+  -unit: String
+  -trend: String
+  +updateValue(): void
+}
+
+class ReportComparison {
+  -idReportComparison: Long
+  -status: ComparisonStatus
+  -mainFinding: String
+  +selectReports(): void
+  +analyzeDifferences(): void
+  +finish(): void
+}
+
+class ReportDifference {
+  -idReportDifference: Long
+  -metric: String
+  -baseValue: Decimal
+  -comparedValue: Decimal
+  -percentageChange: Decimal
+  +recordDifference(): void
+}
+
+class DataPolicy {
+  -idDataPolicy: Long
+  +validateAccess(user: User): void
+  +validateFilters(filter: AnalyticsFilter): void
+  +maskSensitiveData(report: AnalyticsReport): void
+}
+
+class ReportExport <<service>> {
+  -idReportExport: Long
+  -format: ReportFormat
+  -fileUrl: String
+  +generateFile(report: AnalyticsReport): void
+}
+
+class ReportDelivery <<service>> {
+  -idReportDelivery: Long
+  -channel: DeliveryChannel
+  -recipient: String
+  -status: DeliveryStatus
+  +send(report: AnalyticsReport): void
+}
+
+class OperationalDataSource <<service>> {
+  -idOperationalDataSource: Long
+  +getAppointments(filter: AnalyticsFilter): void
+  +getEncounters(filter: AnalyticsFilter): void
+  +getInventory(filter: AnalyticsFilter): void
+  +getRevenue(filter: AnalyticsFilter): void
+}
+
+class CashRegister {
+  -idCashRegister: Long
+  -openedAt: DateTime
+  -closedAt: DateTime
+  -status: CashRegisterStatus
+  +open(): void
+  +close(): void
+}
+
+class CashMovement {
+  -idCashMovement: Long
+  -type: CashMovementType
+  -amount: Decimal
+  -date: DateTime
+  -description: String
+  +record(): void
+}
+
+class BillingOrder {
+  -idBillingOrder: Long
+  -concept: String
+  -subtotal: Decimal
+  -tax: Decimal
+  -total: Decimal
+  -status: BillingOrderStatus
+  +calculateTotal(): void
+  +markPaid(): void
+}
+
+class Payment {
+  -idPayment: Long
+  -amount: Decimal
+  -method: PaymentMethod
+  -date: DateTime
+  +record(): void
+}
+
+class ElectronicInvoice {
+  -idElectronicInvoice: Long
+  -series: String
+  -sequenceNumber: String
+  -type: ReceiptType
+  -sunatStatus: SunatStatus
+  +issue(): void
+  +void(): void
+}
+
+class InvoiceLineItem {
+  -idInvoiceLineItem: Long
+  -description: String
+  -quantity: Integer
+  -unitPrice: Decimal
+  -total: Decimal
+  +calculateTotal(): void
+}
+
+class BillingCustomer {
+  -idBillingCustomer: Long
+  -documentType: IdentityDocumentType
+  -documentNumber: String
+  -billingName: String
+  -taxAddress: String
+  +updateDetails(): void
+}
+
+class SunatGateway <<service>> {
+  -idSunatGateway: Long
+  +submitInvoice(invoice: ElectronicInvoice): void
+  +checkStatus(invoice: ElectronicInvoice): void
+}
+
+enum ClinicStatus {
+  ACTIVE
+  SUSPENDED
+  CANCELED
+}
+
+enum UserStatus {
+  ACTIVE
+  INACTIVE
+  BLOCKED
+}
+
+enum MedicalRecordStatus {
+  OPEN
+  CLOSED
+  ARCHIVED
+}
+
+enum MedicalHistoryType {
+  PERSONAL
+  FAMILY
+  ALLERGY
+  SURGICAL
+}
+
+enum EncounterStatus {
+  DRAFT
+  IN_PROGRESS
+  CLOSED
+}
+
+enum DiagnosisType {
+  PRESUMPTIVE
+  DEFINITIVE
+}
+
+enum PrescriptionStatus {
+  DRAFT
+  ISSUED
+  DISPENSED
+  VOIDED
+}
+
+enum ScheduleStatus {
+  DRAFT
+  PUBLISHED
+  BLOCKED
+}
+
+enum AppointmentStatus {
+  SCHEDULED
+  CONFIRMED
+  CHECKED_IN
+  CANCELED
+  RESCHEDULED
+  ATTENDED
+}
+
+enum BookingChannel {
+  WEB
+  PHONE
+  IN_PERSON
+}
+
+enum NotificationChannel {
+  EMAIL
+  SMS
+  WHATSAPP
+}
+
+enum ReminderStatus {
+  SCHEDULED
+  SENT
+  CANCELED
+}
+
+enum MedicationStatus {
+  ACTIVE
+  INACTIVE
+}
+
+enum InventoryMovementType {
+  INBOUND
+  OUTBOUND
+  ADJUSTMENT
+}
+
+enum DispensingStatus {
+  PENDING
+  DISPENSED
+  VOIDED
+}
+
+enum AlertLevel {
+  LOW_STOCK
+  NEAR_EXPIRATION
+  OUT_OF_STOCK
+}
+
+enum AnalyticsType {
+  DOCTOR_PRODUCTIVITY
+  MEDICATION_STOCK
+  PERIOD_REVENUE
+  APPOINTMENTS_BY_STATUS
+  MOST_REQUESTED_SERVICES
+  AVERAGE_WAIT_TIME
+}
+
+enum ReportStatus {
+  GENERATED
+  VIEWED
+  DOWNLOADED
+  SENT
+  COMPARED
+}
+
+enum ComparisonStatus {
+  SELECTING
+  ANALYZING
+  FINISHED
+}
+    
+enum ReportFormat {    
+  PDF
+  XLSX
+  CSV
+}
+
+enum DeliveryChannel {
+  EMAIL
+  WHATSAPP
+}
+
+enum DeliveryStatus {
+  PENDING
+  SENT
+  FAILED
+}
+
+enum CashRegisterStatus {
+  OPEN
+  CLOSED
+}
+
+enum CashMovementType {
+  INCOME
+  EXPENSE
+}
+
+enum BillingOrderStatus {
+  PENDING
+  PAID
+  VOIDED
+}
+
+enum PaymentMethod {
+  CASH
+  CARD
+  BANK_TRANSFER
+  YAPE
+  PLIN
+}
+
+enum ReceiptType {
+  SALES_RECEIPT
+  INVOICE
+}
+
+enum SunatStatus {
+  PENDING
+  ACCEPTED
+  REJECTED
+  VOIDED
+}
+
+enum IdentityDocumentType {
+  NATIONAL_ID
+  TAX_ID
+  FOREIGNER_ID
+}
+
+User <|-- ClinicAdministrator
+User <|-- Doctor
+User <|-- AdministrativeStaff
+User <|-- Pharmacist
+User <|-- Patient
+
+Clinic "1" *-- "1..*" Branch
+Clinic "1" *-- "0..*" ClinicMembership
+User "1" -- "0..*" ClinicMembership
+ClinicMembership "1" --> "1" Role
+Role "1" -- "0..*" Permission
+User "1" -- "0..*" UserSession
+
+Patient "1" --> "1" MedicalRecord
+MedicalRecord "1" *-- "0..*" MedicalHistoryEntry
+MedicalRecord "1" *-- "0..*" Encounter
+Encounter "1" o-- "0..1" Triage
+Triage "1" *-- "1" VitalSigns
+Encounter "1" *-- "1..*" Diagnosis
+Encounter "1" *-- "0..1" TreatmentPlan
+Encounter "1" *-- "0..*" Prescription
+Prescription "1" *-- "1..*" PrescriptionItem
+
+Doctor "1" --> "0..*" DoctorSchedule
+Patient "1" --> "0..*" Appointment
+AdministrativeStaff "1" --> "0..*" Appointment
+DoctorSchedule "1" *-- "1..*" TimeSlot
+TimeSlot "1" --> "0..1" Appointment
+AppointmentRequest "1" --> "1" Appointment
+Appointment "1" --> "1" SchedulingPolicy
+Appointment "1" *-- "0..*" AppointmentReminder
+Appointment "1" --> "0..1" Encounter
+
+Medication "1" -- "1" MedicationInventory
+MedicationInventory "1" *-- "0..*" MedicationBatch
+MedicationInventory "1" *-- "0..*" InventoryMovement
+MedicationInventory "1" --> "0..*" StockAlert
+Pharmacist "1" --> "0..*" Dispensing
+Dispensing "1" *-- "1..*" DispensingItem
+DispensingItem "1" --> "1" Medication
+Dispensing "1" --> "1" MedicationInventory
+Prescription "1" --> "0..1" Dispensing
+
+ReportAnalytics <|-- DoctorProductivityAnalytics
+ReportAnalytics <|-- MedicationStockAnalytics
+ReportAnalytics <|-- PeriodRevenueAnalytics
+ReportAnalytics <|-- AppointmentStatusAnalytics
+ReportAnalytics <|-- RequestedServicesAnalytics
+ReportAnalytics <|-- WaitTimeAnalytics
+DashboardView "1" --> "0..*" AnalyticsReport
+ReportAnalytics "1" --> "1" AnalyticsFilter
+ReportAnalytics "1" --> "0..*" AnalyticsReport
+ReportAnalytics --> OperationalDataSource
+AnalyticsReport "1" *-- "1..*" ReportMetric
+AnalyticsReport "1" --> "1" DataPolicy
+AnalyticsReport "1" --> "0..*" ReportExport
+AnalyticsReport "1" --> "0..*" ReportDelivery
+ReportComparison "1" o-- "2..*" AnalyticsReport
+ReportComparison "1" *-- "1..*" ReportDifference
+
+CashRegister "1" *-- "0..*" CashMovement
+CashRegister "1" --> "0..*" Payment
+Encounter "1" --> "0..1" BillingOrder
+BillingOrder "1" *-- "0..*" Payment
+BillingOrder "1" --> "0..1" ElectronicInvoice
+BillingOrder "1" --> "0..1" Dispensing
+ElectronicInvoice "1" *-- "1..*" InvoiceLineItem
+ElectronicInvoice "1" *-- "1" BillingCustomer
+ElectronicInvoice --> SunatGateway
+
+Clinic "1" --> "0..*" MedicalRecord
+Clinic "1" --> "0..*" DoctorSchedule
+Clinic "1" --> "0..*" MedicationInventory
+Clinic "1" --> "0..*" CashRegister
+DashboardView ..> Appointment
+DashboardView ..> Encounter
+DashboardView ..> MedicationInventory
+DashboardView ..> BillingOrder
+
+Clinic --> ClinicStatus : status
+User --> UserStatus : status
+MedicalRecord --> MedicalRecordStatus : status
+MedicalHistoryEntry --> MedicalHistoryType : type
+Encounter --> EncounterStatus : status
+Diagnosis --> DiagnosisType : type
+Prescription --> PrescriptionStatus : status
+DoctorSchedule --> ScheduleStatus : status
+Appointment --> AppointmentStatus : status
+AppointmentRequest --> BookingChannel : channel
+AppointmentReminder --> NotificationChannel : channel
+AppointmentReminder --> ReminderStatus : status
+Medication --> MedicationStatus : status
+InventoryMovement --> InventoryMovementType : type
+Dispensing --> DispensingStatus : status
+StockAlert --> AlertLevel : level
+ReportAnalytics --> AnalyticsType : type
+AnalyticsReport --> AnalyticsType : type
+AnalyticsReport --> ReportStatus : status
+ReportComparison --> ComparisonStatus : status
+ReportExport --> ReportFormat : format
+ReportDelivery --> DeliveryChannel : channel
+ReportDelivery --> DeliveryStatus : status
+CashRegister --> CashRegisterStatus : status
+CashMovement --> CashMovementType : type
+BillingOrder --> BillingOrderStatus : status
+Payment --> PaymentMethod : method
+ElectronicInvoice --> ReceiptType : type
+ElectronicInvoice --> SunatStatus : sunatStatus
+BillingCustomer --> IdentityDocumentType : documentType
+
+@enduml

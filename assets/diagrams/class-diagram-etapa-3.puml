@@ -1,0 +1,897 @@
+﻿@startuml
+title Vitalia - Class Diagram - Stage 3
+
+top to bottom direction
+
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+skinparam linetype ortho
+skinparam packageStyle rectangle
+
+legend right
+|<#F6CACA> Aggregate |
+|<#DDEBFF> Entity |
+|<#FFF2B3> Value Object |
+endlegend
+
+package "1. Identity and Clinic Context\n(SaaS and Access)" #F7F7F7 {
+  class Clinic <<aggregate>> #F6CACA {
+    -idClinic: Long
+    -taxId: String
+    -legalName: String
+    -tradeName: String
+    -status: ClinicStatus
+    +activate(): void
+    +suspend(): void
+  }
+
+  class Branch <<entity>> #DDEBFF {
+    -idBranch: Long
+    -name: String
+    -address: String
+    -phone: String
+    +updateDetails(): void
+  }
+
+  abstract class User <<aggregate>> #F6CACA {
+    -idUser: Long
+    -firstNames: String
+    -lastNames: String
+    -email: String
+    -phone: String
+    -status: UserStatus
+    +signIn(email: String, password: String): void
+    +signOut(): void
+  }
+
+  class ClinicAdministrator <<entity>> #DDEBFF {
+    -idClinicAdministrator: Long
+    -employeeCode: String
+    +manageUsers(): void
+    +viewDashboard(): void
+  }
+
+  class Doctor <<entity>> #DDEBFF {
+    -idDoctor: Long
+    -medicalLicenseNumber: String
+    -specialty: String
+    +viewSchedule(): void
+    +recordEncounter(): void
+  }
+
+  class AdministrativeStaff <<entity>> #DDEBFF {
+    -idAdministrativeStaff: Long
+    -employeeCode: String
+    +scheduleAppointment(): void
+    +recordPayment(): void
+  }
+
+  class Pharmacist <<entity>> #DDEBFF {
+    -idPharmacist: Long
+    -employeeCode: String
+    +viewPrescriptions(): void
+    +dispenseMedication(): void
+  }
+
+  class Patient <<entity>> #DDEBFF {
+    -idPatient: Long
+    -nationalId: String
+    -birthDate: Date
+    -address: String
+    +bookAppointment(): void
+    +viewRecord(): void
+  }
+
+  class ClinicMembership <<entity>> #DDEBFF {
+    -idClinicMembership: Long
+    -joinedAt: DateTime
+    -active: Boolean
+    +assignRole(role: Role): void
+    +revokeAccess(): void
+  }
+
+  class Role <<entity>> #DDEBFF {
+    -idRole: Long
+    -name: String
+    -description: String
+    +updatePermissions(): void
+  }
+
+  class Permission <<entity>> #DDEBFF {
+    -idPermission: Long
+    -code: String
+    -description: String
+    +enable(): void
+  }
+
+  class UserSession <<entity>> #DDEBFF {
+    -idUserSession: Long
+    -accessCredential: String
+    -startDate: DateTime
+    -expiresAt: DateTime
+    +expire(): void
+  }
+
+  enum ClinicStatus {
+    ACTIVE
+    SUSPENDED
+    CANCELED
+  }
+
+  enum UserStatus {
+    ACTIVE
+    INACTIVE
+    BLOCKED
+  }
+
+  User <|-- ClinicAdministrator
+  User <|-- Doctor
+  User <|-- AdministrativeStaff
+  User <|-- Pharmacist
+  User <|-- Patient
+  Clinic "1" *-- "1..*" Branch
+  Clinic "1" *-- "0..*" ClinicMembership
+  User "1" -- "0..*" ClinicMembership
+  ClinicMembership "1" --> "1" Role
+  Role "1" -- "0..*" Permission
+  User "1" -- "0..*" UserSession
+  Clinic --> ClinicStatus : status
+  User --> UserStatus : status
+}
+
+package "2. Clinical Context\n(Electronic Medical Record - EMR Core)" #ECECEC {
+  class "PatientId" as ClinicalPatientId <<valueObject>> #FFF2B3 {
+    -idPatient: Long
+  }
+
+  class "DoctorId" as ClinicalDoctorId <<valueObject>> #FFF2B3 {
+    -idDoctor: Long
+  }
+
+  class "AppointmentId" as ClinicalAppointmentId <<valueObject>> #FFF2B3 {
+    -idAppointment: Long
+  }
+
+  class "MedicationId" as ClinicalMedicationId <<valueObject>> #FFF2B3 {
+    -idMedication: Long
+  }
+
+  class MedicalRecord <<aggregate>> #F6CACA {
+    -idMedicalRecord: Long
+    -recordNumber: String
+    -openedAt: DateTime
+    -status: MedicalRecordStatus
+    +open(): void
+    +generateSummary(): void
+    +addEncounter(encounter: Encounter): void
+  }
+
+  class MedicalHistoryEntry <<entity>> #DDEBFF {
+    -idMedicalHistoryEntry: Long
+    -type: MedicalHistoryType
+    -description: String
+    -recordedAt: DateTime
+    +record(): void
+  }
+
+  class Encounter <<aggregate>> #F6CACA {
+    -idEncounter: Long
+    -startDate: DateTime
+    -closedAt: DateTime
+    -visitReason: String
+    -status: EncounterStatus
+    +saveDraft(): void
+    +closeEncounter(): void
+  }
+
+  class Triage <<entity>> #DDEBFF {
+    -idTriage: Long
+    -date: DateTime
+    -observations: String
+    +recordVitalSigns(vitalSigns: VitalSigns): void
+  }
+
+  class VitalSigns <<valueObject>> #FFF2B3 {
+    -idVitalSigns: Long
+    -bloodPressure: String
+    -temperature: Decimal
+    -heartRate: Integer
+    -respiratoryRate: Integer
+    -oxygenSaturation: Decimal
+    +update(): void
+  }
+
+  class Diagnosis <<entity>> #DDEBFF {
+    -idDiagnosis: Long
+    -icdCode: String
+    -description: String
+    -type: DiagnosisType
+    +record(): void
+  }
+
+  class TreatmentPlan <<entity>> #DDEBFF {
+    -idTreatmentPlan: Long
+    -instructions: String
+    -followUpDate: Date
+    +updateInstructions(): void
+  }
+
+  class Prescription <<aggregate>> #F6CACA {
+    -idPrescription: Long
+    -issuedAt: DateTime
+    -status: PrescriptionStatus
+    -generalInstructions: String
+    +issue(): void
+    +reuse(): void
+    +void(): void
+  }
+
+  class PrescriptionItem <<entity>> #DDEBFF {
+    -idPrescriptionItem: Long
+    -medicationName: String
+    -dose: String
+    -frequency: String
+    -duration: String
+    +updateInstructions(): void
+  }
+
+  enum MedicalRecordStatus {
+    OPEN
+    CLOSED
+    ARCHIVED
+  }
+
+  enum MedicalHistoryType {
+    PERSONAL
+    FAMILY
+    ALLERGY
+    SURGICAL
+  }
+
+  enum EncounterStatus {
+    DRAFT
+    IN_PROGRESS
+    CLOSED
+  }
+
+  enum DiagnosisType {
+    PRESUMPTIVE
+    DEFINITIVE
+  }
+
+  enum PrescriptionStatus {
+    DRAFT
+    ISSUED
+    DISPENSED
+    VOIDED
+  }
+
+  MedicalRecord "1" --> "1" ClinicalPatientId : patient
+  MedicalRecord "1" *-- "0..*" MedicalHistoryEntry
+  MedicalRecord "1" *-- "0..*" Encounter
+  Encounter "1" --> "1" ClinicalDoctorId : doctor
+  Encounter "1" --> "0..1" ClinicalAppointmentId : appointment
+  Encounter "1" o-- "0..1" Triage
+  Triage "1" *-- "1" VitalSigns
+  Encounter "1" *-- "1..*" Diagnosis
+  Encounter "1" *-- "0..1" TreatmentPlan
+  Encounter "1" *-- "0..*" Prescription
+  Prescription "1" *-- "1..*" PrescriptionItem
+  PrescriptionItem "1" --> "1" ClinicalMedicationId : medication
+  MedicalRecord --> MedicalRecordStatus : status
+  MedicalHistoryEntry --> MedicalHistoryType : type
+  Encounter --> EncounterStatus : status
+  Diagnosis --> DiagnosisType : type
+  Prescription --> PrescriptionStatus : status
+}
+
+package "3. Scheduling Context\n(Scheduling and Appointment Engine)" #F5F0EA {
+  class "DoctorId" as SchedulingDoctorId <<valueObject>> #FFF2B3 {
+    -idDoctor: Long
+  }
+
+  class "PatientId" as SchedulingPatientId <<valueObject>> #FFF2B3 {
+    -idPatient: Long
+  }
+
+  class "BranchId" as SchedulingBranchId <<valueObject>> #FFF2B3 {
+    -idBranch: Long
+  }
+
+  class "EncounterId" as SchedulingEncounterId <<valueObject>> #FFF2B3 {
+    -idEncounter: Long
+  }
+
+  class DoctorSchedule <<aggregate>> #F6CACA {
+    -idDoctorSchedule: Long
+    -date: Date
+    -status: ScheduleStatus
+    +publishAvailability(): void
+    +blockTimeSlot(): void
+  }
+
+  class TimeSlot <<entity>> #DDEBFF {
+    -idTimeSlot: Long
+    -startAt: DateTime
+    -endAt: DateTime
+    -available: Boolean
+    +reserve(): void
+    +release(): void
+  }
+
+  class Appointment <<aggregate>> #F6CACA {
+    -idAppointment: Long
+    -scheduledAt: DateTime
+    -reason: String
+    -status: AppointmentStatus
+    +confirm(): void
+    +reschedule(newDate: DateTime): void
+    +cancel(): void
+    +checkIn(): void
+  }
+
+  class AppointmentRequest <<entity>> #DDEBFF {
+    -idAppointmentRequest: Long
+    -channel: BookingChannel
+    -requestedAt: DateTime
+    +validateAvailability(): void
+  }
+
+  class SchedulingPolicy <<entity>> #DDEBFF {
+    -idSchedulingPolicy: Long
+    -minimumCancellationHours: Integer
+    -appointmentDurationMinutes: Integer
+    +validateCancellation(appointment: Appointment): void
+    +validateRescheduling(appointment: Appointment): void
+  }
+
+  class AppointmentReminder <<entity>> #DDEBFF {
+    -idAppointmentReminder: Long
+    -channel: NotificationChannel
+    -scheduledAt: DateTime
+    -status: ReminderStatus
+    +schedule(): void
+    +send(): void
+  }
+
+  enum ScheduleStatus {
+    DRAFT
+    PUBLISHED
+    BLOCKED
+  }
+
+  enum AppointmentStatus {
+    SCHEDULED
+    CONFIRMED
+    CHECKED_IN
+    CANCELED
+    RESCHEDULED
+    ATTENDED
+  }
+
+  enum BookingChannel {
+    WEB
+    PHONE
+    IN_PERSON
+  }
+
+  enum NotificationChannel {
+    EMAIL
+    SMS
+    WHATSAPP
+  }
+
+  enum ReminderStatus {
+    SCHEDULED
+    SENT
+    CANCELED
+  }
+
+  DoctorSchedule "1" --> "1" SchedulingDoctorId : doctor
+  DoctorSchedule "1" --> "1" SchedulingBranchId : branch
+  DoctorSchedule "1" *-- "1..*" TimeSlot
+  TimeSlot "1" --> "0..1" Appointment
+  AppointmentRequest "1" --> "1" SchedulingPatientId : patient
+  AppointmentRequest "1" --> "1" Appointment : creates
+  Appointment "1" --> "1" SchedulingPatientId : patient
+  Appointment "1" --> "1" SchedulingDoctorId : doctor
+  Appointment "1" --> "0..1" SchedulingEncounterId : encounter
+  Appointment "1" --> "1" SchedulingPolicy
+  Appointment "1" *-- "0..*" AppointmentReminder
+  DoctorSchedule --> ScheduleStatus : status
+  Appointment --> AppointmentStatus : status
+  AppointmentRequest --> BookingChannel : channel
+  AppointmentReminder --> NotificationChannel : channel
+  AppointmentReminder --> ReminderStatus : status
+}
+
+package "4. Pharmacy and Inventory Context\n(Inventory)" #EEF0F3 {
+  class "BranchId" as PharmacyBranchId <<valueObject>> #FFF2B3 {
+    -idBranch: Long
+  }
+
+  class "PrescriptionId" as PharmacyPrescriptionId <<valueObject>> #FFF2B3 {
+    -idPrescription: Long
+  }
+
+  class "PrescriptionItemId" as PharmacyPrescriptionItemId <<valueObject>> #FFF2B3 {
+    -idPrescriptionItem: Long
+  }
+
+  class "PharmacistId" as PharmacyPharmacistId <<valueObject>> #FFF2B3 {
+    -idPharmacist: Long
+  }
+
+  class Medication <<aggregate>> #F6CACA {
+    -idMedication: Long
+    -code: String
+    -name: String
+    -presentation: String
+    -status: MedicationStatus
+    +updateDetails(): void
+  }
+
+  class MedicationInventory <<aggregate>> #F6CACA {
+    -idMedicationInventory: Long
+    -currentStock: Integer
+    -minimumStock: Integer
+    -location: String
+    +increaseStock(quantity: Integer): void
+    +decreaseStock(quantity: Integer): void
+    +validateReplenishment(): void
+  }
+
+  class MedicationBatch <<entity>> #DDEBFF {
+    -idMedicationBatch: Long
+    -batchNumber: String
+    -expirationDate: Date
+    -availableQuantity: Integer
+    +validateExpiration(): void
+  }
+
+  class InventoryMovement <<entity>> #DDEBFF {
+    -idInventoryMovement: Long
+    -type: InventoryMovementType
+    -quantity: Integer
+    -date: DateTime
+    -reason: String
+    +record(): void
+  }
+
+  class Dispensing <<aggregate>> #F6CACA {
+    -idDispensing: Long
+    -date: DateTime
+    -status: DispensingStatus
+    +recordDelivery(): void
+    +void(): void
+  }
+
+  class DispensingItem <<entity>> #DDEBFF {
+    -idDispensingItem: Long
+    -deliveredQuantity: Integer
+    +recordQuantity(): void
+  }
+
+  class StockAlert <<entity>> #DDEBFF {
+    -idStockAlert: Long
+    -level: AlertLevel
+    -message: String
+    -generatedAt: DateTime
+    +markReviewed(): void
+  }
+
+  enum MedicationStatus {
+    ACTIVE
+    INACTIVE
+  }
+
+  enum InventoryMovementType {
+    INBOUND
+    OUTBOUND
+    ADJUSTMENT
+  }
+
+  enum DispensingStatus {
+    PENDING
+    DISPENSED
+    VOIDED
+  }
+
+  enum AlertLevel {
+    LOW_STOCK
+    NEAR_EXPIRATION
+    OUT_OF_STOCK
+  }
+
+  Medication "1" -- "1" MedicationInventory
+  MedicationInventory "1" --> "1" PharmacyBranchId : branch
+  MedicationInventory "1" *-- "0..*" MedicationBatch
+  MedicationInventory "1" *-- "0..*" InventoryMovement
+  MedicationInventory "1" --> "0..*" StockAlert
+  Dispensing "1" --> "1" PharmacyPrescriptionId : prescription
+  Dispensing "1" --> "1" PharmacyPharmacistId : pharmacist
+  Dispensing "1" *-- "1..*" DispensingItem
+  DispensingItem "1" --> "1" PharmacyPrescriptionItemId : prescriptionItem
+  DispensingItem "1" --> "1" Medication
+  Dispensing "1" --> "1" MedicationInventory
+  Medication --> MedicationStatus : status
+  InventoryMovement --> InventoryMovementType : type
+  Dispensing --> DispensingStatus : status
+  StockAlert --> AlertLevel : level
+}
+
+package "5. Dashboard and Analytics Context" #F4EFF6 {
+  class "UserId" as AnalyticsUserId <<valueObject>> #FFF2B3 {
+    -idUser: Long
+  }
+
+  class "DoctorId" as AnalyticsDoctorId <<valueObject>> #FFF2B3 {
+    -idDoctor: Long
+  }
+
+  class "BranchId" as AnalyticsBranchId <<valueObject>> #FFF2B3 {
+    -idBranch: Long
+  }
+
+  class "AppointmentId" as AnalyticsAppointmentId <<valueObject>> #FFF2B3 {
+    -idAppointment: Long
+  }
+
+  class "EncounterId" as AnalyticsEncounterId <<valueObject>> #FFF2B3 {
+    -idEncounter: Long
+  }
+
+  class "MedicationInventoryId" as AnalyticsMedicationInventoryId <<valueObject>> #FFF2B3 {
+    -idMedicationInventory: Long
+  }
+
+  class "BillingOrderId" as AnalyticsBillingOrderId <<valueObject>> #FFF2B3 {
+    -idBillingOrder: Long
+  }
+
+  interface DashboardView {
+    +showMetrics(): void
+    +listAnalyticsTypes(): void
+  }
+
+  class AnalyticsFilter <<valueObject>> #FFF2B3 {
+    -idAnalyticsFilter: Long
+    -startDate: Date
+    -endDate: Date
+    +validateConsistency(): void
+  }
+
+  abstract class ReportAnalytics <<entity>> #DDEBFF {
+    -idReportAnalytics: Long
+    -type: AnalyticsType
+    -title: String
+    +calculate(filter: AnalyticsFilter): void
+    +generateReport(filter: AnalyticsFilter): void
+  }
+
+  class DoctorProductivityAnalytics <<entity>> #DDEBFF {
+    -idDoctorProductivityAnalytics: Long
+    +calculate(filter: AnalyticsFilter): void
+  }
+
+  class MedicationStockAnalytics <<entity>> #DDEBFF {
+    -idMedicationStockAnalytics: Long
+    +calculate(filter: AnalyticsFilter): void
+  }
+
+  class PeriodRevenueAnalytics <<entity>> #DDEBFF {
+    -idPeriodRevenueAnalytics: Long
+    +calculate(filter: AnalyticsFilter): void
+  }
+
+  class AppointmentStatusAnalytics <<entity>> #DDEBFF {
+    -idAppointmentStatusAnalytics: Long
+    +calculate(filter: AnalyticsFilter): void
+  }
+
+  class RequestedServicesAnalytics <<entity>> #DDEBFF {
+    -idRequestedServicesAnalytics: Long
+    +calculate(filter: AnalyticsFilter): void
+  }
+
+  class WaitTimeAnalytics <<entity>> #DDEBFF {
+    -idWaitTimeAnalytics: Long
+    +calculate(filter: AnalyticsFilter): void
+  }
+
+  class AnalyticsReport <<aggregate>> #F6CACA {
+    -idAnalyticsReport: Long
+    -type: AnalyticsType
+    -title: String
+    -status: ReportStatus
+    -generatedAt: DateTime
+    +view(): void
+    +download(format: ReportFormat): void
+    +send(channel: DeliveryChannel): void
+  }
+
+  class ReportMetric <<valueObject>> #FFF2B3 {
+    -idReportMetric: Long
+    -name: String
+    -value: Decimal
+    -unit: String
+    -trend: String
+    +updateValue(): void
+  }
+
+  class ReportComparison <<aggregate>> #F6CACA {
+    -idReportComparison: Long
+    -status: ComparisonStatus
+    -mainFinding: String
+    +selectReports(): void
+    +analyzeDifferences(): void
+    +finish(): void
+  }
+
+  class ReportDifference <<valueObject>> #FFF2B3 {
+    -idReportDifference: Long
+    -metric: String
+    -baseValue: Decimal
+    -comparedValue: Decimal
+    -percentageChange: Decimal
+    +recordDifference(): void
+  }
+
+  class DataPolicy <<entity>> #DDEBFF {
+    -idDataPolicy: Long
+    +validateAccess(user: AnalyticsUserId): void
+    +validateFilters(filter: AnalyticsFilter): void
+    +maskSensitiveData(report: AnalyticsReport): void
+  }
+
+  class ReportExport <<entity>> #DDEBFF {
+    -idReportExport: Long
+    -format: ReportFormat
+    -fileUrl: String
+    +generateFile(report: AnalyticsReport): void
+  }
+
+  class ReportDelivery <<entity>> #DDEBFF {
+    -idReportDelivery: Long
+    -channel: DeliveryChannel
+    -recipient: String
+    -status: DeliveryStatus
+    +send(report: AnalyticsReport): void
+  }
+
+  class OperationalDataSource <<entity>> #DDEBFF {
+    -idOperationalDataSource: Long
+    +getAppointments(filter: AnalyticsFilter): void
+    +getEncounters(filter: AnalyticsFilter): void
+    +getInventory(filter: AnalyticsFilter): void
+    +getRevenue(filter: AnalyticsFilter): void
+  }
+
+  enum AnalyticsType {
+    DOCTOR_PRODUCTIVITY
+    MEDICATION_STOCK
+    PERIOD_REVENUE
+    APPOINTMENTS_BY_STATUS
+    MOST_REQUESTED_SERVICES
+    AVERAGE_WAIT_TIME
+  }
+
+  enum ReportStatus {
+    GENERATED
+    VIEWED
+    DOWNLOADED
+    SENT
+    COMPARED
+  }
+
+  enum ComparisonStatus {
+    SELECTING
+    ANALYZING
+    FINISHED
+  }
+
+  enum ReportFormat {
+    PDF
+    XLSX
+    CSV
+  }
+
+  enum DeliveryChannel {
+    EMAIL
+    WHATSAPP
+  }
+
+  enum DeliveryStatus {
+    PENDING
+    SENT
+    FAILED
+  }
+
+  ReportAnalytics <|-- DoctorProductivityAnalytics
+  ReportAnalytics <|-- MedicationStockAnalytics
+  ReportAnalytics <|-- PeriodRevenueAnalytics
+  ReportAnalytics <|-- AppointmentStatusAnalytics
+  ReportAnalytics <|-- RequestedServicesAnalytics
+  ReportAnalytics <|-- WaitTimeAnalytics
+  DashboardView "1" --> "0..*" AnalyticsReport
+  AnalyticsFilter "1" --> "0..1" AnalyticsDoctorId : doctor
+  AnalyticsFilter "1" --> "0..1" AnalyticsBranchId : branch
+  ReportAnalytics "1" --> "1" AnalyticsFilter
+  ReportAnalytics "1" --> "0..*" AnalyticsReport
+  ReportAnalytics --> OperationalDataSource
+  OperationalDataSource ..> AnalyticsAppointmentId
+  OperationalDataSource ..> AnalyticsEncounterId
+  OperationalDataSource ..> AnalyticsMedicationInventoryId
+  OperationalDataSource ..> AnalyticsBillingOrderId
+  AnalyticsReport "1" *-- "1..*" ReportMetric
+  AnalyticsReport "1" --> "1" DataPolicy
+  AnalyticsReport "1" --> "0..*" ReportExport
+  AnalyticsReport "1" --> "0..*" ReportDelivery
+  DataPolicy "1" --> "1" AnalyticsUserId : user
+  ReportComparison "1" o-- "2..*" AnalyticsReport
+  ReportComparison "1" *-- "1..*" ReportDifference
+  ReportAnalytics --> AnalyticsType : type
+  AnalyticsReport --> AnalyticsType : type
+  AnalyticsReport --> ReportStatus : status
+  ReportComparison --> ComparisonStatus : status
+  ReportExport --> ReportFormat : format
+  ReportDelivery --> DeliveryChannel : channel
+  ReportDelivery --> DeliveryStatus : status
+}
+
+package "6. Billing Context\n(Electronic Invoicing and Cash Register)" #F0F2ED {
+  class "BranchId" as BillingBranchId <<valueObject>> #FFF2B3 {
+    -idBranch: Long
+  }
+
+  class "EncounterId" as BillingEncounterId <<valueObject>> #FFF2B3 {
+    -idEncounter: Long
+  }
+
+  class "PatientId" as BillingPatientId <<valueObject>> #FFF2B3 {
+    -idPatient: Long
+  }
+
+  class "AdministrativeStaffId" as BillingAdministrativeStaffId <<valueObject>> #FFF2B3 {
+    -idAdministrativeStaff: Long
+  }
+
+  class "DispensingId" as BillingDispensingId <<valueObject>> #FFF2B3 {
+    -idDispensing: Long
+  }
+
+  class CashRegister <<aggregate>> #F6CACA {
+    -idCashRegister: Long
+    -openedAt: DateTime
+    -closedAt: DateTime
+    -status: CashRegisterStatus
+    +open(): void
+    +close(): void
+  }
+
+  class CashMovement <<entity>> #DDEBFF {
+    -idCashMovement: Long
+    -type: CashMovementType
+    -amount: Decimal
+    -date: DateTime
+    -description: String
+    +record(): void
+  }
+
+  class BillingOrder <<aggregate>> #F6CACA {
+    -idBillingOrder: Long
+    -concept: String
+    -subtotal: Decimal
+    -tax: Decimal
+    -total: Decimal
+    -status: BillingOrderStatus
+    +calculateTotal(): void
+    +markPaid(): void
+  }
+
+  class Payment <<entity>> #DDEBFF {
+    -idPayment: Long
+    -amount: Decimal
+    -method: PaymentMethod
+    -date: DateTime
+    +record(): void
+  }
+
+  class ElectronicInvoice <<aggregate>> #F6CACA {
+    -idElectronicInvoice: Long
+    -series: String
+    -sequenceNumber: String
+    -type: ReceiptType
+    -sunatStatus: SunatStatus
+    +issue(): void
+    +void(): void
+  }
+
+  class InvoiceLineItem <<entity>> #DDEBFF {
+    -idInvoiceLineItem: Long
+    -description: String
+    -quantity: Integer
+    -unitPrice: Decimal
+    -total: Decimal
+    +calculateTotal(): void
+  }
+
+  class BillingCustomer <<valueObject>> #FFF2B3 {
+    -idBillingCustomer: Long
+    -documentType: IdentityDocumentType
+    -documentNumber: String
+    -billingName: String
+    -taxAddress: String
+    +updateDetails(): void
+  }
+
+  class SunatGateway <<entity>> #DDEBFF {
+    -idSunatGateway: Long
+    +submitInvoice(invoice: ElectronicInvoice): void
+    +checkStatus(invoice: ElectronicInvoice): void
+  }
+
+  enum CashRegisterStatus {
+    OPEN
+    CLOSED
+  }
+
+  enum CashMovementType {
+    INCOME
+    EXPENSE
+  }
+
+  enum BillingOrderStatus {
+    PENDING
+    PAID
+    VOIDED
+  }
+
+  enum PaymentMethod {
+    CASH
+    CARD
+    BANK_TRANSFER
+    YAPE
+    PLIN
+  }
+
+  enum ReceiptType {
+    SALES_RECEIPT
+    INVOICE
+  }
+
+  enum SunatStatus {
+    PENDING
+    ACCEPTED
+    REJECTED
+    VOIDED
+  }
+
+  enum IdentityDocumentType {
+    NATIONAL_ID
+    TAX_ID
+    FOREIGNER_ID
+  }
+
+  CashRegister "1" --> "1" BillingBranchId : branch
+  CashRegister "1" *-- "0..*" CashMovement
+  CashRegister "1" --> "0..*" Payment
+  BillingOrder "1" --> "1" BillingEncounterId : encounter
+  BillingOrder "1" --> "1" BillingPatientId : patient
+  BillingOrder "1" --> "0..1" BillingDispensingId : dispensing
+  BillingOrder "1" *-- "0..*" Payment
+  BillingOrder "1" --> "0..1" ElectronicInvoice
+  Payment "1" --> "1" BillingAdministrativeStaffId : recordedBy
+  ElectronicInvoice "1" *-- "1..*" InvoiceLineItem
+  ElectronicInvoice "1" *-- "1" BillingCustomer
+  ElectronicInvoice --> SunatGateway
+  CashRegister --> CashRegisterStatus : status
+  CashMovement --> CashMovementType : type
+  BillingOrder --> BillingOrderStatus : status
+  Payment --> PaymentMethod : method
+  ElectronicInvoice --> ReceiptType : type
+  ElectronicInvoice --> SunatStatus : sunatStatus
+  BillingCustomer --> IdentityDocumentType : documentType
+}
+
+@enduml
