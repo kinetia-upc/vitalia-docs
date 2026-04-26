@@ -14,7 +14,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino|
 | **Sprint n Goal** | Our focus is on building a fully responsive landing page aligned with Vitalia’s healthcare value proposition, with all key sections clearly structured. The goal is to communicate how our platform enhances access to medical services, improves patient experience, and integrates solutions such as diagnostics, laboratory, and specialized care. This will be validated once the page is deployed, ensuring a seamless, intuitive experience across both mobile and desktop devices. |
 | **Sprint n Velocity** | Designamos aceptar hasta 20 SP |
-| **Sum of Story Points** |  |
+| **Sum of Story Points** | 14 SP |
 
 #### *5.2.1.2. Aspect Leaders and Collaborators*
 
@@ -23,8 +23,8 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 | Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
 | Dulanto Espino, Leo César | Leotens | L | C | C | C | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | C | L | C | C | C |
-| Alexther Kamil Diaz Martinez | kamil-tron | C | C | C | C | C |
-| Rojas Tello, Alonso | nes-ro | C | C | C | C | C|
+| Alexther Kamil Diaz Martinez | kamil-tron | C | C | C | C | L |
+| Rojas Tello, Alonso | nes-ro | C | C | C | L | C|
 
 #### *5.2.1.3. Sprint Backlog 1*
 
@@ -105,7 +105,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <td>Sección sobre nosotros</td>
       <td>Implementar about us</td>
       <td>1</td>
-      <td></td>
+      <td>nes-ro</td>
       <td>Completed</td>
     </tr>
     <tr>
@@ -216,6 +216,38 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <td>feat: contact-form</td>
       <td> - </td>
       <td>Abril 23, 2026</td>
+    </tr>
+    <tr>
+      <td>vitalia-landing</td>
+      <td>feature/whoisvitalia</td>
+      <td>45c9afe</td>
+      <td>feat: añadir who is vitalia html</td>
+      <td> - </td>
+      <td>Abril 25, 2026</td>
+    </tr>
+    <tr>
+      <td>vitalia-landing</td>
+      <td>feature/whoisvitalia</td>
+      <td>92f4fd7</td>
+      <td>feat: añadir who is vitalia css</td>
+      <td> - </td>
+      <td>Abril 25, 2026</td>
+    </tr>
+    <tr>
+      <td>vitalia-landing</td>
+      <td>feature/aboutus</td>
+      <td>c057df2</td>
+      <td>feat: add about us html section</td>
+      <td> - </td>
+      <td>Abril 25, 2026</td>
+    </tr>
+    <tr>
+      <td>vitalia-landing</td>
+      <td>feature/aboutus</td>
+      <td>19045f4</td>
+      <td>feat: add about us csss section</td>
+      <td> - </td>
+      <td>Abril 25, 2026</td>
     </tr>
   </tbody>
 </table>
