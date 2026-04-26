@@ -210,6 +210,7 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 ### 4.4.1. Web Applications Wireframes
 *Figura 22 (Landing Page Mock-up)* 
 <img src="../assets/images/figures/32-wirframeall.png" alt="32-wirframeall" style="width: 100vw;">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
@@ -220,6 +221,21 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
     - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
     - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
+    *Figura 23 (Wireflow 1 Administradores)* 
+    <img src="../assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 24 (Wireflow 2 Administradores)* 
+    <img src="../assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 25 (Wireflow 3 Administradores)* 
+    <img src="../assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 26 (Wireflow 4 Administradores)* 
+    <img src="../assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 27 (Wireflow 5 Administradores)* 
+    <img src="../assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
 2.  **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
     - **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
@@ -227,12 +243,36 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
     - **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
     - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
+    *Figura 28 (Wireflow 1 Doctores)* 
+    <img src="../assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 29 (Wireflow 2 Doctores)* 
+    <img src="../assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 30 (Wireflow 3 Doctores)* 
+    <img src="../assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 31 (Wireflow 4 Doctores)* 
+    <img src="../assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
 3. **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
     - **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
     - **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
     - **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
     - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
+
+        *Figura 32 (Wireflow 1 Pacientes)* 
+    <img src="../assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+    
+        *Figura 33 (Wireflow 2 Pacientes)* 
+    <img src="../assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+    
+        *Figura 34 (Wireflow 3 Pacientes)* 
+    <img src="../assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+        *Figura 35 (Wireflow 4 Pacientes)* 
+    <img src="../assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ### 4.4.3. Web Applications Mock-ups
 
