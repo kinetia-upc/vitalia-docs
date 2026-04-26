@@ -389,6 +389,11 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 
 ## 4.5. Web Applications Prototyping
 
+En esta sección se presentan los prototipos de interfaz de usuario (UI) para Desktop y Mobile Web Browser, los cuales simulan la interacción y navegación de los principales flujos definidos en los User Flow Diagrams, alineados con las historias de usuario previamente descritas. En el caso del segmento de administradores, se representan flujos como el registro y gestión de pacientes (US021, US024), la programación y confirmación de citas (US022, US023), y la gestión del circuito posterior a la atención, incluyendo recetas, facturación y pagos (US025, US026, US029), así como la consulta de indicadores y generación de reportes (US027, US028, US030). Para el segmento de doctores, los prototipos cubren la revisión de agenda y datos de triaje (US010, US019), el acceso al historial clínico y resúmenes automáticos (US011, US017), el registro integral de la atención médica (US012, US013), y la emisión de recetas digitales y órdenes de exámenes (US014, US015). Finalmente, para el segmento de pacientes, se incluyen flujos de creación de cuenta e inicio de sesión (US001, US002), gestión de citas digitales (US003, US004, US005), recepción de recordatorios (US008) y consulta de historial clínico y resultados en línea (US006, US007). El diseño de estos prototipos responde a criterios de usabilidad, consistencia y claridad en la arquitectura de información, estructurando la navegación en módulos funcionales según el rol del usuario. La validación de estos flujos se presenta mediante un video demostrativo que evidencia la interacción y navegación en los prototipos, reemplazando las capturas estáticas al mostrar de forma más completa el comportamiento dinámico del sistema.
+
+Link: https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca 
+
+<img src="../assets/images/figures/xx-prototype.png" alt="prototype" style="width: 100vw;"/>
 
 
 ## 4.6. Domain-Driven Software Architecture
