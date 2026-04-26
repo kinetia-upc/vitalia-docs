@@ -64,7 +64,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **AV1**
 
-[Image]
+<img src="../assets/images/figures/00-docs-insigh.png" alt="Impact Map 2" style="width: 100vw;">
 
 # Tabla de contenidos
 
