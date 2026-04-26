@@ -209,7 +209,7 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 
 ### 4.4.1. Web Applications Wireframes
 *Figura 22 (Landing Page Mock-up)* 
-<img src="../assets/images/figures/32-wirframeall.png" alt="32-wirframeall" style="width: 100vw;">s
+<img src="../assets/images/figures/32-wirframeall.png" alt="32-wirframeall" style="width: 100vw;">
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
@@ -235,6 +235,51 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
     - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
 ### 4.4.3. Web Applications Mock-ups
+
+*Figura 36 (Admin Clinic Settings)*  
+<img src="../assets/images/figures/36-Admin Clinic Settings.png" alt="36-Admin Clinic Settings" style="width: 100vw;">
+
+*Figura 37 (Admin Billing)*  
+<img src="../assets/images/figures/37-Admin Billing.png" alt="37-Admin Billing" style="width: 100vw;">
+
+*Figura 38 (Admin Operations)*  
+<img src="../assets/images/figures/38-Admin Operations.png" alt="38-Admin Operations" style="width: 100vw;">
+
+*Figura 39 (Admin Users)*  
+<img src="../assets/images/figures/39-Admin Users.png" alt="39-Admin Users" style="width: 100vw;">
+
+*Figura 40 (Admin Dashboard)*  
+<img src="../assets/images/figures/40-Admin Dashboard.png" alt="40-Admin Dashboard" style="width: 100vw;">
+
+*Figura 41 (Patient Profile)*  
+<img src="../assets/images/figures/41-Patient Profile.png" alt="41-Patient Profile" style="width: 100vw;">
+
+*Figura 42 (Patient History)*  
+<img src="../assets/images/figures/42-Patient History.png" alt="42-Patient History" style="width: 100vw;">
+
+*Figura 43 (Patient Prescriptions)*  
+<img src="../assets/images/figures/43-Patient Prescriptions.png" alt="43-Patient Prescriptions" style="width: 100vw;">
+
+*Figura 44 (Patient Appointments)*  
+<img src="../assets/images/figures/44-Patient Appointments.png" alt="44-Patient Appointments" style="width: 100vw;">
+
+*Figura 45 (Patient Dashboard)*  
+<img src="../assets/images/figures/45-Patient Dashboard.png" alt="45-Patient Dashboard" style="width: 100vw;">
+
+*Figura 46 (Doctor Profile)*  
+<img src="../assets/images/figures/46-Doctor Profile.png" alt="46-Doctor Profile" style="width: 100vw;">
+
+*Figura 47 (Doctor Orders)*  
+<img src="../assets/images/figures/47-Doctor Orders.png" alt="47-Doctor Orders" style="width: 100vw;">
+
+*Figura 48 (Doctor Agenda)*  
+<img src="../assets/images/figures/48-Doctor Agenda.png" alt="48-Doctor Agenda" style="width: 100vw;">
+
+*Figura 49 (Doctor Patients)*  
+<img src="../assets/images/figures/49-Doctor Patients.png" alt="49-Doctor Patients" style="width: 100vw;">
+
+*Figura 50 (Doctor Dashboard)*  
+<img src="../assets/images/figures/50-Doctor Dashboard.png" alt="50-Doctor Dashboard" style="width: 100vw;">
 
 
 
