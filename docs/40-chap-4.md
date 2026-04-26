@@ -325,6 +325,66 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+
+    - **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
+    - **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
+    - **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
+    - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
+    - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
+
+    *Figura 51 (Userflow 1 Administradores)* 
+    <img src="../assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 52 (Userflow 2 Administradores)* 
+    <img src="../assets/images/figures/24-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 53 (Userflow 3 Administradores)* 
+    <img src="../assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 54 (Userflow 4 Administradores)* 
+    <img src="../assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 55 (Userflow 5 Administradores)* 
+    <img src="../assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+2.  **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+
+    - **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
+    - **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
+    - **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
+    - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
+
+    *Figura 56 (Userflow 1 Doctores)* 
+    <img src="../assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 57 (Userflow 2 Doctores)* 
+    <img src="../assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 58 (Userflow 3 Doctores)* 
+    <img src="../assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 59 (Userflow 4 Doctores)* 
+    <img src="../assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+3. **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+    - **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
+    - **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
+    - **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
+    - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
+
+    *Figura 60 (Userflow 1 Pacientes)* 
+    <img src="../assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+    
+    *Figura 61 (Userflow 2 Pacientes)* 
+    <img src="../assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+    
+    *Figura 62 (Userflow 3 Pacientes)* 
+    <img src="../assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+    *Figura 63 (Userflow 4 Pacientes)* 
+    <img src="../assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 
 ## 4.5. Web Applications Prototyping
