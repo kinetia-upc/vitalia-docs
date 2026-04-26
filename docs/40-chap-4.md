@@ -208,7 +208,8 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
-
+*Figura 22 (Landing Page Mock-up)* 
+<img src="../assets/images/figures/32-wirframeall.png" alt="32-wirframeall" style="width: 100vw;">s
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
