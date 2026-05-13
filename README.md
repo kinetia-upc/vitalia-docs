@@ -56,6 +56,7 @@
 | 0.1.17 | 25/4/26 | @kamil-tron | docs: añadir todos los puntos de Information Architecture |
 | 0.1.18 | 25/4/26 | @AleeAsto | docs: añadir sprint 1 |
 | 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correciones del av1 |
+| 0.2.1 | 13/5/26 | @AdrixRyz | docs: añadir sprint 2 |
 
 # Project Report Collaboration Insights
 
@@ -181,8 +182,8 @@ En esta sección se describe cómo cada integrante contribuyó al desarrollo del
 
 | Criterio especifico | Acciones realizadas | Conclusiones |
 | --- | --- | --- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en espacios de coordinación para alinear criterios del equipo, propuso acuerdos comunes para la redacción del informe y apoyó la integración visual y conceptual de los capítulos, favoreciendo un liderazgo compartido.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Contribuyó a la toma de decisiones del grupo mediante discusiones técnicas y de negocio, ayudando a priorizar enfoques, contrastar alternativas y sostener una dirección común durante la elaboración del informe.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Favoreció la coordinación del equipo al mantener comunicación constante sobre avances, validar aportes de sus compañeros y facilitar la continuidad entre investigación, diseño y documentación.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Impulsó el trabajo conjunto al compartir observaciones sobre usuarios, estructura del sistema y organización del contenido, fortaleciendo la colaboración y el consenso en las decisiones del grupo.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Promovió el diálogo entre integrantes al facilitar sesiones de revisión, recoger retroalimentación y ordenar aportes para convertirlos en criterios comunes de trabajo. | **AV1:** El equipo ejerció un liderazgo distribuido basado en la coordinación y el diálogo. Las actividades registradas reflejan colaboración real en la construcción de acuerdos, más que una división aislada de funciones. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en la definición de acuerdos y en la organización de avances parciales, ayudando a que el equipo mantenga una dinámica de trabajo ordenada, respetuosa y orientada al cumplimiento de metas comunes.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Apoyó la planificación del grupo al priorizar actividades, proponer secuencias de trabajo y facilitar que las decisiones técnicas se alinearan con los objetivos del proyecto.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Contribuyó a sostener un ambiente de trabajo colaborativo al compartir avances, validar observaciones y ajustar aportes según la retroalimentación del equipo.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Aportó a la organización colectiva al revisar avances con sus compañeros, integrar comentarios y asegurar que la información compartida sirviera para avanzar hacia objetivos comunes.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Impulsó la coordinación del equipo mediante revisiones periódicas, intercambio de ideas y ajuste de prioridades, fortaleciendo la capacidad grupal para cumplir lo planificado. | **AV1:** La evidencia muestra un entorno de trabajo colaborativo, con metas compartidas y seguimiento constante de avances. El cumplimiento de objetivos fue resultado de la coordinación y la retroalimentación entre integrantes. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en espacios de coordinación para alinear criterios del equipo, propuso acuerdos comunes para la redacción del informe y apoyó la integración visual y conceptual de los capítulos, favoreciendo un liderazgo compartido.<br>**TB1:** Guió la facilitación de sesiones del Sprint Planning buscando equilibrar el protagonismo de cada integrante, estimulando la participación proactiva y fomentando el consenso en la toma de decisiones estratégicas del producto.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Contribuyó a la toma de decisiones del grupo mediante discusiones técnicas y de negocio, ayudando a priorizar enfoques, contrastar alternativas y sostener una dirección común durante la elaboración del informe.<br>**TB1:** Ayudó al equipo a definir una estructura de trabajo ordenada resolviendo dudas conceptuales, impulsando la escucha activa para alinear las expectativas técnicas con el diseño del proyecto de manera compartida.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Favoreció la coordinación del equipo al mantener comunicación constante sobre avances, validar aportes de sus compañeros y facilitar la continuidad entre investigación, diseño y documentación.<br>**TB1:** Asumió un rol facilitador integrando las visiones estéticas individuales en un estándar visual común, estimulando el feedback constructivo y facilitando la convergencia de opiniones sobre el diseño final.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Impulsó el trabajo conjunto al compartir observaciones sobre usuarios, estructura del sistema y organización del contenido, fortaleciendo la colaboración y el consenso en las decisiones del grupo.<br>**TB1:** Lideró discusiones grupales orientadas a la simplificación del flujo del producto, promoviendo el debate abierto y empático para alcanzar acuerdos lógicos respecto a la organización de la información.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Promovió el diálogo entre integrantes al facilitar sesiones de revisión, recoger retroalimentación y ordenar aportes para convertirlos en criterios comunes de trabajo.<br>**TB1:** Promovió la corresponsabilidad en la definición del Backlog, moderando debates sobre la complejidad del proyecto para asegurar que todos los integrantes compartieran el mismo nivel de compromiso y visión de éxito. | **AV1:** El equipo ejerció un liderazgo distribuido basado en la coordinación y el diálogo. Las actividades registradas reflejan colaboración real en la construcción de acuerdos, más que una división aislada de funciones.<br><br>**TB1:** Durante este ciclo se consolidó un esquema de liderazgo rotativo y empático. Los miembros asumieron la iniciativa en momentos clave respetando el ritmo y los aportes del otro, lo que fortaleció la cohesión del equipo al transitar del diseño a la acción. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en la definición de acuerdos y en la organización de avances parciales, ayudando a que el equipo mantenga una dinámica de trabajo ordenada, respetuosa y orientada al cumplimiento de metas comunes.<br>**TB1:** Fomentó un ambiente inclusivo al motivar a sus compañeros a proponer sus metas individuales según su disponibilidad, y colaboró estrechamente en la definición de bases comunes para evitar sobrecargas y facilitar el inicio colectivo de las actividades.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Apoyó la planificación del grupo al priorizar actividades, proponer secuencias de trabajo y facilitar que las decisiones técnicas se alinearan con los objetivos del proyecto.<br>**TB1:** Promovió una comunicación transparente y de apoyo mutuo en la gestión del avance, ayudando a despejar obstáculos ajenos y comprometiéndose con la puntualidad para no entorpecer el progreso de las metas generales del equipo.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Contribuyó a sostener un ambiente de trabajo colaborativo al compartir avances, validar observaciones y ajustar aportes según la retroalimentación del equipo.<br>**TB1:** Generó un entorno de retroalimentación positiva compartiendo avances tempranos para que todos tuvieran visibilidad del estado del proyecto, respondiendo oportunamente a las necesidades de soporte visual de sus compañeros.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Aportó a la organización colectiva al revisar avances con sus compañeros, integrar comentarios y asegurar que la información compartida sirviera para avanzar hacia objetivos comunes.<br>**TB1:** Fortaleció la confianza del grupo estableciendo canales claros para visualizar los logros conjuntos, facilitando la validación inmediata del trabajo de los demás e impulsando a que todos alcanzaran sus metas a tiempo.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Impulsó la coordinación del equipo mediante revisiones periódicas, intercambio de ideas y ajuste de prioridades, fortaleciendo la capacidad grupal para cumplir lo planificado.<br>**TB1:** Contribuyó activamente al balance de la carga de trabajo apoyando la autogestión del equipo en la estimación del esfuerzo grupal, demostrando flexibilidad y constancia para cumplir los objetivos colectivos pactados. | **AV1:** La evidencia muestra un entorno de trabajo colaborativo, con metas compartidas y seguimiento constante de avances. El cumplimiento de objetivos fue resultado de la coordinación y la retroalimentación entre integrantes.<br><br>**TB1:** El éxito en esta etapa se debió a un fuerte sentido de corresponsabilidad e inclusión. La comunicación horizontal permitió ajustar el ritmo de trabajo ante dificultades, logrando un entorno confiable donde la ayuda mutua fue fundamental para el cumplimiento de los hitos. |
 
 # Capítulo I: Introducción
 
@@ -963,36 +964,33 @@ Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=94897568
 | US014 | Emisión de recetas digitales | **Como** médico, **quiero** emitir recetas digitales legibles, **para** reducir errores y facilitar la dispensación de medicamentos. | **Scenario 1: Receta emitida**<br>**Given** que el médico ya definió el tratamiento del paciente,<br>**When** registra medicamentos, dosis e indicaciones y confirma la receta,<br>**Then** el sistema genera una receta digital asociada a la atención.<br><br>**Scenario 2: Medicación incompleta**<br>**Given** que la receta tiene campos esenciales vacíos,<br>**When** el médico intenta emitirla,<br>**Then** el sistema marca la inconsistencia y evita la publicación hasta completar los datos. | E2 |
 | US015 | Solicitud de exámenes | **Como** médico, **quiero** generar órdenes de exámenes desde la misma consulta, **para** agilizar el plan diagnóstico del paciente. | **Scenario 1: Orden generada**<br>**Given** que el médico requiere estudios complementarios,<br>**When** selecciona los exámenes y confirma la orden,<br>**Then** el sistema registra la solicitud y la deja disponible para seguimiento.<br><br>**Scenario 2: Orden sin justificación clínica mínima**<br>**Given** que el establecimiento exige observación asociada a la orden,<br>**When** el médico intenta emitirla sin ese dato,<br>**Then** el sistema solicita completar la información requerida. | E2 |
 | US016 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | **Scenario 1: Reutilización de receta previa**<br>**Given** que el paciente tiene una receta anterior apta para repetición,<br>**When** el médico selecciona la opción de reutilizarla y la confirma,<br>**Then** el sistema carga los medicamentos para su revisión y emisión final.<br><br>**Scenario 2: Receta previa no apta**<br>**Given** que la receta anterior contiene medicamentos restringidos o desactualizados,<br>**When** el médico intenta reutilizarla,<br>**Then** el sistema impide la emisión automática y solicita revisión manual. | E2 |
-| US017A | Resumen de diagnósticos y antecedentes | **Como** médico, **quiero** ver un resumen consolidado de diagnósticos y antecedentes, **para** comprender rápidamente el cuadro del paciente. | **Scenario 1: Resumen disponible**<br>**Given** que el paciente tiene antecedentes,<br>**When** el médico visualiza la ficha clínica,<br>**Then** el sistema consolida sus diagnósticos previos y alertas relevantes. | E2 |
-| US017B | Gráficos evolutivos de funciones vitales | **Como** médico, **quiero** visualizar la tendencia de funciones vitales en gráficos, **para** detectar anomalías sin revisar registros tabulares. | **Scenario 1: Gráfico generado**<br>**Given** que existen registros históricos de triaje,<br>**When** el médico abre el historial,<br>**Then** el sistema muestra las gráficas de evolución del paciente. | E2 |
-| US018A | Dictado por voz de atención clínica | **Como** médico, **quiero** dictar las secciones de evolución o anamnesis, **para** reducir el tiempo de digitación en consulta. | **Scenario 1: Dictado exitoso**<br>**Given** que el médico habilita el micrófono,<br>**When** dicta el texto de la consulta,<br>**Then** la aplicación transcribe el contenido inmediatamente. | E2 |
+| US017 | Gráficos evolutivos de visitas | **Como** médico, **quiero** visualizar la tendencia visitas de los pacientes, **para** detectar frecuencia de uso. | **Scenario 1: Gráfico generado**<br>**Given** que existen registros históricos de triaje,<br>**When** el médico abre pacientes,<br>**Then** el sistema muestra las gráficas de visitas del paciente. | E2 |
+| US018 | Ingreso de medicinas al inventario | **Como** administrador, **quiero** registrar las medicinas, **para** mantener un registro de inventario de mi farmacia. | **Scenario 1: Registro de medicina**<br>**Given** el administrador ingresa a clinic settings/pharmacy,<br>**When** oprime el boton de agregar y rellena los campos <br>**Then** la aplicación registra el medicamento en el sistema. | E2 |
 | US018B | Edición y confirmación de dictado | **Como** médico, **quiero** verificar y corregir la transcripción antes del guardado, **para** asegurar la veracidad del registro clínico. | **Scenario 1: Edición posterior**<br>**Given** que se transcribió una nota por voz,<br>**When** el médico detecta un error y edita el texto,<br>**Then** el sistema guarda la versión final confirmada. | E2 |
-| US019 | Registro de triaje previo | **Como** médico, **quiero** revisar datos de triaje antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo clínico. | **Scenario 1: Triaje disponible**<br>**Given** que el paciente pasó por un proceso de triaje previo,<br>**When** el médico abre la atención correspondiente,<br>**Then** el sistema muestra signos vitales y observaciones iniciales asociadas.<br><br>**Scenario 2: Atención sin triaje previo**<br>**Given** que no existe registro de triaje para esa cita,<br>**When** el médico revisa la ficha del paciente,<br>**Then** el sistema indica claramente que no hay datos previos cargados. | E2 |
+| US019 | Emisión de recetas | **Como** médico, **quiero** registrar nuevas recetas, **para** facilitar mi flujo de trabajo. | **Scenario 1: emisión de receta exitosa**<br>**Given** que el doctor esta en pacientes,<br>**And** el médico selecciona la opción ver de asignar receta,<br>**When** rellena todos los datos **Then** el sistema registra la receta del paciente.<br><br> | E2 |
 | US020 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | **Scenario 1: Guardado exitoso**<br>**Given** que el médico completó la atención clínica,<br>**When** guarda y cierra la consulta,<br>**Then** el sistema confirma que la información fue registrada correctamente.<br><br>**Scenario 2: Fallo temporal de conexión**<br>**Given** que ocurre una interrupción momentánea al guardar la consulta,<br>**When** el sistema detecta el problema,<br>**Then** preserva la información capturada e informa al médico el estado del guardado. | E2 |
 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | **Scenario 1: Nuevo paciente registrado**<br>**Given** que el paciente no existe en la base de datos institucional,<br>**When** el administrativo registra su información obligatoria,<br>**Then** el sistema crea una ficha única para futuras atenciones.<br><br>**Scenario 2: Detección de posible duplicado**<br>**Given** que los datos ingresados coinciden con un paciente existente,<br>**When** el administrativo intenta crear un nuevo registro,<br>**Then** el sistema alerta la posible duplicidad antes de guardar. | E3 |
-| US022 | Programación de citas desde admisión | **Como** personal administrativo, **quiero** programar citas desde admisión, **para** atender solicitudes presenciales o telefónicas con mayor rapidez. | **Scenario 1: Cita registrada por admisión**<br>**Given** que el administrativo recibe una solicitud de reserva,<br>**When** selecciona paciente, especialidad y horario disponible,<br>**Then** el sistema agenda la cita y la deja visible para el médico y el paciente.<br><br>**Scenario 2: Cruce de horarios**<br>**Given** que el horario elegido ya fue ocupado,<br>**When** el administrativo intenta confirmar la reserva,<br>**Then** el sistema rechaza la programación y muestra alternativas disponibles. | E3 |
-| US023 | Confirmación de asistencia | **Como** personal administrativo, **quiero** confirmar la asistencia del paciente al llegar, **para** actualizar el flujo de atención en tiempo real. | **Scenario 1: Paciente marcado como presente**<br>**Given** que el paciente llega para una cita programada,<br>**When** admisión registra su check-in,<br>**Then** el sistema actualiza el estado de la cita a presente o en espera.<br><br>**Scenario 2: Paciente sin cita vigente**<br>**Given** que el paciente no tiene una cita programada para ese momento,<br>**When** el administrativo intenta confirmar su llegada,<br>**Then** el sistema informa que no existe una atención agendada activa. | E3 |
-| US024A | Compartición de admisión a triaje y clínica | **Como** personal de salud, **quiero** que los datos de admisión fluyan instantáneamente a triaje y consultorio, **para** agilizar el inicio de la atención. | **Scenario 1: Flujo de datos**<br>**Given** que admisión registra al paciente,<br>**When** triaje busca al paciente en cola,<br>**Then** los datos demográficos básicos aparecen autocompletados. | E3 |
-| US024B | Visibilidad cruzada con farmacia y laboratorio | **Como** personal de soporte, **quiero** acceder a las recetas y órdenes médicas generadas en consultorio, **para** procesar dispensaciones y muestras sin órdenes físicas. | **Scenario 1: Receta compartida**<br>**Given** que el médico guarda una receta digital,<br>**When** farmacia consulta la orden asociada,<br>**Then** visualiza inmediatamente el detalle para dispensar. | E3 |
-| US025A | Generación automatizada de comprobantes | **Como** personal administrativo, **quiero** emitir boletas y facturas de forma automatizada tras cerrar la atención, **para** reducir errores en caja. | **Scenario 1: Comprobante emitido**<br>**Given** la consulta finalizada y valorizada,<br>**When** se procesa el cobro en el módulo de caja,<br>**Then** el sistema genera la versión digital del comprobante. | E3 |
+| US022 | Visualizacion de mini calendario | **Como** medico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | **Scenario 1: Visualziación exitosa **<br>**Given** que el medico esta en agenda,<br>**When** hace click en un dia del calendario ,<br>**Then** el sistema muestra el horario del día seleccionado<br><br> | E3 |
+| US023 | Visualización de detalles de cita | **Como** paciente, **quiero** visualizar los detalles de mi cita programada **para** no tener dudas de su contenido. | **Scenario 1: Paciente marcado como presente**<br>**Given** que el paciente tiene una cita activa,<br>**When**le da click a visualizar detalles**Then** el sistema muestra los detalles de la cita.<br><br>. | E3 |
+| US024 | Pagar la cita | **Como** paciente, **quiero** pagar las citas medicas desde la aplicación, **para** facilitar mi experiencia. | **Scenario 1: Pago exitoso **<br>**Given** que el paciente tiene una cita<br>**When** oprime el boton pagar y sigue los pasos,<br>**Then** se registra la venta en el sistema. | E3 |
+| US025 | Generación automatizada de comprobantes | **Como** personal administrativo, **quiero** emitir boletas y facturas de forma automatizada tras cerrar la atención, **para** reducir errores en caja. | **Scenario 1: Comprobante emitido**<br>**Given** la consulta finalizada y valorizada,<br>**When** se procesa el cobro en el módulo de caja,<br>**Then** el sistema genera la versión digital del comprobante. | E3 |
 | US025B | Comunicación y envío ante el OSE/SUNAT | **Como** personal administrativo, **quiero** que el sistema gestione el envío electrónico de comprobantes a la entidad tributaria, **para** cumplir con la normativa fiscal vigente. | **Scenario 1: Comunicación SUNAT**<br>**Given** un comprobante generado,<br>**When** el sistema realiza el envío automático al OSE/SUNAT,<br>**Then** se adjunta el CDR que acredita su validez legal. | E3 |
 | US026 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | **Scenario 1: Listado de pendientes**<br>**Given** que existen atenciones no canceladas total o parcialmente,<br>**When** el administrativo consulta el módulo de pagos pendientes,<br>**Then** el sistema muestra el detalle actualizado de montos, fechas y estados.<br><br>**Scenario 2: Sin deudas registradas**<br>**Given** que todas las atenciones del periodo están pagadas,<br>**When** el administrativo revisa el módulo,<br>**Then** el sistema informa que no existen pendientes por cobrar. | E3 |
 | US027 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | **Scenario 1: Indicadores disponibles**<br>**Given** que existen datos cargados en el periodo consultado,<br>**When** el administrativo ingresa al dashboard y aplica filtros,<br>**Then** el sistema muestra indicadores resumidos y actualizados según el criterio seleccionado.<br><br>**Scenario 2: Periodo sin datos**<br>**Given** que el rango consultado no tiene actividad registrada,<br>**When** el administrativo visualiza el dashboard,<br>**Then** el sistema muestra el estado vacío sin errores ni cifras inconsistentes. | E3 |
-| US028 | Reportes automáticos de gestión | **Como** personal administrativo, **quiero** generar reportes automáticos de actividad clínica y operativa, **para** reducir horas dedicadas a informes manuales. | **Scenario 1: Reporte generado**<br>**Given** que el sistema cuenta con datos operativos del periodo,<br>**When** el administrativo solicita un reporte con filtros definidos,<br>**Then** el sistema genera el documento con el resumen correspondiente.<br><br>**Scenario 2: Parámetros inválidos**<br>**Given** que el usuario selecciona un rango o filtro inconsistente,<br>**When** intenta generar el reporte,<br>**Then** el sistema solicita corregir los parámetros antes de procesarlo. | E3 |
-| US029 | Gestión de farmacia | **Como** personal administrativo o de farmacia, **quiero** consultar las recetas emitidas y su estado de dispensación, **para** coordinar la entrega de medicamentos de forma ordenada. | **Scenario 1: Receta lista para dispensación**<br>**Given** que existe una receta digital válida para el paciente,<br>**When** farmacia consulta la orden correspondiente,<br>**Then** el sistema muestra el detalle del tratamiento y permite registrar su entrega.<br><br>**Scenario 2: Receta ya dispensada o inválida**<br>**Given** que la receta ya fue atendida o no se encuentra vigente,<br>**When** farmacia intenta procesarla nuevamente,<br>**Then** el sistema bloquea la acción e informa el estado real del documento. | E3 |
+| US028 | Descarga de historial clinico como pdf | **Como** paciente, **quiero** descargar mi historial clinico en pdf, **para** tener mis documentos fisicamente. | **Scenario 1: Reporte generado**<br>**Given** que el sistema cuenta con datos operativos del periodo,<br>**When** el paciente solicita descargar su historial clinico,<br>**Then** el sistema genera el documento listo para imprimir.<br><br> | E3 |
+| US029 | Registro de citas como administrador | **Como** personal administrativo, **quiero** registrar citas manualmente, **para** agendar pacientes que no manejen la tecnología o se presenten de forma presencial | **Scenario 1: Creación de cita desde admin**<br>**Given** el administrador se encuentra en schedule,<br>**When** hace click en agendar recurso, y rellena todos los campos <br>**Then** el sistema agenda una cita.<br><br | E3 |
 | US030A | Integración con servicios de identidad (RENIEC) | **Como** administrativo, **quiero** autocompletar datos del paciente ingresando su DNI mediante un servicio externo, **para** registrar pacientes de forma rápida y sin errores. | **Scenario 1: Autocompletar exitoso**<br>**Given** la ventana de nuevo registro,<br>**When** el administrativo digita un DNI válido y presiona consultar,<br>**Then** el sistema trae nombres y apellidos de forma automatizada. | E3 |
 | US030B | Sincronización con pasarelas de pago | **Como** administrador, **quiero** integrar pasarelas de pago digital vía API, **para** conciliar automáticamente las transacciones en línea. | **Scenario 1: Conciliación exitosa**<br>**Given** una transacción por pasarela externa,<br>**When** se valida el callback de la pasarela,<br>**Then** el sistema marca el cobro de la cita como pagado. | E3 |
 | US031 | Diseño responsive | **Como** usuario, **quiero** utilizar la plataforma desde celular, tablet o computadora, **para** acceder al sistema según el contexto de uso. | **Scenario 1: Visualización adaptable**<br>**Given** que el usuario accede desde distintos tamaños de pantalla,<br>**When** navega por los módulos principales,<br>**Then** el sistema adapta su interfaz sin perder funcionalidad ni legibilidad.<br><br>**Scenario 2: Cambio de orientación o tamaño**<br>**Given** que el usuario cambia la orientación del dispositivo o el tamaño de la ventana,<br>**When** continúa usando la plataforma,<br>**Then** el sistema reajusta la distribución sin romper la navegación. | E4 |
 | US032 | Tiempo de respuesta ágil | **Como** usuario, **quiero** que las acciones principales respondan con rapidez, **para** no perder tiempo durante procesos críticos de atención. | **Scenario 1: Consulta fluida**<br>**Given** que el usuario ejecuta una acción habitual como abrir agenda o historial,<br>**When** el sistema procesa la solicitud,<br>**Then** la información se muestra de forma ágil y comprensible para el usuario.<br><br>**Scenario 2: Alta carga del sistema**<br>**Given** que existe una mayor demanda de usuarios simultáneos,<br>**When** se consulta una función crítica,<br>**Then** el sistema mantiene operatividad y comunica cualquier demora de forma clara. | E4 |
 | US033 | Recuperación de contraseña | **Como** usuario, **quiero** recuperar mi contraseña de forma segura, **para** restablecer el acceso a mi cuenta sin soporte manual innecesario. | **Scenario 1: Recuperación exitosa**<br>**Given** que el usuario olvidó su contraseña pero recuerda su cuenta registrada,<br>**When** solicita el restablecimiento y valida el proceso,<br>**Then** el sistema le permite definir una nueva contraseña segura.<br><br>**Scenario 2: Cuenta no reconocida**<br>**Given** que el correo o identificador ingresado no existe en la plataforma,<br>**When** se intenta iniciar la recuperación,<br>**Then** el sistema informa que no pudo validar la solicitud. | E4 |
 | US034A | Definición de accesos basados en roles (RBAC) | **Como** administrador, **quiero** asignar roles preestablecidos con vistas específicas del sistema, **para** restringir el acceso a módulos fuera de la competencia del personal. | **Scenario 1: Acceso restringido**<br>**Given** un usuario con rol de farmacia,<br>**When** intenta ingresar al módulo de caja o historia clínica,<br>**Then** la navegación le oculta estos enlaces y bloquea las rutas. | E4 |
-| US034B | Gestión granular de permisos especiales | **Como** administrador, **quiero** habilitar o revocar permisos específicos a un usuario dentro de su rol, **para** manejar excepciones operativas de forma segura. | **Scenario 1: Permiso modificado**<br>**Given** el panel de administración de usuarios,<br>**When** el administrador activa un permiso adicional de edición a un médico,<br>**Then** ese usuario específico adquiere la funcionalidad sin alterar a los demás médicos. | E4 |
 | US035A | Cifrado de información médica sensible | **Como** paciente, **quiero** que mi historial clínico viaje y se almacene de forma cifrada, **para** garantizar la absoluta confidencialidad de mi salud. | **Scenario 1: Almacenamiento seguro**<br>**Given** una nota clínica ingresada,<br>**When** se guarda en la base de datos,<br>**Then** la información sensible (diagnósticos, anamnesis) se registra en formato encriptado. | E4 |
 | US035B | Bloqueos automáticos y sesiones seguras | **Como** usuario, **quiero** que la sesión se cierre por inactividad o intento fallido reiterado, **para** evitar que terceros accedan a datos clínicos en una pantalla desatendida. | **Scenario 1: Cierre de sesión**<br>**Given** una sesión inactiva por más de 15 minutos,<br>**When** expira el temporizador del sistema,<br>**Then** redirige automáticamente a la pantalla de login. | E4 |
 | US036A | Caché y guardado local temporal | **Como** usuario, **quiero** que mis datos ingresados se guarden localmente ante un corte de internet, **para** evitar perder información redactada durante minutos. | **Scenario 1: Almacenamiento offline**<br>**Given** un corte temporal de conexión a internet,<br>**When** el médico escribe en el editor clínico,<br>**Then** los datos se resguardan en el LocalStorage / IndexDB. | E4 |
 | US036B | Sincronización diferida tras restablecimiento | **Como** usuario, **quiero** que el sistema sincronice automáticamente los datos guardados localmente al recuperar la conexión, **para** mantener el registro unificado sin intervención manual. | **Scenario 1: Sincronización post-corte**<br>**Given** datos resguardados offline,<br>**When** el sistema detecta reconexión de internet,<br>**Then** lanza un proceso de fondo que sincroniza las notas pendientes con el servidor. | E4 |
 | US037 | Navegación simple | **Como** usuario, **quiero** encontrar las funciones principales con pocos pasos, **para** reducir la curva de aprendizaje y el tiempo de uso. | **Scenario 1: Ruta corta a funciones clave**<br>**Given** que el usuario necesita acceder a una función principal del sistema,<br>**When** navega desde el menú principal,<br>**Then** puede llegar a dicha función mediante una ruta clara y directa.<br><br>**Scenario 2: Usuario nuevo en la plataforma**<br>**Given** que el usuario usa el sistema por primera vez,<br>**When** explora las opciones visibles,<br>**Then** el sistema presenta etiquetas comprensibles y organización coherente. | E4 |
-| US038 | Auditoría de acciones | **Como** establecimiento de salud, **quiero** registrar acciones críticas realizadas en la plataforma, **para** contar con trazabilidad ante revisiones o auditorías. | **Scenario 1: Acción crítica registrada**<br>**Given** que un usuario crea, modifica o elimina información sensible permitida,<br>**When** confirma la operación,<br>**Then** el sistema registra la acción con usuario, fecha y contexto correspondiente.<br><br>**Scenario 2: Consulta de trazabilidad**<br>**Given** que un supervisor autorizado necesita revisar un evento del sistema,<br>**When** accede al historial de auditoría,<br>**Then** puede visualizar el registro de acciones disponibles según su permiso. | E4 |
+| US038 | Cancelar citas y eventos desde administración | **Como** administrador, **quiero** eliminar registros de citas o eventos en la plataforma, **para** tener manejar errores manuales. | **Scenario 1: Acción eliminar citas**<br>**Given** el administrador esta en agenda ,<br>**When** selecciona la cita y presiona cancelar ,<br>**Then** el sistema cancela la cita correspondiente.<br><br>| E4 |
 | US039 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | **Scenario 1: Información principal visible**<br>**Given** que un visitante entra a la landing page por primera vez,<br>**When** revisa la sección inicial del sitio,<br>**Then** encuentra una propuesta de valor clara enfocada en la gestión clínica integral.<br><br>**Scenario 2: Navegación rápida del contenido**<br>**Given** que el visitante desea identificar la solución sin leer todo el sitio,<br>**When** recorre los bloques principales,<br>**Then** puede reconocer de forma resumida beneficios y público objetivo. | E5 |
 | US040 | Solicitud de contacto comercial | **Como** visitante interesado, **quiero** dejar mis datos en un formulario de contacto, **para** solicitar una demostración o mayor información del producto. | **Scenario 1: Formulario enviado**<br>**Given** que el visitante completa sus datos de contacto y mensaje,<br>**When** envía el formulario correctamente,<br>**Then** el sistema registra la solicitud y muestra una confirmación de recepción.<br><br>**Scenario 2: Formulario incompleto**<br>**Given** que el visitante omite datos obligatorios del formulario,<br>**When** intenta enviarlo,<br>**Then** el sistema muestra validaciones y no procesa la solicitud. | E5 |
 | US041 | Sección de funcionalidades clave | **Como** visitante, **quiero** ver las funcionalidades principales del sistema en la landing page, **para** comprender el alcance de la solución antes de solicitar una demo. | **Scenario 1: Funcionalidades visibles**<br>**Given** que el visitante explora la página informativa,<br>**When** llega a la sección de funcionalidades,<br>**Then** el sistema presenta módulos como citas, historia clínica, farmacia y facturación de forma clara.<br><br>**Scenario 2: Contenido resumido y comprensible**<br>**Given** que el visitante no conoce el producto,<br>**When** revisa esa sección,<br>**Then** comprende el valor de cada funcionalidad sin necesidad de soporte adicional. | E5 |
@@ -1046,20 +1044,18 @@ Trello Link: https://trello.com/b/dHKPrPGE/vitalia-board
 | 13 | US035A | Cifrado de información médica sensible | **Como** paciente, **quiero** que mi historial clínico viaje y se almacene de forma cifrada, **para** garantizar la absoluta confidencialidad de mi salud. | 5 |
 | 14 | US035B | Bloqueos automáticos y sesiones seguras | **Como** usuario, **quiero** que la sesión se cierre por inactividad o intento fallido reiterado, **para** evitar el acceso indebido. | 3 |
 | 15 | US034A | Definición de accesos basados en roles (RBAC) | **Como** administrador, **quiero** asignar roles preestablecidos con vistas específicas del sistema, **para** restringir el acceso inapropiado. | 5 |
-| 16 | US034B | Gestión granular de permisos especiales | **Como** administrador, **quiero** habilitar o revocar permisos específicos a un usuario dentro de su rol, **para** manejar excepciones. | 3 |
 | 17 | US001 | Registro de paciente | **Como** paciente nuevo, **quiero** crear mi cuenta con mis datos personales básicos, **para** acceder a mis servicios médicos desde un solo lugar. | 5 |
 | 18 | US002 | Inicio de sesión de paciente | **Como** paciente, **quiero** iniciar sesión de manera sencilla y segura, **para** consultar rápidamente mi información médica. | 3 |
 | 19 | US033 | Recuperación de contraseña | **Como** usuario, **quiero** recuperar mi contraseña de forma segura, **para** restablecer el acceso a mi cuenta sin soporte manual innecesario. | 3 |
 | 20 | US009 | Accesibilidad de interfaz | **Como** paciente adulto mayor o con baja familiaridad digital, **quiero** una interfaz clara y legible, **para** usar la plataforma sin confusión ni dependencia de terceros. | 5 |
 | 21 | US003 | Reserva digital de citas | **Como** paciente, **quiero** reservar una cita en pocos pasos, **para** evitar llamadas o trámites presenciales innecesarios. | 5 |
-| 22 | US022 | Programación de citas desde admisión | **Como** personal administrativo, **quiero** programar citas desde admisión, **para** atender solicitudes presenciales o telefónicas con mayor rapidez. | 5 |
+| 22 | US022 | Visualizacion de mini calendario | **Como** medico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | 5 |
 | 23 | US010 | Agenda médica diaria | **Como** médico, **quiero** visualizar mi agenda diaria organizada, **para** preparar mis consultas y administrar mejor mi jornada. | 3 |
-| 24 | US023 | Confirmación de asistencia | **Como** personal administrativo, **quiero** confirmar la asistencia del paciente al llegar, **para** actualizar el flujo de atención en tiempo real. | 3 |
+| 24 | US023 | Visualización de detalles de cita |**Como** paciente, **quiero** visualizar los detalles de mi cita programada **para** no tener dudas de su contenido. | 3 |
 | 25 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | 5 |
-| 26 | US024A | Compartición de admisión a triaje y clínica | **Como** personal de salud, **quiero** que los datos de admisión fluyan instantáneamente a triaje y consultorio, **para** agilizar el inicio de la atención. | 5 |
-| 27 | US024B | Visibilidad cruzada con farmacia y laboratorio | **Como** personal de soporte, **quiero** acceder a las recetas y órdenes médicas generadas en consultorio, **para** procesar dispensaciones y muestras. | 3 |
+| 26 | US024 | Pagar la cita | **Como** paciente, **quiero** pagar las citas medicas desde la aplicación, **para** facilitar mi experiencia. | 5 |
 | 28 | US011 | Consulta rápida del historial del paciente | **Como** médico, **quiero** acceder rápidamente al historial clínico del paciente antes y durante la consulta, **para** tomar decisiones con información completa. | 5 |
-| 29 | US019 | Registro de triaje previo | **Como** médico, **quiero** revisar datos de triaje antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo clínico. | 3 |
+| 29 | US019 | Vista de hce del paciente | **Como** médico, **quiero** revisar datos de historial clinico antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo. | 3 |
 | 30 | US012 | Registro de anamnesis y examen físico | **Como** médico, **quiero** registrar anamnesis y examen físico en una sola atención, **para** documentar la consulta de forma ordenada y completa. | 5 |
 | 31 | US013 | Emisión de diagnóstico | **Como** médico, **quiero** registrar el diagnóstico de la consulta, **para** dejar constancia clínica y orientar el tratamiento del paciente. | 3 |
 | 32 | US014 | Emisión de recetas digitales | **Como** médico, **quiero** emitir recetas digitales legibles, **para** reducir errores y facilitar la dispensación de medicamentos. | 5 |
@@ -1075,15 +1071,13 @@ Trello Link: https://trello.com/b/dHKPrPGE/vitalia-board
 | 42 | US008 | Recordatorios de citas | **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos e inasistencias. | 5 |
 | 43 | US026 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | 3 |
 | 44 | US027 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | 5 |
-| 45 | US028 | Reportes automáticos de gestión | **Como** personal administrativo, **quiero** generar reportes automáticos de actividad clínica y operativa, **para** reducir horas dedicadas a informes manuales. | 5 |
+| 45 | US028 | Descarga de historial clinico como pdf | **Como** paciente, **quiero** descargar mi historial clinico en pdf, **para** tener mis documentos fisicamente. | 5 |
 | 46 | US016 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | 5 |
-| 47 | US017A | Resumen de diagnósticos y antecedentes | **Como** médico, **quiero** ver un resumen consolidado de diagnósticos y antecedentes, **para** comprender rápidamente el cuadro del paciente. | 5 |
-| 48 | US017B | Gráficos evolutivos de funciones vitales | **Como** médico, **quiero** visualizar la tendencia de funciones vitales en gráficos, **para** detectar anomalías sin revisar registros tabulares. | 3 |
-| 49 | US018A | Dictado por voz de atención clínica | **Como** médico, **quiero** dictar las secciones de evolución o anamnesis, **para** reducir el tiempo de digitación en consulta. | 5 |
-| 50 | US018B | Edición y confirmación de dictado | **Como** médico, **quiero** verificar y corregir la transcripción antes del guardado, **para** asegurar la veracidad del registro clínico. | 3 |
+| 47 | US017 | Gráficos evolutivos de visitas | **Como** médico, **quiero** visualizar la tendencia visitas de los pacientes, **para** detectar frecuencia de uso. | 5 |
+| 50 | US018 | Ingreso de medicinas al inventario | **Como** administrador, **quiero** registrar las medicinas, **para** mantener un registro de inventario de mi farmacia. | 3 |
 | 51 | US036A | Caché y guardado local temporal | **Como** usuario, **quiero** que mis datos ingresados se guarden localmente ante un corte de internet, **para** evitar perder información redactada. | 5 |
 | 52 | US036B | Sincronización diferida tras restablecimiento | **Como** usuario, **quiero** que el sistema sincronice automáticamente los datos guardados localmente al recuperar la conexión, **para** mantener la integridad. | 3 |
-| 53 | US038 | Auditoría de acciones | **Como** establecimiento de salud, **quiero** registrar acciones críticas realizadas en la plataforma, **para** contar con trazabilidad ante revisiones o auditorías. | 5 |
+| 53 | US038 | Cancelar citas y eventos desde administración | **Como** administrador, **quiero** eliminar registros de citas o eventos en la plataforma, **para** tener manejar errores manuales. | 5 |
 | 54 | US030A | Integración con servicios de identidad (RENIEC) | **Como** administrativo, **quiero** autocompletar datos del paciente ingresando su DNI mediante un servicio externo, **para** registrar pacientes de forma rápida. | 5 |
 | 55 | US030B | Sincronización con pasarelas de pago | **Como** administrador, **quiero** integrar pasarelas de pago digital vía API, **para** conciliar automáticamente las transacciones en línea. | 3 |
 
@@ -2000,7 +1994,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>vitalia-landing</td>
       <td>develop</td>
-      <td> </td>
+      <td>9184da9</td>
       <td>feat: add language modificator</td>
       <td> - </td>
       <td>Abril 25, 2026</td>
@@ -2022,11 +2016,11 @@ Se prevé que en futuros Sprints, conforme se integren funcionalidades dinámica
 
 #### *5.2.1.7. Software Deployment Evidence for Sprint Review*
 
-El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
+El despliegue se realizó mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
 
-<img src="./assets/images/others/deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
+<img src="../assets/images/others/s1-deployment-1.png" alt="s1-deployment-1" style="width: 100vw;"/>
 
-<img src="./assets/images/others/deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
+<img src="../assets/images/others/s1-deployment-2.png" alt="s1-deployment-2" style="width: 100vw;"/>
 
 **Procedimiento planificado:** 
 
@@ -2044,9 +2038,327 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 
-<img src="./assets/images/others/collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
+<img src="../assets/images/others/s1-collab-insight-1.png" alt="s1-collab-insight-1"  style="width: 100vw;"/>
 
-<img src="./assets/images/others/collab-insight-2.png" alt="collab-insights2" style="width: 100vw;"/>
+<img src="../assets/images/others/s1-collab-insight-2.png" alt="s1-collab-insight-2" style="width: 100vw;"/>
+
+### 5.2.2. Sprint 2
+
+#### *5.2.2.1. Sprint Planning 2*
+
+Para el desarrollo del segundo sprint, el equipo se centrará en la construcción del Frontend de la aplicación web de Vitalia utilizando el framework Vue.js. El enfoque principal consiste en estructurar la arquitectura SPA (Single Page Application) utilizando herramientas como Vue Router y Pinia para la gestión de estados, implementar el sistema de diseño responsivo "Santuario Clínico" y simular/consumir datos (Fake API / json-server) para dar soporte a los flujos funcionales de pacientes, médicos y administradores.
+
+| **Sprint #** | 2 |
+| --- | --- |
+| **Date** | 2026-05-10 |
+| **Time** | 16:30 |
+| **Location** | Reunión virtual |
+| **Prepared By** | Nestor Alonso Rojas Tello |
+| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
+| **Sprint n Goal** | Construir la interfaz de usuario interactiva y responsive de la aplicación web de Vitalia utilizando Vue.js, implementando la navegación segura basada en roles (RBAC), los flujos de autenticación del paciente y las vistas principales para la agenda médica y reserva de citas, consumiendo servicios de datos simulados (Mock APIs). |
+| **Sprint n Velocity** | Designamos aceptar hasta 35 SP |
+| **Sum of Story Points** | 34 SP |
+
+#### *5.2.2.2. Aspect Leaders and Collaborators*
+
+| Team Member | GitHub Username | Vue Core & Router | Vistas Paciente | Vistas Médico | Vistas Admin | Mock Services |
+| --- | --- | --- | --- | --- | --- | --- |
+| Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
+| Dulanto Espino, Leo César | Leotens | C | C | C | L | C |
+| Ruiz Mideyros, Adrian | AdrixRyz | L | C | C | C | C |
+| Alexther Kamil Diaz Martinez | kamil-tron | C | L | C | C | C |
+| Rojas Tello, Alonso | nes-ro | C | C | C | C | L |
+
+#### *5.2.2.3. Sprint Backlog 2*
+
+<p><strong>Sprint #:</strong> Sprint 2</p>
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th colspan="3">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Story Points</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US031</td>
+      <td>Diseño responsive</td>
+      <td>5</td>
+      <td>TO13</td>
+      <td>Componentes Base Responsivos</td>
+      <td>Adaptar los layouts de UI "Santuario Clínico" a móvil/escritorio</td>
+      <td>1</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US037</td>
+      <td>Navegación simple</td>
+      <td>3</td>
+      <td>TO14</td>
+      <td>Configuración de Rutas y Sidebar</td>
+      <td>Configurar el sistema de Vue Router y menú persistente</td>
+      <td>1</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US032</td>
+      <td>Tiempo de respuesta ágil</td>
+      <td>5</td>
+      <td>TO15</td>
+      <td>Lazy Loading y Componentes</td>
+      <td>Implementar carga perezosa en rutas e imágenes pesadas</td>
+      <td>1</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US034A</td>
+      <td>Definición de accesos basados en roles (RBAC)</td>
+      <td>5</td>
+      <td>TO16</td>
+      <td>Navigation Guards y Roles</td>
+      <td>Implementar guards de navegación para restringir vistas</td>
+      <td>1</td>
+      <td>kamil-tron</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US001</td>
+      <td>Registro de paciente</td>
+      <td>5</td>
+      <td>TO17</td>
+      <td>Vista de Registro de Paciente</td>
+      <td>Construir el formulario reactivo para nuevos pacientes</td>
+      <td>1</td>
+      <td>kamil-tron</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US002</td>
+      <td>Inicio de sesión de paciente</td>
+      <td>3</td>
+      <td>TO18</td>
+      <td>Pantalla de Login y Store</td>
+      <td>Crear login consumiendo store reactivo (Pinia/Estado)</td>
+      <td>1</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US003</td>
+      <td>Reserva digital de citas</td>
+      <td>5</td>
+      <td>TO19</td>
+      <td>Wizard de Booking</td>
+      <td>Crear el flujo secuencial para reserva de citas</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US010</td>
+      <td>Agenda médica diaria</td>
+      <td>3</td>
+      <td>TO20</td>
+      <td>Calendario y Agenda</td>
+      <td>Construir la visualización de la agenda médica</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+  </tbody>
+</table>
+
+#### *5.2.2.4. Development Evidence for Sprint Review*
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>      
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>356e2fa</td>
+      <td>chore: setup initial project structure</td>
+      <td>2026-05-10</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/clinical-context-foundation</td>
+      <td>5e004eb</td>
+      <td>feat(clinical): add domain entities, assemblers and api layer</td>
+      <td>2026-05-11</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/scheduling</td>
+      <td>a292493</td>
+      <td>feat: Add scheduling entities and assemblers</td>
+      <td>2026-05-11</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/medicalRecords</td>
+      <td>1c00c0d</td>
+      <td>fix(clinical): derive high priority from record signals</td>
+      <td>2026-05-11</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/scheduling</td>
+      <td>7137d8a</td>
+      <td>feat: scheduling flow</td>
+      <td>2026-05-12</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/patient-history</td>
+      <td>bdc5f04</td>
+      <td>feat: add patient history view</td>
+      <td>2026-05-12</td>
+    </tr><tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/pharmacy</td>
+      <td>512456</td>
+      <td>feat(pharmacy): add pharmacy context</td>
+      <td>2026-05-12</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/profile-view</td>
+      <td>59ca07a</td>
+      <td>feat(profiles): add roles profiles</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/analytics</td>
+      <td>035c0ed</td>
+      <td>feat: add billing view</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/clinic-settings</td>
+      <td>44d023f</td>
+      <td>feat: add clinic settings view</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/admin-users-view</td>
+      <td>875e0d4</td>
+      <td>feat(admin): add admin users view</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/analytics</td>
+      <td>2607f21</td>
+      <td>feat(doctor): add doctor order view</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/scheduling</td>
+      <td>7da4763</td>
+      <td>feat: add functional calendar</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/billing</td>
+      <td>c94073a</td>
+      <td>feat: add payment in appointment</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/billing</td>
+      <td>2e8520f</td>
+      <td>feat: add prescriptions view</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/dashboard</td>
+      <td>53144880</td>
+      <td>feat: add dashboard flows</td>
+      <td>2026-05-13</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/routes</td>
+      <td>8fc2e5d</td>
+      <td>feat: setup routes</td>
+      <td>2026-05-13</td>
+    </tr>
+  </tbody>
+</table>
+
+#### *5.2.2.5. Execution Evidence for Sprint Review*
+
+Durante este Sprint, el equipo completó con éxito la transición del diseño UI/UX hacia una aplicación interactiva construida en **Vue 3**. Se estructuró la arquitectura interna de la Single Page Application (SPA) y se integró la lógica de negocio en el Frontend mediante vistas reactivas para los tres perfiles de usuario (Administradores, Médicos y Pacientes).
+
+**Principales entregables funcionales:**
+- **Calendario y Flujo de Agendamiento:** Un calendario funcional que permite al paciente interactuar y programar citas médicas en tiempo real.
+- **Historial Clínico Dinámico:** Un panel especializado que centraliza los antecedentes del paciente, facilitando la visualización rápida de registros médicos previos.
+- **Módulo Administrativo y Facturación:** Tableros dedicados para la gestión de configuraciones de la clínica, perfiles de usuarios del sistema y analíticas/métricas de facturación iniciales.
+- **Módulo de Farmacia y Órdenes Médicas:** Vistas diseñadas para el perfil del doctor enfocadas en la emisión estructurada de órdenes y seguimiento de recetas.
+
+#### *5.2.2.6. Services Documentation Evidence for Sprint Review*
+
+Para alimentar las vistas funcionales sin depender inicialmente de un backend de producción acoplado, el Frontend consume una **Fake API REST** desplegada independientemente. 
+
+El diseño de la integración se organizó de la siguiente forma:
+- **API Consumption Layer:** Módulos internos en Vue encargados de encapsular las peticiones HTTP (mediante Axios/Fetch) centralizando las llamadas hacia el servidor simulado.
+- **Domain Entities & Assemblers:** Para mitigar riesgos de cambio de esquema, el proyecto implementa la capa de Entidades de Dominio y Ensambladores que transforman la respuesta cruda del JSON al modelo de datos de negocio de Vitalia.
+- **Endpoint Simulation:** El mock server aloja colecciones clave como `/patients`, `/appointments`, `/medical-records`, `/pharmacy` y `/billing`.
+
+#### *5.2.2.7. Software Deployment Evidence for Sprint Review*
+
+El despliegue continuo del Frontend de la aplicación web (Single Page Application) se encuentra configurado exitosamente en Firebase Hosting.
+
+**Enlaces del entorno desplegado:**
+- **Frontend App URL (VueJS):** https://vitalia-frontend.web.app
+- **Mock Service Endpoint:** https://db-server-vitalia.onrender.com
+
+<img src="../assets/images/others/s2-deployment-1.png" alt="s2-deployment-1" style="width: 100vw;"/>
+
+<img src="../assets/images/others/s2-deployment-2.png" alt="s2-deployment-2" style="width: 100vw;"/>
+
+#### *5.2.2.8. Team Collaboration Insights during Sprint*
+
+Para la organización técnica del desarrollo del Frontend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (`feature/`) bien definidas (como `feature/scheduling`, `feature/patient-history`, `feature/analytics`, etc.), garantizando una integración ordenada hacia la rama `develop`.
+
+A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
+
+<img src="../assets/images/others/s2-collab-insight-1.png" alt="s2-collab-insight-1"  style="width: 100vw;"/>
+
+<img src="../assets/images/others/s2-collab-insight-2.png" alt="s2-collab-insight-2" style="width: 100vw;"/>
+
+El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
 
 # Conclusiones
 
@@ -2098,14 +2410,7 @@ Wafa K. Alanazi. (2024). Effect of electronic prescription system modifications 
 | **Class Diagram** | [Class Diagram](raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/class-diagram-etapa-3.puml) |
 | **Database Diagram** | [Database Diagram](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/database-diagram.svg) |
 
-**Anexo B. Videos de expocisiones**
-
-| Hito | Enlace al Video |
-| --- | --- |
-| **AV1** | [upc-pre-202610-1asi0730-10203-kinetialabs-expo-av1](https://av1) |
-| **TB1** | [upc-pre-202610-1asi0730-10203-kinetialabs-expo-tb1](https://tb11) |
-
-**Anexo C. Enlaces Importantes**
+**Anexo B. Enlaces Importantes**
 
 | Título | Enlace |
 | --- | --- |
@@ -2114,3 +2419,4 @@ Wafa K. Alanazi. (2024). Effect of electronic prescription system modifications 
 | Landing Page Desplegada | https://kinetia-upc.github.io/vitalia-landing |
 | Repositorio del frontend | https://github.com/kinetia-upc/vitalia-frontend |
 | Frontend Desplegado | https://vitalia-frontend.web.app |
+| Fake Api Desplegado | https://db-server-vitalia.onrender.com |

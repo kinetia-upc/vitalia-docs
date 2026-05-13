@@ -306,7 +306,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>vitalia-landing</td>
       <td>develop</td>
-      <td> </td>
+      <td>9184da9</td>
       <td>feat: add language modificator</td>
       <td> - </td>
       <td>Abril 25, 2026</td>
@@ -328,11 +328,11 @@ Se prevé que en futuros Sprints, conforme se integren funcionalidades dinámica
 
 #### *5.2.1.7. Software Deployment Evidence for Sprint Review*
 
-El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
+El despliegue se realizó mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
 
-<img src="../assets/images/others/deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
+<img src="../assets/images/others/s1-deployment-1.png" alt="s1-deployment-1" style="width: 100vw;"/>
 
-<img src="../assets/images/others/deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
+<img src="../assets/images/others/s1-deployment-2.png" alt="s1-deployment-2" style="width: 100vw;"/>
 
 **Procedimiento planificado:** 
 
@@ -350,6 +350,6 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 
-<img src="../assets/images/others/collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
+<img src="../assets/images/others/s1-collab-insight-1.png" alt="s1-collab-insight-1"  style="width: 100vw;"/>
 
-<img src="../assets/images/others/collab-insight-2.png" alt="collab-insights2" style="width: 100vw;"/>
+<img src="../assets/images/others/s1-collab-insight-2.png" alt="s1-collab-insight-2" style="width: 100vw;"/>
