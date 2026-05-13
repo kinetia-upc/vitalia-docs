@@ -30,7 +30,7 @@
 | Diaz Martinez, Alexther Kamil | U202412316 |
 | Dulanto Espino, Leo César | U202410254 |
 
-**Abril, 2026**
+**Mayo, 2026**
 
 # Registro de versiones del informe
 
@@ -2055,9 +2055,9 @@ Para el desarrollo del segundo sprint, el equipo se centrará en la construcció
 | **Location** | Reunión virtual |
 | **Prepared By** | Nestor Alonso Rojas Tello |
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
-| **Sprint n Goal** | Construir la interfaz de usuario interactiva y responsive de la aplicación web de Vitalia utilizando Vue.js, implementando la navegación segura basada en roles (RBAC), los flujos de autenticación del paciente y las vistas principales para la agenda médica y reserva de citas, consumiendo servicios de datos simulados (Mock APIs). |
+| **Sprint n Goal** | Our focus is on building a fully interactive and responsive user interface for the Vitalia web application using Vue.js. The goal is to implement secure Role-Based Access Control (RBAC) navigation, core patient workflows, and primary views for medical agendas and appointment booking, integrated with simulated data services (Mock APIs). This will be validated once the web application is deployed, ensuring a seamless, intuitive experience for patients, doctors, and administrators across both mobile and desktop devices. |
 | **Sprint n Velocity** | Designamos aceptar hasta 35 SP |
-| **Sum of Story Points** | 34 SP |
+| **Sum of Story Points** | 26 SP |
 
 #### *5.2.2.2. Aspect Leaders and Collaborators*
 
@@ -2145,28 +2145,6 @@ Para el desarrollo del segundo sprint, el equipo se centrará en la construcció
       <td>Construir el formulario reactivo para nuevos pacientes</td>
       <td>1</td>
       <td>kamil-tron</td>
-      <td>Completed</td>
-    </tr>
-    <tr>
-      <td>US002</td>
-      <td>Inicio de sesión de paciente</td>
-      <td>3</td>
-      <td>TO18</td>
-      <td>Pantalla de Login y Store</td>
-      <td>Crear login consumiendo store reactivo (Pinia/Estado)</td>
-      <td>1</td>
-      <td>nes-ro</td>
-      <td>Completed</td>
-    </tr>
-    <tr>
-      <td>US003</td>
-      <td>Reserva digital de citas</td>
-      <td>5</td>
-      <td>TO19</td>
-      <td>Wizard de Booking</td>
-      <td>Crear el flujo secuencial para reserva de citas</td>
-      <td>1</td>
-      <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
@@ -2407,7 +2385,7 @@ Wafa K. Alanazi. (2024). Effect of electronic prescription system modifications 
 | --- | --- |
 | **BicPicture EventStorming** | [BigPicture EventStorming](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/big-picture-event-storming-diagram.svg) |
 | **DesignLevel EventStorming** | [DesignLevel EventStorming](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/design-level-event-storming-diagram.svg) |
-| **Class Diagram** | [Class Diagram](raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/class-diagram-etapa-3.puml) |
+| **Class Diagram** | [Class Diagram](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/class-diagram-etapa-3.puml) |
 | **Database Diagram** | [Database Diagram](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/database-diagram.svg) |
 
 **Anexo B. Enlaces Importantes**

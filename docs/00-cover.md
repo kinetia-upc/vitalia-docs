@@ -30,7 +30,7 @@
 | Diaz Martinez, Alexther Kamil | U202412316 |
 | Dulanto Espino, Leo César | U202410254 |
 
-**Abril, 2026**
+**Mayo, 2026**
 
 # Registro de versiones del informe
 
