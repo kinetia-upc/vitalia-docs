@@ -3,10 +3,11 @@
 ### 5.2.1. Sprint 1
 
 #### *5.2.1.1. Sprint Planning 1*
+
 Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por seccion de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
 
 | **Sprint #** | 1 |
-|------|--------|
+| --- | --- |
 | **Date** | 2026-24-04 |
 | **Time** | 4:00 PM |
 | **Location** | Reunión virtual |
@@ -14,17 +15,17 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino|
 | **Sprint n Goal** | Our focus is on building a fully responsive landing page aligned with Vitalia’s healthcare value proposition, with all key sections clearly structured. The goal is to communicate how our platform enhances access to medical services, improves patient experience, and integrates solutions such as diagnostics, laboratory, and specialized care. This will be validated once the page is deployed, ensuring a seamless, intuitive experience across both mobile and desktop devices. |
 | **Sprint n Velocity** | Designamos aceptar hasta 20 SP |
-| **Sum of Story Points** | 14 SP |
+| **Sum of Story Points** | 20 SP |
 
 #### *5.2.1.2. Aspect Leaders and Collaborators*
 
-| Team Member (Last Name, First Name) | GitHub Username | funcionalidades | Planes | Contacto | Sobre nosotros | Clientes |
-|-----------------------------------|-----------------|-----------------------------|------------------|-----------|-----|----|
+| Team Member | GitHub Username | Hero | Planes | Contacto | Sobre nosotros | Clientes |
+| --- | --- | --- | --- | --- | --- | --- |
 | Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
 | Dulanto Espino, Leo César | Leotens | L | C | C | C | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | C | L | C | C | C |
 | Alexther Kamil Diaz Martinez | kamil-tron | C | C | C | C | L |
-| Rojas Tello, Alonso | nes-ro | C | C | C | L | C|
+| Rojas Tello, Alonso | nes-ro | C | C | C | L | C |
 
 #### *5.2.1.3. Sprint Backlog 1*
 
@@ -33,12 +34,13 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
-      <th colspan="2">User Story</th>
+      <th colspan="3">User Story</th>
       <th colspan="6">Work-Item / Task</th>
     </tr>
     <tr>
       <th>Id</th>
       <th>Title</th>
+      <th>Story Points</th>
       <th>Id</th>
       <th>Title</th>
       <th>Description</th>
@@ -51,6 +53,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <tr>
       <td>US044</td>
       <td>LLamados a la acción visibles</td>
+      <td>2</td>
       <td>TO01</td>
       <td>Hero</td>
       <td>Implementar el hero de la landing page</td>
@@ -61,6 +64,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US039</td>
       <td>Visualización de propuesta de valor</td>
+      <td>2</td>
       <td>TO02</td>
       <td>Header</td>
       <td>Implementar el header de la landing page</td>
@@ -71,6 +75,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US041</td>
       <td>Sección de funcionalidades clave</td>
+      <td>2</td>
       <td>TO03</td>
       <td>Sección funcionalidades</td>
       <td>Implementar funcionalidades clave</td>
@@ -81,6 +86,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US042</td>
       <td>Presentación por segmentos objetivo</td>
+      <td>3</td>
       <td>TO04</td>
       <td>Sección clientes</td>
       <td>Implementar Who is vitalia for? </td>
@@ -91,16 +97,18 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US043</td>
       <td>Evidencia de diferenciación competitiva</td>
+      <td>2</td>
       <td>TO05</td>
       <td>Sección planes</td>
       <td>Implementar sección planes</td>
       <td>1</td>
-      <td>AdrxRyz</td>
+      <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US043</td>
       <td>Evidencia de diferenciación competitiva</td>
+      <td>2</td>
       <td>TO06</td>
       <td>Sección sobre nosotros</td>
       <td>Implementar about us</td>
@@ -111,6 +119,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US040</td>
       <td>Solicitud de contacto comercial</td>
+      <td>3</td>
       <td>TO07</td>
       <td>Contact us</td>
       <td>Mostrar información de contacto</td>
@@ -121,6 +130,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US040</td>
       <td>Solicitud de contacto comercial</td>
+      <td>3</td>
       <td>TO08</td>
       <td>Contact us</td>
       <td>Agregar formulario de contacto</td>
@@ -131,11 +141,45 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US045</td>
       <td>Cambio de idioma en landing page</td>
+      <td>2</td>
       <td>TO09</td>
       <td>Idioma</td>
       <td>Agregar idiomas en landing page</td>
       <td>1</td>
       <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS001</td>
+      <td>Configuración de arquitectura base y GitFlow</td>
+      <td>2</td>
+      <td>TO10</td>
+      <td>Git y GitFlow Setup</td>
+      <td>Establecer estructura de ramas y convenciones en el repositorio</td>
+      <td>1</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS001</td>
+      <td>Configuración de arquitectura base y GitFlow</td>
+      <td>2</td>
+      <td>TO11</td>
+      <td>Boilerplate y estructura</td>
+      <td>Crear la estructura inicial de carpetas y plantillas HTML/CSS</td>
+      <td>1</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS002</td>
+      <td>Configuración de entorno CI/CD</td>
+      <td>2</td>
+      <td>TO12</td>
+      <td>GitHub Pages Setup</td>
+      <td>Configurar la automatización y despliegue de la landing page</td>
+      <td>1</td>
+      <td>kamil-tron</td>
       <td>Completed</td>
     </tr>
   </tbody>
@@ -286,9 +330,9 @@ Se prevé que en futuros Sprints, conforme se integren funcionalidades dinámica
 
 El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
 
-<img src="../assets/images/figures/xx-deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
+<img src="../assets/images/others/deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
 
-<img src="../assets/images/figures/xx-deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
+<img src="../assets/images/others/deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
 
 **Procedimiento planificado:** 
 
@@ -306,6 +350,6 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 
-<img src="../assets/images/figures/xx-collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
+<img src="../assets/images/others/collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
 
-<img src="../assets/images/figures/xx-collab-insight-2.png" alt="collab-insights3" style="width: 100vw;"/>
+<img src="../assets/images/others/collab-insight-2.png" alt="collab-insights2" style="width: 100vw;"/>

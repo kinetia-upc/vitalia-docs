@@ -55,6 +55,7 @@
 | 0.1.16 | 24/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
 | 0.1.17 | 25/4/26 | @kamil-tron | docs: añadir todos los puntos de Information Architecture |
 | 0.1.18 | 25/4/26 | @AleeAsto | docs: añadir sprint 1 |
+| 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correciones del av1 |
 
 # Project Report Collaboration Insights
 
@@ -64,7 +65,11 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **AV1**
 
-<img src="../assets/images/figures/00-docs-insigh.png" alt="Impact Map 2" style="width: 100vw;">
+<img src="../assets/images/others/docs-insights-av1.png" alt="Docs Insight AV1" style="width: 100vw;">
+
+**TB1**
+
+<img src="../assets/images/others/docs-insights-tb1.png" alt="Docs Insights TB1" style="width: 100vw;">
 
 # Tabla de contenidos
 
@@ -155,6 +160,15 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.1.6. Services Documentation Evidence for Sprint Review  
 5.2.1.7. Software Deployment Evidence for Sprint Review  
 5.2.1.8. Team Collaboration Insights during Sprint  
+[**5.2.2. Sprint 2**](52-sprint-2.md)  
+5.2.2.1. Sprint Planning 2  
+5.2.2.2. Aspect Leaders and Collaborators  
+5.2.2.3. Sprint Backlog 2  
+5.2.2.4. Development Evidence for Sprint Review  
+5.2.2.5. Execution Evidence for Sprint Review  
+5.2.2.6. Services Documentation Evidence for Sprint Review  
+5.2.2.7. Software Deployment Evidence for Sprint Review  
+5.2.2.8. Team Collaboration Insights during Sprint  
 
 [**Conclusiones**](80-conclusions.md)  
 [**Recomendaciones**](81-recommendations.md)  
@@ -163,9 +177,9 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 # Student Outcome
 
-En esta sección se describe cómo cada integrante aportó al cumplimiento del Student Outcome durante la primera entrega del proyecto. Las acciones se redactan tomando como referencia el registro de versiones del informe, donde se evidencia la distribución de responsabilidades, el liderazgo compartido y el avance colaborativo en los capítulos y entregables desarrollados para AV1.
+En esta sección se describe cómo cada integrante contribuyó al desarrollo del Student Outcome durante la primera entrega del proyecto. Las actividades se redactan como evidencias de trabajo colaborativo, coordinación, liderazgo compartido y comunicación efectiva, en lugar de listar únicamente tareas o entregables.
 
 | Criterio especifico | Acciones realizadas | Conclusiones |
 | --- | --- | --- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Lideró aportes de base para el Capítulo I, desarrolló el Ubiquitous Language y completó los Style Guidelines, conectando la definición del producto con el lenguaje del dominio y la identidad visual del proyecto.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Lideró el análisis de competidores, la definición de segmentos objetivo, el Big Picture EventStorming, la arquitectura Domain-Driven y el diseño de base de datos, aportando estructura estratégica y técnica al informe.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Lideró la descripción del startup, antecedentes y problemática, el análisis de entrevistas, la gestión de configuración de software, el diseño UI de la landing page y la documentación del Sprint 1.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Lideró el desarrollo de Needfinding, el diagrama de clases y la arquitectura de información, fortaleciendo la comprensión de usuarios, entidades del sistema y organización de contenidos.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Lideró el Lean UX Process, el diseño y registro de entrevistas, y el Capítulo III, articulando hipótesis, requisitos, historias de usuario, impact mapping y backlog del producto. | **AV1:** El equipo distribuyó el liderazgo según las fortalezas de cada integrante. La evidencia del registro de versiones muestra una participación equilibrada en investigación, diseño, arquitectura, requisitos y gestión del proyecto. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Cumplió tareas asignadas en diferentes momentos del avance del informe, aportando contenido inicial, vocabulario común y lineamientos visuales que facilitaron la coherencia entre capítulos.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Contribuyó de forma sostenida en entregables de análisis, estrategia y arquitectura, ayudando a ordenar decisiones del equipo y a mantener continuidad entre la visión de negocio y la solución técnica.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Participó en etapas clave de contexto, validación, configuración, diseño y sprint, integrando aportes de investigación y desarrollo para cerrar entregables completos dentro del cronograma.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Aportó entregables relacionados con investigación de usuarios, modelado orientado a objetos y organización de la información, apoyando la toma de decisiones colaborativa sobre la experiencia y estructura del producto.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Desarrolló actividades de descubrimiento, entrevistas y especificación de requisitos, permitiendo que el equipo convierta necesidades de usuarios en historias, objetivos y backlog priorizado. | **AV1:** El registro de versiones evidencia una planificación colaborativa con responsabilidades distribuidas. Cada miembro completó entregables específicos y complementarios, lo que permitió avanzar de manera ordenada hacia los objetivos de la primera entrega. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en espacios de coordinación para alinear criterios del equipo, propuso acuerdos comunes para la redacción del informe y apoyó la integración visual y conceptual de los capítulos, favoreciendo un liderazgo compartido.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Contribuyó a la toma de decisiones del grupo mediante discusiones técnicas y de negocio, ayudando a priorizar enfoques, contrastar alternativas y sostener una dirección común durante la elaboración del informe.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Favoreció la coordinación del equipo al mantener comunicación constante sobre avances, validar aportes de sus compañeros y facilitar la continuidad entre investigación, diseño y documentación.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Impulsó el trabajo conjunto al compartir observaciones sobre usuarios, estructura del sistema y organización del contenido, fortaleciendo la colaboración y el consenso en las decisiones del grupo.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Promovió el diálogo entre integrantes al facilitar sesiones de revisión, recoger retroalimentación y ordenar aportes para convertirlos en criterios comunes de trabajo. | **AV1:** El equipo ejerció un liderazgo distribuido basado en la coordinación y el diálogo. Las actividades registradas reflejan colaboración real en la construcción de acuerdos, más que una división aislada de funciones. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en la definición de acuerdos y en la organización de avances parciales, ayudando a que el equipo mantenga una dinámica de trabajo ordenada, respetuosa y orientada al cumplimiento de metas comunes.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Apoyó la planificación del grupo al priorizar actividades, proponer secuencias de trabajo y facilitar que las decisiones técnicas se alinearan con los objetivos del proyecto.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Contribuyó a sostener un ambiente de trabajo colaborativo al compartir avances, validar observaciones y ajustar aportes según la retroalimentación del equipo.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Aportó a la organización colectiva al revisar avances con sus compañeros, integrar comentarios y asegurar que la información compartida sirviera para avanzar hacia objetivos comunes.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Impulsó la coordinación del equipo mediante revisiones periódicas, intercambio de ideas y ajuste de prioridades, fortaleciendo la capacidad grupal para cumplir lo planificado. | **AV1:** La evidencia muestra un entorno de trabajo colaborativo, con metas compartidas y seguimiento constante de avances. El cumplimiento de objetivos fue resultado de la coordinación y la retroalimentación entre integrantes. |

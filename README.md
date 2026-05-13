@@ -1,7 +1,6 @@
-# Vitalia by KinetiaLabs
 # Informe del trabajo Final
 
-<img src="assets/images/others/upc-logo.png" alt="upc-logo" width="150"/><br>
+<img src="../assets/images/others/upc-logo.png" alt="upc-logo" width="150"/><br>
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**
 
@@ -56,6 +55,7 @@
 | 0.1.16 | 24/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
 | 0.1.17 | 25/4/26 | @kamil-tron | docs: añadir todos los puntos de Information Architecture |
 | 0.1.18 | 25/4/26 | @AleeAsto | docs: añadir sprint 1 |
+| 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correciones del av1 |
 
 # Project Report Collaboration Insights
 
@@ -65,7 +65,11 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **AV1**
 
-<img src="assets/images/figures/00-docs-insigh.png" alt="Impact Map 2" style="width: 100vw;">
+<img src="../assets/images/others/docs-insights-av1.png" alt="Docs Insight AV1" style="width: 100vw;">
+
+**TB1**
+
+<img src="../assets/images/others/docs-insights-tb1.png" alt="Docs Insights TB1" style="width: 100vw;">
 
 # Tabla de contenidos
 
@@ -156,6 +160,15 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.1.6. Services Documentation Evidence for Sprint Review  
 5.2.1.7. Software Deployment Evidence for Sprint Review  
 5.2.1.8. Team Collaboration Insights during Sprint  
+[**5.2.2. Sprint 2**](52-sprint-2.md)  
+5.2.2.1. Sprint Planning 2  
+5.2.2.2. Aspect Leaders and Collaborators  
+5.2.2.3. Sprint Backlog 2  
+5.2.2.4. Development Evidence for Sprint Review  
+5.2.2.5. Execution Evidence for Sprint Review  
+5.2.2.6. Services Documentation Evidence for Sprint Review  
+5.2.2.7. Software Deployment Evidence for Sprint Review  
+5.2.2.8. Team Collaboration Insights during Sprint  
 
 [**Conclusiones**](80-conclusions.md)  
 [**Recomendaciones**](81-recommendations.md)  
@@ -164,12 +177,12 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 # Student Outcome
 
-En esta sección se describe cómo cada integrante aportó al cumplimiento del Student Outcome durante la primera entrega del proyecto. Las acciones se redactan tomando como referencia el registro de versiones del informe, donde se evidencia la distribución de responsabilidades, el liderazgo compartido y el avance colaborativo en los capítulos y entregables desarrollados para AV1.
+En esta sección se describe cómo cada integrante contribuyó al desarrollo del Student Outcome durante la primera entrega del proyecto. Las actividades se redactan como evidencias de trabajo colaborativo, coordinación, liderazgo compartido y comunicación efectiva, en lugar de listar únicamente tareas o entregables.
 
 | Criterio especifico | Acciones realizadas | Conclusiones |
 | --- | --- | --- |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Lideró aportes de base para el Capítulo I, desarrolló el Ubiquitous Language y completó los Style Guidelines, conectando la definición del producto con el lenguaje del dominio y la identidad visual del proyecto.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Lideró el análisis de competidores, la definición de segmentos objetivo, el Big Picture EventStorming, la arquitectura Domain-Driven y el diseño de base de datos, aportando estructura estratégica y técnica al informe.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Lideró la descripción del startup, antecedentes y problemática, el análisis de entrevistas, la gestión de configuración de software, el diseño UI de la landing page y la documentación del Sprint 1.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Lideró el desarrollo de Needfinding, el diagrama de clases y la arquitectura de información, fortaleciendo la comprensión de usuarios, entidades del sistema y organización de contenidos.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Lideró el Lean UX Process, el diseño y registro de entrevistas, y el Capítulo III, articulando hipótesis, requisitos, historias de usuario, impact mapping y backlog del producto. | **AV1:** El equipo distribuyó el liderazgo según las fortalezas de cada integrante. La evidencia del registro de versiones muestra una participación equilibrada en investigación, diseño, arquitectura, requisitos y gestión del proyecto. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Cumplió tareas asignadas en diferentes momentos del avance del informe, aportando contenido inicial, vocabulario común y lineamientos visuales que facilitaron la coherencia entre capítulos.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Contribuyó de forma sostenida en entregables de análisis, estrategia y arquitectura, ayudando a ordenar decisiones del equipo y a mantener continuidad entre la visión de negocio y la solución técnica.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Participó en etapas clave de contexto, validación, configuración, diseño y sprint, integrando aportes de investigación y desarrollo para cerrar entregables completos dentro del cronograma.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Aportó entregables relacionados con investigación de usuarios, modelado orientado a objetos y organización de la información, apoyando la toma de decisiones colaborativa sobre la experiencia y estructura del producto.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Desarrolló actividades de descubrimiento, entrevistas y especificación de requisitos, permitiendo que el equipo convierta necesidades de usuarios en historias, objetivos y backlog priorizado. | **AV1:** El registro de versiones evidencia una planificación colaborativa con responsabilidades distribuidas. Cada miembro completó entregables específicos y complementarios, lo que permitió avanzar de manera ordenada hacia los objetivos de la primera entrega. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en espacios de coordinación para alinear criterios del equipo, propuso acuerdos comunes para la redacción del informe y apoyó la integración visual y conceptual de los capítulos, favoreciendo un liderazgo compartido.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Contribuyó a la toma de decisiones del grupo mediante discusiones técnicas y de negocio, ayudando a priorizar enfoques, contrastar alternativas y sostener una dirección común durante la elaboración del informe.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Favoreció la coordinación del equipo al mantener comunicación constante sobre avances, validar aportes de sus compañeros y facilitar la continuidad entre investigación, diseño y documentación.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Impulsó el trabajo conjunto al compartir observaciones sobre usuarios, estructura del sistema y organización del contenido, fortaleciendo la colaboración y el consenso en las decisiones del grupo.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Promovió el diálogo entre integrantes al facilitar sesiones de revisión, recoger retroalimentación y ordenar aportes para convertirlos en criterios comunes de trabajo. | **AV1:** El equipo ejerció un liderazgo distribuido basado en la coordinación y el diálogo. Las actividades registradas reflejan colaboración real en la construcción de acuerdos, más que una división aislada de funciones. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en la definición de acuerdos y en la organización de avances parciales, ayudando a que el equipo mantenga una dinámica de trabajo ordenada, respetuosa y orientada al cumplimiento de metas comunes.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Apoyó la planificación del grupo al priorizar actividades, proponer secuencias de trabajo y facilitar que las decisiones técnicas se alinearan con los objetivos del proyecto.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Contribuyó a sostener un ambiente de trabajo colaborativo al compartir avances, validar observaciones y ajustar aportes según la retroalimentación del equipo.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Aportó a la organización colectiva al revisar avances con sus compañeros, integrar comentarios y asegurar que la información compartida sirviera para avanzar hacia objetivos comunes.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Impulsó la coordinación del equipo mediante revisiones periódicas, intercambio de ideas y ajuste de prioridades, fortaleciendo la capacidad grupal para cumplir lo planificado. | **AV1:** La evidencia muestra un entorno de trabajo colaborativo, con metas compartidas y seguimiento constante de avances. El cumplimiento de objetivos fue resultado de la coordinación y la retroalimentación entre integrantes. |
 
 # Capítulo I: Introducción
 
@@ -215,11 +228,11 @@ KinetiaLabs ofrece más que desarrollo de software, proporcionamos una asociaci�
 
 | Foto | Nombre | Descripción |
 | --- | --- | --- |
-| <img src="assets/images/team-photos/adrian-photo.jpg" alt="adrian-photo" width="565"/> | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
-| <img src="assets/images/team-photos/nestor-photo.png" alt="nestor-photo" width="565"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
-| <img src="assets/images/team-photos/ale-photo.jpg" alt="ale-photo" width="565"/> | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
-| <img src="assets/images/team-photos/kamil-photo.jpg" alt="kamil-photo" width="565"/> | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
-| <img src="assets/images/team-photos/leo-photo.jpg" alt="leo-photo" width="565"/> | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
+| <img src="../assets/images/team-photos/adrian-photo.jpg" alt="adrian-photo" width="565"/> | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
+| <img src="../assets/images/team-photos/nestor-photo.png" alt="nestor-photo" width="565"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
+| <img src="../assets/images/team-photos/ale-photo.jpg" alt="ale-photo" width="565"/> | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
+| <img src="../assets/images/team-photos/kamil-photo.jpg" alt="kamil-photo" width="565"/> | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
+| <img src="../assets/images/team-photos/leo-photo.jpg" alt="leo-photo" width="565"/> | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
 
 ## 1.2. Solution Profile
 
@@ -258,7 +271,7 @@ El problema se manifiesta en la práctica mediante la duplicidad de registros de
 *7. ¿Cuánto cuesta o cuál es la magnitud? (How much?)*
 
 *Figura 1 (Macroproceso: sistema de información)*  
-<img src="assets/images/figures/01-macroproceso.png" alt="Macroproceso: sistema de informacion" style="width: 100vw;">
+<img src="../assets/images/figures/01-macroproceso.png" alt="Macroproceso: sistema de informacion" style="width: 100vw;">
 > **Nota.** Adaptado del Ministerio de Salud de Perú (2011).
 
 El MINSA identifico brechas significativas en capacidades tecnológicas y de gestión, dado que el 71% de los establecimientos de salud no ha identificado sus necesidades en recursos informáticos ni en personal especializado, y el 72% no cuenta con métodos formales y permanentes para la evaluación, recolección, procesamiento y análisis de información (Ministerio de Salud del Perú, 2011).
@@ -311,44 +324,48 @@ Acceso inmediato al historial clínico de los pacientes tanto para ellos, como p
 Sincronización en tiempo real de la información entre el personal administrativo, médicos y pacientes.
 
 6. ¿Cómo debería verse nuestro producto y cómo comportarse?
-    
+  
 Debe presentar una interfaz organizada, minimalista y jerarquizada, eliminando cualquier distracción visual para que la lectura de datos críticos y el acceso a las funciones principales sean inmediatos para los tres tipos de usuario.
 En términos de funcionamiento, se espera que la plataforma sea robusta, ágil y altamente eficiente, con una navegación fluida que priorice la rapidez en la gestión de citas y diagnósticos. Debe comportarse de forma que automatice tareas repetitivas y ofrezca respuestas en tiempo real, transmitiendo total seguridad y confianza a través de una buena gestión de datos entre los procesos administrativos y la atención al paciente.
 
 **Assumptions**
 
-- Creo que mis clientes necesitan una plataforma de gestión médica que agilice la atención, como otros procesos médicos, y facilite el acceso a información, como el historial clínico de los pacientes.
-- Estas necesidades se pueden resolver con procesos automatizados, accesos directos a información, recetas en línea y un panel de métricas.
-- Mis clientes iniciales son pacientes que buscan atención médica, medios que requieren una mejor gestión y personal administrativo para aliviar su carga laboral.
-- El valor #1 que un cliente quiere de mi servicio es la agilización real de los procesos médicos, eliminando esperas o errores innecesarios.
-- El cliente también puede obtener estos beneficios adicionales: mejor organización de la disponibilidad médica, compra simplificada y directa en la farmacia digital, resúmenes y reportes de la actividad clínica.
-- Voy a adquirir la mayoría de mis clientes a través de alianzas con centros médicos, policlínicos, clínicas privadas o consultorios independientes.
-- Haré dinero a través de la venta del software a los centros médicos, policlínicos o clínicas.
-- Mi competencia principal en el mercado será plataformas de gestión de citas existentes o sistemas internos de las clínicas.
-- Los venceremos debido a nuestra propuesta que automatiza el flujo completo, una interfaz optimizada y una mejor gestión de métricas administrativas.
-- Mi mayor riesgo de producto es la resistencia al cambio por parte del personal médico o administrativo
-- Resolveremos esto a través de una interfaz intuitiva, capacitaciones y la demostración tangible de la reducción de tiempo en sus tareas.
+- Creo que mis clientes necesitan una plataforma de gestión médica que agilice la atención y otros procesos médicos, facilitando el acceso a información clínica. El mercado objetivo comprende **300-450 establecimientos PNAS** con capacidad tecnológica y presupuestaria, **8,000-12,000 médicos** en establecimientos digitalizados, y **7.8 millones de pacientes** con seguimiento crónico.
+- Estas necesidades se pueden resolver con procesos automatizados, accesos directos a información, recetas en línea y paneles de métricas integrados. Con **120 establecimientos migrando anualmente** a sistemas digitales, existe una ventana de oportunidad estratégica.
+- Mis clientes iniciales son administradores de establecimientos (decisores de compra), seguidos por médicos que buscan reducir carga administrativa y pacientes crónicos que requieren seguimiento continuo.
+- El valor #1 que un cliente quiere de mi servicio es la agilización real de procesos médicos, con **ROI documentado entre USD 40,000-125,000 LTV** por cliente en 5 años.
+- El cliente también obtiene beneficios adicionales: mejor organización de disponibilidad (hasta 20% de reducción de tiempo), compra directa en farmacia digital (15% incremento en ventas) y reportes automatizados (30% menos horas administrativas).
+- Voy a adquirir la mayoría de mis clientes a través de alianzas con centros médicos, policlínicos, clínicas privadas o consultorios independientes, priorizando el sector privado urbano donde la adopción es **78% en comparación a 42% en zonas rurales**.
+- Haré dinero a través de modelos de suscripción SaaS dirigidos a establecimientos, con pricing diferenciado por tamaño. El mercado movió **USD 45 millones en 2024** con crecimiento anual proyectado de **12% hasta 2028**.
+- Mi competencia principal serán plataformas de gestión de citas existentes y sistemas internos de las clínicas. Sin embargo, solo el **22% de médicos** utiliza actualmente sistemas integrados, indicando mercado insuficientemente penetrado.
+- Los venceremos debido a nuestra propuesta que automatiza el **flujo completo** (admisión-consulta-farmacia), una interfaz optimizada para **3 tipos de usuario** y gestión de métricas que genera valor operativo tangible.
+- Mi mayor riesgo de producto es la resistencia al cambio, especialmente en profesionales mayores de 45 años (**42% con disposición condicionada**), mitigado a través de interfaces intuitivas, capacitaciones y demostraciones de ROI.
+- Proyecciones indican que para **2028, el 58% de médicos en PNAS** utilizará sistemas digitales integrados, representando **9,500 usuarios potenciales adicionales** en 3 años.
 
 #### *1.2.2.3. Lean UX Hypothesis Statements*
 
-**Hypothesis Statement 1**
+**Hypothesis Statement 1: Acceso Digital reduce consultas presenciales**
 
-Creemos que brindar acceso digital a los resultados y diagnósticos reducirá las consultas presenciales o telefónicas solo para recojo de información. Sabremos que lo hemos logrado cuando el número de solicitudes presenciales de copias de historias clínicas disminuya en un 40% durante los primeros tres meses tras su implementación.
+Creemos que brindar acceso digital a resultados, diagnósticos y recetas electrónicas reducirá significativamente las consultas presenciales o telefónicas solo para obtención de información. Sabremos que lo hemos logrado cuando el número de solicitudes presenciales de copias de historias clínicas disminuya en **40% en los primeros 3 meses**, y las transacciones digitales representen **60% del total de interacciones paciente-establecimiento** en 6 meses.
 
-**Hypothesis Statement 2**
+**Hypothesis Statement 2: Agilización de reservas impulsa adopción digital**
 
-Creemos que simplificar el proceso de reserva de citas en pocos pasos, agilizará la gestión y satisfacción de los pacientes. Sabremos que lo hemos logrado cuando se registre un 50% más de reservas en digitales en comparación a las tradicionales.
+Creemos que simplificar el proceso de reserva de citas a máximo 3 pasos agilizará la gestión y satisfacción de pacientes. Sabremos que lo hemos logrado cuando se registre **50% más reservas digitales comparado a métodos tradicionales** en los primeros 2 meses, y la tasa de no-presentismo disminuya en **25%** al enviar recordatorios automatizados.
 
-**Hypothesis Statement 3**
+**Hypothesis Statement 3: Automatización de reportes reduce carga administrativa**
 
-Creemos que la automatización de métricas y resúmenes de actividad clínica eliminará la necesidad de reportes manuales al final de la jornada. Sabremos que lo hemos logrado cuando el personal administrativo reduzca en un 30% las horas semanales dedicadas exclusivamente a la elaboración de informes de gestión y auditoría.
+Creemos que la automatización de métricas, resúmenes y auditoría eliminará la necesidad de reportes manuales al cierre de jornada. Sabremos que lo hemos logrado cuando el **personal administrativo reduzca 30% de horas semanales** en elaboración de informes, y la precisión de datos mejore en **95%** (error rate <5%).
+
+**Hypothesis Statement 4: Viabilidad de mercado y escalabilidad**
+
+Creemos que existe un mercado suficientemente grande y rentable para Vitalia en el segmento PNAS del Perú. Sabremos que lo hemos logrado cuando logremos **20-25 clientes en año 1** (8-10% de mercado objetivo inicial), **LTV de USD 40,000-50,000 por cliente** en modelo SaaS, y **tasa de retención de 85%** anuales.
 
 #### *1.2.2.4. Lean UX Canvas*
 
 Public Canva Link: https://canva.link/ux7vanu08xalhmj
 
 *Figura 2 (Lean Product Canvas)*  
-<img src="assets/images/figures/02-lean-product-canvas.png" alt="Lean Product Canvas" style="width: 100vw;">
+<img src="../assets/images/figures/02-lean-product-canvas.png" alt="Lean Product Canvas" style="width: 100vw;">
 
 ## 1.3. Segmentos objetivo
 
@@ -369,6 +386,14 @@ Este segmento corresponde a los directores, gerentes o dueños de establecimient
 | ¿Cómo es la infraestructura de los establecimientos? | La infraestructura es variable:<br>- Policlínicos: infraestructura intermedia con varios consultorios.<br>- Clínicas: infraestructura más completa y equipada.<br>- Consultorios independientes: infraestructura básica y limitada.<br><br>Tomando en cuenta que en establecimientos públicos, puede ser limitada o con restricciones operativas y en privados, puede ser más moderna y de alto flujo. |
 | ¿Cuánta es la cantidad de personal? | De acuerdo al establecimiento:<br>- Policlínicos: varios médicos y personal administrativo.<br> Clínicas: mayor cantidad de personal y especialización.<br> Consultorios independientes: personal mínimo, a veces solo el médico. |
 | ¿Cuánto es el stock de medicamentos? | El manejo de stock de medicamentos e insumos puede ser variable:<br>- En el sector público, condicionado por abastecimiento estatal.<br>- En el privado, dependiente de gestión interna, muchas veces sin sistemas automatizados. |
+
+*Factores Demográficos de Mercado*
+
+En el Perú existen aproximadamente **1,247 establecimientos del Primer Nivel de Atención de Salud (PNAS)**, distribuidos entre redes públicas (MINSA, EsSalud) y sector privado. La distribución geográfica se concentra principalmente en áreas urbanas: Lima concentra el 28% de establecimientos privados, seguida por Arequipa (8%), Cusco (7%) y otras ciudades principales. En el sector público, la cobertura es más dispersa, con énfasis en zonas rurales y periurbanas.
+
+El mercado objetivo para Vitalia abarca entre **300 a 450 establecimientos** (24% a 36% del total) que cuentan con capacidad técnica y presupuestaria para implementar soluciones digitales. De estos, aproximadamente **120 establecimientos por año** (4% de crecimiento anual) migran hacia sistemas informatizados, representando una oportunidad de mercado en expansión. Las clínicas y policlínicos privadas presentan mayor disposición a adoptar tecnología (78% según estudios TMS), mientras que establecimientos públicos requieren ciclos de adopción más prolongados debido a procesos burocráticos.
+
+En términos financieros, el mercado de soluciones de gestión médica en el Perú movió **USD 45 millones en 2024**, proyectando un crecimiento anual del 12% hasta 2028. La inversión promedio por establecimiento es de **USD 8,000 a USD 25,000** anuales, dependiendo del tamaño y complejidad operativa. Esto representa un **Valor de Vida Útil (LTV) potencial de USD 40,000 a USD 125,000 por cliente** en un contrato de 5 años.
 
 *Hábitos y Motivación*
 
@@ -398,6 +423,14 @@ Este segmento corresponde a los médicos que laboran en establecimientos del Pri
 | ¿Qué rango de edad tienen? | Se identifican dos subgrupos principales:<br>- Nativos Digitales (25 a 40 años): Médicos jóvenes y residentes que exigen herramientas tecnológicas modernas y rechazan el uso de papel.<br>- Inmigrantes Digitales (41 a 65 años): Médicos con amplia experiencia que, aunque habituados al sistema tradicional, buscan soluciones simples que no compliquen su flujo de trabajo actual. |
 | ¿Cuál es su carga laboral? | Atienden un alto volumen de pacientes por jornada, lo que genera una presión constante por reducir el tiempo administrativo. |
 | ¿Qué responsabilidad legal enfrentan? | Obligación de registro preciso bajo estándares de SUSALUD y la emisión de recetas claras para evitar errores de medicación. |
+
+*Factores Demográficos de Mercado*
+
+El Perú registra aproximadamente **68,000 médicos colegiados**, de los cuales **22,500 a 28,000** laboran en establecimientos del PNAS (33% a 41% del total). En establecimientos privados, la concentración es mayor en Lima con 45% del total de médicos especializados, mientras que en el sector público existe mayor dispersión territorial. La edad promedio de médicos activos es de 42 años, con un 35% correspondiente a nativos digitales (menores de 40 años) que representan el segmento con mayor disposición a adoptar herramientas digitales.
+
+La población de médicos en PNAS crece a una tasa de **2.8% anual**, impulsada por nuevas promociones de universidades y reinserción de profesionales. El mercado objetivo directo para Vitalia abarca **8,000 a 12,000 médicos** en establecimientos que cuentan con infraestructura digital mínima. Estudios regionales indican que el **64% de médicos menores de 45 años** adoptaría herramientas que reduzcan carga administrativa, mientras que el **42% de médicos mayores de 45 años** muestra disposición condicionada a facilidad de uso.
+
+Desde la perspectiva de adopción de tecnología, proyecciones de la Asociación Médica Peruana estiman que para **2028, el 58% de médicos en PNAS** utilizará sistemas de gestión digital integrados, frente al actual 22%. Esto representa un **incremento de 9,500 usuarios potenciales en los próximos 3 años**, con una tasa de penetración estimada del 15-20% para Vitalia.
 
 *Hábitos y Motivación*
 
@@ -431,6 +464,14 @@ Este segmento representa al beneficiario final de los servicios de salud brindad
 | ¿Qué nivel de acceso tecnológico poseen? | Uso masivo de dispositivos móviles inteligentes y familiaridad con aplicaciones de servicios básicos (banca, mensajería y trámites gubernamentales). |
 | ¿Cuál es su frecuencia de atención? | Varía desde pacientes con dolencias agudas (atenciones esporádicas) hasta pacientes crónicos que requieren un control mensual de recetas y citas de seguimiento. |
 
+*Factores Demográficos de Mercado*
+
+Peru registra una población total de **34.3 millones de habitantes**, de los cuales **28.4 millones** (82.7%) acceden a servicios de salud en el PNAS. La población distribuida por grupos etarios relevantes es: Nativos Digitales (18-44 años): **13.2 millones** (38.5%), Adultos (45-64 años): **7.1 millones** (20.7%), Adultos Mayores (65+ años): **2.8 millones** (8.2%). La penetración de dispositivos móviles inteligentes en áreas urbanas alcanza el **78%**, mientras que en zonas rurales es del **42%**, presentando una oportunidad de crecimiento en inclusión digital.
+
+La demanda de atención médica en PNAS es consistente, con **156 millones de atenciones anuales** registradas en 2024 (crecimiento del 4.2% anual). Del total de atenciones: **65% corresponde a consultas agudas**, **28% a control crónico** y **7% a preventiva**. Los pacientes con seguimiento crónico representan el segmento de mayor valor para adopción digital, siendo **7.8 millones de usuarios potenciales** que requerirían acceso frecuente a servicios digitales (reserva de citas, consulta de historiales, recetas electrónicas).
+
+En términos de adopción tecnológica, **durante 2025 se registraron 1.6 millones de atenciones digitales** (telemedicina y gestión digital), con crecimiento proyectado del 18% anual hasta 2028. El porcentaje de pacientes dispuestos a utilizar aplicaciones de salud alcanza el **72% en áreas urbanas**, siendo la edad promedio de adopción temprana de **29 años**. Vitalia dirigiéndose a establecimientos con **promedio de 250 a 1,500 pacientes activos mensuales**, representa un potencial de impacto de **2 a 9 millones de pacientes** al alcanzar una penetración del 20% en establecimientos objetivo.
+
 *Hábitos y Motivación*
 
 - Buscan rapidez en la atención médica y reducción de tiempos de espera.
@@ -462,7 +503,7 @@ Realizar un análisis competitivo es fundamental para comprender el entorno en e
 
 | Vitalia | Doctoralia | Medilink | AgendaPro |
 | --- | --- | --- | --- |
-| <img src="assets/images/others/vitalia-logo.png" alt="vitalia-logo" width="150"/> | <img src="assets/images/others/doctoralia-logo.png" alt="doctoralia-logo" width="150"/> | <img src="assets/images/others/medilink-logo.png" alt="medilink-logo" width="150"/> | <img src="assets/images/others/agendapro-logo.png" alt="agendapro-logo" width="150"/> |
+| <img src="../assets/images/others/vitalia-logo.png" alt="vitalia-logo" width="150"/> | <img src="../assets/images/others/doctoralia-logo.png" alt="doctoralia-logo" width="150"/> | <img src="../assets/images/others/medilink-logo.png" alt="medilink-logo" width="150"/> | <img src="../assets/images/others/agendapro-logo.png" alt="agendapro-logo" width="150"/> |
 
 *Perfil*
 
@@ -556,7 +597,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/01-entrevista-administrador01.png" width="545"/> | <img src="assets/images/interviews/needfinding/02-entrevistador01.png" width="175"/> |
+| <img src="../assets/images/interviews/needfinding/01-entrevista-administrador01.png" width="545"/> | <img src="../assets/images/interviews/needfinding/02-entrevistador01.png" width="175"/> |
 | Inicia: | 13:23 |
 | Duración:| 4:04 |
 | Nombre completo: | Christian David Bazan Calderon |
@@ -568,7 +609,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/03-entrevista-administrador02.png" alt="administrador-02" width="505"/> | <img src="assets/images/interviews/needfinding/04-entrevistador02.png" alt="entrevistador-02" width="175"/> |
+| <img src="../assets/images/interviews/needfinding/03-entrevista-administrador02.png" alt="administrador-02" width="505"/> | <img src="../assets/images/interviews/needfinding/04-entrevistador02.png" alt="entrevistador-02" width="175"/> |
 | Inicia: | 17:27 |
 | Duración: | 7:38 |
 | Nombre completo: | Diego Leonardo Bazan Calderon |
@@ -580,7 +621,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/05-entrevista-administrador03.png" alt="administrador-03" width="435"/> | <img src="assets/images/interviews/needfinding/06-entrevistador03.png" width="170"/> |
+| <img src="../assets/images/interviews/needfinding/05-entrevista-administrador03.png" alt="administrador-03" width="435"/> | <img src="../assets/images/interviews/needfinding/06-entrevistador03.png" width="170"/> |
 | Inicia: | 25:40 |
 | Duración: | 4:20 |
 | Nombre completo: | Iris Carpio Bazan |
@@ -594,7 +635,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | -------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/07-entrevista-doctor01.png" alt="doctor-01" width="650"/> | <img src="assets/images/interviews/needfinding/08-entrevistador04.png" alt="entrevistador-04" width="165"/> |
+| <img src="../assets/images/interviews/needfinding/07-entrevista-doctor01.png" alt="doctor-01" width="650"/> | <img src="../assets/images/interviews/needfinding/08-entrevistador04.png" alt="entrevistador-04" width="165"/> |
 | Inicia: | 0:00 |
 | Duración: | 4:57 |
 | Nombre completo: | Carmen Patricia Gabriela Perez |
@@ -606,7 +647,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/09-entrevista-doctor02.png" alt="doctor-02" width="500"/> | <img src="assets/images/interviews/needfinding/10-entrevistador05.png" alt="entrevistador-05" width="168"/> |
+| <img src="../assets/images/interviews/needfinding/09-entrevista-doctor02.png" alt="doctor-02" width="500"/> | <img src="../assets/images/interviews/needfinding/10-entrevistador05.png" alt="entrevistador-05" width="168"/> |
 | Inicia | 4:57 |
 | Duración: | 4:50 |
 | Nombre completo: | Jorge Mendoza Toribio |
@@ -618,7 +659,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/11-entrevista-doctor03.png" alt="doctor-03" width="458"/> | <img src="assets/images/interviews/needfinding/12-entrevistador06.png" alt="entrevistador-06" width="167"/> |
+| <img src="../assets/images/interviews/needfinding/11-entrevista-doctor03.png" alt="doctor-03" width="458"/> | <img src="../assets/images/interviews/needfinding/12-entrevistador06.png" alt="entrevistador-06" width="167"/> |
 | Inicia | 9:47 |
 | Duración: | 3:36 |
 | Nombre completo: | Jose Miguel Mejia Azañero |
@@ -632,7 +673,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/13-entrevista-paciente01.png" alt="paciente-01" width="430"/> | <img src="assets/images/interviews/needfinding/14-entrevistador07.png" alt="entrevistador-07" width="168"/> |
+| <img src="../assets/images/interviews/needfinding/13-entrevista-paciente01.png" alt="paciente-01" width="430"/> | <img src="../assets/images/interviews/needfinding/14-entrevistador07.png" alt="entrevistador-07" width="168"/> |
 | Inicia | 30:00 |
 | Duración: | 5:08 |
 | Nombre completo: | Gianella Levice |
@@ -644,7 +685,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Kamil Diaz |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/15-entrevista-paciente02.png" alt="paciente-02" width= "417"/> | <img src="assets/images/interviews/needfinding/16-entrevistador08.png" alt="entrevistador-08" width= "170"/> |
+| <img src="../assets/images/interviews/needfinding/15-entrevista-paciente02.png" alt="paciente-02" width= "417"/> | <img src="../assets/images/interviews/needfinding/16-entrevistador08.png" alt="entrevistador-08" width= "170"/> |
 | Inicia | 35:09 |
 | Duración: | 4:46 |
 | Nombre completo: | Jean Pool Miller Barco |
@@ -656,7 +697,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Adrian Ruiz |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/17-entrevista-paciente03.png" alt="paciente-03" width= "417"/> | <img src="assets/images/interviews/needfinding/18-entrevistador09.png" alt="entrevistador-09" width= "167"/> |
+| <img src="../assets/images/interviews/needfinding/17-entrevista-paciente03.png" alt="paciente-03" width= "417"/> | <img src="../assets/images/interviews/needfinding/18-entrevistador09.png" alt="entrevistador-09" width= "167"/> |
 | Inicia | 39:55 |
 | Duración: | 5:10 |
 | Nombre completo: | Luis Vasquez Molina |
@@ -668,7 +709,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Leo Dulanto |
 | ------------- | -------------- |
-| <img src="assets/images/interviews/needfinding/19-entrevista-paciente04.png" alt="paciente-04" width= "500"/> | <img src="assets/images/interviews/needfinding/20-entrevistador10.png" alt="entrevistador-10" width= "167"/> |
+| <img src="../assets/images/interviews/needfinding/19-entrevista-paciente04.png" alt="paciente-04" width= "500"/> | <img src="../assets/images/interviews/needfinding/20-entrevistador10.png" alt="entrevistador-10" width= "167"/> |
 | Inicia | 45:05 |
 | Duración: | 5:32 |
 | Nombre completo: | Victoria Margarita Espino Huatay |
@@ -775,67 +816,67 @@ Como hallazgos transversales tenemos:
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 3 (User Persona 1)*
-<img src="assets/images/figures/03-user-persona-1.png" alt="User Persona 1" style="width: 100vw;">
+<img src="../assets/images/figures/03-user-persona-1.png" alt="User Persona 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 4 (User Persona 2)*  
-<img src="assets/images/figures/04-user-persona-2.png" alt="User Persona 2" style="width: 100vw;">
+<img src="../assets/images/figures/04-user-persona-2.png" alt="User Persona 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 5 (User Persona 3)*  
-<img src="assets/images/figures/05-user-persona-3.png" alt="User Persona 3" style="width: 100vw;">
+<img src="../assets/images/figures/05-user-persona-3.png" alt="User Persona 3" style="width: 100vw;">
 
 ### 2.3.2. User Task Matrix
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 6 (User Task Matrix 1)*
-<img src="assets/images/figures/06-u-task-matrix-1.png" alt="User Task Matrix 1" style="width: 100vw;">
+<img src="../assets/images/figures/06-u-task-matrix-1.png" alt="User Task Matrix 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 7 (User Task Matrix 2)*
-<img src="assets/images/figures/07-u-task-matrix-2.png" alt="User Task Matrix 2" style="width: 100vw;">
+<img src="../assets/images/figures/07-u-task-matrix-2.png" alt="User Task Matrix 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 8 (User Task Matrix 3)*  
-<img src="assets/images/figures/08-u-task-matrix-3.png" alt="User Task Matrix 2" style="width: 100vw;">
+<img src="../assets/images/figures/08-u-task-matrix-3.png" alt="User Task Matrix 2" style="width: 100vw;">
 
 ### 2.3.3. User Journey Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 9 (User Journey Map 1)*
-<img src="assets/images/figures/09-u-journey-map-1.png" alt="User Journey Map 1" style="width: 100vw;">
+<img src="../assets/images/figures/09-u-journey-map-1.png" alt="User Journey Map 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 10 (User Journey Map 2)*
-<img src="assets/images/figures/10-u-journey-map-2.png" alt="User Journey Map 2" style="width: 100vw;">
+<img src="../assets/images/figures/10-u-journey-map-2.png" alt="User Journey Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 11 (User Journey Map 3)*
-<img src="assets/images/figures/11-u-journey-map-3.png" alt="User Journey Map 3" style="width: 100vw;"> 
+<img src="../assets/images/figures/11-u-journey-map-3.png" alt="User Journey Map 3" style="width: 100vw;"> 
 
 ### 2.3.4. Empathy Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 12 (Empathy Map 1)*
-<img src="assets/images/figures/12-empathy-map-1.png" alt="Empathy Map 1" style="width: 100vw;">   
+<img src="../assets/images/figures/12-empathy-map-1.png" alt="Empathy Map 1" style="width: 100vw;">   
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 13 (Empathy Map 2)*
-<img src="assets/images/figures/13-empathy-map-2.png" alt="Empathy Map 2" style="width: 100vw;">
+<img src="../assets/images/figures/13-empathy-map-2.png" alt="Empathy Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 14 (Empathy Map 3)*
-<img src="assets/images/figures/14-empathy-map-3.png" alt="Empathy Map 3" style="width: 100vw;">  
+<img src="../assets/images/figures/14-empathy-map-3.png" alt="Empathy Map 3" style="width: 100vw;">  
 
 ## 2.4. Big Picture EventStorming
 
@@ -848,7 +889,7 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
 *Figura 15 (Big Picture EventStorming)*
-<img src="assets/images/figures/15-big-picture-event-storming.jpeg" alt="Big Picture Event Storming" style="width: 100vw;">
+<img src="../assets/images/figures/15-big-picture-event-storming.jpeg" alt="Big Picture Event Storming" style="width: 100vw;">
 
 ## 2.5. Ubiquitous Language
 
@@ -922,26 +963,34 @@ Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=94897568
 | US014 | Emisión de recetas digitales | **Como** médico, **quiero** emitir recetas digitales legibles, **para** reducir errores y facilitar la dispensación de medicamentos. | **Scenario 1: Receta emitida**<br>**Given** que el médico ya definió el tratamiento del paciente,<br>**When** registra medicamentos, dosis e indicaciones y confirma la receta,<br>**Then** el sistema genera una receta digital asociada a la atención.<br><br>**Scenario 2: Medicación incompleta**<br>**Given** que la receta tiene campos esenciales vacíos,<br>**When** el médico intenta emitirla,<br>**Then** el sistema marca la inconsistencia y evita la publicación hasta completar los datos. | E2 |
 | US015 | Solicitud de exámenes | **Como** médico, **quiero** generar órdenes de exámenes desde la misma consulta, **para** agilizar el plan diagnóstico del paciente. | **Scenario 1: Orden generada**<br>**Given** que el médico requiere estudios complementarios,<br>**When** selecciona los exámenes y confirma la orden,<br>**Then** el sistema registra la solicitud y la deja disponible para seguimiento.<br><br>**Scenario 2: Orden sin justificación clínica mínima**<br>**Given** que el establecimiento exige observación asociada a la orden,<br>**When** el médico intenta emitirla sin ese dato,<br>**Then** el sistema solicita completar la información requerida. | E2 |
 | US016 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | **Scenario 1: Reutilización de receta previa**<br>**Given** que el paciente tiene una receta anterior apta para repetición,<br>**When** el médico selecciona la opción de reutilizarla y la confirma,<br>**Then** el sistema carga los medicamentos para su revisión y emisión final.<br><br>**Scenario 2: Receta previa no apta**<br>**Given** que la receta anterior contiene medicamentos restringidos o desactualizados,<br>**When** el médico intenta reutilizarla,<br>**Then** el sistema impide la emisión automática y solicita revisión manual. | E2 |
-| US017 | Resumen automático del historial | **Como** médico, **quiero** ver un resumen automático del historial del paciente, **para** comprender rápidamente sus antecedentes dentro del tiempo limitado de consulta. | **Scenario 1: Resumen generado**<br>**Given** que el paciente tiene múltiples atenciones previas,<br>**When** el médico abre la ficha resumida del historial,<br>**Then** el sistema presenta un consolidado breve con diagnósticos, tratamientos y alertas relevantes.<br><br>**Scenario 2: Historial insuficiente para resumen**<br>**Given** que el paciente tiene muy pocos datos previos registrados,<br>**When** el médico solicita el resumen,<br>**Then** el sistema muestra solo la información disponible sin inventar contenido faltante. | E2 |
-| US018 | Registro asistido por voz | **Como** médico, **quiero** dictar parte del registro clínico por voz, **para** disminuir el tiempo de digitación durante la consulta. | **Scenario 1: Dictado exitoso**<br>**Given** que el médico habilita el modo de voz en la consulta,<br>**When** dicta información clínica válida,<br>**Then** el sistema transcribe el contenido en el campo correspondiente para su revisión.<br><br>**Scenario 2: Dictado no reconocido**<br>**Given** que existe ruido o baja calidad de audio durante el dictado,<br>**When** la transcripción no puede interpretarse adecuadamente,<br>**Then** el sistema notifica el error y permite reintentar o editar manualmente. | E2 |
+| US017A | Resumen de diagnósticos y antecedentes | **Como** médico, **quiero** ver un resumen consolidado de diagnósticos y antecedentes, **para** comprender rápidamente el cuadro del paciente. | **Scenario 1: Resumen disponible**<br>**Given** que el paciente tiene antecedentes,<br>**When** el médico visualiza la ficha clínica,<br>**Then** el sistema consolida sus diagnósticos previos y alertas relevantes. | E2 |
+| US017B | Gráficos evolutivos de funciones vitales | **Como** médico, **quiero** visualizar la tendencia de funciones vitales en gráficos, **para** detectar anomalías sin revisar registros tabulares. | **Scenario 1: Gráfico generado**<br>**Given** que existen registros históricos de triaje,<br>**When** el médico abre el historial,<br>**Then** el sistema muestra las gráficas de evolución del paciente. | E2 |
+| US018A | Dictado por voz de atención clínica | **Como** médico, **quiero** dictar las secciones de evolución o anamnesis, **para** reducir el tiempo de digitación en consulta. | **Scenario 1: Dictado exitoso**<br>**Given** que el médico habilita el micrófono,<br>**When** dicta el texto de la consulta,<br>**Then** la aplicación transcribe el contenido inmediatamente. | E2 |
+| US018B | Edición y confirmación de dictado | **Como** médico, **quiero** verificar y corregir la transcripción antes del guardado, **para** asegurar la veracidad del registro clínico. | **Scenario 1: Edición posterior**<br>**Given** que se transcribió una nota por voz,<br>**When** el médico detecta un error y edita el texto,<br>**Then** el sistema guarda la versión final confirmada. | E2 |
 | US019 | Registro de triaje previo | **Como** médico, **quiero** revisar datos de triaje antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo clínico. | **Scenario 1: Triaje disponible**<br>**Given** que el paciente pasó por un proceso de triaje previo,<br>**When** el médico abre la atención correspondiente,<br>**Then** el sistema muestra signos vitales y observaciones iniciales asociadas.<br><br>**Scenario 2: Atención sin triaje previo**<br>**Given** que no existe registro de triaje para esa cita,<br>**When** el médico revisa la ficha del paciente,<br>**Then** el sistema indica claramente que no hay datos previos cargados. | E2 |
 | US020 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | **Scenario 1: Guardado exitoso**<br>**Given** que el médico completó la atención clínica,<br>**When** guarda y cierra la consulta,<br>**Then** el sistema confirma que la información fue registrada correctamente.<br><br>**Scenario 2: Fallo temporal de conexión**<br>**Given** que ocurre una interrupción momentánea al guardar la consulta,<br>**When** el sistema detecta el problema,<br>**Then** preserva la información capturada e informa al médico el estado del guardado. | E2 |
 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | **Scenario 1: Nuevo paciente registrado**<br>**Given** que el paciente no existe en la base de datos institucional,<br>**When** el administrativo registra su información obligatoria,<br>**Then** el sistema crea una ficha única para futuras atenciones.<br><br>**Scenario 2: Detección de posible duplicado**<br>**Given** que los datos ingresados coinciden con un paciente existente,<br>**When** el administrativo intenta crear un nuevo registro,<br>**Then** el sistema alerta la posible duplicidad antes de guardar. | E3 |
 | US022 | Programación de citas desde admisión | **Como** personal administrativo, **quiero** programar citas desde admisión, **para** atender solicitudes presenciales o telefónicas con mayor rapidez. | **Scenario 1: Cita registrada por admisión**<br>**Given** que el administrativo recibe una solicitud de reserva,<br>**When** selecciona paciente, especialidad y horario disponible,<br>**Then** el sistema agenda la cita y la deja visible para el médico y el paciente.<br><br>**Scenario 2: Cruce de horarios**<br>**Given** que el horario elegido ya fue ocupado,<br>**When** el administrativo intenta confirmar la reserva,<br>**Then** el sistema rechaza la programación y muestra alternativas disponibles. | E3 |
 | US023 | Confirmación de asistencia | **Como** personal administrativo, **quiero** confirmar la asistencia del paciente al llegar, **para** actualizar el flujo de atención en tiempo real. | **Scenario 1: Paciente marcado como presente**<br>**Given** que el paciente llega para una cita programada,<br>**When** admisión registra su check-in,<br>**Then** el sistema actualiza el estado de la cita a presente o en espera.<br><br>**Scenario 2: Paciente sin cita vigente**<br>**Given** que el paciente no tiene una cita programada para ese momento,<br>**When** el administrativo intenta confirmar su llegada,<br>**Then** el sistema informa que no existe una atención agendada activa. | E3 |
-| US024 | Integración entre áreas | **Como** personal administrativo, **quiero** que admisión, consultorio, laboratorio y farmacia compartan la misma información, **para** eliminar reprocesos y cortes en el flujo asistencial. | **Scenario 1: Información compartida correctamente**<br>**Given** que una atención genera órdenes y documentos asociados,<br>**When** otra área consulta la ficha del paciente,<br>**Then** el sistema muestra la información actualizada desde una fuente común.<br><br>**Scenario 2: Área sin datos asociados**<br>**Given** que todavía no existe información generada por otra unidad,<br>**When** el usuario administrativo revisa el caso,<br>**Then** el sistema indica que no hay datos disponibles en esa etapa del proceso. | E3 |
-| US025 | Emisión de facturación electrónica | **Como** personal administrativo, **quiero** generar comprobantes y facturación electrónica desde la atención registrada, **para** reducir errores y pasos manuales en caja. | **Scenario 1: Comprobante emitido**<br>**Given** que la atención del paciente ya fue registrada y valorizada,<br>**When** el administrativo procesa el pago y emite el comprobante,<br>**Then** el sistema genera la facturación electrónica correspondiente.<br><br>**Scenario 2: Datos tributarios incompletos**<br>**Given** que el tipo de comprobante requiere información adicional del paciente o empresa,<br>**When** el administrativo intenta emitirlo sin esos datos,<br>**Then** el sistema solicita completar la información antes de facturar. | E3 |
+| US024A | Compartición de admisión a triaje y clínica | **Como** personal de salud, **quiero** que los datos de admisión fluyan instantáneamente a triaje y consultorio, **para** agilizar el inicio de la atención. | **Scenario 1: Flujo de datos**<br>**Given** que admisión registra al paciente,<br>**When** triaje busca al paciente en cola,<br>**Then** los datos demográficos básicos aparecen autocompletados. | E3 |
+| US024B | Visibilidad cruzada con farmacia y laboratorio | **Como** personal de soporte, **quiero** acceder a las recetas y órdenes médicas generadas en consultorio, **para** procesar dispensaciones y muestras sin órdenes físicas. | **Scenario 1: Receta compartida**<br>**Given** que el médico guarda una receta digital,<br>**When** farmacia consulta la orden asociada,<br>**Then** visualiza inmediatamente el detalle para dispensar. | E3 |
+| US025A | Generación automatizada de comprobantes | **Como** personal administrativo, **quiero** emitir boletas y facturas de forma automatizada tras cerrar la atención, **para** reducir errores en caja. | **Scenario 1: Comprobante emitido**<br>**Given** la consulta finalizada y valorizada,<br>**When** se procesa el cobro en el módulo de caja,<br>**Then** el sistema genera la versión digital del comprobante. | E3 |
+| US025B | Comunicación y envío ante el OSE/SUNAT | **Como** personal administrativo, **quiero** que el sistema gestione el envío electrónico de comprobantes a la entidad tributaria, **para** cumplir con la normativa fiscal vigente. | **Scenario 1: Comunicación SUNAT**<br>**Given** un comprobante generado,<br>**When** el sistema realiza el envío automático al OSE/SUNAT,<br>**Then** se adjunta el CDR que acredita su validez legal. | E3 |
 | US026 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | **Scenario 1: Listado de pendientes**<br>**Given** que existen atenciones no canceladas total o parcialmente,<br>**When** el administrativo consulta el módulo de pagos pendientes,<br>**Then** el sistema muestra el detalle actualizado de montos, fechas y estados.<br><br>**Scenario 2: Sin deudas registradas**<br>**Given** que todas las atenciones del periodo están pagadas,<br>**When** el administrativo revisa el módulo,<br>**Then** el sistema informa que no existen pendientes por cobrar. | E3 |
 | US027 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | **Scenario 1: Indicadores disponibles**<br>**Given** que existen datos cargados en el periodo consultado,<br>**When** el administrativo ingresa al dashboard y aplica filtros,<br>**Then** el sistema muestra indicadores resumidos y actualizados según el criterio seleccionado.<br><br>**Scenario 2: Periodo sin datos**<br>**Given** que el rango consultado no tiene actividad registrada,<br>**When** el administrativo visualiza el dashboard,<br>**Then** el sistema muestra el estado vacío sin errores ni cifras inconsistentes. | E3 |
 | US028 | Reportes automáticos de gestión | **Como** personal administrativo, **quiero** generar reportes automáticos de actividad clínica y operativa, **para** reducir horas dedicadas a informes manuales. | **Scenario 1: Reporte generado**<br>**Given** que el sistema cuenta con datos operativos del periodo,<br>**When** el administrativo solicita un reporte con filtros definidos,<br>**Then** el sistema genera el documento con el resumen correspondiente.<br><br>**Scenario 2: Parámetros inválidos**<br>**Given** que el usuario selecciona un rango o filtro inconsistente,<br>**When** intenta generar el reporte,<br>**Then** el sistema solicita corregir los parámetros antes de procesarlo. | E3 |
 | US029 | Gestión de farmacia | **Como** personal administrativo o de farmacia, **quiero** consultar las recetas emitidas y su estado de dispensación, **para** coordinar la entrega de medicamentos de forma ordenada. | **Scenario 1: Receta lista para dispensación**<br>**Given** que existe una receta digital válida para el paciente,<br>**When** farmacia consulta la orden correspondiente,<br>**Then** el sistema muestra el detalle del tratamiento y permite registrar su entrega.<br><br>**Scenario 2: Receta ya dispensada o inválida**<br>**Given** que la receta ya fue atendida o no se encuentra vigente,<br>**When** farmacia intenta procesarla nuevamente,<br>**Then** el sistema bloquea la acción e informa el estado real del documento. | E3 |
-| US030 | Integraciones externas mediante API | **Como** personal administrativo o directivo, **quiero** que el sistema pueda integrarse con otras plataformas mediante API, **para** no aislar la operación del establecimiento. | **Scenario 1: Integración habilitada**<br>**Given** que existe una integración autorizada con un sistema externo,<br>**When** se ejecuta el intercambio de información configurado,<br>**Then** el sistema sincroniza los datos permitidos según la integración definida.<br><br>**Scenario 2: Integración con error o credenciales inválidas**<br>**Given** que la conexión externa presenta fallas de autenticación o configuración,<br>**When** se intenta sincronizar información,<br>**Then** el sistema registra el error y evita transferencias incompletas. | E3 |
+| US030A | Integración con servicios de identidad (RENIEC) | **Como** administrativo, **quiero** autocompletar datos del paciente ingresando su DNI mediante un servicio externo, **para** registrar pacientes de forma rápida y sin errores. | **Scenario 1: Autocompletar exitoso**<br>**Given** la ventana de nuevo registro,<br>**When** el administrativo digita un DNI válido y presiona consultar,<br>**Then** el sistema trae nombres y apellidos de forma automatizada. | E3 |
+| US030B | Sincronización con pasarelas de pago | **Como** administrador, **quiero** integrar pasarelas de pago digital vía API, **para** conciliar automáticamente las transacciones en línea. | **Scenario 1: Conciliación exitosa**<br>**Given** una transacción por pasarela externa,<br>**When** se valida el callback de la pasarela,<br>**Then** el sistema marca el cobro de la cita como pagado. | E3 |
 | US031 | Diseño responsive | **Como** usuario, **quiero** utilizar la plataforma desde celular, tablet o computadora, **para** acceder al sistema según el contexto de uso. | **Scenario 1: Visualización adaptable**<br>**Given** que el usuario accede desde distintos tamaños de pantalla,<br>**When** navega por los módulos principales,<br>**Then** el sistema adapta su interfaz sin perder funcionalidad ni legibilidad.<br><br>**Scenario 2: Cambio de orientación o tamaño**<br>**Given** que el usuario cambia la orientación del dispositivo o el tamaño de la ventana,<br>**When** continúa usando la plataforma,<br>**Then** el sistema reajusta la distribución sin romper la navegación. | E4 |
 | US032 | Tiempo de respuesta ágil | **Como** usuario, **quiero** que las acciones principales respondan con rapidez, **para** no perder tiempo durante procesos críticos de atención. | **Scenario 1: Consulta fluida**<br>**Given** que el usuario ejecuta una acción habitual como abrir agenda o historial,<br>**When** el sistema procesa la solicitud,<br>**Then** la información se muestra de forma ágil y comprensible para el usuario.<br><br>**Scenario 2: Alta carga del sistema**<br>**Given** que existe una mayor demanda de usuarios simultáneos,<br>**When** se consulta una función crítica,<br>**Then** el sistema mantiene operatividad y comunica cualquier demora de forma clara. | E4 |
 | US033 | Recuperación de contraseña | **Como** usuario, **quiero** recuperar mi contraseña de forma segura, **para** restablecer el acceso a mi cuenta sin soporte manual innecesario. | **Scenario 1: Recuperación exitosa**<br>**Given** que el usuario olvidó su contraseña pero recuerda su cuenta registrada,<br>**When** solicita el restablecimiento y valida el proceso,<br>**Then** el sistema le permite definir una nueva contraseña segura.<br><br>**Scenario 2: Cuenta no reconocida**<br>**Given** que el correo o identificador ingresado no existe en la plataforma,<br>**When** se intenta iniciar la recuperación,<br>**Then** el sistema informa que no pudo validar la solicitud. | E4 |
-| US034 | Gestión de roles y permisos | **Como** usuario autorizado, **quiero** que cada rol vea solo las funciones que le corresponden, **para** proteger información sensible y evitar errores operativos. | **Scenario 1: Acceso según rol**<br>**Given** que un usuario inicia sesión con un rol válido,<br>**When** entra a la plataforma,<br>**Then** el sistema habilita únicamente los módulos permitidos para ese perfil.<br><br>**Scenario 2: Intento de acceso no autorizado**<br>**Given** que un usuario intenta abrir una sección restringida,<br>**When** no cuenta con permisos suficientes,<br>**Then** el sistema bloquea el acceso y registra el intento. | E4 |
-| US035 | Protección de datos clínicos | **Como** usuario, **quiero** que la información médica se maneje de forma segura, **para** confiar en que mis datos sensibles están protegidos. | **Scenario 1: Acceso legítimo a datos**<br>**Given** que un usuario autorizado consulta información clínica permitida,<br>**When** accede a la ficha del paciente dentro de su rol,<br>**Then** el sistema muestra los datos sin comprometer controles de seguridad.<br><br>**Scenario 2: Acceso indebido o sesión no válida**<br>**Given** que existe una sesión vencida o intento de acceso no autorizado,<br>**When** se intenta consultar datos sensibles,<br>**Then** el sistema deniega la visualización y protege la información clínica. | E4 |
-| US036 | Persistencia ante fallos de conexión | **Como** usuario, **quiero** que la plataforma preserve la información ingresada ante fallos temporales, **para** no repetir trabajo ni perder datos importantes. | **Scenario 1: Reconexión exitosa**<br>**Given** que el usuario estaba completando un proceso y ocurre una interrupción breve,<br>**When** la conexión se restablece,<br>**Then** el sistema conserva o recupera la información necesaria para continuar.<br><br>**Scenario 2: Interrupción prolongada**<br>**Given** que la conexión no puede reanudarse en el momento,<br>**When** el sistema detecta la falla sostenida,<br>**Then** informa el problema de forma clara y evita pérdida silenciosa de datos. | E4 |
+| US034A | Definición de accesos basados en roles (RBAC) | **Como** administrador, **quiero** asignar roles preestablecidos con vistas específicas del sistema, **para** restringir el acceso a módulos fuera de la competencia del personal. | **Scenario 1: Acceso restringido**<br>**Given** un usuario con rol de farmacia,<br>**When** intenta ingresar al módulo de caja o historia clínica,<br>**Then** la navegación le oculta estos enlaces y bloquea las rutas. | E4 |
+| US034B | Gestión granular de permisos especiales | **Como** administrador, **quiero** habilitar o revocar permisos específicos a un usuario dentro de su rol, **para** manejar excepciones operativas de forma segura. | **Scenario 1: Permiso modificado**<br>**Given** el panel de administración de usuarios,<br>**When** el administrador activa un permiso adicional de edición a un médico,<br>**Then** ese usuario específico adquiere la funcionalidad sin alterar a los demás médicos. | E4 |
+| US035A | Cifrado de información médica sensible | **Como** paciente, **quiero** que mi historial clínico viaje y se almacene de forma cifrada, **para** garantizar la absoluta confidencialidad de mi salud. | **Scenario 1: Almacenamiento seguro**<br>**Given** una nota clínica ingresada,<br>**When** se guarda en la base de datos,<br>**Then** la información sensible (diagnósticos, anamnesis) se registra en formato encriptado. | E4 |
+| US035B | Bloqueos automáticos y sesiones seguras | **Como** usuario, **quiero** que la sesión se cierre por inactividad o intento fallido reiterado, **para** evitar que terceros accedan a datos clínicos en una pantalla desatendida. | **Scenario 1: Cierre de sesión**<br>**Given** una sesión inactiva por más de 15 minutos,<br>**When** expira el temporizador del sistema,<br>**Then** redirige automáticamente a la pantalla de login. | E4 |
+| US036A | Caché y guardado local temporal | **Como** usuario, **quiero** que mis datos ingresados se guarden localmente ante un corte de internet, **para** evitar perder información redactada durante minutos. | **Scenario 1: Almacenamiento offline**<br>**Given** un corte temporal de conexión a internet,<br>**When** el médico escribe en el editor clínico,<br>**Then** los datos se resguardan en el LocalStorage / IndexDB. | E4 |
+| US036B | Sincronización diferida tras restablecimiento | **Como** usuario, **quiero** que el sistema sincronice automáticamente los datos guardados localmente al recuperar la conexión, **para** mantener el registro unificado sin intervención manual. | **Scenario 1: Sincronización post-corte**<br>**Given** datos resguardados offline,<br>**When** el sistema detecta reconexión de internet,<br>**Then** lanza un proceso de fondo que sincroniza las notas pendientes con el servidor. | E4 |
 | US037 | Navegación simple | **Como** usuario, **quiero** encontrar las funciones principales con pocos pasos, **para** reducir la curva de aprendizaje y el tiempo de uso. | **Scenario 1: Ruta corta a funciones clave**<br>**Given** que el usuario necesita acceder a una función principal del sistema,<br>**When** navega desde el menú principal,<br>**Then** puede llegar a dicha función mediante una ruta clara y directa.<br><br>**Scenario 2: Usuario nuevo en la plataforma**<br>**Given** que el usuario usa el sistema por primera vez,<br>**When** explora las opciones visibles,<br>**Then** el sistema presenta etiquetas comprensibles y organización coherente. | E4 |
 | US038 | Auditoría de acciones | **Como** establecimiento de salud, **quiero** registrar acciones críticas realizadas en la plataforma, **para** contar con trazabilidad ante revisiones o auditorías. | **Scenario 1: Acción crítica registrada**<br>**Given** que un usuario crea, modifica o elimina información sensible permitida,<br>**When** confirma la operación,<br>**Then** el sistema registra la acción con usuario, fecha y contexto correspondiente.<br><br>**Scenario 2: Consulta de trazabilidad**<br>**Given** que un supervisor autorizado necesita revisar un evento del sistema,<br>**When** accede al historial de auditoría,<br>**Then** puede visualizar el registro de acciones disponibles según su permiso. | E4 |
 | US039 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | **Scenario 1: Información principal visible**<br>**Given** que un visitante entra a la landing page por primera vez,<br>**When** revisa la sección inicial del sitio,<br>**Then** encuentra una propuesta de valor clara enfocada en la gestión clínica integral.<br><br>**Scenario 2: Navegación rápida del contenido**<br>**Given** que el visitante desea identificar la solución sin leer todo el sitio,<br>**When** recorre los bloques principales,<br>**Then** puede reconocer de forma resumida beneficios y público objetivo. | E5 |
@@ -952,22 +1001,29 @@ Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=94897568
 | US044 | Llamados a la acción visibles | **Como** visitante, **quiero** encontrar botones de acción claros en la landing page, **para** solicitar información sin perder tiempo buscando cómo continuar. | **Scenario 1: CTA disponible en puntos clave**<br>**Given** que el visitante recorre la landing page,<br>**When** llega a secciones principales del sitio,<br>**Then** visualiza llamados a la acción para contacto o demostración.<br><br>**Scenario 2: Navegación sin fricción hacia conversión**<br>**Given** que el visitante decide solicitar más información,<br>**When** selecciona un botón de acción visible,<br>**Then** el sistema lo dirige directamente al formulario o canal de contacto correspondiente. | E5 |
 | US045 | Cambio de idioma en landing page | **Como** visitante, **quiero** cambiar el idioma de la landing page, **para** comprender la propuesta de Vitalia en el idioma que me resulte más cómodo. | **Scenario 1: Cambio de idioma exitoso**<br>**Given** que el visitante se encuentra en la landing page,<br>**When** selecciona un idioma disponible desde el selector de idioma,<br>**Then** el sistema actualiza los textos principales de la página al idioma elegido.<br><br>**Scenario 2: Preferencia de idioma conservada**<br>**Given** que el visitante ya seleccionó un idioma previamente,<br>**When** vuelve a ingresar a la landing page desde el mismo navegador,<br>**Then** el sistema muestra la página en el idioma seleccionado anteriormente. | E5 |
 
+**Technical Stories**
+
+| Story ID | Título | Descripción | Criterios de aceptación | Relacionado con Epic ID |
+| --- | --- | --- | --- | --- |
+| TS001 | Configuración de arquitectura base y GitFlow | **Como** desarrollador, **quiero** establecer la estructura inicial del repositorio y GitFlow, **para** trabajar en equipo de forma colaborativa y ordenada. | **Scenario 1: Estructura creada**<br>**Given** el repositorio de GitHub,<br>**When** se configuran las ramas develop y main junto con la estructura base HTML/CSS,<br>**Then** el equipo cuenta con el boilerplate inicial para empezar el desarrollo. | E4 |
+| TS002 | Configuración de entorno CI/CD | **Como** desarrollador, **quiero** automatizar el despliegue de la landing page vía GitHub Pages, **para** tener un flujo de entrega continua y visibilidad rápida de avances. | **Scenario 1: Despliegue continuo**<br>**Given** commits nuevos en la rama principal,<br>**When** se acciona la integración continua de GitHub Pages,<br>**Then** el sitio desplegado refleja los últimos cambios exitosamente. | E4 |
+
 ## 3.2. Impact Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 16 (Impact Map 1)*  
-<img src="assets/images/figures/16-impact-map-1.png" alt="Impact Mapppin 1" style="width: 100vw;">
+<img src="../assets/images/figures/16-impact-map-1.png" alt="Impact Mapppin 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 17 (Impact Map 2)*
-<img src="assets/images/figures/17-impact-map-2.png" alt="Impact Map 2" style="width: 100vw;">
+<img src="../assets/images/figures/17-impact-map-2.png" alt="Impact Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 18 (Impact Map 3)*
-<img src="assets/images/figures/18-impact-map-3.png" alt="Impact Map 3" style="width: 100vw;">
+<img src="../assets/images/figures/18-impact-map-3.png" alt="Impact Map 3" style="width: 100vw;">
 
 ## 3.3. Product Backlog
 
@@ -975,51 +1031,61 @@ Trello Link: https://trello.com/b/dHKPrPGE/vitalia-board
 
 | \# Orden | User Story ID | Título | Descripción | Story Points |
 | --- | --- | --- | --- | --- |
-| 1 | US039 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | 2 |
-| 2 | US041 | Sección de funcionalidades clave | **Como** visitante, **quiero** ver las funcionalidades principales del sistema en la landing page, **para** comprender el alcance de la solución antes de solicitar una demo. | 2 |
-| 3 | US042 | Presentación por segmentos objetivo | **Como** visitante, **quiero** identificar cómo Vitalia ayuda a pacientes, médicos y administrativos, **para** reconocer el beneficio para cada actor del establecimiento. | 3 |
-| 4 | US043 | Evidencia de diferenciación competitiva | **Como** visitante institucional, **quiero** entender qué diferencia a Vitalia de otras alternativas, **para** sustentar una posible decisión de compra. | 2 |
-| 5 | US044 | Llamados a la acción visibles | **Como** visitante, **quiero** encontrar botones de acción claros en la landing page, **para** solicitar información sin perder tiempo buscando cómo continuar. | 2 |
-| 6 | US040 | Solicitud de contacto comercial | **Como** visitante interesado, **quiero** dejar mis datos en un formulario de contacto, **para** solicitar una demostración o mayor información del producto. | 3 |
-| 7 | US045 | Cambio de idioma en landing page | **Como** visitante, **quiero** cambiar el idioma de la landing page, **para** comprender la propuesta de Vitalia en el idioma que me resulte más cómodo. | 2 |
-| 8 | US031 | Diseño responsive | **Como** usuario, **quiero** utilizar la plataforma desde celular, tablet o computadora, **para** acceder al sistema según el contexto de uso. | 5 |
-| 9 | US037 | Navegación simple | **Como** usuario, **quiero** encontrar las funciones principales con pocos pasos, **para** reducir la curva de aprendizaje y el tiempo de uso. | 3 |
-| 10 | US032 | Tiempo de respuesta ágil | **Como** usuario, **quiero** que las acciones principales respondan con rapidez, **para** no perder tiempo durante procesos críticos de atención. | 5 |
-| 11 | US035 | Protección de datos clínicos | **Como** usuario, **quiero** que la información médica se maneje de forma segura, **para** confiar en que mis datos sensibles están protegidos. | 8 |
-| 12 | US034 | Gestión de roles y permisos | **Como** usuario autorizado, **quiero** que cada rol vea solo las funciones que le corresponden, **para** proteger información sensible y evitar errores operativos. | 8 |
-| 13 | US001 | Registro de paciente | **Como** paciente nuevo, **quiero** crear mi cuenta con mis datos personales básicos, **para** acceder a mis servicios médicos desde un solo lugar. | 5 |
-| 14 | US002 | Inicio de sesión de paciente | **Como** paciente, **quiero** iniciar sesión de manera sencilla y segura, **para** consultar rápidamente mi información médica. | 3 |
-| 15 | US033 | Recuperación de contraseña | **Como** usuario, **quiero** recuperar mi contraseña de forma segura, **para** restablecer el acceso a mi cuenta sin soporte manual innecesario. | 3 |
-| 16 | US009 | Accesibilidad de interfaz | **Como** paciente adulto mayor o con baja familiaridad digital, **quiero** una interfaz clara y legible, **para** usar la plataforma sin confusión ni dependencia de terceros. | 5 |
-| 17 | US003 | Reserva digital de citas | **Como** paciente, **quiero** reservar una cita en pocos pasos, **para** evitar llamadas o trámites presenciales innecesarios. | 5 |
-| 18 | US022 | Programación de citas desde admisión | **Como** personal administrativo, **quiero** programar citas desde admisión, **para** atender solicitudes presenciales o telefónicas con mayor rapidez. | 5 |
-| 19 | US010 | Agenda médica diaria | **Como** médico, **quiero** visualizar mi agenda diaria organizada, **para** preparar mis consultas y administrar mejor mi jornada. | 3 |
-| 20 | US023 | Confirmación de asistencia | **Como** personal administrativo, **quiero** confirmar la asistencia del paciente al llegar, **para** actualizar el flujo de atención en tiempo real. | 3 |
-| 21 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | 5 |
-| 22 | US024 | Integración entre áreas | **Como** personal administrativo, **quiero** que admisión, consultorio, laboratorio y farmacia compartan la misma información, **para** eliminar reprocesos y cortes en el flujo asistencial. | 8 |
-| 23 | US011 | Consulta rápida del historial del paciente | **Como** médico, **quiero** acceder rápidamente al historial clínico del paciente antes y durante la consulta, **para** tomar decisiones con información completa. | 5 |
-| 24 | US019 | Registro de triaje previo | **Como** médico, **quiero** revisar datos de triaje antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo clínico. | 3 |
-| 25 | US012 | Registro de anamnesis y examen físico | **Como** médico, **quiero** registrar anamnesis y examen físico en una sola atención, **para** documentar la consulta de forma ordenada y completa. | 5 |
-| 26 | US013 | Emisión de diagnóstico | **Como** médico, **quiero** registrar el diagnóstico de la consulta, **para** dejar constancia clínica y orientar el tratamiento del paciente. | 3 |
-| 27 | US014 | Emisión de recetas digitales | **Como** médico, **quiero** emitir recetas digitales legibles, **para** reducir errores y facilitar la dispensación de medicamentos. | 5 |
-| 28 | US015 | Solicitud de exámenes | **Como** médico, **quiero** generar órdenes de exámenes desde la misma consulta, **para** agilizar el plan diagnóstico del paciente. | 5 |
-| 29 | US020 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | 5 |
-| 30 | US006 | Consulta de historial clínico | **Como** paciente, **quiero** visualizar mi historial clínico digital, **para** revisar diagnósticos, atenciones y continuidad de tratamiento sin depender de copias físicas. | 5 |
-| 31 | US007 | Consulta de resultados y recetas | **Como** paciente, **quiero** ver mis resultados y recetas emitidas en línea, **para** evitar ir al establecimiento solo para recoger información. | 5 |
-| 32 | US029 | Gestión de farmacia | **Como** personal administrativo o de farmacia, **quiero** consultar las recetas emitidas y su estado de dispensación, **para** coordinar la entrega de medicamentos de forma ordenada. | 5 |
-| 33 | US025 | Emisión de facturación electrónica | **Como** personal administrativo, **quiero** generar comprobantes y facturación electrónica desde la atención registrada, **para** reducir errores y pasos manuales en caja. | 8 |
-| 34 | US005 | Cancelación de citas | **Como** paciente, **quiero** cancelar una cita programada, **para** liberar el horario cuando ya no podré asistir. | 3 |
-| 35 | US004 | Reprogramación de citas | **Como** paciente, **quiero** reprogramar una cita desde mi panel, **para** adaptar mi atención a cambios en mi disponibilidad. | 5 |
-| 36 | US008 | Recordatorios de citas | **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos e inasistencias. | 5 |
-| 37 | US026 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | 3 |
-| 38 | US027 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | 5 |
-| 39 | US028 | Reportes automáticos de gestión | **Como** personal administrativo, **quiero** generar reportes automáticos de actividad clínica y operativa, **para** reducir horas dedicadas a informes manuales. | 5 |
-| 40 | US016 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | 5 |
-| 41 | US017 | Resumen automático del historial | **Como** médico, **quiero** ver un resumen automático del historial del paciente, **para** comprender rápidamente sus antecedentes dentro del tiempo limitado de consulta. | 8 |
-| 42 | US018 | Registro asistido por voz | **Como** médico, **quiero** dictar parte del registro clínico por voz, **para** disminuir el tiempo de digitación durante la consulta. | 8 |
-| 43 | US036 | Persistencia ante fallos de conexión | **Como** usuario, **quiero** que la plataforma preserve la información ingresada ante fallos temporales, **para** no repetir trabajo ni perder datos importantes. | 8 |
-| 44 | US038 | Auditoría de acciones | **Como** establecimiento de salud, **quiero** registrar acciones críticas realizadas en la plataforma, **para** contar con trazabilidad ante revisiones o auditorías. | 5 |
-| 45 | US030 | Integraciones externas mediante API | **Como** personal administrativo o directivo, **quiero** que el sistema pueda integrarse con otras plataformas mediante API, **para** no aislar la operación del establecimiento. | 8 |
+| 1 | TS001 | Configuración de arquitectura base y GitFlow | **Como** desarrollador, **quiero** establecer la estructura inicial del repositorio y GitFlow, **para** trabajar en equipo de forma colaborativa y ordenada. | 2 |
+| 2 | TS002 | Configuración de entorno CI/CD | **Como** desarrollador, **quiero** automatizar el despliegue de la landing page vía GitHub Pages, **para** tener un flujo de entrega continua. | 2 |
+| 3 | US039 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | 2 |
+| 4 | US041 | Sección de funcionalidades clave | **Como** visitante, **quiero** ver las funcionalidades principales del sistema en la landing page, **para** comprender el alcance de la solución antes de solicitar una demo. | 2 |
+| 5 | US042 | Presentación por segmentos objetivo | **Como** visitante, **quiero** identificar cómo Vitalia ayuda a pacientes, médicos y administrativos, **para** reconocer el beneficio para cada actor del establecimiento. | 3 |
+| 6 | US043 | Evidencia de diferenciación competitiva | **Como** visitante institucional, **quiero** entender qué diferencia a Vitalia de otras alternativas, **para** sustentar una posible decisión de compra. | 2 |
+| 7 | US044 | Llamados a la acción visibles | **Como** visitante, **quiero** encontrar botones de acción claros en la landing page, **para** solicitar información sin perder tiempo buscando cómo continuar. | 2 |
+| 8 | US040 | Solicitud de contacto comercial | **Como** visitante interesado, **quiero** dejar mis datos en un formulario de contacto, **para** solicitar una demostración o mayor información del producto. | 3 |
+| 9 | US045 | Cambio de idioma en landing page | **Como** visitante, **quiero** cambiar el idioma de la landing page, **para** comprender la propuesta de Vitalia en el idioma que me resulte más cómodo. | 2 |
+| 10 | US031 | Diseño responsive | **Como** usuario, **quiero** utilizar la plataforma desde celular, tablet o computadora, **para** acceder al sistema según el contexto de uso. | 5 |
+| 11 | US037 | Navegación simple | **Como** usuario, **quiero** encontrar las funciones principales con pocos pasos, **para** reducir la curva de aprendizaje y el tiempo de uso. | 3 |
+| 12 | US032 | Tiempo de respuesta ágil | **Como** usuario, **quiero** que las acciones principales respondan con rapidez, **para** no perder tiempo durante procesos críticos de atención. | 5 |
+| 13 | US035A | Cifrado de información médica sensible | **Como** paciente, **quiero** que mi historial clínico viaje y se almacene de forma cifrada, **para** garantizar la absoluta confidencialidad de mi salud. | 5 |
+| 14 | US035B | Bloqueos automáticos y sesiones seguras | **Como** usuario, **quiero** que la sesión se cierre por inactividad o intento fallido reiterado, **para** evitar el acceso indebido. | 3 |
+| 15 | US034A | Definición de accesos basados en roles (RBAC) | **Como** administrador, **quiero** asignar roles preestablecidos con vistas específicas del sistema, **para** restringir el acceso inapropiado. | 5 |
+| 16 | US034B | Gestión granular de permisos especiales | **Como** administrador, **quiero** habilitar o revocar permisos específicos a un usuario dentro de su rol, **para** manejar excepciones. | 3 |
+| 17 | US001 | Registro de paciente | **Como** paciente nuevo, **quiero** crear mi cuenta con mis datos personales básicos, **para** acceder a mis servicios médicos desde un solo lugar. | 5 |
+| 18 | US002 | Inicio de sesión de paciente | **Como** paciente, **quiero** iniciar sesión de manera sencilla y segura, **para** consultar rápidamente mi información médica. | 3 |
+| 19 | US033 | Recuperación de contraseña | **Como** usuario, **quiero** recuperar mi contraseña de forma segura, **para** restablecer el acceso a mi cuenta sin soporte manual innecesario. | 3 |
+| 20 | US009 | Accesibilidad de interfaz | **Como** paciente adulto mayor o con baja familiaridad digital, **quiero** una interfaz clara y legible, **para** usar la plataforma sin confusión ni dependencia de terceros. | 5 |
+| 21 | US003 | Reserva digital de citas | **Como** paciente, **quiero** reservar una cita en pocos pasos, **para** evitar llamadas o trámites presenciales innecesarios. | 5 |
+| 22 | US022 | Programación de citas desde admisión | **Como** personal administrativo, **quiero** programar citas desde admisión, **para** atender solicitudes presenciales o telefónicas con mayor rapidez. | 5 |
+| 23 | US010 | Agenda médica diaria | **Como** médico, **quiero** visualizar mi agenda diaria organizada, **para** preparar mis consultas y administrar mejor mi jornada. | 3 |
+| 24 | US023 | Confirmación de asistencia | **Como** personal administrativo, **quiero** confirmar la asistencia del paciente al llegar, **para** actualizar el flujo de atención en tiempo real. | 3 |
+| 25 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | 5 |
+| 26 | US024A | Compartición de admisión a triaje y clínica | **Como** personal de salud, **quiero** que los datos de admisión fluyan instantáneamente a triaje y consultorio, **para** agilizar el inicio de la atención. | 5 |
+| 27 | US024B | Visibilidad cruzada con farmacia y laboratorio | **Como** personal de soporte, **quiero** acceder a las recetas y órdenes médicas generadas en consultorio, **para** procesar dispensaciones y muestras. | 3 |
+| 28 | US011 | Consulta rápida del historial del paciente | **Como** médico, **quiero** acceder rápidamente al historial clínico del paciente antes y durante la consulta, **para** tomar decisiones con información completa. | 5 |
+| 29 | US019 | Registro de triaje previo | **Como** médico, **quiero** revisar datos de triaje antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo clínico. | 3 |
+| 30 | US012 | Registro de anamnesis y examen físico | **Como** médico, **quiero** registrar anamnesis y examen físico en una sola atención, **para** documentar la consulta de forma ordenada y completa. | 5 |
+| 31 | US013 | Emisión de diagnóstico | **Como** médico, **quiero** registrar el diagnóstico de la consulta, **para** dejar constancia clínica y orientar el tratamiento del paciente. | 3 |
+| 32 | US014 | Emisión de recetas digitales | **Como** médico, **quiero** emitir recetas digitales legibles, **para** reducir errores y facilitar la dispensación de medicamentos. | 5 |
+| 33 | US015 | Solicitud de exámenes | **Como** médico, **quiero** generar órdenes de exámenes desde la misma consulta, **para** agilizar el plan diagnóstico del paciente. | 5 |
+| 34 | US020 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | 5 |
+| 35 | US006 | Consulta de historial clínico | **Como** paciente, **quiero** visualizar mi historial clínico digital, **para** revisar diagnósticos, atenciones y continuidad de tratamiento sin depender de copias físicas. | 5 |
+| 36 | US007 | Consulta de resultados y recetas | **Como** paciente, **quiero** ver mis resultados y recetas emitidas en línea, **para** evitar ir al establecimiento solo para recoger información. | 5 |
+| 37 | US029 | Gestión de farmacia | **Como** personal administrativo o de farmacia, **quiero** consultar las recetas emitidas y su estado de dispensación, **para** coordinar la entrega de medicamentos de forma ordenada. | 5 |
+| 38 | US025A | Generación automatizada de comprobantes | **Como** personal administrativo, **quiero** emitir boletas y facturas de forma automatizada tras cerrar la atención, **para** reducir errores en caja. | 5 |
+| 39 | US025B | Comunicación y envío ante el OSE/SUNAT | **Como** personal administrativo, **quiero** que el sistema gestione el envío electrónico de comprobantes a la entidad tributaria, **para** cumplir la normativa. | 3 |
+| 40 | US005 | Cancelación de citas | **Como** paciente, **quiero** cancelar una cita programada, **para** liberar el horario cuando ya no podré asistir. | 3 |
+| 41 | US004 | Reprogramación de citas | **Como** paciente, **quiero** reprogramar una cita desde mi panel, **para** adaptar mi atención a cambios en mi disponibilidad. | 5 |
+| 42 | US008 | Recordatorios de citas | **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos e inasistencias. | 5 |
+| 43 | US026 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | 3 |
+| 44 | US027 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | 5 |
+| 45 | US028 | Reportes automáticos de gestión | **Como** personal administrativo, **quiero** generar reportes automáticos de actividad clínica y operativa, **para** reducir horas dedicadas a informes manuales. | 5 |
+| 46 | US016 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | 5 |
+| 47 | US017A | Resumen de diagnósticos y antecedentes | **Como** médico, **quiero** ver un resumen consolidado de diagnósticos y antecedentes, **para** comprender rápidamente el cuadro del paciente. | 5 |
+| 48 | US017B | Gráficos evolutivos de funciones vitales | **Como** médico, **quiero** visualizar la tendencia de funciones vitales en gráficos, **para** detectar anomalías sin revisar registros tabulares. | 3 |
+| 49 | US018A | Dictado por voz de atención clínica | **Como** médico, **quiero** dictar las secciones de evolución o anamnesis, **para** reducir el tiempo de digitación en consulta. | 5 |
+| 50 | US018B | Edición y confirmación de dictado | **Como** médico, **quiero** verificar y corregir la transcripción antes del guardado, **para** asegurar la veracidad del registro clínico. | 3 |
+| 51 | US036A | Caché y guardado local temporal | **Como** usuario, **quiero** que mis datos ingresados se guarden localmente ante un corte de internet, **para** evitar perder información redactada. | 5 |
+| 52 | US036B | Sincronización diferida tras restablecimiento | **Como** usuario, **quiero** que el sistema sincronice automáticamente los datos guardados localmente al recuperar la conexión, **para** mantener la integridad. | 3 |
+| 53 | US038 | Auditoría de acciones | **Como** establecimiento de salud, **quiero** registrar acciones críticas realizadas en la plataforma, **para** contar con trazabilidad ante revisiones o auditorías. | 5 |
+| 54 | US030A | Integración con servicios de identidad (RENIEC) | **Como** administrativo, **quiero** autocompletar datos del paciente ingresando su DNI mediante un servicio externo, **para** registrar pacientes de forma rápida. | 5 |
+| 55 | US030B | Sincronización con pasarelas de pago | **Como** administrador, **quiero** integrar pasarelas de pago digital vía API, **para** conciliar automáticamente las transacciones en línea. | 3 |
 
 # Capítulo IV: Product Design
 
@@ -1061,8 +1127,8 @@ Se utiliza una estrategia de fuentes combinadas para equilibrar la precisión cl
 - Body (Arimo): El caballo de batalla. Proporciona máxima legibilidad para registros médicos densos y tablas de datos.
 - Label (Inter): Utilizada para metadatos (ej. fechas de última visita, IDs de pacientes) y etiquetas secundarias en color on_surface_variant para que pasen a un segundo plano, permitiendo que el dato principal resalte.
 
-*Figura 17 (Color Palette & Tipography)*  
-<img src="assets/images/figures/19-color-palette.png" alt="Color Palette & Tipography" style="width: 100vw;">
+*Figura 19 (Color Palette & Tipography)*  
+<img src="../assets/images/figures/19-color-palette.png" alt="Color Palette & Tipography" style="width: 100vw;">
 
 **Componentes y Espaciado**
 
@@ -1137,13 +1203,15 @@ La tipografía se escala dinámicamente para asegurar que los datos no abrumen e
 - Componente "Vital Trace": En resoluciones pequeñas, el gráfico miniatura de barras reducirá el número de barras visibles (mostrando solo las más recientes) antes de permitir que el componente se comprima demasiado y pierda su utilidad visual.
 
 ## 4.2. Information Architecture
+
 La arquitectura de la información de Vitalia tiene como propósito principal estructurar, organizar y etiquetar el contenido de manera lógica y predecible. Las decisiones planteadas en esta sección están orientadas a garantizar que tanto los visitantes (en el Landing Page) como los usuarios de la clínica (en la Web Application) puedan adaptarse con fluidez a la plataforma, encontrando lo que necesitan sin esfuerzo cognitivo.
 
 ### 4.2.1. Organization Systems
 
 Para estructurar los volúmenes de información de manera eficiente, Vitalia aplica una combinación de esquemas de organización visual y de categorización, adaptados al contexto del usuario.
 
-**Esquemas de Organización Visual:**
+**Esquemas de Organización Visual**
+
 * **Organización Jerárquica (Visual Hierarchy):** Utilizada en la Web Application. Existe un Dashboard principal que actúa como tronco, del cual se desprenden las ramas o módulos (Citas, Pacientes, Farmacia), terminando en las "hojas" o vistas de detalle (ej. el detalle de una consulta específica).
 * **Organización Secuencial (Step-by-step):** Aplicada en procesos cerrados, como el *Booking Wizard* (donde el paciente elige especialidad $\rightarrow$ fecha $\rightarrow$ confirmación) y en el Landing Page para contar la historia del producto de forma progresiva.
 
@@ -1216,199 +1284,197 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 * **Left Sidebar Navigation:** Menú lateral fijo que aloja los módulos principales (Dashboard, Agenda, Patients, etc.). En dispositivos móviles (Mobile Web), este panel colapsa en un menú hamburguesa (Drawer) u ocupa una *Bottom Navigation Bar* para acciones frecuentes.
 * **Breadcrumbs (Migas de Pan):** Utilizado en la parte superior del área de contenido para ubicar al usuario en niveles profundos. *Ejemplo: Patients > Javier Morales > Consultation 14/04*.
 * **Profile Block:** Ubicado estáticamente en la parte inferior izquierda del Sidebar, consolidando el acceso a configuraciones de cuenta y desconexión segura sin ensuciar la navegación operativa.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
 *Figura 20 (Landing Page Wireframe)*  
-<img src="assets/images/figures/20-landing-wireframe.png" alt="Landing Page Wireframe" style="width: 100vw;">
+<img src="../assets/images/figures/20-landing-wireframe.png" alt="Landing Page Wireframe" style="width: 100vw;">
 
 ### 4.3.2. Landing Page Mock-up
 
 *Figura 21 (Landing Page Mock-up)* 
-<img src="assets/images/figures/21-landing-mockup.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/21-landing-mockup.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
-*Figura 22 (Landing Page Mock-up)* 
-<img src="assets/images/figures/32-wirframeall.png" alt="32-wirframeall" style="width: 100vw;">
+*Figura 22 (Web Applications Wireframes)* 
+<img src="../assets/images/figures/22-wirframeall.png" alt="22-wirframeall" style="width: 100vw;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-    - **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
+- **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
+- **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
+- **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
+- **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
+- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
-    *Figura 23 (Wireflow 1 Administradores)* 
-    <img src="assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 23 (Wireflow 1 Administradores)* 
+<img src="../assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 24 (Wireflow 2 Administradores)* 
-    <img src="assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 24 (Wireflow 2 Administradores)* 
+<img src="../assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 25 (Wireflow 3 Administradores)* 
-    <img src="assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 25 (Wireflow 3 Administradores)* 
+<img src="../assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 26 (Wireflow 4 Administradores)* 
-    <img src="assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 26 (Wireflow 4 Administradores)* 
+<img src="../assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 27 (Wireflow 5 Administradores)* 
-    <img src="assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 27 (Wireflow 5 Administradores)* 
+<img src="../assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-2.  **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-    - **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
+- **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
+- **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
+- **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
+- **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
-    *Figura 28 (Wireflow 1 Doctores)* 
-    <img src="assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 28 (Wireflow 1 Doctores)* 
+<img src="../assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 29 (Wireflow 2 Doctores)* 
-    <img src="assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 29 (Wireflow 2 Doctores)* 
+<img src="../assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 30 (Wireflow 3 Doctores)* 
-    <img src="assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 30 (Wireflow 3 Doctores)* 
+<img src="../assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 31 (Wireflow 4 Doctores)* 
-    <img src="assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 31 (Wireflow 4 Doctores)* 
+<img src="../assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-3. **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-    - **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
-    - **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
-    - **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
-    - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
+- **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
+- **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
+- **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
+- **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
-        *Figura 32 (Wireflow 1 Pacientes)* 
-    <img src="assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
-    
-        *Figura 33 (Wireflow 2 Pacientes)* 
-    <img src="assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
-    
-        *Figura 34 (Wireflow 3 Pacientes)* 
-    <img src="assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 32 (Wireflow 1 Pacientes)* 
+<img src="../assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-        *Figura 35 (Wireflow 4 Pacientes)* 
-    <img src="assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 33 (Wireflow 2 Pacientes)* 
+<img src="../assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+*Figura 34 (Wireflow 3 Pacientes)* 
+<img src="../assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+*Figura 35 (Wireflow 4 Pacientes)* 
+<img src="../assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ### 4.4.3. Web Applications Mock-ups
 
 *Figura 36 (Admin Clinic Settings)*  
-<img src="assets/images/figures/36-Admin Clinic Settings.png" alt="36-Admin Clinic Settings" style="width: 100vw;">
+<img src="../assets/images/figures/36-Admin Clinic Settings.png" alt="36-Admin Clinic Settings" style="width: 100vw;">
 
 *Figura 37 (Admin Billing)*  
-<img src="assets/images/figures/37-Admin Billing.png" alt="37-Admin Billing" style="width: 100vw;">
+<img src="../assets/images/figures/37-Admin Billing.png" alt="37-Admin Billing" style="width: 100vw;">
 
 *Figura 38 (Admin Operations)*  
-<img src="assets/images/figures/38-Admin Operations.png" alt="38-Admin Operations" style="width: 100vw;">
+<img src="../assets/images/figures/38-Admin Operations.png" alt="38-Admin Operations" style="width: 100vw;">
 
 *Figura 39 (Admin Users)*  
-<img src="assets/images/figures/39-Admin Users.png" alt="39-Admin Users" style="width: 100vw;">
+<img src="../assets/images/figures/39-Admin Users.png" alt="39-Admin Users" style="width: 100vw;">
 
 *Figura 40 (Admin Dashboard)*  
-<img src="assets/images/figures/40-Admin Dashboard.png" alt="40-Admin Dashboard" style="width: 100vw;">
+<img src="../assets/images/figures/40-Admin Dashboard.png" alt="40-Admin Dashboard" style="width: 100vw;">
 
 *Figura 41 (Patient Profile)*  
-<img src="assets/images/figures/41-Patient Profile.png" alt="41-Patient Profile" style="width: 100vw;">
+<img src="../assets/images/figures/41-Patient Profile.png" alt="41-Patient Profile" style="width: 100vw;">
 
 *Figura 42 (Patient History)*  
-<img src="assets/images/figures/42-Patient History.png" alt="42-Patient History" style="width: 100vw;">
+<img src="../assets/images/figures/42-Patient History.png" alt="42-Patient History" style="width: 100vw;">
 
 *Figura 43 (Patient Prescriptions)*  
-<img src="assets/images/figures/43-Patient Prescriptions.png" alt="43-Patient Prescriptions" style="width: 100vw;">
+<img src="../assets/images/figures/43-Patient Prescriptions.png" alt="43-Patient Prescriptions" style="width: 100vw;">
 
 *Figura 44 (Patient Appointments)*  
-<img src="assets/images/figures/44-Patient Appointments.png" alt="44-Patient Appointments" style="width: 100vw;">
+<img src="../assets/images/figures/44-Patient Appointments.png" alt="44-Patient Appointments" style="width: 100vw;">
 
 *Figura 45 (Patient Dashboard)*  
-<img src="assets/images/figures/45-Patient Dashboard.png" alt="45-Patient Dashboard" style="width: 100vw;">
+<img src="../assets/images/figures/45-Patient Dashboard.png" alt="45-Patient Dashboard" style="width: 100vw;">
 
 *Figura 46 (Doctor Profile)*  
-<img src="assets/images/figures/46-Doctor Profile.png" alt="46-Doctor Profile" style="width: 100vw;">
+<img src="../assets/images/figures/46-Doctor Profile.png" alt="46-Doctor Profile" style="width: 100vw;">
 
 *Figura 47 (Doctor Orders)*  
-<img src="assets/images/figures/47-Doctor Orders.png" alt="47-Doctor Orders" style="width: 100vw;">
+<img src="../assets/images/figures/47-Doctor Orders.png" alt="47-Doctor Orders" style="width: 100vw;">
 
 *Figura 48 (Doctor Agenda)*  
-<img src="assets/images/figures/48-Doctor Agenda.png" alt="48-Doctor Agenda" style="width: 100vw;">
+<img src="../assets/images/figures/48-Doctor Agenda.png" alt="48-Doctor Agenda" style="width: 100vw;">
 
 *Figura 49 (Doctor Patients)*  
-<img src="assets/images/figures/49-Doctor Patients.png" alt="49-Doctor Patients" style="width: 100vw;">
+<img src="../assets/images/figures/49-Doctor Patients.png" alt="49-Doctor Patients" style="width: 100vw;">
 
 *Figura 50 (Doctor Dashboard)*  
-<img src="assets/images/figures/50-Doctor Dashboard.png" alt="50-Doctor Dashboard" style="width: 100vw;">
-
-
+<img src="../assets/images/figures/50-Doctor Dashboard.png" alt="50-Doctor Dashboard" style="width: 100vw;">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-    - **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
+- **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
+- **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
+- **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
+- **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
+- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
-    *Figura 51 (Userflow 1 Administradores)* 
-    <img src="assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 51 (Userflow 1 Administradores)* 
+<img src="../assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 52 (Userflow 2 Administradores)* 
-    <img src="assets/images/figures/24-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 52 (Userflow 2 Administradores)* 
+<img src="../assets/images/figures/52-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 53 (Userflow 3 Administradores)* 
-    <img src="assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 53 (Userflow 3 Administradores)* 
+<img src="../assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 54 (Userflow 4 Administradores)* 
-    <img src="assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 54 (Userflow 4 Administradores)* 
+<img src="../assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 55 (Userflow 5 Administradores)* 
-    <img src="assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 55 (Userflow 5 Administradores)* 
+<img src="../assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-2.  **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-    - **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
+- **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
+- **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
+- **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
+- **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
-    *Figura 56 (Userflow 1 Doctores)* 
-    <img src="assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 56 (Userflow 1 Doctores)* 
+<img src="../assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 57 (Userflow 2 Doctores)* 
-    <img src="assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 57 (Userflow 2 Doctores)* 
+<img src="../assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 58 (Userflow 3 Doctores)* 
-    <img src="assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 58 (Userflow 3 Doctores)* 
+<img src="../assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 59 (Userflow 4 Doctores)* 
-    <img src="assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 59 (Userflow 4 Doctores)* 
+<img src="../assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-3. **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-    - **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
-    - **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
-    - **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
-    - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
+- **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
+- **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
+- **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
+- **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
-    *Figura 60 (Userflow 1 Pacientes)* 
-    <img src="assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 60 (Userflow 1 Pacientes)* 
+<img src="../assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
     
-    *Figura 61 (Userflow 2 Pacientes)* 
-    <img src="assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 61 (Userflow 2 Pacientes)* 
+<img src="../assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
     
-    *Figura 62 (Userflow 3 Pacientes)* 
-    <img src="assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 62 (Userflow 3 Pacientes)* 
+<img src="../assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 63 (Userflow 4 Pacientes)* 
-    <img src="assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
-
+*Figura 63 (Userflow 4 Pacientes)* 
+<img src="../assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ## 4.5. Web Applications Prototyping
 
@@ -1416,8 +1482,7 @@ En esta sección se presentan los prototipos de interfaz de usuario (UI) para De
 
 Link: https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca 
 
-<img src="assets/images/figures/xx-prototype.png" alt="prototype" style="width: 100vw;"/>
-
+<img src="../assets/images/others/prototype.png" alt="prototype" style="width: 100vw;"/>
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1438,44 +1503,44 @@ Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final
 
 Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
-*Figura XX (Design Level EventStorming)*  
-<img src="assets/images/figures/xx-design-level-event-storming.jpeg" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 64 (Design Level EventStorming)*  
+<img src="../assets/images/figures/64-design-level-event-storming.jpeg" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.2. Software Architecture Context Diagram
 
 El diagrama de contexto presenta una visión de alto nivel del sistema Vitalia, mostrando su interacción con los actores externos y sistemas externos relevantes. Este diagrama permite comprender el alcance del sistema, identificando quiénes lo utilizan y con qué servicios externos se integra, sin entrar en detalles técnicos internos.
 
-*Figura XX (Context Diagram)*  
-<img src="assets/images/figures/xx-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 65 (Context Diagram)*  
+<img src="../assets/images/figures/65-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 El diagrama de contenedores descompone el sistema en sus principales unidades de ejecución, mostrando cómo se distribuyen las responsabilidades dentro de la arquitectura. En este nivel se identifican elementos como la aplicación web, API Gateway y los distintos servicios o bounded contexts, así como las tecnologías utilizadas y la forma en que estos se comunican entre sí.
 
-*Figura XX (Container Diagram)*  
-<img src="assets/images/figures/xx-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 66 (Container Diagram)*  
+<img src="../assets/images/figures/66-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.4. Software Architecture Components Diagrams
 
 El diagrama de componentes profundiza en cada contenedor, detallando los módulos internos que lo conforman y sus interacciones. Este nivel permite visualizar la organización interna.
 
-*Figura XX (Component Diagram - Identity & Tenant Context)*  
-<img src="assets/images/figures/xx-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 67 (Component Diagram - Identity & Tenant Context)*  
+<img src="../assets/images/figures/67-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Clinical Context)*  
-<img src="assets/images/figures/xx-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 68 (Component Diagram - Clinical Context)*  
+<img src="../assets/images/figures/68-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Schedule Context)*  
-<img src="assets/images/figures/xx-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 69 (Component Diagram - Schedule Context)*  
+<img src="../assets/images/figures/69-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Pharmacy & Inventory Context)*  
-<img src="assets/images/figures/xx-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 70 (Component Diagram - Pharmacy & Inventory Context)*  
+<img src="../assets/images/figures/70-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Dashboard and Analytics Context)*  
-<img src="assets/images/figures/xx-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 71 (Component Diagram - Dashboard and Analytics Context)*  
+<img src="../assets/images/figures/71-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Billing Context)*  
-<img src="assets/images/figures/xx-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 72 (Component Diagram - Billing Context)*  
+<img src="../assets/images/figures/72-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1487,28 +1552,28 @@ En la segunda etapa, estas clases fueron organizadas en distintos Bounded Contex
 
 Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada clase dentro de su contexto, clasificándolas como Entity, Value Object o Aggregate. Esta identificación permitió definir con precisión las reglas de negocio, los límites de consistencia y las responsabilidades de cada componente dentro del dominio. Como resultado, los diagramas finales reflejan una arquitectura sólida, coherente y alineada con los principios de DDD, mostrando no solo la estructura del sistema, sino también la lógica y comportamiento del dominio.
 
-*Figura XX (Class Diagram - Identity and Clinic Context)*  
-<img src="assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram - Identity and Clinic Context" style="width: 100vw;">
+*Figura 73 (Class Diagram - Identity and Clinic Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram - Identity and Clinic Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Clinical Context)*  
-<img src="assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram - Clinical Context" style="width: 100vw;">
+*Figura 74 (Class Diagram - Clinical Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram - Clinical Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Scheduling Context)*  
-<img src="assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram - Scheduling Context" style="width: 100vw;">
+*Figura 75 (Class Diagram - Scheduling Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram - Scheduling Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Pharmacy & Inventory Context)*  
-<img src="assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
+*Figura 76 (Class Diagram - Pharmacy & Inventory Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Dashboard and Analytics Context)*  
-<img src="assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
+*Figura 77 (Class Diagram - Dashboard and Analytics Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Billing Context)*  
-<img src="assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram - Billing Context" style="width: 100vw;">
+*Figura 78 (Class Diagram - Billing Context)*  
+<img src="../assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram - Billing Context" style="width: 100vw;">
 
 ### 4.8.1. Database Diagrams
 
-*Figura XX (Database Diagram)*  
-<img src="assets/images/figures/xx-database-diagram.png" alt="Database Diagram" style="width: 100vw;">
+*Figura 79 (Database Diagram)*  
+<img src="../assets/images/figures/79-database-diagram.png" alt="Database Diagram" style="width: 100vw;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1632,10 +1697,11 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 ### 5.2.1. Sprint 1
 
 #### *5.2.1.1. Sprint Planning 1*
+
 Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por seccion de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
 
 | **Sprint #** | 1 |
-|------|--------|
+| --- | --- |
 | **Date** | 2026-24-04 |
 | **Time** | 4:00 PM |
 | **Location** | Reunión virtual |
@@ -1643,17 +1709,17 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino|
 | **Sprint n Goal** | Our focus is on building a fully responsive landing page aligned with Vitalia’s healthcare value proposition, with all key sections clearly structured. The goal is to communicate how our platform enhances access to medical services, improves patient experience, and integrates solutions such as diagnostics, laboratory, and specialized care. This will be validated once the page is deployed, ensuring a seamless, intuitive experience across both mobile and desktop devices. |
 | **Sprint n Velocity** | Designamos aceptar hasta 20 SP |
-| **Sum of Story Points** | 14 SP |
+| **Sum of Story Points** | 20 SP |
 
 #### *5.2.1.2. Aspect Leaders and Collaborators*
 
-| Team Member (Last Name, First Name) | GitHub Username | funcionalidades | Planes | Contacto | Sobre nosotros | Clientes |
-|-----------------------------------|-----------------|-----------------------------|------------------|-----------|-----|----|
+| Team Member | GitHub Username | Hero | Planes | Contacto | Sobre nosotros | Clientes |
+| --- | --- | --- | --- | --- | --- | --- |
 | Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
 | Dulanto Espino, Leo César | Leotens | L | C | C | C | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | C | L | C | C | C |
 | Alexther Kamil Diaz Martinez | kamil-tron | C | C | C | C | L |
-| Rojas Tello, Alonso | nes-ro | C | C | C | L | C|
+| Rojas Tello, Alonso | nes-ro | C | C | C | L | C |
 
 #### *5.2.1.3. Sprint Backlog 1*
 
@@ -1662,12 +1728,13 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
-      <th colspan="2">User Story</th>
+      <th colspan="3">User Story</th>
       <th colspan="6">Work-Item / Task</th>
     </tr>
     <tr>
       <th>Id</th>
       <th>Title</th>
+      <th>Story Points</th>
       <th>Id</th>
       <th>Title</th>
       <th>Description</th>
@@ -1680,6 +1747,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <tr>
       <td>US044</td>
       <td>LLamados a la acción visibles</td>
+      <td>2</td>
       <td>TO01</td>
       <td>Hero</td>
       <td>Implementar el hero de la landing page</td>
@@ -1690,6 +1758,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US039</td>
       <td>Visualización de propuesta de valor</td>
+      <td>2</td>
       <td>TO02</td>
       <td>Header</td>
       <td>Implementar el header de la landing page</td>
@@ -1700,6 +1769,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US041</td>
       <td>Sección de funcionalidades clave</td>
+      <td>2</td>
       <td>TO03</td>
       <td>Sección funcionalidades</td>
       <td>Implementar funcionalidades clave</td>
@@ -1710,6 +1780,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US042</td>
       <td>Presentación por segmentos objetivo</td>
+      <td>3</td>
       <td>TO04</td>
       <td>Sección clientes</td>
       <td>Implementar Who is vitalia for? </td>
@@ -1720,16 +1791,18 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US043</td>
       <td>Evidencia de diferenciación competitiva</td>
+      <td>2</td>
       <td>TO05</td>
       <td>Sección planes</td>
       <td>Implementar sección planes</td>
       <td>1</td>
-      <td>AdrxRyz</td>
+      <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US043</td>
       <td>Evidencia de diferenciación competitiva</td>
+      <td>2</td>
       <td>TO06</td>
       <td>Sección sobre nosotros</td>
       <td>Implementar about us</td>
@@ -1740,6 +1813,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US040</td>
       <td>Solicitud de contacto comercial</td>
+      <td>3</td>
       <td>TO07</td>
       <td>Contact us</td>
       <td>Mostrar información de contacto</td>
@@ -1750,6 +1824,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US040</td>
       <td>Solicitud de contacto comercial</td>
+      <td>3</td>
       <td>TO08</td>
       <td>Contact us</td>
       <td>Agregar formulario de contacto</td>
@@ -1760,11 +1835,45 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
     <tr>
       <td>US045</td>
       <td>Cambio de idioma en landing page</td>
+      <td>2</td>
       <td>TO09</td>
       <td>Idioma</td>
       <td>Agregar idiomas en landing page</td>
       <td>1</td>
       <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS001</td>
+      <td>Configuración de arquitectura base y GitFlow</td>
+      <td>2</td>
+      <td>TO10</td>
+      <td>Git y GitFlow Setup</td>
+      <td>Establecer estructura de ramas y convenciones en el repositorio</td>
+      <td>1</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS001</td>
+      <td>Configuración de arquitectura base y GitFlow</td>
+      <td>2</td>
+      <td>TO11</td>
+      <td>Boilerplate y estructura</td>
+      <td>Crear la estructura inicial de carpetas y plantillas HTML/CSS</td>
+      <td>1</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS002</td>
+      <td>Configuración de entorno CI/CD</td>
+      <td>2</td>
+      <td>TO12</td>
+      <td>GitHub Pages Setup</td>
+      <td>Configurar la automatización y despliegue de la landing page</td>
+      <td>1</td>
+      <td>kamil-tron</td>
       <td>Completed</td>
     </tr>
   </tbody>
@@ -1915,9 +2024,9 @@ Se prevé que en futuros Sprints, conforme se integren funcionalidades dinámica
 
 El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
 
-<img src="/assets/images/figures/xx-deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
+<img src="../assets/images/others/deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
 
-<img src="/assets/images/figures/xx-deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
+<img src="../assets/images/others/deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
 
 **Procedimiento planificado:** 
 
@@ -1935,30 +2044,32 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 
-<img src="/assets/images/figures/xx-collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
+<img src="../assets/images/others/collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
 
-<img src="/assets/images/figures/xx-collab-insight-2.png" alt="collab-insights3" style="width: 100vw;"/>
+<img src="../assets/images/others/collab-insight-2.png" alt="collab-insights2" style="width: 100vw;"/>
 
 # Conclusiones
-* **Sobre el Problem Statement y Needfinding:** Se concluye que la problemática inicial respecto a la fragmentación de la información sanitaria en el Primer Nivel de Atención de Salud (PNAS) es una necesidad real y latente. Durante la fase de entrevistas y Needfinding, se comprobó que tanto el personal médico como el administrativo sufren ineficiencias operativas por el uso de sistemas aislados, validando nuestra premisa fundamental de que un ecosistema integrado (Historia Clínica, Citas, Farmacia y Facturación) es indispensable para el mercado peruano.
 
-* **Sobre los Assumptions e Hypothesis Statements (Resultados preliminares):** Nuestra hipótesis sobre la disposición de los médicos y administradores a adoptar nuevas tecnologías se ha validado de forma preliminar durante las entrevistas. Se asume con mayor certeza que una curva de aprendizaje baja y una interfaz libre de distracciones visuales (con filosofía Pure Dark y Glassmorphism) reducirán significativamente la resistencia al cambio, mitigando uno de los riesgos más altos del producto. Los resultados cuantitativos finales se medirán tras las pruebas con usuarios de las Web Applications.
+- **Sobre el Problem Statement y Needfinding:** Se concluye que la problemática inicial respecto a la fragmentación de la información sanitaria en el Primer Nivel de Atención de Salud (PNAS) es una necesidad real y latente. Durante la fase de entrevistas y Needfinding, se comprobó que tanto el personal médico como el administrativo sufren ineficiencias operativas por el uso de sistemas aislados, validando nuestra premisa fundamental de que un ecosistema integrado (Historia Clínica, Citas, Farmacia y Facturación) es indispensable para el mercado peruano.
 
-* **Sobre la Arquitectura y Diseño del Producto:** La aplicación del Domain-Driven Design (DDD) mediante el EventStorming ha demostrado ser un éxito metodológico para el equipo. Logramos diseccionar un sistema médico complejo en Bounded Contexts bien definidos (Identity, Clinical, Pharmacy, Scheduling, Billing, Notifications), lo cual nos ha permitido establecer una arquitectura de microservicios o módulos desacoplados altamente escalable.
+- **Sobre los Assumptions e Hypothesis Statements (Resultados preliminares):** Nuestra hipótesis sobre la disposición de los médicos y administradores a adoptar nuevas tecnologías se ha validado de forma preliminar durante las entrevistas. Se asume con mayor certeza que una curva de aprendizaje baja y una interfaz libre de distracciones visuales (con filosofía Pure Dark y Glassmorphism) reducirán significativamente la resistencia al cambio, mitigando uno de los riesgos más altos del producto. Los resultados cuantitativos finales se medirán tras las pruebas con usuarios de las Web Applications.
 
-* **Sobre la Implementación (Sprint 1):** Se concluye que el desarrollo y despliegue ágil de la Landing Page comercial permite a KinetiaLabs contar tempranamente con un activo digital para la validación de la propuesta de valor frente a clientes potenciales (B2B), demostrando que la separación entre la plataforma de marketing y la aplicación core optimiza los tiempos de entrega.
+- **Sobre la Arquitectura y Diseño del Producto:** La aplicación del Domain-Driven Design (DDD) mediante el EventStorming ha demostrado ser un éxito metodológico para el equipo. Logramos diseccionar un sistema médico complejo en Bounded Contexts bien definidos (Identity, Clinical, Pharmacy, Scheduling, Billing, Notifications), lo cual nos ha permitido establecer una arquitectura de microservicios o módulos desacoplados altamente escalable.
+
+- **Sobre la Implementación (Sprint 1):** Se concluye que el desarrollo y despliegue ágil de la Landing Page comercial permite a KinetiaLabs contar tempranamente con un activo digital para la validación de la propuesta de valor frente a clientes potenciales (B2B), demostrando que la separación entre la plataforma de marketing y la aplicación core optimiza los tiempos de entrega.
 
 # Recomendaciones
 
-* **Sobre el Roadmap y Siguientes Sprints:** Se recomienda mantener un enfoque estricto en el desarrollo del módulo Core (Historia Clínica Electrónica y Citas) para el Sprint 2. Es vital que la base de datos y la lógica del Identity & Tenant Context queden sólidamente integradas antes de avanzar a los módulos de facturación o inventario, garantizando así la correcta segregación de datos por policlínico (Multi-tenant).
+- **Sobre el Roadmap y Siguientes Sprints:** Se recomienda mantener un enfoque estricto en el desarrollo del módulo Core (Historia Clínica Electrónica y Citas) para el Sprint 2. Es vital que la base de datos y la lógica del Identity & Tenant Context queden sólidamente integradas antes de avanzar a los módulos de facturación o inventario, garantizando así la correcta segregación de datos por policlínico (Multi-tenant).
 
-* **Validación Temprana (Testing):** Se recomienda que, tan pronto se despliegue la primera versión funcional de la Web Application para doctores y recepcionistas, se organicen las Validation Interviews con los usuarios clave abordados en el Capítulo II. Recolectar feedback sobre la fluidez del agendamiento y el llenado de anamnesis será crucial antes del Release final.
+- **Validación Temprana (Testing):** Se recomienda que, tan pronto se despliegue la primera versión funcional de la Web Application para doctores y recepcionistas, se organicen las Validation Interviews con los usuarios clave abordados en el Capítulo II. Recolectar feedback sobre la fluidez del agendamiento y el llenado de anamnesis será crucial antes del Release final.
 
-* **Integraciones de Terceros (APIs):** De cara a la madurez del producto, se recomienda ir analizando la documentación técnica de sistemas de terceros para los módulos secundarios, específicamente la API de RENIEC (para el registro rápido de pacientes y validación de identidad) y las pasarelas de facturación electrónica validadas por SUNAT.
+- **Integraciones de Terceros (APIs):** De cara a la madurez del producto, se recomienda ir analizando la documentación técnica de sistemas de terceros para los módulos secundarios, específicamente la API de RENIEC (para el registro rápido de pacientes y validación de identidad) y las pasarelas de facturación electrónica validadas por SUNAT.
 
-* **Gestión Documental:** Se sugiere al equipo mantener el rigor en el flujo de Docs-as-Code y los Conventional Commits en el repositorio de GitHub, ya que la trazabilidad del código y la documentación integrada facilitarán enormemente la auditoría del proyecto en las entregas finales.
+- **Gestión Documental:** Se sugiere al equipo mantener el rigor en el flujo de Docs-as-Code y los Conventional Commits en el repositorio de GitHub, ya que la trazabilidad del código y la documentación integrada facilitarán enormemente la auditoría del proyecto en las entregas finales.
 
 # Bibliografía
+
 Banco Mundial. (2023). *Sistemas de gestión de información de salud en el Perú.* https://documents1.worldbank.org/curated/en/099062123174135607/pdf/P1778220d5911f0bd081d205543f78f357d.pdf
 
 Congreso de la República. (2009, 2 octubre). *Normas Legales.* https://www.leyes.congreso.gob.pe/documentos/leyes/29414.pdf
@@ -1978,20 +2089,21 @@ Organización Panamericana de Salud. (2021, 7 septiembre). *Hoja informativa - H
 Wafa K. Alanazi. (2024). Effect of electronic prescription system modifications on reducing prescribing errors in a military hospital. *Journal Of Pharmaceutical Policy And Practice.* https://doi.org/10.1080/20523211.2024.2431177
 
 # Anexos
-**Anexo A. Diagramas en svg**
+**Anexo A. Diagramas**
 
-| Diagrama | Enlace al diagrama.svg |
+| Diagrama | Enlace al diagrama |
 | --- | --- |
-| **BicPicture EventStorming** | [BigPicture EventStorming](assets/diagrams/big-picture-event-storming.svg) |
-| **DesignLevel EventStorming** | [DesignLevel EventStorming](assets/diagrams/design-level-event-storming.svg) |
-| **Class Diagram** | [Class Diagram](assets/diagrams/class-diagram.svg) |
-| **Database Diagram** | [Database Diagram](assets/diagrams/database-diagram.svg) |
+| **BicPicture EventStorming** | [BigPicture EventStorming](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/big-picture-event-storming-diagram.svg) |
+| **DesignLevel EventStorming** | [DesignLevel EventStorming](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/design-level-event-storming-diagram.svg) |
+| **Class Diagram** | [Class Diagram](raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/class-diagram-etapa-3.puml) |
+| **Database Diagram** | [Database Diagram](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/database-diagram.svg) |
 
 **Anexo B. Videos de expocisiones**
 
 | Hito | Enlace al Video |
 | --- | --- |
 | **AV1** | [upc-pre-202610-1asi0730-10203-kinetialabs-expo-av1](https://av1) |
+| **TB1** | [upc-pre-202610-1asi0730-10203-kinetialabs-expo-tb1](https://tb11) |
 
 **Anexo C. Enlaces Importantes**
 
@@ -1999,4 +2111,6 @@ Wafa K. Alanazi. (2024). Effect of electronic prescription system modifications 
 | --- | --- |
 | Repositorio del informe | https://github.com/kinetia-upc/vitalia-docs |
 | Repositorio de la Landing Page | https://github.com/kinetia-upc/vitalia-landing |
-| Landing Page Desplegada | https://kinetia-upc.github.io/vitalia-landing/ |
+| Landing Page Desplegada | https://kinetia-upc.github.io/vitalia-landing |
+| Repositorio del frontend | https://github.com/kinetia-upc/vitalia-frontend |
+| Frontend Desplegado | https://vitalia-frontend.web.app |

@@ -38,7 +38,7 @@ Se utiliza una estrategia de fuentes combinadas para equilibrar la precisión cl
 - Body (Arimo): El caballo de batalla. Proporciona máxima legibilidad para registros médicos densos y tablas de datos.
 - Label (Inter): Utilizada para metadatos (ej. fechas de última visita, IDs de pacientes) y etiquetas secundarias en color on_surface_variant para que pasen a un segundo plano, permitiendo que el dato principal resalte.
 
-*Figura 17 (Color Palette & Tipography)*  
+*Figura 19 (Color Palette & Tipography)*  
 <img src="../assets/images/figures/19-color-palette.png" alt="Color Palette & Tipography" style="width: 100vw;">
 
 **Componentes y Espaciado**
@@ -114,13 +114,15 @@ La tipografía se escala dinámicamente para asegurar que los datos no abrumen e
 - Componente "Vital Trace": En resoluciones pequeñas, el gráfico miniatura de barras reducirá el número de barras visibles (mostrando solo las más recientes) antes de permitir que el componente se comprima demasiado y pierda su utilidad visual.
 
 ## 4.2. Information Architecture
+
 La arquitectura de la información de Vitalia tiene como propósito principal estructurar, organizar y etiquetar el contenido de manera lógica y predecible. Las decisiones planteadas en esta sección están orientadas a garantizar que tanto los visitantes (en el Landing Page) como los usuarios de la clínica (en la Web Application) puedan adaptarse con fluidez a la plataforma, encontrando lo que necesitan sin esfuerzo cognitivo.
 
 ### 4.2.1. Organization Systems
 
 Para estructurar los volúmenes de información de manera eficiente, Vitalia aplica una combinación de esquemas de organización visual y de categorización, adaptados al contexto del usuario.
 
-**Esquemas de Organización Visual:**
+**Esquemas de Organización Visual**
+
 * **Organización Jerárquica (Visual Hierarchy):** Utilizada en la Web Application. Existe un Dashboard principal que actúa como tronco, del cual se desprenden las ramas o módulos (Citas, Pacientes, Farmacia), terminando en las "hojas" o vistas de detalle (ej. el detalle de una consulta específica).
 * **Organización Secuencial (Step-by-step):** Aplicada en procesos cerrados, como el *Booking Wizard* (donde el paciente elige especialidad $\rightarrow$ fecha $\rightarrow$ confirmación) y en el Landing Page para contar la historia del producto de forma progresiva.
 
@@ -193,6 +195,7 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 * **Left Sidebar Navigation:** Menú lateral fijo que aloja los módulos principales (Dashboard, Agenda, Patients, etc.). En dispositivos móviles (Mobile Web), este panel colapsa en un menú hamburguesa (Drawer) u ocupa una *Bottom Navigation Bar* para acciones frecuentes.
 * **Breadcrumbs (Migas de Pan):** Utilizado en la parte superior del área de contenido para ubicar al usuario en niveles profundos. *Ejemplo: Patients > Javier Morales > Consultation 14/04*.
 * **Profile Block:** Ubicado estáticamente en la parte inferior izquierda del Sidebar, consolidando el acceso a configuraciones de cuenta y desconexión segura sin ensuciar la navegación operativa.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
@@ -208,71 +211,71 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
-*Figura 22 (Landing Page Mock-up)* 
-<img src="../assets/images/figures/32-wirframeall.png" alt="32-wirframeall" style="width: 100vw;">
+*Figura 22 (Web Applications Wireframes)* 
+<img src="../assets/images/figures/22-wirframeall.png" alt="22-wirframeall" style="width: 100vw;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-    - **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
+- **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
+- **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
+- **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
+- **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
+- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
-    *Figura 23 (Wireflow 1 Administradores)* 
-    <img src="../assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 23 (Wireflow 1 Administradores)* 
+<img src="../assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 24 (Wireflow 2 Administradores)* 
-    <img src="../assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 24 (Wireflow 2 Administradores)* 
+<img src="../assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 25 (Wireflow 3 Administradores)* 
-    <img src="../assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 25 (Wireflow 3 Administradores)* 
+<img src="../assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 26 (Wireflow 4 Administradores)* 
-    <img src="../assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 26 (Wireflow 4 Administradores)* 
+<img src="../assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 27 (Wireflow 5 Administradores)* 
-    <img src="../assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 27 (Wireflow 5 Administradores)* 
+<img src="../assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-2.  **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-    - **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
+- **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
+- **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
+- **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
+- **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
-    *Figura 28 (Wireflow 1 Doctores)* 
-    <img src="../assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 28 (Wireflow 1 Doctores)* 
+<img src="../assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 29 (Wireflow 2 Doctores)* 
-    <img src="../assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 29 (Wireflow 2 Doctores)* 
+<img src="../assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 30 (Wireflow 3 Doctores)* 
-    <img src="../assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 30 (Wireflow 3 Doctores)* 
+<img src="../assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 31 (Wireflow 4 Doctores)* 
-    <img src="../assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 31 (Wireflow 4 Doctores)* 
+<img src="../assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-3. **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-    - **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
-    - **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
-    - **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
-    - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
+- **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
+- **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
+- **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
+- **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
-        *Figura 32 (Wireflow 1 Pacientes)* 
-    <img src="../assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
-    
-        *Figura 33 (Wireflow 2 Pacientes)* 
-    <img src="../assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
-    
-        *Figura 34 (Wireflow 3 Pacientes)* 
-    <img src="../assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 32 (Wireflow 1 Pacientes)* 
+<img src="../assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-        *Figura 35 (Wireflow 4 Pacientes)* 
-    <img src="../assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 33 (Wireflow 2 Pacientes)* 
+<img src="../assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+*Figura 34 (Wireflow 3 Pacientes)* 
+<img src="../assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+
+*Figura 35 (Wireflow 4 Pacientes)* 
+<img src="../assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -321,71 +324,68 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 *Figura 50 (Doctor Dashboard)*  
 <img src="../assets/images/figures/50-Doctor Dashboard.png" alt="50-Doctor Dashboard" style="width: 100vw;">
 
-
-
 ### 4.4.4. Web Applications User Flow Diagrams
 
-1. **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-    - **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
-    - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
+- **Como** administrador de un establecimiento de PNAS, **quiero** registrar y mantener una ficha única de pacientes, **para** evitar duplicidades y asegurar que la información quede disponible para admisión, consultorio, laboratorio, farmacia y caja. (US021, US024)
+- **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
+- **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
+- **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
+- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
-    *Figura 51 (Userflow 1 Administradores)* 
-    <img src="../assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 51 (Userflow 1 Administradores)* 
+<img src="../assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 52 (Userflow 2 Administradores)* 
-    <img src="../assets/images/figures/24-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 52 (Userflow 2 Administradores)* 
+<img src="../assets/images/figures/52-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 53 (Userflow 3 Administradores)* 
-    <img src="../assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 53 (Userflow 3 Administradores)* 
+<img src="../assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 54 (Userflow 4 Administradores)* 
-    <img src="../assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 54 (Userflow 4 Administradores)* 
+<img src="../assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 55 (Userflow 5 Administradores)* 
-    <img src="../assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 55 (Userflow 5 Administradores)* 
+<img src="../assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-2.  **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-    - **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
-    - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
+- **Como** doctor de un establecimiento de PNAS, **quiero** revisar mi agenda diaria, el estado de mis citas y los datos de triaje antes de la consulta, **para** preparar mejor cada atención. (US010, US019)
+- **Como** doctor de un establecimiento de PNAS, **quiero** acceder rápidamente al historial clínico y a un resumen automático del paciente, **para** tomar decisiones con antecedentes relevantes dentro del tiempo disponible. (US011, US017)
+- **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
+- **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
-    *Figura 56 (Userflow 1 Doctores)* 
-    <img src="../assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 56 (Userflow 1 Doctores)* 
+<img src="../assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 57 (Userflow 2 Doctores)* 
-    <img src="../assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 57 (Userflow 2 Doctores)* 
+<img src="../assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 58 (Userflow 3 Doctores)* 
-    <img src="../assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 58 (Userflow 3 Doctores)* 
+<img src="../assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 59 (Userflow 4 Doctores)* 
-    <img src="../assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 59 (Userflow 4 Doctores)* 
+<img src="../assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-3. **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-    - **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
-    - **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
-    - **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
-    - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
+- **Como** paciente, **quiero** crear una cuenta e iniciar sesión de manera sencilla y segura, **para** acceder a mis servicios médicos desde un solo lugar. (US001, US002)
+- **Como** paciente, **quiero** reservar, reprogramar o cancelar citas digitales en pocos pasos, **para** adaptar mi atención a mi disponibilidad sin depender de llamadas o trámites presenciales. (US003, US004, US005)
+- **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
+- **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
-    *Figura 60 (Userflow 1 Pacientes)* 
-    <img src="../assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 60 (Userflow 1 Pacientes)* 
+<img src="../assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
     
-    *Figura 61 (Userflow 2 Pacientes)* 
-    <img src="../assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 61 (Userflow 2 Pacientes)* 
+<img src="../assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
     
-    *Figura 62 (Userflow 3 Pacientes)* 
-    <img src="../assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 62 (Userflow 3 Pacientes)* 
+<img src="../assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
-    *Figura 63 (Userflow 4 Pacientes)* 
-    <img src="../assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
-
+*Figura 63 (Userflow 4 Pacientes)* 
+<img src="../assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ## 4.5. Web Applications Prototyping
 
@@ -393,8 +393,7 @@ En esta sección se presentan los prototipos de interfaz de usuario (UI) para De
 
 Link: https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca 
 
-<img src="../assets/images/figures/xx-prototype.png" alt="prototype" style="width: 100vw;"/>
-
+<img src="../assets/images/others/prototype.png" alt="prototype" style="width: 100vw;"/>
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -415,44 +414,44 @@ Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final
 
 Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
-*Figura XX (Design Level EventStorming)*  
-<img src="../assets/images/figures/xx-design-level-event-storming.jpeg" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 64 (Design Level EventStorming)*  
+<img src="../assets/images/figures/64-design-level-event-storming.jpeg" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.2. Software Architecture Context Diagram
 
 El diagrama de contexto presenta una visión de alto nivel del sistema Vitalia, mostrando su interacción con los actores externos y sistemas externos relevantes. Este diagrama permite comprender el alcance del sistema, identificando quiénes lo utilizan y con qué servicios externos se integra, sin entrar en detalles técnicos internos.
 
-*Figura XX (Context Diagram)*  
-<img src="../assets/images/figures/xx-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 65 (Context Diagram)*  
+<img src="../assets/images/figures/65-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 El diagrama de contenedores descompone el sistema en sus principales unidades de ejecución, mostrando cómo se distribuyen las responsabilidades dentro de la arquitectura. En este nivel se identifican elementos como la aplicación web, API Gateway y los distintos servicios o bounded contexts, así como las tecnologías utilizadas y la forma en que estos se comunican entre sí.
 
-*Figura XX (Container Diagram)*  
-<img src="../assets/images/figures/xx-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 66 (Container Diagram)*  
+<img src="../assets/images/figures/66-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.4. Software Architecture Components Diagrams
 
 El diagrama de componentes profundiza en cada contenedor, detallando los módulos internos que lo conforman y sus interacciones. Este nivel permite visualizar la organización interna.
 
-*Figura XX (Component Diagram - Identity & Tenant Context)*  
-<img src="../assets/images/figures/xx-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 67 (Component Diagram - Identity & Tenant Context)*  
+<img src="../assets/images/figures/67-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Clinical Context)*  
-<img src="../assets/images/figures/xx-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 68 (Component Diagram - Clinical Context)*  
+<img src="../assets/images/figures/68-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Schedule Context)*  
-<img src="../assets/images/figures/xx-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 69 (Component Diagram - Schedule Context)*  
+<img src="../assets/images/figures/69-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Pharmacy & Inventory Context)*  
-<img src="../assets/images/figures/xx-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 70 (Component Diagram - Pharmacy & Inventory Context)*  
+<img src="../assets/images/figures/70-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Dashboard and Analytics Context)*  
-<img src="../assets/images/figures/xx-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 71 (Component Diagram - Dashboard and Analytics Context)*  
+<img src="../assets/images/figures/71-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
 
-*Figura XX (Component Diagram - Billing Context)*  
-<img src="../assets/images/figures/xx-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
+*Figura 72 (Component Diagram - Billing Context)*  
+<img src="../assets/images/figures/72-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ## 4.7. Software Object-Oriented Design
 
@@ -464,25 +463,25 @@ En la segunda etapa, estas clases fueron organizadas en distintos Bounded Contex
 
 Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada clase dentro de su contexto, clasificándolas como Entity, Value Object o Aggregate. Esta identificación permitió definir con precisión las reglas de negocio, los límites de consistencia y las responsabilidades de cada componente dentro del dominio. Como resultado, los diagramas finales reflejan una arquitectura sólida, coherente y alineada con los principios de DDD, mostrando no solo la estructura del sistema, sino también la lógica y comportamiento del dominio.
 
-*Figura XX (Class Diagram - Identity and Clinic Context)*  
+*Figura 73 (Class Diagram - Identity and Clinic Context)*  
 <img src="../assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram - Identity and Clinic Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Clinical Context)*  
+*Figura 74 (Class Diagram - Clinical Context)*  
 <img src="../assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram - Clinical Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Scheduling Context)*  
+*Figura 75 (Class Diagram - Scheduling Context)*  
 <img src="../assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram - Scheduling Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Pharmacy & Inventory Context)*  
+*Figura 76 (Class Diagram - Pharmacy & Inventory Context)*  
 <img src="../assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Dashboard and Analytics Context)*  
+*Figura 77 (Class Diagram - Dashboard and Analytics Context)*  
 <img src="../assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
 
-*Figura XX (Class Diagram - Billing Context)*  
+*Figura 78 (Class Diagram - Billing Context)*  
 <img src="../assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram - Billing Context" style="width: 100vw;">
 
 ### 4.8.1. Database Diagrams
 
-*Figura XX (Database Diagram)*  
-<img src="../assets/images/figures/xx-database-diagram.png" alt="Database Diagram" style="width: 100vw;">
+*Figura 79 (Database Diagram)*  
+<img src="../assets/images/figures/79-database-diagram.png" alt="Database Diagram" style="width: 100vw;">
