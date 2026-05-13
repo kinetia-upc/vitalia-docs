@@ -82,7 +82,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **Student Outcome**
 
-[**Capítulo I: Introducción**](10-chap-1.md)  
+[**Capítulo I: Introducción**](docs/10-chap-1.md)  
 1.1. Startup Profile  
 1.1.1. Descripción del startup  
 1.1.2. Perfiles de integrantes del equipo  
@@ -95,7 +95,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 1.2.2.4. Lean UX Canvas  
 1.3. Segmentos objetivo  
 
-[**Capítulo II: Requirements Elicitation & Analysis**](20-chap-2.md)  
+[**Capítulo II: Requirements Elicitation & Analysis**](docs/20-chap-2.md)  
 2.1. Competidores  
 2.1.1. Análisis competitivo  
 2.1.2. Estrategias y tácticas frente a competidores  
@@ -111,12 +111,12 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 2.4. Big Picture EventStorming  
 2.5. Ubiquitous Language  
 
-[**Capítulo III: Requirements Specification**](30-chap-3.md)  
+[**Capítulo III: Requirements Specification**](docs/30-chap-3.md)  
 3.1. User Stories  
 3.2. Impact Mapping  
 3.3. Product Backlog  
 
-[**Capítulo IV: Product Design**](40-chap-4.md)  
+[**Capítulo IV: Product Design**](docs/40-chap-4.md)  
 4.1. Style Guidelines  
 4.1.1. General Style Guidelines  
 4.1.2. Web Style Guidelines  
@@ -145,14 +145,14 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 4.8. Database Design  
 4.8.1. Database Diagrams  
 
-[**Capítulo V: Product Implementation, Validation & Deployment**](50-chap-5.md)  
+[**Capítulo V: Product Implementation, Validation & Deployment**](docs/50-chap-5.md)  
 5.1. Software Configuration Management  
 5.1.1. Software Development Environment Configuration  
 5.1.2. Source Code Management  
 5.1.3. Source Code Style Guide & Conventions  
 5.1.4. Software Deployment Configuration  
 5.2. Landing Page, Services & Applications Implementation  
-[**5.2.1. Sprint 1**](51-sprint-1.md)  
+[**5.2.1. Sprint 1**](docs/51-sprint-1.md)  
 5.2.1.1. Sprint Planning 1  
 5.2.1.2. Aspect Leaders and Collaborators  
 5.2.1.3. Sprint Backlog 1  
@@ -161,7 +161,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.1.6. Services Documentation Evidence for Sprint Review  
 5.2.1.7. Software Deployment Evidence for Sprint Review  
 5.2.1.8. Team Collaboration Insights during Sprint  
-[**5.2.2. Sprint 2**](52-sprint-2.md)  
+[**5.2.2. Sprint 2**](docs/52-sprint-2.md)  
 5.2.2.1. Sprint Planning 2  
 5.2.2.2. Aspect Leaders and Collaborators  
 5.2.2.3. Sprint Backlog 2  
@@ -171,10 +171,10 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.2.7. Software Deployment Evidence for Sprint Review  
 5.2.2.8. Team Collaboration Insights during Sprint  
 
-[**Conclusiones**](80-conclusions.md)  
-[**Recomendaciones**](81-recommendations.md)  
-[**Bibliografía**](90-bibliography.md)  
-[**Anexos**](99-annexes.md)  
+[**Conclusiones**](docs/80-conclusions.md)  
+[**Recomendaciones**](docs/81-recommendations.md)  
+[**Bibliografía**](docs/90-bibliography.md)  
+[**Anexos**](docs/99-annexes.md)  
 
 # Student Outcome
 
@@ -2018,9 +2018,9 @@ Se prevé que en futuros Sprints, conforme se integren funcionalidades dinámica
 
 El despliegue se realizó mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
 
-<img src="../assets/images/others/s1-deployment-1.png" alt="s1-deployment-1" style="width: 100vw;"/>
+<img src="./assets/images/others/s1-deployment-1.png" alt="s1-deployment-1" style="width: 100vw;"/>
 
-<img src="../assets/images/others/s1-deployment-2.png" alt="s1-deployment-2" style="width: 100vw;"/>
+<img src="./assets/images/others/s1-deployment-2.png" alt="s1-deployment-2" style="width: 100vw;"/>
 
 **Procedimiento planificado:** 
 
@@ -2038,9 +2038,9 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 
-<img src="../assets/images/others/s1-collab-insight-1.png" alt="s1-collab-insight-1"  style="width: 100vw;"/>
+<img src="./assets/images/others/s1-collab-insight-1.png" alt="s1-collab-insight-1"  style="width: 100vw;"/>
 
-<img src="../assets/images/others/s1-collab-insight-2.png" alt="s1-collab-insight-2" style="width: 100vw;"/>
+<img src="./assets/images/others/s1-collab-insight-2.png" alt="s1-collab-insight-2" style="width: 100vw;"/>
 
 ### 5.2.2. Sprint 2
 
@@ -2344,9 +2344,9 @@ El despliegue continuo del Frontend de la aplicación web (Single Page Applicati
 - **Frontend App URL (VueJS):** https://vitalia-frontend.web.app
 - **Mock Service Endpoint:** https://db-server-vitalia.onrender.com
 
-<img src="../assets/images/others/s2-deployment-1.png" alt="s2-deployment-1" style="width: 100vw;"/>
+<img src="./assets/images/others/s2-deployment-1.png" alt="s2-deployment-1" style="width: 100vw;"/>
 
-<img src="../assets/images/others/s2-deployment-2.png" alt="s2-deployment-2" style="width: 100vw;"/>
+<img src="./assets/images/others/s2-deployment-2.png" alt="s2-deployment-2" style="width: 100vw;"/>
 
 #### *5.2.2.8. Team Collaboration Insights during Sprint*
 
@@ -2354,9 +2354,9 @@ Para la organización técnica del desarrollo del Frontend, el equipo adoptó un
 
 A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 
-<img src="../assets/images/others/s2-collab-insight-1.png" alt="s2-collab-insight-1"  style="width: 100vw;"/>
+<img src="./assets/images/others/s2-collab-insight-1.png" alt="s2-collab-insight-1"  style="width: 100vw;"/>
 
-<img src="../assets/images/others/s2-collab-insight-2.png" alt="s2-collab-insight-2" style="width: 100vw;"/>
+<img src="./assets/images/others/s2-collab-insight-2.png" alt="s2-collab-insight-2" style="width: 100vw;"/>
 
 El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
 
