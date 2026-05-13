@@ -1,6 +1,6 @@
 # Informe del trabajo Final
 
-<img src="../assets/images/others/upc-logo.png" alt="upc-logo" width="150"/><br>
+<img src="./assets/images/others/upc-logo.png" alt="upc-logo" width="150"/><br>
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**
 
@@ -65,11 +65,11 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **AV1**
 
-<img src="../assets/images/others/docs-insights-av1.png" alt="Docs Insight AV1" style="width: 100vw;">
+<img src="./assets/images/others/docs-insights-av1.png" alt="Docs Insight AV1" style="width: 100vw;">
 
 **TB1**
 
-<img src="../assets/images/others/docs-insights-tb1.png" alt="Docs Insights TB1" style="width: 100vw;">
+<img src="./assets/images/others/docs-insights-tb1.png" alt="Docs Insights TB1" style="width: 100vw;">
 
 # Tabla de contenidos
 
@@ -228,11 +228,11 @@ KinetiaLabs ofrece más que desarrollo de software, proporcionamos una asociaci�
 
 | Foto | Nombre | Descripción |
 | --- | --- | --- |
-| <img src="../assets/images/team-photos/adrian-photo.jpg" alt="adrian-photo" width="565"/> | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
-| <img src="../assets/images/team-photos/nestor-photo.png" alt="nestor-photo" width="565"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
-| <img src="../assets/images/team-photos/ale-photo.jpg" alt="ale-photo" width="565"/> | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
-| <img src="../assets/images/team-photos/kamil-photo.jpg" alt="kamil-photo" width="565"/> | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
-| <img src="../assets/images/team-photos/leo-photo.jpg" alt="leo-photo" width="565"/> | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
+| <img src="./assets/images/team-photos/adrian-photo.jpg" alt="adrian-photo" width="565"/> | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
+| <img src="./assets/images/team-photos/nestor-photo.png" alt="nestor-photo" width="565"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
+| <img src="./assets/images/team-photos/ale-photo.jpg" alt="ale-photo" width="565"/> | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
+| <img src="./assets/images/team-photos/kamil-photo.jpg" alt="kamil-photo" width="565"/> | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
+| <img src="./assets/images/team-photos/leo-photo.jpg" alt="leo-photo" width="565"/> | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
 
 ## 1.2. Solution Profile
 
@@ -271,7 +271,7 @@ El problema se manifiesta en la práctica mediante la duplicidad de registros de
 *7. ¿Cuánto cuesta o cuál es la magnitud? (How much?)*
 
 *Figura 1 (Macroproceso: sistema de información)*  
-<img src="../assets/images/figures/01-macroproceso.png" alt="Macroproceso: sistema de informacion" style="width: 100vw;">
+<img src="./assets/images/figures/01-macroproceso.png" alt="Macroproceso: sistema de informacion" style="width: 100vw;">
 > **Nota.** Adaptado del Ministerio de Salud de Perú (2011).
 
 El MINSA identifico brechas significativas en capacidades tecnológicas y de gestión, dado que el 71% de los establecimientos de salud no ha identificado sus necesidades en recursos informáticos ni en personal especializado, y el 72% no cuenta con métodos formales y permanentes para la evaluación, recolección, procesamiento y análisis de información (Ministerio de Salud del Perú, 2011).
@@ -365,7 +365,7 @@ Creemos que existe un mercado suficientemente grande y rentable para Vitalia en 
 Public Canva Link: https://canva.link/ux7vanu08xalhmj
 
 *Figura 2 (Lean Product Canvas)*  
-<img src="../assets/images/figures/02-lean-product-canvas.png" alt="Lean Product Canvas" style="width: 100vw;">
+<img src="./assets/images/figures/02-lean-product-canvas.png" alt="Lean Product Canvas" style="width: 100vw;">
 
 ## 1.3. Segmentos objetivo
 
@@ -503,7 +503,7 @@ Realizar un análisis competitivo es fundamental para comprender el entorno en e
 
 | Vitalia | Doctoralia | Medilink | AgendaPro |
 | --- | --- | --- | --- |
-| <img src="../assets/images/others/vitalia-logo.png" alt="vitalia-logo" width="150"/> | <img src="../assets/images/others/doctoralia-logo.png" alt="doctoralia-logo" width="150"/> | <img src="../assets/images/others/medilink-logo.png" alt="medilink-logo" width="150"/> | <img src="../assets/images/others/agendapro-logo.png" alt="agendapro-logo" width="150"/> |
+| <img src="./assets/images/others/vitalia-logo.png" alt="vitalia-logo" width="150"/> | <img src="./assets/images/others/doctoralia-logo.png" alt="doctoralia-logo" width="150"/> | <img src="./assets/images/others/medilink-logo.png" alt="medilink-logo" width="150"/> | <img src="./assets/images/others/agendapro-logo.png" alt="agendapro-logo" width="150"/> |
 
 *Perfil*
 
@@ -597,7 +597,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/01-entrevista-administrador01.png" width="545"/> | <img src="../assets/images/interviews/needfinding/02-entrevistador01.png" width="175"/> |
+| <img src="./assets/images/interviews/needfinding/01-entrevista-administrador01.png" width="545"/> | <img src="./assets/images/interviews/needfinding/02-entrevistador01.png" width="175"/> |
 | Inicia: | 13:23 |
 | Duración:| 4:04 |
 | Nombre completo: | Christian David Bazan Calderon |
@@ -609,7 +609,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/03-entrevista-administrador02.png" alt="administrador-02" width="505"/> | <img src="../assets/images/interviews/needfinding/04-entrevistador02.png" alt="entrevistador-02" width="175"/> |
+| <img src="./assets/images/interviews/needfinding/03-entrevista-administrador02.png" alt="administrador-02" width="505"/> | <img src="./assets/images/interviews/needfinding/04-entrevistador02.png" alt="entrevistador-02" width="175"/> |
 | Inicia: | 17:27 |
 | Duración: | 7:38 |
 | Nombre completo: | Diego Leonardo Bazan Calderon |
@@ -621,7 +621,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/05-entrevista-administrador03.png" alt="administrador-03" width="435"/> | <img src="../assets/images/interviews/needfinding/06-entrevistador03.png" width="170"/> |
+| <img src="./assets/images/interviews/needfinding/05-entrevista-administrador03.png" alt="administrador-03" width="435"/> | <img src="./assets/images/interviews/needfinding/06-entrevistador03.png" width="170"/> |
 | Inicia: | 25:40 |
 | Duración: | 4:20 |
 | Nombre completo: | Iris Carpio Bazan |
@@ -635,7 +635,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | -------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/07-entrevista-doctor01.png" alt="doctor-01" width="650"/> | <img src="../assets/images/interviews/needfinding/08-entrevistador04.png" alt="entrevistador-04" width="165"/> |
+| <img src="./assets/images/interviews/needfinding/07-entrevista-doctor01.png" alt="doctor-01" width="650"/> | <img src="./assets/images/interviews/needfinding/08-entrevistador04.png" alt="entrevistador-04" width="165"/> |
 | Inicia: | 0:00 |
 | Duración: | 4:57 |
 | Nombre completo: | Carmen Patricia Gabriela Perez |
@@ -647,7 +647,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/09-entrevista-doctor02.png" alt="doctor-02" width="500"/> | <img src="../assets/images/interviews/needfinding/10-entrevistador05.png" alt="entrevistador-05" width="168"/> |
+| <img src="./assets/images/interviews/needfinding/09-entrevista-doctor02.png" alt="doctor-02" width="500"/> | <img src="./assets/images/interviews/needfinding/10-entrevistador05.png" alt="entrevistador-05" width="168"/> |
 | Inicia | 4:57 |
 | Duración: | 4:50 |
 | Nombre completo: | Jorge Mendoza Toribio |
@@ -659,7 +659,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/11-entrevista-doctor03.png" alt="doctor-03" width="458"/> | <img src="../assets/images/interviews/needfinding/12-entrevistador06.png" alt="entrevistador-06" width="167"/> |
+| <img src="./assets/images/interviews/needfinding/11-entrevista-doctor03.png" alt="doctor-03" width="458"/> | <img src="./assets/images/interviews/needfinding/12-entrevistador06.png" alt="entrevistador-06" width="167"/> |
 | Inicia | 9:47 |
 | Duración: | 3:36 |
 | Nombre completo: | Jose Miguel Mejia Azañero |
@@ -673,7 +673,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/13-entrevista-paciente01.png" alt="paciente-01" width="430"/> | <img src="../assets/images/interviews/needfinding/14-entrevistador07.png" alt="entrevistador-07" width="168"/> |
+| <img src="./assets/images/interviews/needfinding/13-entrevista-paciente01.png" alt="paciente-01" width="430"/> | <img src="./assets/images/interviews/needfinding/14-entrevistador07.png" alt="entrevistador-07" width="168"/> |
 | Inicia | 30:00 |
 | Duración: | 5:08 |
 | Nombre completo: | Gianella Levice |
@@ -685,7 +685,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Kamil Diaz |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/15-entrevista-paciente02.png" alt="paciente-02" width= "417"/> | <img src="../assets/images/interviews/needfinding/16-entrevistador08.png" alt="entrevistador-08" width= "170"/> |
+| <img src="./assets/images/interviews/needfinding/15-entrevista-paciente02.png" alt="paciente-02" width= "417"/> | <img src="./assets/images/interviews/needfinding/16-entrevistador08.png" alt="entrevistador-08" width= "170"/> |
 | Inicia | 35:09 |
 | Duración: | 4:46 |
 | Nombre completo: | Jean Pool Miller Barco |
@@ -697,7 +697,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Adrian Ruiz |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/17-entrevista-paciente03.png" alt="paciente-03" width= "417"/> | <img src="../assets/images/interviews/needfinding/18-entrevistador09.png" alt="entrevistador-09" width= "167"/> |
+| <img src="./assets/images/interviews/needfinding/17-entrevista-paciente03.png" alt="paciente-03" width= "417"/> | <img src="./assets/images/interviews/needfinding/18-entrevistador09.png" alt="entrevistador-09" width= "167"/> |
 | Inicia | 39:55 |
 | Duración: | 5:10 |
 | Nombre completo: | Luis Vasquez Molina |
@@ -709,7 +709,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistador: Leo Dulanto |
 | ------------- | -------------- |
-| <img src="../assets/images/interviews/needfinding/19-entrevista-paciente04.png" alt="paciente-04" width= "500"/> | <img src="../assets/images/interviews/needfinding/20-entrevistador10.png" alt="entrevistador-10" width= "167"/> |
+| <img src="./assets/images/interviews/needfinding/19-entrevista-paciente04.png" alt="paciente-04" width= "500"/> | <img src="./assets/images/interviews/needfinding/20-entrevistador10.png" alt="entrevistador-10" width= "167"/> |
 | Inicia | 45:05 |
 | Duración: | 5:32 |
 | Nombre completo: | Victoria Margarita Espino Huatay |
@@ -816,67 +816,67 @@ Como hallazgos transversales tenemos:
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 3 (User Persona 1)*
-<img src="../assets/images/figures/03-user-persona-1.png" alt="User Persona 1" style="width: 100vw;">
+<img src="./assets/images/figures/03-user-persona-1.png" alt="User Persona 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 4 (User Persona 2)*  
-<img src="../assets/images/figures/04-user-persona-2.png" alt="User Persona 2" style="width: 100vw;">
+<img src="./assets/images/figures/04-user-persona-2.png" alt="User Persona 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 5 (User Persona 3)*  
-<img src="../assets/images/figures/05-user-persona-3.png" alt="User Persona 3" style="width: 100vw;">
+<img src="./assets/images/figures/05-user-persona-3.png" alt="User Persona 3" style="width: 100vw;">
 
 ### 2.3.2. User Task Matrix
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 6 (User Task Matrix 1)*
-<img src="../assets/images/figures/06-u-task-matrix-1.png" alt="User Task Matrix 1" style="width: 100vw;">
+<img src="./assets/images/figures/06-u-task-matrix-1.png" alt="User Task Matrix 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 7 (User Task Matrix 2)*
-<img src="../assets/images/figures/07-u-task-matrix-2.png" alt="User Task Matrix 2" style="width: 100vw;">
+<img src="./assets/images/figures/07-u-task-matrix-2.png" alt="User Task Matrix 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 8 (User Task Matrix 3)*  
-<img src="../assets/images/figures/08-u-task-matrix-3.png" alt="User Task Matrix 2" style="width: 100vw;">
+<img src="./assets/images/figures/08-u-task-matrix-3.png" alt="User Task Matrix 2" style="width: 100vw;">
 
 ### 2.3.3. User Journey Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 9 (User Journey Map 1)*
-<img src="../assets/images/figures/09-u-journey-map-1.png" alt="User Journey Map 1" style="width: 100vw;">
+<img src="./assets/images/figures/09-u-journey-map-1.png" alt="User Journey Map 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 10 (User Journey Map 2)*
-<img src="../assets/images/figures/10-u-journey-map-2.png" alt="User Journey Map 2" style="width: 100vw;">
+<img src="./assets/images/figures/10-u-journey-map-2.png" alt="User Journey Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 11 (User Journey Map 3)*
-<img src="../assets/images/figures/11-u-journey-map-3.png" alt="User Journey Map 3" style="width: 100vw;"> 
+<img src="./assets/images/figures/11-u-journey-map-3.png" alt="User Journey Map 3" style="width: 100vw;"> 
 
 ### 2.3.4. Empathy Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 12 (Empathy Map 1)*
-<img src="../assets/images/figures/12-empathy-map-1.png" alt="Empathy Map 1" style="width: 100vw;">   
+<img src="./assets/images/figures/12-empathy-map-1.png" alt="Empathy Map 1" style="width: 100vw;">   
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 13 (Empathy Map 2)*
-<img src="../assets/images/figures/13-empathy-map-2.png" alt="Empathy Map 2" style="width: 100vw;">
+<img src="./assets/images/figures/13-empathy-map-2.png" alt="Empathy Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 14 (Empathy Map 3)*
-<img src="../assets/images/figures/14-empathy-map-3.png" alt="Empathy Map 3" style="width: 100vw;">  
+<img src="./assets/images/figures/14-empathy-map-3.png" alt="Empathy Map 3" style="width: 100vw;">  
 
 ## 2.4. Big Picture EventStorming
 
@@ -889,7 +889,7 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
 *Figura 15 (Big Picture EventStorming)*
-<img src="../assets/images/figures/15-big-picture-event-storming.jpeg" alt="Big Picture Event Storming" style="width: 100vw;">
+<img src="./assets/images/figures/15-big-picture-event-storming.jpeg" alt="Big Picture Event Storming" style="width: 100vw;">
 
 ## 2.5. Ubiquitous Language
 
@@ -1013,17 +1013,17 @@ Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=94897568
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 16 (Impact Map 1)*  
-<img src="../assets/images/figures/16-impact-map-1.png" alt="Impact Mapppin 1" style="width: 100vw;">
+<img src="./assets/images/figures/16-impact-map-1.png" alt="Impact Mapppin 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 17 (Impact Map 2)*
-<img src="../assets/images/figures/17-impact-map-2.png" alt="Impact Map 2" style="width: 100vw;">
+<img src="./assets/images/figures/17-impact-map-2.png" alt="Impact Map 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 18 (Impact Map 3)*
-<img src="../assets/images/figures/18-impact-map-3.png" alt="Impact Map 3" style="width: 100vw;">
+<img src="./assets/images/figures/18-impact-map-3.png" alt="Impact Map 3" style="width: 100vw;">
 
 ## 3.3. Product Backlog
 
@@ -1128,7 +1128,7 @@ Se utiliza una estrategia de fuentes combinadas para equilibrar la precisión cl
 - Label (Inter): Utilizada para metadatos (ej. fechas de última visita, IDs de pacientes) y etiquetas secundarias en color on_surface_variant para que pasen a un segundo plano, permitiendo que el dato principal resalte.
 
 *Figura 19 (Color Palette & Tipography)*  
-<img src="../assets/images/figures/19-color-palette.png" alt="Color Palette & Tipography" style="width: 100vw;">
+<img src="./assets/images/figures/19-color-palette.png" alt="Color Palette & Tipography" style="width: 100vw;">
 
 **Componentes y Espaciado**
 
@@ -1290,18 +1290,18 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 ### 4.3.1. Landing Page Wireframe
 
 *Figura 20 (Landing Page Wireframe)*  
-<img src="../assets/images/figures/20-landing-wireframe.png" alt="Landing Page Wireframe" style="width: 100vw;">
+<img src="./assets/images/figures/20-landing-wireframe.png" alt="Landing Page Wireframe" style="width: 100vw;">
 
 ### 4.3.2. Landing Page Mock-up
 
 *Figura 21 (Landing Page Mock-up)* 
-<img src="../assets/images/figures/21-landing-mockup.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/21-landing-mockup.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 *Figura 22 (Web Applications Wireframes)* 
-<img src="../assets/images/figures/22-wirframeall.png" alt="22-wirframeall" style="width: 100vw;">
+<img src="./assets/images/figures/22-wirframeall.png" alt="22-wirframeall" style="width: 100vw;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1314,19 +1314,19 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
 *Figura 23 (Wireflow 1 Administradores)* 
-<img src="../assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 24 (Wireflow 2 Administradores)* 
-<img src="../assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 25 (Wireflow 3 Administradores)* 
-<img src="../assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 26 (Wireflow 4 Administradores)* 
-<img src="../assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 27 (Wireflow 5 Administradores)* 
-<img src="../assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
@@ -1336,16 +1336,16 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
 *Figura 28 (Wireflow 1 Doctores)* 
-<img src="../assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 29 (Wireflow 2 Doctores)* 
-<img src="../assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 30 (Wireflow 3 Doctores)* 
-<img src="../assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 31 (Wireflow 4 Doctores)* 
-<img src="../assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
@@ -1355,63 +1355,63 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
 *Figura 32 (Wireflow 1 Pacientes)* 
-<img src="../assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 33 (Wireflow 2 Pacientes)* 
-<img src="../assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 34 (Wireflow 3 Pacientes)* 
-<img src="../assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 35 (Wireflow 4 Pacientes)* 
-<img src="../assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ### 4.4.3. Web Applications Mock-ups
 
 *Figura 36 (Admin Clinic Settings)*  
-<img src="../assets/images/figures/36-Admin Clinic Settings.png" alt="36-Admin Clinic Settings" style="width: 100vw;">
+<img src="./assets/images/figures/36-Admin Clinic Settings.png" alt="36-Admin Clinic Settings" style="width: 100vw;">
 
 *Figura 37 (Admin Billing)*  
-<img src="../assets/images/figures/37-Admin Billing.png" alt="37-Admin Billing" style="width: 100vw;">
+<img src="./assets/images/figures/37-Admin Billing.png" alt="37-Admin Billing" style="width: 100vw;">
 
 *Figura 38 (Admin Operations)*  
-<img src="../assets/images/figures/38-Admin Operations.png" alt="38-Admin Operations" style="width: 100vw;">
+<img src="./assets/images/figures/38-Admin Operations.png" alt="38-Admin Operations" style="width: 100vw;">
 
 *Figura 39 (Admin Users)*  
-<img src="../assets/images/figures/39-Admin Users.png" alt="39-Admin Users" style="width: 100vw;">
+<img src="./assets/images/figures/39-Admin Users.png" alt="39-Admin Users" style="width: 100vw;">
 
 *Figura 40 (Admin Dashboard)*  
-<img src="../assets/images/figures/40-Admin Dashboard.png" alt="40-Admin Dashboard" style="width: 100vw;">
+<img src="./assets/images/figures/40-Admin Dashboard.png" alt="40-Admin Dashboard" style="width: 100vw;">
 
 *Figura 41 (Patient Profile)*  
-<img src="../assets/images/figures/41-Patient Profile.png" alt="41-Patient Profile" style="width: 100vw;">
+<img src="./assets/images/figures/41-Patient Profile.png" alt="41-Patient Profile" style="width: 100vw;">
 
 *Figura 42 (Patient History)*  
-<img src="../assets/images/figures/42-Patient History.png" alt="42-Patient History" style="width: 100vw;">
+<img src="./assets/images/figures/42-Patient History.png" alt="42-Patient History" style="width: 100vw;">
 
 *Figura 43 (Patient Prescriptions)*  
-<img src="../assets/images/figures/43-Patient Prescriptions.png" alt="43-Patient Prescriptions" style="width: 100vw;">
+<img src="./assets/images/figures/43-Patient Prescriptions.png" alt="43-Patient Prescriptions" style="width: 100vw;">
 
 *Figura 44 (Patient Appointments)*  
-<img src="../assets/images/figures/44-Patient Appointments.png" alt="44-Patient Appointments" style="width: 100vw;">
+<img src="./assets/images/figures/44-Patient Appointments.png" alt="44-Patient Appointments" style="width: 100vw;">
 
 *Figura 45 (Patient Dashboard)*  
-<img src="../assets/images/figures/45-Patient Dashboard.png" alt="45-Patient Dashboard" style="width: 100vw;">
+<img src="./assets/images/figures/45-Patient Dashboard.png" alt="45-Patient Dashboard" style="width: 100vw;">
 
 *Figura 46 (Doctor Profile)*  
-<img src="../assets/images/figures/46-Doctor Profile.png" alt="46-Doctor Profile" style="width: 100vw;">
+<img src="./assets/images/figures/46-Doctor Profile.png" alt="46-Doctor Profile" style="width: 100vw;">
 
 *Figura 47 (Doctor Orders)*  
-<img src="../assets/images/figures/47-Doctor Orders.png" alt="47-Doctor Orders" style="width: 100vw;">
+<img src="./assets/images/figures/47-Doctor Orders.png" alt="47-Doctor Orders" style="width: 100vw;">
 
 *Figura 48 (Doctor Agenda)*  
-<img src="../assets/images/figures/48-Doctor Agenda.png" alt="48-Doctor Agenda" style="width: 100vw;">
+<img src="./assets/images/figures/48-Doctor Agenda.png" alt="48-Doctor Agenda" style="width: 100vw;">
 
 *Figura 49 (Doctor Patients)*  
-<img src="../assets/images/figures/49-Doctor Patients.png" alt="49-Doctor Patients" style="width: 100vw;">
+<img src="./assets/images/figures/49-Doctor Patients.png" alt="49-Doctor Patients" style="width: 100vw;">
 
 *Figura 50 (Doctor Dashboard)*  
-<img src="../assets/images/figures/50-Doctor Dashboard.png" alt="50-Doctor Dashboard" style="width: 100vw;">
+<img src="./assets/images/figures/50-Doctor Dashboard.png" alt="50-Doctor Dashboard" style="width: 100vw;">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1424,19 +1424,19 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
 *Figura 51 (Userflow 1 Administradores)* 
-<img src="../assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 52 (Userflow 2 Administradores)* 
-<img src="../assets/images/figures/52-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/52-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 53 (Userflow 3 Administradores)* 
-<img src="../assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 54 (Userflow 4 Administradores)* 
-<img src="../assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 55 (Userflow 5 Administradores)* 
-<img src="../assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
@@ -1446,16 +1446,16 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
 *Figura 56 (Userflow 1 Doctores)* 
-<img src="../assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 57 (Userflow 2 Doctores)* 
-<img src="../assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 58 (Userflow 3 Doctores)* 
-<img src="../assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 59 (Userflow 4 Doctores)* 
-<img src="../assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
@@ -1465,16 +1465,16 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
 *Figura 60 (Userflow 1 Pacientes)* 
-<img src="../assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
     
 *Figura 61 (Userflow 2 Pacientes)* 
-<img src="../assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
     
 *Figura 62 (Userflow 3 Pacientes)* 
-<img src="../assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 *Figura 63 (Userflow 4 Pacientes)* 
-<img src="../assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="./assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ## 4.5. Web Applications Prototyping
 
@@ -1482,7 +1482,7 @@ En esta sección se presentan los prototipos de interfaz de usuario (UI) para De
 
 Link: https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca 
 
-<img src="../assets/images/others/prototype.png" alt="prototype" style="width: 100vw;"/>
+<img src="./assets/images/others/prototype.png" alt="prototype" style="width: 100vw;"/>
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1504,43 +1504,43 @@ Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final
 Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
 *Figura 64 (Design Level EventStorming)*  
-<img src="../assets/images/figures/64-design-level-event-storming.jpeg" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/64-design-level-event-storming.jpeg" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.2. Software Architecture Context Diagram
 
 El diagrama de contexto presenta una visión de alto nivel del sistema Vitalia, mostrando su interacción con los actores externos y sistemas externos relevantes. Este diagrama permite comprender el alcance del sistema, identificando quiénes lo utilizan y con qué servicios externos se integra, sin entrar en detalles técnicos internos.
 
 *Figura 65 (Context Diagram)*  
-<img src="../assets/images/figures/65-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/65-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 El diagrama de contenedores descompone el sistema en sus principales unidades de ejecución, mostrando cómo se distribuyen las responsabilidades dentro de la arquitectura. En este nivel se identifican elementos como la aplicación web, API Gateway y los distintos servicios o bounded contexts, así como las tecnologías utilizadas y la forma en que estos se comunican entre sí.
 
 *Figura 66 (Container Diagram)*  
-<img src="../assets/images/figures/66-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/66-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.4. Software Architecture Components Diagrams
 
 El diagrama de componentes profundiza en cada contenedor, detallando los módulos internos que lo conforman y sus interacciones. Este nivel permite visualizar la organización interna.
 
 *Figura 67 (Component Diagram - Identity & Tenant Context)*  
-<img src="../assets/images/figures/67-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/67-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 *Figura 68 (Component Diagram - Clinical Context)*  
-<img src="../assets/images/figures/68-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/68-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 *Figura 69 (Component Diagram - Schedule Context)*  
-<img src="../assets/images/figures/69-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/69-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 *Figura 70 (Component Diagram - Pharmacy & Inventory Context)*  
-<img src="../assets/images/figures/70-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/70-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 *Figura 71 (Component Diagram - Dashboard and Analytics Context)*  
-<img src="../assets/images/figures/71-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/71-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 *Figura 72 (Component Diagram - Billing Context)*  
-<img src="../assets/images/figures/72-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="./assets/images/figures/72-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1553,27 +1553,27 @@ En la segunda etapa, estas clases fueron organizadas en distintos Bounded Contex
 Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada clase dentro de su contexto, clasificándolas como Entity, Value Object o Aggregate. Esta identificación permitió definir con precisión las reglas de negocio, los límites de consistencia y las responsabilidades de cada componente dentro del dominio. Como resultado, los diagramas finales reflejan una arquitectura sólida, coherente y alineada con los principios de DDD, mostrando no solo la estructura del sistema, sino también la lógica y comportamiento del dominio.
 
 *Figura 73 (Class Diagram - Identity and Clinic Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram - Identity and Clinic Context" style="width: 100vw;">
+<img src="./assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram - Identity and Clinic Context" style="width: 100vw;">
 
 *Figura 74 (Class Diagram - Clinical Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram - Clinical Context" style="width: 100vw;">
+<img src="./assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram - Clinical Context" style="width: 100vw;">
 
 *Figura 75 (Class Diagram - Scheduling Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram - Scheduling Context" style="width: 100vw;">
+<img src="./assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram - Scheduling Context" style="width: 100vw;">
 
 *Figura 76 (Class Diagram - Pharmacy & Inventory Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
+<img src="./assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
 
 *Figura 77 (Class Diagram - Dashboard and Analytics Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
+<img src="./assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
 
 *Figura 78 (Class Diagram - Billing Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram - Billing Context" style="width: 100vw;">
+<img src="./assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram - Billing Context" style="width: 100vw;">
 
 ### 4.8.1. Database Diagrams
 
 *Figura 79 (Database Diagram)*  
-<img src="../assets/images/figures/79-database-diagram.png" alt="Database Diagram" style="width: 100vw;">
+<img src="./assets/images/figures/79-database-diagram.png" alt="Database Diagram" style="width: 100vw;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2024,9 +2024,9 @@ Se prevé que en futuros Sprints, conforme se integren funcionalidades dinámica
 
 El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
 
-<img src="../assets/images/others/deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
+<img src="./assets/images/others/deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
 
-<img src="../assets/images/others/deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
+<img src="./assets/images/others/deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
 
 **Procedimiento planificado:** 
 
@@ -2044,9 +2044,9 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
 
-<img src="../assets/images/others/collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
+<img src="./assets/images/others/collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
 
-<img src="../assets/images/others/collab-insight-2.png" alt="collab-insights2" style="width: 100vw;"/>
+<img src="./assets/images/others/collab-insight-2.png" alt="collab-insights2" style="width: 100vw;"/>
 
 # Conclusiones
 
