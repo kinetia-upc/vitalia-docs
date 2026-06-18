@@ -10,8 +10,8 @@
 | **Prepared By** | Adrian Ruiz Mideyros |
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
 | **Sprint n Goal** | Our focus is on establishing the core backend architecture and foundational APIs for secure user authentication and appointment workflows. We believe it delivers the automation and streamlining of clinical and administrative processes, ensuring a reliable and secure data flow to patients, doctors, and administrators. This will be confirmed when the frontend successfully authenticates users and retrieves real agenda data from the server, replacing the previously used mock APIs. |
-| **Sprint n Velocity** |  |
-| **Sum of Story Points** |  |
+| **Sprint n Velocity** | Designamos aceptar hasta 50 SP |
+| **Sum of Story Points** | 48 SP |
 
 #### *5.2.3.2. Aspect Leaders and Collaborators*
 
