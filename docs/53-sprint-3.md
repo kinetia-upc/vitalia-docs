@@ -15,6 +15,14 @@
 
 #### *5.2.3.2. Aspect Leaders and Collaborators*
 
+| Team Member | GitHub Username | Scheduling | Pharmacy | Clinical | Billing | Consume API |
+| --- | --- | --- | --- | --- | --- | --- |
+| Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
+| Dulanto Espino, Leo César | Leotens | L | C | C | C | C |
+| Ruiz Mideyros, Adrian | AdrixRyz | C | C | C | C | L |
+| Alexther Kamil Diaz Martinez | kamil-tron | C | L | C | C | C |
+| Rojas Tello, Alonso | nes-ro | C | C | C | L | C |
+
 #### *5.2.3.3. Sprint Backlog 2*
 
 #### *5.2.3.4. Development Evidence for Sprint Review*
