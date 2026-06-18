@@ -25,7 +25,315 @@
 
 #### *5.2.3.3. Sprint Backlog 3*
 
+<p><strong>Sprint #:</strong> Sprint 3</p>
 
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th colspan="3">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Story Points</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TS003</td>
+      <td>Documentación OpenAPI/Swagger de endpoints</td>
+      <td>3</td>
+      <td>TO23</td>
+      <td>Configuración de Swagger UI</td>
+      <td>Integrar la documentación OpenAPI en el backend y habilitar Swagger UI</td>
+      <td>2</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS003</td>
+      <td>Documentación OpenAPI/Swagger de endpoints</td>
+      <td>3</td>
+      <td>TO24</td>
+      <td>Documentación de contratos REST</td>
+      <td>Definir rutas, parámetros, cuerpos de solicitud y respuestas para los endpoints implementados</td>
+      <td>2</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS004</td>
+      <td>Persistencia y repositorios por contexto</td>
+      <td>5</td>
+      <td>TO25</td>
+      <td>Modelado de entidades backend</td>
+      <td>Implementar entidades principales para Scheduling, Pharmacy, Clinical y Billing</td>
+      <td>2</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS004</td>
+      <td>Persistencia y repositorios por contexto</td>
+      <td>5</td>
+      <td>TO26</td>
+      <td>Repositorios y servicios de aplicación</td>
+      <td>Crear repositorios y servicios para consultar, registrar y actualizar datos por bounded context</td>
+      <td>2</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US003</td>
+      <td>Reserva digital de citas</td>
+      <td>5</td>
+      <td>TO27</td>
+      <td>Endpoint de disponibilidad médica</td>
+      <td>Implementar servicio para consultar horarios disponibles por especialidad, médico y fecha</td>
+      <td>2</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US003</td>
+      <td>Reserva digital de citas</td>
+      <td>5</td>
+      <td>TO28</td>
+      <td>Endpoint de creación de citas</td>
+      <td>Implementar registro de citas desde el backend y respuesta de confirmación para el frontend</td>
+      <td>2</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US004</td>
+      <td>Reprogramación de citas</td>
+      <td>5</td>
+      <td>TO29</td>
+      <td>Validación de cambios de horario</td>
+      <td>Implementar reglas para verificar disponibilidad y restricciones antes de reprogramar una cita</td>
+      <td>2</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US004</td>
+      <td>Reprogramación de citas</td>
+      <td>5</td>
+      <td>TO30</td>
+      <td>Endpoint de reprogramación</td>
+      <td>Actualizar fecha y hora de una cita existente y devolver la nueva programación al frontend</td>
+      <td>2</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US005</td>
+      <td>Cancelación de citas</td>
+      <td>3</td>
+      <td>TO31</td>
+      <td>Reglas de cancelación</td>
+      <td>Implementar validaciones para determinar si una cita puede ser cancelada</td>
+      <td>1</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US005</td>
+      <td>Cancelación de citas</td>
+      <td>3</td>
+      <td>TO32</td>
+      <td>Endpoint de cancelación</td>
+      <td>Actualizar el estado de la cita y liberar el horario correspondiente</td>
+      <td>1</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US012</td>
+      <td>Registro de anamnesis y examen físico</td>
+      <td>5</td>
+      <td>TO33</td>
+      <td>Modelo de atención clínica</td>
+      <td>Definir la estructura backend para registrar anamnesis, examen físico y observaciones clínicas</td>
+      <td>2</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US012</td>
+      <td>Registro de anamnesis y examen físico</td>
+      <td>5</td>
+      <td>TO34</td>
+      <td>Endpoint de registro clínico</td>
+      <td>Implementar guardado de la atención clínica asociada al paciente y médico responsable</td>
+      <td>2</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US013</td>
+      <td>Emisión de diagnóstico</td>
+      <td>3</td>
+      <td>TO35</td>
+      <td>Entidad de diagnóstico</td>
+      <td>Crear estructura para registrar diagnósticos vinculados a una atención clínica</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US013</td>
+      <td>Emisión de diagnóstico</td>
+      <td>3</td>
+      <td>TO36</td>
+      <td>Endpoint de diagnóstico</td>
+      <td>Implementar creación y consulta de diagnósticos desde el backend</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US014</td>
+      <td>Emisión de recetas digitales</td>
+      <td>5</td>
+      <td>TO37</td>
+      <td>Modelo de receta digital</td>
+      <td>Implementar estructura para medicamentos, dosis, frecuencia e indicaciones</td>
+      <td>2</td>
+      <td>kamil-tron</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US014</td>
+      <td>Emisión de recetas digitales</td>
+      <td>5</td>
+      <td>TO38</td>
+      <td>Endpoint de emisión de recetas</td>
+      <td>Permitir la creación de recetas digitales asociadas a una atención clínica</td>
+      <td>2</td>
+      <td>kamil-tron</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US018</td>
+      <td>Ingreso de medicinas al inventario</td>
+      <td>3</td>
+      <td>TO39</td>
+      <td>Modelo de inventario farmacéutico</td>
+      <td>Definir entidades para medicamentos, stock, presentación y disponibilidad</td>
+      <td>1</td>
+      <td>kamil-tron</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US018</td>
+      <td>Ingreso de medicinas al inventario</td>
+      <td>3</td>
+      <td>TO40</td>
+      <td>Endpoint de registro de medicinas</td>
+      <td>Implementar creación y actualización de medicamentos desde el módulo de farmacia</td>
+      <td>1</td>
+      <td>kamil-tron</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US024</td>
+      <td>Pagar la cita</td>
+      <td>5</td>
+      <td>TO41</td>
+      <td>Modelo de pagos de citas</td>
+      <td>Crear estructura para registrar montos, método de pago y estado de pago de una cita</td>
+      <td>2</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US024</td>
+      <td>Pagar la cita</td>
+      <td>5</td>
+      <td>TO42</td>
+      <td>Endpoint de pago</td>
+      <td>Implementar registro de pago y actualización del estado financiero de la cita</td>
+      <td>2</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US026</td>
+      <td>Control de pagos pendientes</td>
+      <td>3</td>
+      <td>TO43</td>
+      <td>Consulta de pagos pendientes</td>
+      <td>Implementar endpoint para listar atenciones y citas con pagos pendientes</td>
+      <td>1</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US026</td>
+      <td>Control de pagos pendientes</td>
+      <td>3</td>
+      <td>TO44</td>
+      <td>Filtros de seguimiento financiero</td>
+      <td>Agregar filtros por estado, fecha y paciente para el seguimiento de cobros pendientes</td>
+      <td>1</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS005</td>
+      <td>Integración del frontend con APIs reales</td>
+      <td>5</td>
+      <td>TO45</td>
+      <td>Configuración de servicios HTTP reales</td>
+      <td>Actualizar la capa de consumo del frontend para apuntar a los endpoints reales del backend</td>
+      <td>2</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS005</td>
+      <td>Integración del frontend con APIs reales</td>
+      <td>5</td>
+      <td>TO46</td>
+      <td>Reemplazo de mock services</td>
+      <td>Sustituir llamadas al mock server por peticiones al backend en los módulos del Sprint 3</td>
+      <td>2</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS006</td>
+      <td>Manejo de errores y validaciones API</td>
+      <td>3</td>
+      <td>TO47</td>
+      <td>Validaciones de solicitudes</td>
+      <td>Implementar validaciones para datos obligatorios, formatos y restricciones de negocio en los endpoints</td>
+      <td>1</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>TS006</td>
+      <td>Manejo de errores y validaciones API</td>
+      <td>3</td>
+      <td>TO48</td>
+      <td>Respuestas de error estandarizadas</td>
+      <td>Definir códigos HTTP y mensajes de error consistentes para el consumo desde frontend</td>
+      <td>1</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+  </tbody>
+</table>
 
 #### *5.2.3.4. Development Evidence for Sprint Review*
 
@@ -36,114 +344,3 @@
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
-
-## 5.3. Validation Interviews.
-
-### 5.3.1. Diseño de Entrevistas. 
-
-Esta sección presenta el diseño de entrevistas para validar la propuesta de valor y la experiencia de uso de Vitalia con sus tres segmentos objetivo: administradores, doctores y pacientes. Para cada segmento se definen los elementos a evaluar, los flujos principales de la Landing Page y la Web Application, las tareas que realizarán los participantes durante la sesión y las preguntas de validación orientadas a identificar claridad, utilidad, facilidad de uso y oportunidades de mejora.
-
-**Primer Segmento Objetivo: Administradores de establecimientos de PNAS**
-
-**User Flows:**
-
-User Flow 1 - Navegar la Landing Page e identificar propuesta, ventajas y diferenciadores.
-User Flow 2 - Revisar dashboard administrativo con métricas operativas.
-User Flow 3 - Gestionar usuarios: pacientes, doctores y administradores.
-User Flow 4 - Programar citas desde operaciones/admisión.
-User Flow 5 - Confirmar o modificar disponibilidad y citas de la clínica.
-User Flow 6 - Revisar facturación, reclamos, pagos o estados financieros.
-User Flow 7 - Configurar clínica: sedes, especialidades y farmacia.
-
-**Tareas asignadas:**
-
-- Navegar el Landing Page, revisar propuesta de valor, ventajas clave y beneficios por segmento.
-- Ingresar al dashboard administrativo y revisar indicadores principales.
-- Abrir gestión de usuarios y buscar, crear, editar o eliminar un usuario.
-- Filtrar usuarios por rol y validar si la información presentada es suficiente.
-- Ingresar a operaciones y crear o editar una cita.
-- Revisar disponibilidad médica y detectar posibles conflictos de horario.
-- Entrar a facturación y ubicar reclamos, estados de ciclo o pagos pendientes.
-- Aplicar filtros en facturación y validar si ayudan al seguimiento financiero.
-- Entrar a configuración de clínica y revisar sedes, especialidades y farmacia.
-
-**Preguntas de validación:**
-
-1. ¿La Landing Page entrega suficiente información para considerar una prueba o compra?
-2. ¿Los módulos presentados responden a problemas reales de administración clínica?
-3. ¿El dashboard permite tomar decisiones rápidas sobre operación, ingresos y carga asistencial?
-4. ¿La gestión de usuarios cubre los roles que necesita un centro médico real?
-5. ¿El flujo de programación de citas desde admisión reduce trabajo manual?
-6. ¿El módulo de facturación muestra información financiera útil?
-7. ¿La configuración de sedes, especialidades y farmacia resulta clara?
-8. ¿Qué tareas administrativas todavía sentirías que requieren Excel, llamadas, papel u otras herramientas?
-
-**Segundo Segmento Objetivo: Doctores de establecimientos de PNAS**
-
-**User Flows:**
-
-User Flow 1 - Navegar la Landing Page e identificar beneficios para el trabajo médico.
-User Flow 2 - Revisar dashboard médico con citas, pacientes activos y tareas pendientes.
-User Flow 3 - Consultar agenda diaria y gestionar el estado de una cita.
-User Flow 4 - Buscar paciente y revisar su historia clínica electrónica.
-User Flow 5 - Registrar atención clínica con diagnóstico y tratamiento.
-User Flow 6 - Crear o reutilizar receta digital asociada a una HCE.
-User Flow 7 - Revisar órdenes médicas o resultados pendientes.
-
-**Tareas asignadas:**
-
-- Navegar el Landing Page e identificar si Vitalia comunica reducción de carga administrativa y mejor acceso a información clínica.
-- Ingresar al dashboard del doctor y confirmar si las métricas ayudan a priorizar la jornada.
-- Abrir la agenda médica y ubicar citas asignadas para el día.
-- Seleccionar un paciente y revisar su HCE.
-- Registrar o editar una atención clínica, incluyendo diagnóstico y tratamiento.
-- Intentar guardar una atención clínica.
-- Crear una receta, agregar medicamentos y revisar si la información requerida es suficiente.
-- Revisar órdenes pendientes y confirmar si la vista permite tomar acción rápidamente.
-
-**Preguntas de validación:**
-
-1. ¿La Landing Page transmite que Vitalia puede reducir carga administrativa médica?
-2. ¿El dashboard médico te ayuda a entender tu jornada en pocos segundos?
-3. ¿La agenda diaria muestra suficiente contexto para preparar consultas?
-4. ¿El acceso al historial clínico del paciente es rápido y útil durante la atención?
-5. ¿El formulario de atención clínica se ajusta a tu flujo real de consulta?
-6. ¿Los campos obligatorios son adecuados o faltan datos clínicos importantes?
-7. ¿La creación de recetas digitales es más clara que el proceso manual?
-8. ¿Qué parte del flujo podría retrasarte durante una consulta real?
-
-**Tercer Segmento Objetivo: Pacientes de todas las edades**
-
-**User Flows:**
-
-User Flow 1 - Navegar la Landing Page
-User Flow 2 - Ingresar al panel del paciente y revisar el resumen principal de salud.
-User Flow 3 - Reservar, reagendar o cancelar una cita médica desde el módulo de citas.
-User Flow 4 - Consultar historial clínico, diagnósticos y atenciones previas.
-User Flow 5 - Consultar recetas médicas digitales y detalles de medicamentos.
-User Flow 6 - Revisar y actualizar información básica del perfil del paciente.
-
-**Tareas asignadas:**
-
-- Navegar el Landing Page, revisar secciones principales, identificar beneficios para pacientes.
-- Ingresar al panel del paciente y explicar qué información entiende primero.
-- Buscar la próxima cita médica y revisar sus detalles.
-- Intentar reservar una nueva consulta seleccionando horario disponible.
-- Reagendar o cancelar una cita existente, evaluando si el proceso es claro.
-- Ingresar al historial clínico y ubicar diagnósticos, tratamientos o documentos asociados.
-- Abrir el módulo de recetas y revisar dosis, frecuencia, duración y disponibilidad del medicamento.
-- Revisar el perfil personal e identificar si los datos mostrados son suficientes y comprensibles.
-
-**Preguntas de validación:**
-
-1. ¿La Landing Page comunica claramente cómo Vitalia mejora tu experiencia como paciente?
-2. ¿Pudiste encontrar rápidamente dónde reservar una cita?
-3. ¿El flujo de reserva te pareció simple o hubo pasos confusos?
-4. ¿La información del historial clínico es clara, confiable y fácil de interpretar?
-5. ¿Las recetas digitales muestran suficiente información para seguir el tratamiento correctamente?
-6. ¿La interfaz sería usable para una persona adulta mayor o con poca experiencia digital?
-7. ¿Qué información adicional esperarías ver antes o después de una cita?
-8. ¿Qué acción te generó mayor confianza o mayor duda dentro de la aplicación?
-
-### 5.3.2. Registro de Entrevistas. 
-### 5.3.3. Evaluaciones según heurísticas. 
