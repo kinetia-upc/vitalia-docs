@@ -316,11 +316,9 @@ El diseño de la integración se organizó de la siguiente forma:
 
 #### *5.2.2.7. Software Deployment Evidence for Sprint Review*
 
-El despliegue continuo del Frontend de la aplicación web (Single Page Application) se encuentra configurado exitosamente en Firebase Hosting.
+El despliegue continuo del Frontend de la aplicación web (Single Page Application) se encuentra configurado exitosamente en Vercel.
 
-**Enlaces del entorno desplegado:**
-- **Frontend App URL (VueJS):** https://vitalia-frontend.web.app
-- **Mock Service Endpoint:** https://db-server-vitalia.onrender.com
+**Frontend App Link:** [https://vitalia-frontend-kinetia.vercel.app](https://vitalia-frontend-kinetia.vercel.app)
 
 <img src="../assets/images/others/s2-deployment-1.png" alt="s2-deployment-1" style="width: 100vw;"/>
 

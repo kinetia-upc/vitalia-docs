@@ -97,7 +97,7 @@
 
 ## 3.3. Product Backlog
 
-Trello Link: https://trello.com/b/dHKPrPGE/vitalia-board
+**Trello Link:** [https://trello.com/b/dHKPrPGE/vitalia-board](https://trello.com/b/dHKPrPGE/vitalia-board)
 
 | \# Orden | User Story ID | Título | Descripción | Story Points |
 | --- | --- | --- | --- | --- |

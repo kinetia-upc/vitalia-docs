@@ -176,7 +176,7 @@ Creemos que existe un mercado suficientemente grande y rentable para Vitalia en 
 
 #### *1.2.2.4. Lean UX Canvas*
 
-Public Canva Link: https://canva.link/ux7vanu08xalhmj
+**Lean UX Canvas Link:** [https://canva.link/ux7vanu08xalhmj](https://canva.link/ux7vanu08xalhmj)
 
 *Figura 2 (Lean Product Canvas)*  
 <img src="../assets/images/figures/02-lean-product-canvas.png" alt="Lean Product Canvas" style="width: 100vw;">

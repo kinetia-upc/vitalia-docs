@@ -30,7 +30,7 @@
 | Diaz Martinez, Alexther Kamil | U202412316 |
 | Dulanto Espino, Leo César | U202410254 |
 
-**Mayo, 2026**
+**Junio, 2026**
 
 # Registro de versiones del informe
 
@@ -57,10 +57,12 @@
 | 0.1.18 | 25/4/26 | @AleeAsto | docs: añadir sprint 1 |
 | 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correciones del av1 |
 | 0.2.1 | 13/5/26 | @AdrixRyz | docs: añadir sprint 2 |
+| 0.3.0 | 17/6/26 | @kamil-tron | docs: realizar correciones del tb1 |
+| 0.3.1 | 17/6/26 | @Leotens | docs: añadir sprint 3 |
 
 # Project Report Collaboration Insights
 
-Repositorio de la documentación del proyecto: https://github.com/kinetia-upc/vitalia-docs
+**Repositorio de la documentación del proyecto:** [https://github.com/kinetia-upc/vitalia-docs](https://github.com/kinetia-upc/vitalia-docs)
 
 A continuación, se detallan las actividades realizadas en cada entrega, la participación de los miembros del equipo, y las evidencias correspondientes.
 
@@ -71,6 +73,10 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 **TB1**
 
 <img src="../assets/images/others/docs-insights-tb1.png" alt="Docs Insights TB1" style="width: 100vw;">
+
+**AV2**
+
+<img src="../assets/images/others/docs-insights-tb1.png" alt="Docs Insights AV2" style="width: 100vw;">
 
 # Tabla de contenidos
 
@@ -170,18 +176,24 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.2.6. Services Documentation Evidence for Sprint Review  
 5.2.2.7. Software Deployment Evidence for Sprint Review  
 5.2.2.8. Team Collaboration Insights during Sprint  
-[**5.2.2. Sprint 3**](53-sprint-3.md)  
-5.2.2.1. Sprint Planning 3  
-5.2.2.2. Aspect Leaders and Collaborators  
-5.2.2.3. Sprint Backlog 3  
-5.2.2.4. Development Evidence for Sprint Review  
-5.2.2.5. Execution Evidence for Sprint Review  
-5.2.2.6. Services Documentation Evidence for Sprint Review  
-5.2.2.7. Software Deployment Evidence for Sprint Review  
-5.2.2.8. Team Collaboration Insights during Sprint  
+[**5.2.3. Sprint 3**](53-sprint-3.md)  
+5.2.3.1. Sprint Planning 3  
+5.2.3.2. Aspect Leaders and Collaborators  
+5.2.3.3. Sprint Backlog 3  
+5.2.3.4. Development Evidence for Sprint Review  
+5.2.3.5. Execution Evidence for Sprint Review  
+5.2.3.6. Services Documentation Evidence for Sprint Review  
+5.2.3.7. Software Deployment Evidence for Sprint Review  
+5.2.3.8. Team Collaboration Insights during Sprint  
+[**5.3. Validation Interviews**](60-validation-interviews.md)  
+5.3.1. Diseño de Entrevistas  
+5.3.2. Registro de Entrevistas  
+5.3.3. Evaluaciones según heurísticas  
+[**5.4. Video-About-the-Product**](70-product-video.md)  
 
 [**Conclusiones**](80-conclusions.md)  
 [**Recomendaciones**](81-recommendations.md)  
+[**Video-About-the-Team**](82-team-video.md)  
 [**Bibliografía**](90-bibliography.md)  
 [**Anexos**](99-annexes.md)  
 

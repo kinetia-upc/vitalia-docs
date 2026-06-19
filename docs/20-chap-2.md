@@ -100,7 +100,7 @@ Vitalia se diseña considerando normativas locales y necesidades reales del PNAS
 
 ### 2.2.2. Registro de entrevistas
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Needfinding Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
@@ -397,7 +397,7 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 - Explore
 - Close
 
-Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
+**Miro Board Link:** [https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057](https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057)
 
 *Figura 15 (Big Picture EventStorming)*
 <img src="../assets/images/figures/15-big-picture-event-storming.jpeg" alt="Big Picture Event Storming" style="width: 100vw;">

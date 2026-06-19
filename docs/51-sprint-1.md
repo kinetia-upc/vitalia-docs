@@ -194,7 +194,6 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>
-      <th>Commit Body</th>
       <th>Commited on (Date)</th>
     </tr>
   </thead>
@@ -204,112 +203,98 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <td>develop</td>
       <td>ef40298</td>
       <td>feat: Añadir estructura basica y sección hero</td>
-      <td> - </td>
-      <td>Abril 22, 2026</td>
+      <td>2026-06-22</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>develop</td>
       <td>ff4bcaf</td>
       <td>feat: Añadir estilos a estructura basica y a la sección hero</td>
-      <td> - </td>
-      <td>Abril 22, 2026</td>
+      <td>2026-06-22</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>develop</td>
       <td>6052506</td>
       <td>feat: Añadir estructura seccion features</td>
-      <td> - </td>
-      <td>Abril 22, 2026</td>
+      <td>2026-06-22</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>develop</td>
       <td>d56689e</td>
       <td>feat: Añadir estilos seccion features</td>
-      <td> - </td>
-      <td>Abril 22, 2026</td>
+      <td>2026-06-22</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/plans-section</td>
       <td>9a3f3b4</td>
       <td>feat: add plans section</td>
-      <td> - </td>
-      <td>Abril 22, 2026</td>
+      <td>2026-06-22</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/contact</td>
       <td>9a3f3b4</td>
       <td>feat: add contact us header</td>
-      <td> - </td>
-      <td>Abril 23, 2026</td>
+      <td>2026-06-23</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/contact</td>
       <td>ce589b89</td>
-      <td>feat: add contact wrapper</td>
-      <td> - </td>
-      <td>Abril 23, 2026</td>
+      <td>feat: add contact wrapper</td>      
+      <td>2026-06-23</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/contact</td>
       <td>58c57c8</td>
       <td>feat: add contact item</td>
-      <td> - </td>
-      <td>Abril 23, 2026</td>
+      <td>2026-06-23</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/contact</td>
       <td>58c57c8</td>
-      <td>feat: contact-form</td>
-      <td> - </td>
-      <td>Abril 23, 2026</td>
+      <td>feat: contact-form</td>      
+      <td>2026-06-23</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/whoisvitalia</td>
       <td>45c9afe</td>
       <td>feat: añadir who is vitalia html</td>
-      <td> - </td>
-      <td>Abril 25, 2026</td>
+      <td>2026-06-24</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/whoisvitalia</td>
       <td>92f4fd7</td>
       <td>feat: añadir who is vitalia css</td>
-      <td> - </td>
-      <td>Abril 25, 2026</td>
+      <td>2026-06-24</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/aboutus</td>
       <td>c057df2</td>
       <td>feat: add about us html section</td>
-      <td> - </td>
-      <td>Abril 25, 2026</td>
+      <td>2026-06-25</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>feature/aboutus</td>
       <td>19045f4</td>
       <td>feat: add about us csss section</td>
-      <td> - </td>
-      <td>Abril 25, 2026</td>
+      <td>2026-06-25</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>develop</td>
       <td>9184da9</td>
       <td>feat: add language modificator</td>
-      <td> - </td>
-      <td>Abril 25, 2026</td>
+      <td>2026-06-25</td>
     </tr>
   </tbody>
 </table>

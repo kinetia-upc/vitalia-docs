@@ -1,10 +1,10 @@
-## 5.3. Validation Interviews.
+## 5.3. Validation Interviews
 
-### 5.3.1. Diseño de Entrevistas. 
+### 5.3.1. Diseño de Entrevistas
 
 Esta sección presenta el diseño de entrevistas para validar la propuesta de valor y la experiencia de uso de Vitalia con sus tres segmentos objetivo: administradores, doctores y pacientes. Para cada segmento se definen los elementos a evaluar, los flujos principales de la Landing Page y la Web Application, las tareas que realizarán los participantes durante la sesión y las preguntas de validación orientadas a identificar claridad, utilidad, facilidad de uso y oportunidades de mejora.
 
-**Primer Segmento Objetivo: Administradores de establecimientos de PNAS**
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 **User Flows:**
 
@@ -39,7 +39,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 7. ¿La configuración de sedes, especialidades y farmacia resulta clara?
 8. ¿Qué tareas administrativas todavía sentirías que requieren Excel, llamadas, papel u otras herramientas?
 
-**Segundo Segmento Objetivo: Doctores de establecimientos de PNAS**
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 **User Flows:**
 
@@ -48,7 +48,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 - User Flow 3 - Consultar agenda diaria y gestionar el estado de una cita.
 - User Flow 4 - Buscar paciente y revisar su historia clínica electrónica.
 - User Flow 5 - Registrar atención clínica con diagnóstico y tratamiento.
--  User Flow 6 - Crear o reutilizar receta digital asociada a una HCE.
+- User Flow 6 - Crear o reutilizar receta digital asociada a una HCE.
 - User Flow 7 - Revisar órdenes médicas o resultados pendientes.
 
 **Tareas asignadas:**
@@ -73,7 +73,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 7. ¿La creación de recetas digitales es más clara que el proceso manual?
 8. ¿Qué parte del flujo podría retrasarte durante una consulta real?
 
-**Tercer Segmento Objetivo: Pacientes de todas las edades**
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 **User Flows:**
 
@@ -106,5 +106,52 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 7. ¿Qué información adicional esperarías ver antes o después de una cita?
 8. ¿Qué acción te generó mayor confianza o mayor duda dentro de la aplicación?
 
-### 5.3.2. Registro de Entrevistas. 
-### 5.3.3. Evaluaciones según heurísticas. 
+### 5.3.2. Registro de Entrevistas
+
+**Validation Interviews Link:** 
+
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+
+**Entrevista 1**
+
+**Entrevista 1**
+
+| Entrevistado: | Entrevistador: |
+| --- | --- |
+|  |  |
+| Inicia |  |
+| Duración: |  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+
+**Entrevista 1**
+
+| Entrevistado: | Entrevistador: |
+| --- | --- |
+|  |  |
+| Inicia |  |
+| Duración: |  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+**Entrevista 1**
+
+| Entrevistado: | Entrevistador: |
+| --- | --- |
+|  |  |
+| Inicia |  |
+| Duración: |  |
+| Nombre completo: |  |
+| Edad: |  |
+| Distrito: |  |
+| Resumen: |  |
+
+### 5.3.3. Evaluaciones según heurísticas

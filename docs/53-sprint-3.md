@@ -359,7 +359,7 @@
       <td>[vitalia-backend]</td>
       <td>develop</td>
       <td>5bac88b</td>
-      <td>feat: Add bounded contexts initial structure</td>
+      <td>feat: add bounded contexts initial structure</td>
       <td>2026-06-11</td>
     </tr>
     <tr>
@@ -420,20 +420,6 @@
     </tr>
     <tr>
       <td>[vitalia-backend]</td>
-      <td>develop</td>
-      <td>476a264</td>
-      <td>fix: Dockerfile config</td>
-      <td>2026-06-16</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>develop</td>
-      <td>598be83</td>
-      <td>fix: init config</td>
-      <td>2026-06-16</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
       <td>feature/clinical</td>
       <td>fc660dc</td>
       <td>feat(clinical): add medical records endpoint</td>
@@ -464,7 +450,7 @@
       <td>[vitalia-backend]</td>
       <td>develop</td>
       <td>6ea5a85</td>
-      <td>refact: standardize error handling for pharmacy &amp; scheduling contexts and fix seeder</td>
+      <td>refact: standardize error handling for pharmacy and scheduling contexts and fix seeder</td>
       <td>2026-06-18</td>
     </tr>
     <tr>
@@ -478,29 +464,22 @@
       <td>[vitalia-backend]</td>
       <td>feature/billing</td>
       <td>a250d12</td>
-      <td>feat: Add billing bounded backend</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>feature/billing</td>
-      <td>24df5e2</td>
-      <td>fix: date mistakes from frontend</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>develop</td>
-      <td>46ebe7c</td>
-      <td>fix: error handling</td>
+      <td>feat: add billing bounded backend</td>
       <td>2026-06-18</td>
     </tr>
     <tr>
       <td>[vitalia-backend]</td>
       <td>develop</td>
       <td>e7a5078</td>
-      <td>fix: Swagger documentation</td>
+      <td>fix: swagger documentation</td>
       <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>79b967f</td>
+      <td>refactor: clean up controller names, fix translations, and add db resiliency</td>
+      <td>2026-06-19</td>
     </tr>
   </tbody>
 </table>
@@ -509,22 +488,19 @@
 
 Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de Vitalia. Se implementaron y validaron vistas relacionadas con la gestión de citas, disponibilidad médica, atención clínica, diagnósticos, tratamientos, recetas digitales, medicamentos y reclamos de facturación, reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
 
-<img src="../assets/images/figures/Vitalia_Backend.png" alt="Vitalia_Backend" style="width: 100vw;">
+**Principales entregables funcionales:**
+- Endpoints REST para gestión de citas, disponibilidad médica, atención clínica, diagnósticos, tratamientos, recetas digitales, medicamentos e información de facturación.
+- Integración de la capa de consumo del frontend con los servicios backend reales.
+- Validación de flujos de usuario para reserva, reprogramación y cancelación de citas
+- Despliegue del backend en un entorno de producción para su integración continua con el frontend.
+- Documentación de los servicios REST implementados mediante OpenAPI/Swagger para su consulta y validación por parte del equipo y stakeholders.
 
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
 
-Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestion de citas, disponibilidad medica, registros clinicos, diagnosticos, recetas, tratamientos, medicamentos y reclamos de facturacion.
+Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestion de citas, disponibilidad medica, registros clinicos, diagnosticos, recetas, tratamientos, medicamentos y reclamos de facturacion. Además del uso de una base de datos MySQL para la persistencia de la información. A continuación se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
 
-**Repositorio de Web Services:** [Repositorio backend de Vitalia](https://github.com/kinetia-upc/vitalia-backend)
-
-**Repositorio Frontend:** [Repositorio frontend de Vitalia](https://github.com/kinetia-upc/vitalia-frontend)
-
-**URL local de la documentación Swagger:** http://localhost:5032/swagger/index.html
-
-**Base de datos utilizada:** MySQL
-
-| Recurso             | Endpoint Base                                      | Acciones Implementadas                                     |
-| ------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
+| Recurso | Endpoint Base | Acciones Implementadas |
+| --- | --- | --- |
 | Appointments | `/api/v1/appointments` | GET, POST, GET por ID, PATCH, DELETE |
 | Availability Slots | `/api/v1/availabilitySlots` | GET, POST, GET por ID, PATCH, DELETE |
 | Billing Claims | `/api/v1/billingClaims` | GET, POST, GET por ID, PUT, DELETE |
@@ -541,24 +517,34 @@ Para mostrar la interación, ejecutamos 5 endpoints relacionados al bounded de s
 
 1. GET /api/v1/appointments: Permite buscar citas, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de citas.
 
-<img src="../assets/images/figures/Get_Appointments.png" alt="Get_Appointments Endpoint" style="width: 100vw;">
+<img src="../assets/images/others/services-get-appointments.png" alt="Get-Appointments Endpoint" style="width: 100vw;">
 
 2. POST /api/v1/appointments: Se solicita la información necesaria para crear una cita. Al ejecutarse se añadira la cita a la base de datos.
 
-<img src="../assets/images/figures/Post_Appointments.png" alt="Post_Appointments Endpoint" style="width: 100vw;">
+<img src="../assets/images/others/services-post-appointments.png" alt="Post-Appointments Endpoint" style="width: 100vw;">
 
 3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de horarios disponibles.
 
-<img src="../assets/images/figures/Get_Availability_Slots.png" alt="Get_Availability_Slots Endpoint" style="width: 100vw;">
+<img src="../assets/images/others/services-get-availability-slots.png" alt="Get-Availability-Slots Endpoint" style="width: 100vw;">
 
 4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita la id del horario que se desea eliminar. Tras su ejecución seria eliminado de la base de datos el horario asignado por la id.
 
-<img src="../assets/images/figures/Delete_Availability_Slots.png" alt="Delete_Availability_Slots Endpoint" style="width: 100vw;">
+<img src="../assets/images/others/services-delete-availability-slots.png" alt="Delete-Availability-Slots Endpoint" style="width: 100vw;">
 
 5. GET /api/v1/availabilitySlots: Es el mismo endpoint de busqueda de horarios disponibles, en este caso lo volvemos a usar para verificar la eliminación del horario escogido (slot-003).
 
-<img src="../assets/images/figures/Get_Availability_Slots_2.png" alt="Get_Availability_Slots_2 Endpoint" style="width: 100vw;">
+<img src="../assets/images/others/services-get-availability-slots-2.png" alt="Get-Availability-Slots-2 Endpoint" style="width: 100vw;">
 
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
+
+Durante el Sprint 3 se realizó el despliegue del backend de Vitalia en un entorno de producción utilizando Render como plataforma de hosting. Este despliegue permitió validar la correcta configuración del entorno, la conexión a la base de datos MySQL y la disponibilidad de los servicios REST implementados para su consumo desde el frontend. La evidencia presentada en esta sección muestra capturas del proceso de despliegue en Render, confirmando que el backend está operativo y accesible para su integración con el frontend.
+
+**Swagger Documentation Link:** [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html)
+
+<img src="../assets/images/others/s3-deployment-1.png" alt="s3-deployment-1" style="width: 100vw;"/>
+
+<img src="../assets/images/others/s3-deployment-2.png" alt="s3-deployment-2" style="width: 100vw;"/>
+
+<img src="../assets/images/others/s3-deployment-3.png" alt="s3-deployment-3" style="width: 100vw;"/>
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
