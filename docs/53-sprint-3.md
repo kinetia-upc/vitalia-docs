@@ -25,6 +25,12 @@
 
 #### *5.2.3.3. Sprint Backlog 3*
 
+El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentación Swagger, persistencia por contexto, endpoints para citas, farmacia, historia clínica y facturación, además de la integración del frontend con datos provenientes del servidor.
+
+[Enlace board de Trello](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board): https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board
+
+<img src="../assets/images/figures/75-sprint-3.png" alt="Sprint_Backlog_3" style="width: 100vw;">
+
 <p><strong>Sprint #:</strong> Sprint 3</p>
 
 <table border="1" cellspacing="0" cellpadding="6">
@@ -501,15 +507,19 @@ Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los co
 
 | Recurso | Endpoint Base | Acciones Implementadas |
 | --- | --- | --- |
+| Appointments Fees | `/api/v1/appointmentsFees` | GET, POST, GET por ID, PUT, DELETE |
 | Appointments | `/api/v1/appointments` | GET, POST, GET por ID, PATCH, DELETE |
 | Availability Slots | `/api/v1/availabilitySlots` | GET, POST, GET por ID, PATCH, DELETE |
 | Billing Claims | `/api/v1/billingClaims` | GET, POST, GET por ID, PUT, DELETE |
-| Clinical Diagnoses | `/api/v1/diagnoses` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
-| Clinical Medical Records | `/api/v1/medicalRecords` | GET, POST, GET por code, GET por patient, GET por appointment |
-| Clinical Prescription Details | `/api/v1/prescriptionDetails` | GET, POST, GET por ID, PUT, DELETE, GET por prescription |
-| Clinical Prescriptions | `/api/v1/prescriptions` | GET, POST, GET por ID, DELETE, GET por medical record |
-| Clinical Treatments | `/api/v1/treatments` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
-| Pharmacy Medicines | `/api/v1/medicines` | GET, POST, GET por ID, PUT, DELETE |
+| Branches | `/api/v1/branches` | GET, POST, GET por ID, PUT, DELETE |
+| Diagnoses | `/api/v1/diagnoses` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
+| Healthcare Centers | `/api/v1/healthcareCenters` | GET, POST, GET por ID, PUT, DELETE |
+| Medical Records | `/api/v1/medicalRecords` | GET, POST, GET por code, GET por patient, GET por appointment |
+| Medicines | `/api/v1/medicines` | GET, POST, GET por ID, PUT, DELETE |
+| Prescription Details | `/api/v1/prescriptionDetails` | GET, POST, GET por ID, PUT, DELETE, GET por prescription |
+| Prescriptions | `/api/v1/prescriptions` | GET, POST, GET por ID, DELETE, GET por medical record |
+| Treatments | `/api/v1/treatments` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
+
 
 **Evidencia de ejecución**
 
