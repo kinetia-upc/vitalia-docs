@@ -54,7 +54,7 @@
       <td>Configuración de Swagger UI</td>
       <td>Integrar la documentación OpenAPI en el backend y habilitar Swagger UI</td>
       <td>2</td>
-      <td>AdrixRyz</td>
+      <td>nes-ro</td>
       <td>Completed</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
       <td>Documentación de contratos REST</td>
       <td>Definir rutas, parámetros, cuerpos de solicitud y respuestas para los endpoints implementados</td>
       <td>2</td>
-      <td>AdrixRyz</td>
+      <td>nes-ro</td>
       <td>Completed</td>
     </tr>
     <tr>
@@ -336,6 +336,251 @@
 </table>
 
 #### *5.2.3.4. Development Evidence for Sprint Review*
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>ded9023</td>
+      <td>feat: add initial structure</td>
+      <td>2026-06-10</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>67a6ed8</td>
+      <td>feat: add initial structure</td>
+      <td>2026-06-10</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>5bac88b</td>
+      <td>feat: Add bounded contexts initial structure</td>
+      <td>2026-06-11</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>36c2453</td>
+      <td>feat: Add bounded contexts initial structure</td>
+      <td>2026-06-11</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>eacb780</td>
+      <td>feat: add scheduling domain</td>
+      <td>2026-06-14</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>c1e7702</td>
+      <td>feat: add scheduling application</td>
+      <td>2026-06-14</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>7f5e230</td>
+      <td>feat: add scheduling infrastructure</td>
+      <td>2026-06-14</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>1bcc553</td>
+      <td>feat: add scheduling interfaces</td>
+      <td>2026-06-14</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>811dd7a</td>
+      <td>feat: Add scheduling resources</td>
+      <td>2026-06-14</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>9b0dd39</td>
+      <td>refactor: delete scheduling entities</td>
+      <td>2026-06-14</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>52d06ee</td>
+      <td>Merge pull request #2 from kinetia-upc/feature/scheduling</td>
+      <td>2026-06-14</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/Pharmacy</td>
+      <td>2149b5d</td>
+      <td>feat: add pharmacy logic</td>
+      <td>2026-06-15</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/Pharmacy</td>
+      <td>a6e33d7</td>
+      <td>Merge pull request #3 from kinetia-upc/feature/Pharmacy</td>
+      <td>2026-06-15</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>0931c9e</td>
+      <td>feat: configure database connection</td>
+      <td>2026-06-16</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>476a264</td>
+      <td>fix: Dockerfile config</td>
+      <td>2026-06-16</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>598be83</td>
+      <td>fix: init config</td>
+      <td>2026-06-16</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/clinical</td>
+      <td>fc660dc</td>
+      <td>feat(clinical): add medical records endpoint</td>
+      <td>2026-06-17</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/clinical</td>
+      <td>dbf29c4</td>
+      <td>feat(clinical): add diagnosis treatment and prescription endpoints</td>
+      <td>2026-06-17</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/clinical</td>
+      <td>f47adea</td>
+      <td>feat(clinical): add medical record links and description updates</td>
+      <td>2026-06-17</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/clinical</td>
+      <td>82577cd</td>
+      <td>feat(clinical): add business rules for clinical workflows</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/clinical</td>
+      <td>468a8fe</td>
+      <td>Merge pull request #4 from kinetia-upc/feature/clinical</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/billing</td>
+      <td>502fe35</td>
+      <td>feat: add context endpoints</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/billing</td>
+      <td>30a1a2e</td>
+      <td>feat: add context endpoints pt2</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/billing</td>
+      <td>a250d12</td>
+      <td>feat: Add billing bounded backend</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/billing</td>
+      <td>24df5e2</td>
+      <td>fix: date mistakes from frontend</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/billing</td>
+      <td>e58f187</td>
+      <td>Merge branch 'develop' into feature/billing</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/billing</td>
+      <td>0cfbc28</td>
+      <td>Merge pull request #5 from kinetia-upc/feature/billing</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>5c09bc4</td>
+      <td>feat(clinical): implement get all endpoints for clinical resources to fix frontend 405 errors</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>6ea5a85</td>
+      <td>refact: standardize error handling for pharmacy &amp; scheduling contexts and fix seeder</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>91eafc1</td>
+      <td>fix: file copy mistake</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>46ebe7c</td>
+      <td>fix: error handling</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>e7a5078</td>
+      <td>fix: Swagger documentation</td>
+      <td>2026-06-18</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/billing</td>
+      <td>675e8b3</td>
+      <td>Merge pull request #6 from kinetia-upc/feature/billing</td>
+      <td>2026-06-18</td>
+    </tr>
+  </tbody>
+</table>
 
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
