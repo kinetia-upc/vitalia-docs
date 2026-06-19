@@ -115,10 +115,9 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 **Entrevista 1**
 
 
-
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/01-entrevista-administrador01.png" alt="admin-01" width="4600"/> | <img src="../assets/images/interviews/validation/02-entrevistador01.png" width="180"/> |
 | Inicia | 0:00  |
 | Duración: | 8:05 |
 | Nombre completo: | Nidia Mariesther Bazán Calderón |
@@ -130,7 +129,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/03-entrevista-administrador02.png" alt="admin-01" width="3000"/> | <img src="../assets/images/interviews/validation/02-entrevistador01.png" width="180"/> |
 | Inicia | 8:05 |
 | Duración: | 7:39 |
 | Nombre completo: | Maria del Carmen Astocondor Riva  |
@@ -142,7 +141,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/04-entrevista-administrador03.png" alt="admin-01" width="3000"/> | <img src="../assets/images/interviews/validation/05-entrevistador03.png" width="180"/> |
 | Inicia | 15:47 |
 | Duración: | 4:16 |
 | Nombre completo: | Christian David Bazán Calderón |
@@ -156,7 +155,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/06-entrevista-doctor01.png" alt="doctor-01" width="1430"/> | <img src="../assets/images/interviews/validation/06-entrevistador04.png" alt="entrevistador-04" width="198"/> |
 | Inicia | 20:00 |
 | Duración: | 10:21 |
 | Nombre completo: | Elvia Bazán Calderon |
@@ -168,7 +167,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | --- | --- |
-|  |  |
+|<img src="../assets/images/interviews/validation/07-entrevista-doctor02.png" alt="doctor-02" width="2930"/> | <img src="../assets/images/interviews/validation/08-entrevistador05.png" alt="entrevistador-05" width="238"/>|
 | Inicia | 30:21 |
 | Duración: | 04:50 |
 | Nombre completo: | Erika Paola Mendoza Astudillo |
@@ -180,7 +179,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/09-entrevista-doctor03.png" alt="doctor-03" width="2930"/> | <img src="../assets/images/interviews/validation/10-entrevistador06.png" alt="entrevistador-05" width="178"/> |
 | Inicia | 35:11 |
 | Duración: | 05:03 |
 | Nombre completo: | Abel Astocondor Riva |
@@ -194,7 +193,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistada: | Entrevistador: Leo Dulanto |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/11-entrevista-paciente01.png" alt="doctor-03" width="2930"/> | <img src="../assets/images/interviews/validation/12-entrevistador07.png" alt="entrevistador-05" width="178"/> |
 | Inicia | 40:15 |
 | Duración: | 8:24 |
 | Nombre completo: | Margarita Espino  |
@@ -206,7 +205,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/13-entrevista-paciente02.png" alt="paciente-02" width="7300"/> | <img src="../assets/images/interviews/validation/14-entrevistador08.png" alt="entrevistador-05" width="238"/> |
 | Inicia | 48:50 |
 | Duración: | 9:59 |
 | Nombre completo: | Gianella Levice |
