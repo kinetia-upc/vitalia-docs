@@ -208,14 +208,14 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 **Entrevista 2**
 
-| Entrevistado: | Entrevistador: |
+| Entrevistada: | Entrevistador: Nestor Rojas |
 | --- | --- |
 |  |  |
-| Inicia |  |
-| Duración: |  |
-| Nombre completo: |  |
-| Edad: |  |
-| Distrito: |  |
+| Inicia | 48:50 |
+| Duración: | 9:59 |
+| Nombre completo: | Gianella Levice |
+| Edad: | 30 |
+| Distrito: | Los Olivos |
 | Resumen: |  |
 
 **Entrevista 3**
