@@ -341,6 +341,52 @@
 
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
 
+Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestion de citas, disponibilidad medica, registros clinicos, diagnosticos, recetas, tratamientos, medicamentos y reclamos de facturacion.
+
+**Repositorio de Web Services:** [Repositorio backend de Vitalia](https://github.com/kinetia-upc/vitalia-backend)
+
+**Repositorio Frontend:** [Repositorio frontend de Vitalia](https://github.com/kinetia-upc/vitalia-frontend)
+
+**URL local de la documentación Swagger:** http://localhost:5032/swagger/index.html
+
+**Base de datos utilizada:** MySQL
+
+| Recurso             | Endpoint Base                                      | Acciones Implementadas                                     |
+| ------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
+| Appointments | `/api/v1/appointments` | GET, POST, GET por ID, PATCH, DELETE |
+| Availability Slots | `/api/v1/availabilitySlots` | GET, POST, GET por ID, PATCH, DELETE |
+| Billing Claims | `/api/v1/billingClaims` | GET, POST, GET por ID, PUT, DELETE |
+| Clinical Diagnoses | `/api/v1/diagnoses` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
+| Clinical Medical Records | `/api/v1/medicalRecords` | GET, POST, GET por code, GET por patient, GET por appointment |
+| Clinical Prescription Details | `/api/v1/prescriptionDetails` | GET, POST, GET por ID, PUT, DELETE, GET por prescription |
+| Clinical Prescriptions | `/api/v1/prescriptions` | GET, POST, GET por ID, DELETE, GET por medical record |
+| Clinical Treatments | `/api/v1/treatments` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
+| Pharmacy Medicines | `/api/v1/medicines` | GET, POST, GET por ID, PUT, DELETE |
+
+**Evidencia de ejecución**
+
+Para mostrar la interación, ejecutamos 5 endpoints relacionados al bounded de scheduling. Entre los cuales veremos busqueda de citas y horarios disponibles, como su creación o eliminación de ellos.
+
+1. GET /api/v1/appointments: Permite buscar citas, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de citas.
+
+<img src="../assets/images/figures/Get_Appointments.png" alt="Get_Appointments Endpoint" style="width: 100vw;">
+
+2. POST /api/v1/appointments: Se solicita la información necesaria para crear una cita. Al ejecutarse se añadira la cita a la base de datos.
+
+<img src="../assets/images/figures/Post_Appointments.png" alt="Post_Appointments Endpoint" style="width: 100vw;">
+
+3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de horarios disponibles.
+
+<img src="../assets/images/figures/Get_Availability_Slots.png" alt="Get_Availability_Slots Endpoint" style="width: 100vw;">
+
+4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita la id del horario que se desea eliminar. Tras su ejecución seria eliminado de la base de datos el horario asignado por la id.
+
+<img src="../assets/images/figures/Delete_Availability_Slots.png" alt="Delete_Availability_Slots Endpoint" style="width: 100vw;">
+
+5. GET /api/v1/availabilitySlots: Es el mismo endpoint de busqueda de horarios disponibles, en este caso lo volvemos a usar para verificar la eliminación del horario escogido (slot-003).
+
+<img src="../assets/images/figures/Get_Availability_Slots_2.png" alt="Get_Availability_Slots_2 Endpoint" style="width: 100vw;">
+
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
