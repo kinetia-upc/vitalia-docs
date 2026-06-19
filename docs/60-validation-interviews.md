@@ -237,10 +237,18 @@ SITE o APP A EVALUAR: Vitalia
 **TAREAS A EVALUAR:**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-------------contenido aqui---------------
+1. Explorar la Landing Page y comprender el propósito de Vitalia.
+2. Navegar entre las principales secciones del sistema.
+3. Consultar información del perfil del usuario.
+4. Revisar el modulo de cronograma
+5. Explorar el módulo de farmacia.
+6. Buscar o consultar medicamentos disponibles.
+7. Revisar información relacionada con pagos o facturación.
+8. Consultar indicadores o reportes en el módulo de Analytics.
+9. Comprender el flujo general de atención o gestión dentro de la plataforma.
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-
+1. Evaluar funciones administrativas avanzadas que dependan de endpoints aún no implementados.
 
 **ESCALA DE SEVERIDAD:** Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | Nivel | Descripción |
@@ -253,12 +261,99 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 **TABLA RESUMEN:**
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
 |---|---|---|---|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
+| 1 | La reposición de farmacia aparece dentro del módulo de facturación | 2 | Correspondencia entre el sistema y el mundo real |
+| 2 | El historial clínico presenta información con formatos poco uniformes | 2 | Consistencia y estándares |
+| 3 | El resumen de cita presenta información clínica con baja jerarquía visual | 2 | Diseño estético y minimalista |
+| 4 | El precio de las recetas no se presenta con suficiente claridad visual | 2 | Reconocimiento antes que recuerdo |
+| 5 | Las citas pasadas o canceladas siguen apareciendo como próximas citas sin diferenciación suficiente | 2 | Prevención de errores |
+| 6 | Los iconos de alerta y avisos operativos no comunican claramente su significado | 2 | Reconocimiento antes que recuerdo |
 
 **DESCRIPCIÓN DE PROBLEMAS:**
+
+### Problema #1: La reposición de farmacia aparece dentro del módulo de facturación
+
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Correspondencia entre el sistema y el mundo real
+
+**Problema:**  
+En el módulo de Billing se incluye una sección llamada "Pharmacy Stock Replenishment", relacionada con el monitoreo y reposición de medicamentos. Aunque puede tener relación con compras o costos, para el usuario esta funcionalidad pertenece principalmente al flujo de farmacia. Ubicarla dentro de facturación puede generar confusión sobre dónde debe buscarse la gestión de inventario.
+
+<img src="../assets/images/figures/heuristica-problema1.png" alt="Reposición de farmacia dentro del módulo de facturación" width="900"/>
+
+**Recomendación:**  
+Reubicar la reposición de stock dentro de un módulo de farmacia o inventario. Si debe mantenerse en Billing, se recomienda agregar una etiqueta o explicación breve que indique que se trata de una reposición asociada a costos u órdenes de compra.
+
+---
+
+### Problema #2: El historial clínico presenta información con formatos poco uniformes
+
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Consistencia y estándares
+
+**Problema:**  
+En la vista de historial clínico se muestran fechas y estados con formatos distintos, por ejemplo "12 may.", "19-JUN.", "ARCHIVADO" y "COMPLETADO". Esta variación obliga al usuario a interpretar cada dato por separado y reduce la claridad de una sección que debería facilitar la revisión rápida de la evolución médica.
+
+<img src="../assets/images/figures/heuristica-problema2.png" alt="Historial clínico con formatos poco uniformes" width="900"/>
+
+**Recomendación:**  
+Usar un formato uniforme para fechas, estados y etiquetas dentro del historial. También se recomienda mantener el mismo idioma en todos los elementos para que la línea de tiempo sea más fácil de revisar.
+
+---
+
+### Problema #3: El resumen de cita presenta información clínica con baja jerarquía visual
+
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Diseño estético y minimalista
+
+**Problema:**  
+En el modal de resumen de cita se muestran datos importantes como doctor, fecha, hora, clínica, estado, pago e ID de cita con una distribución muy similar entre todos los campos. Esto hace que la información principal no destaque lo suficiente y que el usuario tenga que leer todo el contenido para identificar rápidamente los datos más relevantes.
+
+<img src="../assets/images/figures/heuristica-problema3.png" alt="Resumen de cita con baja jerarquía visual" width="900"/>
+
+**Recomendación:**  
+Mejorar la jerarquía visual del modal destacando primero los datos esenciales de la cita, como médico, fecha, hora y estado. Los datos secundarios, como el ID de cita, pueden mostrarse con menor énfasis o en una sección inferior.
+
+---
+
+### Problema #4: El precio de las recetas no se presenta con suficiente claridad visual
+
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Reconocimiento antes que recuerdo
+
+**Problema:**  
+En las tarjetas de recetas, el precio unitario aparece en la parte inferior con poco énfasis visual. Al tratarse de información relevante para el paciente, puede pasar desapercibida o confundirse con un dato secundario, especialmente cuando la tarjeta contiene varios campos clínicos.
+
+<img src="../assets/images/figures/heuristica-problema4.png" alt="Precio de recetas con baja visibilidad" width="900"/>
+
+**Recomendación:**  
+Presentar el precio en una sección más visible de la tarjeta, usando una etiqueta clara como "Precio unitario" y, si corresponde, mostrar también el subtotal o costo estimado de la receta.
+
+---
+
+### Problema #5: Las citas pasadas o canceladas siguen apareciendo como próximas citas sin diferenciación suficiente
+
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Prevención de errores
+
+**Problema:**  
+En la lista de "Próximas citas" se muestran citas con fechas anteriores o estados como "cancelled" junto con acciones como reagendar o cancelar. Esto puede generar confusión porque el usuario podría interpretar que esas citas aún están vigentes o intentar realizar acciones sobre citas que ya no deberían tratarse como próximas.
+
+<img src="../assets/images/figures/heuristica-problema5.png" alt="Citas pasadas o canceladas dentro de próximas citas" width="900"/>
+
+**Recomendación:**  
+Ocultar las citas que ya pasaron de la sección de próximas citas o moverlas a una sección de historial. Si se mantienen visibles, deben mostrarse con una etiqueta clara como "Finalizada", "Pasada" o "Cancelada" y limitar las acciones disponibles.
+
+---
+
+### Problema #6: Los iconos de alerta y avisos operativos no comunican claramente su significado
+
+**Severidad:** 2  
+**Heurística violada:** Usabilidad - Reconocimiento antes que recuerdo
+
+**Problema:**  
+En la vista de operaciones se utilizan iconos como "+", "*" y "#" para representar alertas, avisos de capacidad y actualizaciones de personal. Estos símbolos no comunican por sí solos el tipo de aviso, por lo que el usuario debe leer todo el texto para comprender la prioridad o categoría del mensaje.
+
+<img src="../assets/images/figures/heuristica-problema6.png" alt="Iconos poco claros en alertas y avisos operativos" width="900"/>
+
+**Recomendación:**  
+Utilizar iconos más representativos para cada tipo de aviso, por ejemplo un símbolo de advertencia para mantenimiento, un indicador de capacidad para ocupación y un icono de personal para cambios de turno. También se recomienda mantener colores y etiquetas consistentes según la prioridad del aviso.
