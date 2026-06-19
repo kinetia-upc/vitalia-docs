@@ -351,13 +351,6 @@
     <tr>
       <td>[vitalia-backend]</td>
       <td>develop</td>
-      <td>ded9023</td>
-      <td>feat: add initial structure</td>
-      <td>2026-06-10</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>develop</td>
       <td>67a6ed8</td>
       <td>feat: add initial structure</td>
       <td>2026-06-10</td>
@@ -366,13 +359,6 @@
       <td>[vitalia-backend]</td>
       <td>develop</td>
       <td>5bac88b</td>
-      <td>feat: Add bounded contexts initial structure</td>
-      <td>2026-06-11</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>develop</td>
-      <td>36c2453</td>
       <td>feat: Add bounded contexts initial structure</td>
       <td>2026-06-11</td>
     </tr>
@@ -476,16 +462,16 @@
     </tr>
     <tr>
       <td>[vitalia-backend]</td>
-      <td>feature/billing</td>
-      <td>502fe35</td>
-      <td>feat: add context endpoints</td>
+      <td>develop</td>
+      <td>6ea5a85</td>
+      <td>refact: standardize error handling for pharmacy &amp; scheduling contexts and fix seeder</td>
       <td>2026-06-18</td>
     </tr>
     <tr>
       <td>[vitalia-backend]</td>
-      <td>feature/billing</td>
-      <td>30a1a2e</td>
-      <td>feat: add context endpoints pt2</td>
+      <td>develop</td>
+      <td>5c09bc4</td>
+      <td>feat(clinical): implement get all endpoints for clinical resources to fix frontend 405 errors</td>
       <td>2026-06-18</td>
     </tr>
     <tr>
@@ -500,34 +486,6 @@
       <td>feature/billing</td>
       <td>24df5e2</td>
       <td>fix: date mistakes from frontend</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>feature/billing</td>
-      <td>e58f187</td>
-      <td>Merge branch 'develop' into feature/billing</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>develop</td>
-      <td>5c09bc4</td>
-      <td>feat(clinical): implement get all endpoints for clinical resources to fix frontend 405 errors</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>develop</td>
-      <td>6ea5a85</td>
-      <td>refact: standardize error handling for pharmacy &amp; scheduling contexts and fix seeder</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>develop</td>
-      <td>91eafc1</td>
-      <td>fix: file copy mistake</td>
       <td>2026-06-18</td>
     </tr>
     <tr>
