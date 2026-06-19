@@ -226,3 +226,11 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 | Resumen: |  |
 
 ### 5.3.3. Evaluaciones según heurísticas
+**UX Heuristics & Principles Evaluation**
+**Usability – Inclusive Design – Information Architecture**
+CARRERA : Ingeniería de Software
+CURSO : Aplicaciones Web
+SECCIÓN : 10203
+PROFESORES : Todos
+AUDITOR : KinetiaLabs
+SITE o APP A EVALUAR: Vitalia
