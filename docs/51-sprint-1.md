@@ -31,9 +31,9 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 
 El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing page de Vitalia, priorizando las secciones visibles para comunicar la propuesta de valor, funcionalidades, planes, contacto y quienes somos.
 
-[Enlace board de Trello](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board): https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board
+**Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
-<img src="../assets/images/figures/73-sprint-1.png" alt="Sprint_Backlog_1" style="width: 100vw;">
+<img src="../assets/images/others/s1-sprint-backlog.png" alt="Sprint Backlog 1" style="width: 100vw;">
 
 <p><strong>Sprint #:</strong> Sprint 1</p>
 

@@ -27,9 +27,9 @@
 
 El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentación Swagger, persistencia por contexto, endpoints para citas, farmacia, historia clínica y facturación, además de la integración del frontend con datos provenientes del servidor.
 
-[Enlace board de Trello](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board): https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board
+**Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
-<img src="../assets/images/figures/75-sprint-3.png" alt="Sprint_Backlog_3" style="width: 100vw;">
+<img src="../assets/images/others/s3-sprint-backlog.png" alt="Sprint Backlog 3" style="width: 100vw;">
 
 <p><strong>Sprint #:</strong> Sprint 3</p>
 
@@ -520,7 +520,6 @@ Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los co
 | Prescriptions | `/api/v1/prescriptions` | GET, POST, GET por ID, DELETE, GET por medical record |
 | Treatments | `/api/v1/treatments` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
 
-
 **Evidencia de ejecución**
 
 Para mostrar la interación, ejecutamos 5 endpoints relacionados al bounded de scheduling. Entre los cuales veremos busqueda de citas y horarios disponibles, como su creación o eliminación de ellos.
@@ -558,3 +557,13 @@ Durante el Sprint 3 se realizó el despliegue del backend de Vitalia en un entor
 <img src="../assets/images/others/s3-deployment-3.png" alt="s3-deployment-3" style="width: 100vw;"/>
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
+
+Para la organización técnica del desarrollo del Backend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (`feature/`) bien definidas (como `feature/scheduling`, `feature/billing`, `feature/pharmacy`, etc.), garantizando una integración ordenada hacia la rama `develop`.
+
+A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
+
+<img src="../assets/images/others/s3-collab-insight-1.png" alt="s3-collab-insight-1"  style="width: 100vw;"/>
+
+<img src="../assets/images/others/s3-collab-insight-2.png" alt="s3-collab-insight-2" style="width: 100vw;"/>
+
+El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
