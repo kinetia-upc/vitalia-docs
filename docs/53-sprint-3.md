@@ -21,7 +21,7 @@
 | Dulanto Espino, Leo César | Leotens | L | C | C | C | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | C | C | C | C | L |
 | Alexther Kamil Diaz Martinez | kamil-tron | C | L | C | C | C |
-| Rojas Tello, Alonso | nes-ro | C | C | C | L | C |
+| Rojas Tello, Nestor Alonso | nes-ro | C | C | C | L | C |
 
 #### *5.2.3.3. Sprint Backlog 3*
 
