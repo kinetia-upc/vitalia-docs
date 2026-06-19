@@ -2392,15 +2392,23 @@ El gráfico y métricas evidencian una alta frecuencia de commits organizados y 
 
 - **Sobre la Implementación (Sprint 1):** Se concluye que el desarrollo y despliegue ágil de la Landing Page comercial permite a KinetiaLabs contar tempranamente con un activo digital para la validación de la propuesta de valor frente a clientes potenciales (B2B), demostrando que la separación entre la plataforma de marketing y la aplicación core optimiza los tiempos de entrega.
 
+- **Sobre la Implementación (Sprint 2):** Se concluye que el uso de Vue.js y la arquitectura basada en Single Page Application (SPA) permitió construir una interfaz interactiva y responsiva adaptada a las necesidades de los diferentes perfiles (pacientes, médicos y administradores). La adopción de servicios simulados (Mock APIs) fue una estrategia efectiva, ya que permitió validar las vistas y los flujos funcionales antes de depender del backend de producción.
+
+- **Sobre la Implementación (sprint 3):** El proyecto avanzó de manera significativa desde una experiencia frontend apoyada en datos simulados hacia una arquitectura con servicios backend reales, documentación OpenAPI/Swagger e integración progresiva con la aplicación web. Este sprint permitió comprobar que los principales flujos del producto pueden conectarse con una API propia, aunque todavía se requiere completar endpoints administrativos y clínicos para consolidar la cobertura funcional del sistema.
+
+- **Sobre la Gestión del Equipo:** El Avance 2 evidenció una mejor organización del trabajo colaborativo, con responsabilidades más claras, seguimiento de avances y revisión constante de pendientes. La coordinación entre integrantes permitió sostener el desarrollo técnico y documental del proyecto, reforzando la capacidad del equipo para adaptarse a correcciones, resolver bloqueos y cumplir objetivos compartidos.
+
 # Recomendaciones
 
-- **Sobre el Roadmap y Siguientes Sprints:** Se recomienda mantener un enfoque estricto en el desarrollo del módulo Core (Historia Clínica Electrónica y Citas) para el Sprint 2. Es vital que la base de datos y la lógica del Identity & Tenant Context queden sólidamente integradas antes de avanzar a los módulos de facturación o inventario, garantizando así la correcta segregación de datos por policlínico (Multi-tenant).
+- **Sobre el Roadmap y Siguientes Sprints:** Tras el Avance 2, se recomienda concentrar el siguiente ciclo en completar la cobertura de endpoints faltantes y estabilizar la integración entre frontend y backend. Esto permitirá reemplazar por completo los datos simulados, reducir errores de consumo y validar los flujos principales con información persistente.
 
-- **Validación Temprana (Testing):** Se recomienda que, tan pronto se despliegue la primera versión funcional de la Web Application para doctores y recepcionistas, se organicen las Validation Interviews con los usuarios clave abordados en el Capítulo II. Recolectar feedback sobre la fluidez del agendamiento y el llenado de anamnesis será crucial antes del Release final.
+- **Validación Temprana y Usabilidad (Testing):** Ahora que se cuenta con una aplicación web funcional y una integración backend en progreso, se recomienda organizar rondas de pruebas de usabilidad con médicos, recepcionistas y administradores. Recolectar feedback sobre navegación, agendamiento, registro clínico y gestión administrativa permitirá realizar ajustes antes de la entrega final.
+
+- **Endpoints Pendientes:** Se recomienda priorizar la implementación y documentación de los endpoints restantes para cerrar brechas funcionales. En el contexto de tenant deben completarse `healthcareCenters`, `branches`, `users` y `appointmentFees`; en el contexto clinical deben completarse `patients`, `doctors`, `specialities` y `doctorSpecialities`.
 
 - **Integraciones de Terceros (APIs):** De cara a la madurez del producto, se recomienda ir analizando la documentación técnica de sistemas de terceros para los módulos secundarios, específicamente la API de RENIEC (para el registro rápido de pacientes y validación de identidad) y las pasarelas de facturación electrónica validadas por SUNAT.
 
-- **Gestión Documental:** Se sugiere al equipo mantener el rigor en el flujo de Docs-as-Code y los Conventional Commits en el repositorio de GitHub, ya que la trazabilidad del código y la documentación integrada facilitarán enormemente la auditoría del proyecto en las entregas finales.
+- **Gestión Documental:** Se sugiere mantener el rigor en el flujo de Docs-as-Code, Conventional Commits y evidencias de ejecución. La trazabilidad entre tareas, endpoints, capturas, commits y documentación facilitará la auditoría del proyecto y permitirá demostrar con mayor claridad el avance técnico alcanzado.
 
 # Bibliografía
 
