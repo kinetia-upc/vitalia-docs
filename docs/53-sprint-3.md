@@ -420,23 +420,9 @@
     </tr>
     <tr>
       <td>[vitalia-backend]</td>
-      <td>feature/scheduling</td>
-      <td>52d06ee</td>
-      <td>Merge pull request #2 from kinetia-upc/feature/scheduling</td>
-      <td>2026-06-14</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
       <td>feature/Pharmacy</td>
       <td>2149b5d</td>
       <td>feat: add pharmacy logic</td>
-      <td>2026-06-15</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>feature/Pharmacy</td>
-      <td>a6e33d7</td>
-      <td>Merge pull request #3 from kinetia-upc/feature/Pharmacy</td>
       <td>2026-06-15</td>
     </tr>
     <tr>
@@ -490,13 +476,6 @@
     </tr>
     <tr>
       <td>[vitalia-backend]</td>
-      <td>feature/clinical</td>
-      <td>468a8fe</td>
-      <td>Merge pull request #4 from kinetia-upc/feature/clinical</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
       <td>feature/billing</td>
       <td>502fe35</td>
       <td>feat: add context endpoints</td>
@@ -532,13 +511,6 @@
     </tr>
     <tr>
       <td>[vitalia-backend]</td>
-      <td>feature/billing</td>
-      <td>0cfbc28</td>
-      <td>Merge pull request #5 from kinetia-upc/feature/billing</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
       <td>develop</td>
       <td>5c09bc4</td>
       <td>feat(clinical): implement get all endpoints for clinical resources to fix frontend 405 errors</td>
@@ -570,13 +542,6 @@
       <td>develop</td>
       <td>e7a5078</td>
       <td>fix: Swagger documentation</td>
-      <td>2026-06-18</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>feature/billing</td>
-      <td>675e8b3</td>
-      <td>Merge pull request #6 from kinetia-upc/feature/billing</td>
       <td>2026-06-18</td>
     </tr>
   </tbody>
