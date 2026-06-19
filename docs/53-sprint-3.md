@@ -25,6 +25,12 @@
 
 #### *5.2.3.3. Sprint Backlog 3*
 
+El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentación Swagger, persistencia por contexto, endpoints para citas, farmacia, historia clínica y facturación, además de la integración del frontend con datos provenientes del servidor.
+
+[Enlace board de Trello](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board): https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board
+
+<img src="../assets/images/figures/75-sprint-3.png" alt="Sprint_Backlog_3" style="width: 100vw;">
+
 <p><strong>Sprint #:</strong> Sprint 3</p>
 
 <table border="1" cellspacing="0" cellpadding="6">

@@ -27,6 +27,12 @@ Para el desarrollo del segundo sprint, el equipo se centrará en la construcció
 
 #### *5.2.2.3. Sprint Backlog 2*
 
+El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia, incluyendo la navegación, el diseño responsivo, el control de acceso por roles y los primeros flujos para pacientes, médicos y administradores. Con estas tareas se dejó una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de integrar APIs reales.
+
+[Enlace board de Trello](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board): https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board
+
+<img src="../assets/images/figures/74-sprint-2.png" alt="Sprint_Backlog_2" style="width: 100vw;">
+
 <p><strong>Sprint #:</strong> Sprint 2</p>
 
 <table border="1" cellspacing="0" cellpadding="6">
