@@ -108,7 +108,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 ### 5.3.2. Registro de Entrevistas
 
-**Validation Interviews Link:** 
+**Validation Interviews Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317099_upc_edu_pe/IQAv0hWFnQ58TILhDk2_zj4kAYtODAgwlxj7EgvGs1ZRWOU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=7D65bU
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
