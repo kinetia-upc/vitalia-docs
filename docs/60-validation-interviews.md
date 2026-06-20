@@ -215,13 +215,13 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 **Entrevista 3**
 
-| Entrevistado: | Entrevistador: |
+| Entrevistado: | Entrevistador:  |
 | --- | --- |
 |  |  |
-| Inicia |  |
-| Duración: |  |
-| Nombre completo: |  |
-| Edad: |  |
+| Inicia | 58:48 |
+| Duración: | 6:52 |
+| Nombre completo: | |
+| Edad: | 19 |
 | Distrito: |  |
 | Resumen: |  |
 
