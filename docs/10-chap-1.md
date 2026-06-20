@@ -88,7 +88,7 @@ El problema se manifiesta en la práctica mediante la duplicidad de registros de
 <img src="../assets/images/figures/01-macroproceso.png" alt="Macroproceso: sistema de informacion" style="width: 100vw;">
 > **Nota.** Adaptado del Ministerio de Salud de Perú (2011).
 
-El MINSA identifico brechas significativas en capacidades tecnológicas y de gestión, dado que el 71% de los establecimientos de salud no ha identificado sus necesidades en recursos informáticos ni en personal especializado, y el 72% no cuenta con métodos formales y permanentes para la evaluación, recolección, procesamiento y análisis de información (Ministerio de Salud del Perú, 2011).
+El MINSA identificó brechas significativas en capacidades tecnológicas y de gestión, dado que el 71% de los establecimientos de salud no ha identificado sus necesidades en recursos informáticos ni en personal especializado, y el 72% no cuenta con métodos formales y permanentes para la evaluación, recolección, procesamiento y análisis de información (Ministerio de Salud del Perú, 2011).
 
 ### 1.2.2. Lean UX Process
 

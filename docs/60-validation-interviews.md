@@ -214,12 +214,12 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 **Entrevista 3**
 
-| Entrevistado: | Entrevistador:  |
+| Entrevistado: | Entrevistador: Adrian Ruiz |
 | --- | --- |
 | <img src="../assets/images/interviews/validation/15-entrevista-paciente03.png" alt="paciente-03" width="2930"/> | <img src="../assets/images/interviews/validation/16-entrevistador09.png" alt="entrevistador-09" width="240"/> |
 | Inicia | 58:48 |
 | Duración: | 6:52 |
-| Nombre completo: | Cesas Contreras |
+| Nombre completo: | César Contreras |
 | Edad: | 19 |
 | Distrito: | Rimac |
 | Resumen: | En la entrevista podemos ver cómo el usuario César Contreras evalúa de forma muy positiva la landing page y la aplicación Vitalia, destacando desde el inicio que el sitio web comunica con total claridad el propósito del proyecto. Al revisar las funciones de la aplicación, observamos que el flujo para reservar y pagar una cita le resultó sumamente sencillo e intuitivo gracias a un diseño limpio y al uso estratégico de botones llamativos que guían al usuario. Asimismo, encontramos que las secciones de historial clínico y recetas médicas son claras, legibles y fáciles de interpretar, lo que lleva al entrevistado a concluir que la interfaz es tan accesible que incluso un adulto mayor podría utilizarla sin mayores complicaciones. Finalmente, como un valioso aporte de mejora, notamos su sugerencia de incluir dentro del apartado de recetas digitales un listado que distinga entre marcas de medicamentos genéricos y de laboratorio para enriquecer aún más la experiencia del paciente. |

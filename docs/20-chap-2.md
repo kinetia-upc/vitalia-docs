@@ -137,7 +137,7 @@ Vitalia se diseña considerando normativas locales y necesidades reales del PNAS
 | Duración: | 4:20 |
 | Nombre completo: | Iris Carpio Bazan |
 | Edad: | 64 |
-| Distrito: | La victoria |
+| Distrito: | La Victoria |
 | Resumen: | Iris explica que utilizan el sistema SIHCE, pero aún no existe integración completa entre áreas como admisión, laboratorio y atención médica. Considera que el principal reto es la interconexión de servicios. Destaca que el sistema debe ser fácil de usar, especialmente para personal mayor, y que los recursos económicos son una limitante importante. Su objetivo es mejorar la eficiencia del servicio y reducir tiempos de espera. |
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
@@ -353,7 +353,7 @@ Como hallazgos transversales tenemos:
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 8 (User Task Matrix 3)*  
-<img src="../assets/images/figures/08-u-task-matrix-3.png" alt="User Task Matrix 2" style="width: 100vw;">
+<img src="../assets/images/figures/08-u-task-matrix-3.png" alt="User Task Matrix 3" style="width: 100vw;">
 
 ### 2.3.3. User Journey Mapping
 

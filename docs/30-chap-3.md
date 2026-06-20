@@ -38,7 +38,7 @@
 | US019 | Emisión de recetas | **Como** médico, **quiero** registrar nuevas recetas, **para** facilitar mi flujo de trabajo. | **Scenario 1: emisión de receta exitosa**<br>**Given** que el doctor esta en pacientes,<br>**And** el médico selecciona la opción ver de asignar receta,<br>**When** rellena todos los datos **Then** el sistema registra la receta del paciente.<br><br> | E2 |
 | US020 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | **Scenario 1: Guardado exitoso**<br>**Given** que el médico completó la atención clínica,<br>**When** guarda y cierra la consulta,<br>**Then** el sistema confirma que la información fue registrada correctamente.<br><br>**Scenario 2: Fallo temporal de conexión**<br>**Given** que ocurre una interrupción momentánea al guardar la consulta,<br>**When** el sistema detecta el problema,<br>**Then** preserva la información capturada e informa al médico el estado del guardado. | E2 |
 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | **Scenario 1: Nuevo paciente registrado**<br>**Given** que el paciente no existe en la base de datos institucional,<br>**When** el administrativo registra su información obligatoria,<br>**Then** el sistema crea una ficha única para futuras atenciones.<br><br>**Scenario 2: Detección de posible duplicado**<br>**Given** que los datos ingresados coinciden con un paciente existente,<br>**When** el administrativo intenta crear un nuevo registro,<br>**Then** el sistema alerta la posible duplicidad antes de guardar. | E3 |
-| US022 | Visualizacion de mini calendario | **Como** medico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | **Scenario 1: Visualziación exitosa **<br>**Given** que el medico esta en agenda,<br>**When** hace click en un dia del calendario ,<br>**Then** el sistema muestra el horario del día seleccionado<br><br> | E3 |
+| US022 | Visualización de mini calendario | **Como** médico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | **Scenario 1: Visualización exitosa **<br>**Given** que el médico esta en agenda,<br>**When** hace click en un dia del calendario ,<br>**Then** el sistema muestra el horario del día seleccionado<br><br> | E3 |
 | US023 | Visualización de detalles de cita | **Como** paciente, **quiero** visualizar los detalles de mi cita programada **para** no tener dudas de su contenido. | **Scenario 1: Paciente marcado como presente**<br>**Given** que el paciente tiene una cita activa,<br>**When**le da click a visualizar detalles**Then** el sistema muestra los detalles de la cita.<br><br>. | E3 |
 | US024 | Pagar la cita | **Como** paciente, **quiero** pagar las citas medicas desde la aplicación, **para** facilitar mi experiencia. | **Scenario 1: Pago exitoso **<br>**Given** que el paciente tiene una cita<br>**When** oprime el boton pagar y sigue los pasos,<br>**Then** se registra la venta en el sistema. | E3 |
 | US025 | Generación automatizada de comprobantes | **Como** personal administrativo, **quiero** emitir boletas y facturas de forma automatizada tras cerrar la atención, **para** reducir errores en caja. | **Scenario 1: Comprobante emitido**<br>**Given** la consulta finalizada y valorizada,<br>**When** se procesa el cobro en el módulo de caja,<br>**Then** el sistema genera la versión digital del comprobante. | E3 |
@@ -83,7 +83,7 @@
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 16 (Impact Map 1)*  
-<img src="../assets/images/figures/16-impact-map-1.png" alt="Impact Mapppin 1" style="width: 100vw;">
+<img src="../assets/images/figures/16-impact-map-1.png" alt="Impact Map 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
@@ -137,7 +137,7 @@
 | 34 | US035B | Bloqueos automáticos y sesiones seguras | **Como** usuario, **quiero** que la sesión se cierre por inactividad o intento fallido reiterado, **para** evitar el acceso indebido. | 3 |
 | 35 | US033 | Recuperación de contraseña | **Como** usuario, **quiero** recuperar mi contraseña de forma segura, **para** restablecer el acceso a mi cuenta sin soporte manual innecesario. | 3 |
 | 36 | US009 | Accesibilidad de interfaz | **Como** paciente adulto mayor o con baja familiaridad digital, **quiero** una interfaz clara y legible, **para** usar la plataforma sin confusión ni dependencia de terceros. | 5 |
-| 37 | US022 | Visualizacion de mini calendario | **Como** medico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | 5 |
+| 37 | US022 | Visualización de mini calendario | **Como** médico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | 5 |
 | 38 | US023 | Visualización de detalles de cita | **Como** paciente, **quiero** visualizar los detalles de mi cita programada **para** no tener dudas de su contenido. | 3 |
 | 39 | US021 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | 5 |
 | 40 | US019 | Vista de hce del paciente | **Como** médico, **quiero** revisar datos de historial clinico antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo. | 3 |
@@ -157,4 +157,3 @@
 | 54 | US018B | Edición y confirmación de dictado | **Como** médico, **quiero** verificar y corregir la transcripción antes del guardado, **para** asegurar la veracidad del registro clínico. | 3 |
 | 55 | US030A | Integración con servicios de identidad (RENIEC) | **Como** administrativo, **quiero** autocompletar datos del paciente ingresando su DNI mediante un servicio externo, **para** registrar pacientes de forma rápida. | 5 |
 | 56 | US030B | Sincronización con pasarelas de pago | **Como** administrador, **quiero** integrar pasarelas de pago digital vía API, **para** conciliar automáticamente las transacciones en línea. | 3 |
-

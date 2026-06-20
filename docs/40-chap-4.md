@@ -86,7 +86,7 @@ Para mantener la limpieza visual y el principio de "Profundidad Atmosférica", l
 
 Las interacciones deben sentirse precisas y responsivas, diferenciando claramente el comportamiento con mouse (escritorio) del comportamiento táctil (móvil/tablet).
 
-**Estados Interactivos (Mouse vs. Touch)*+
+**Estados Interactivos (Mouse vs. Touch)**
 
 - Hover (Solo Desktop): Al pasar el cursor sobre tarjetas interactivas (ej. Tarjetas de Pacientes), el fondo debe transicionar suavemente a surface_bright y aplicar una traslación en el eje Y (transform: translateY(-0.25rem)).
 - Active / Pressed (Universal): Al hacer clic o tocar, el elemento reduce ligeramente su escala (transform: scale(0.98)) por 150ms para dar retroalimentación física. No se usan efectos de "hundimiento" con sombras.
@@ -205,14 +205,15 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 
 ### 4.3.2. Landing Page Mock-up
 
-*Figura 21 (Landing Page Mock-up)* 
+*Figura 21 (Landing Page Mock-up)*  
 <img src="../assets/images/figures/21-landing-mockup.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
-*Figura 22 (Web Applications Wireframes)* 
-<img src="../assets/images/figures/22-wirframeall.png" alt="22-wirframeall" style="width: 100vw;">
+
+*Figura 22 (Web Applications Wireframes)*  
+<img src="../assets/images/figures/22-all-wireframes.png" alt="All Wireframes" style="width: 100vw;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -224,20 +225,20 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
 - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
-*Figura 23 (Wireflow 1 Administradores)* 
-<img src="../assets/images/figures/23-Wireflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 23 (Wireflow 1 Administradores)*  
+<img src="../assets/images/figures/23-Wireflow-Admin-1.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 24 (Wireflow 2 Administradores)* 
-<img src="../assets/images/figures/24-Wireflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 24 (Wireflow 2 Administradores)*  
+<img src="../assets/images/figures/24-Wireflow-Admin-2.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 25 (Wireflow 3 Administradores)* 
-<img src="../assets/images/figures/25-Wireflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 25 (Wireflow 3 Administradores)*  
+<img src="../assets/images/figures/25-Wireflow-Admin-3.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 26 (Wireflow 4 Administradores)* 
-<img src="../assets/images/figures/26-Wireflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 26 (Wireflow 4 Administradores)*  
+<img src="../assets/images/figures/26-Wireflow-Admin-4.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 27 (Wireflow 5 Administradores)* 
-<img src="../assets/images/figures/27-Wireflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 27 (Wireflow 5 Administradores)*  
+<img src="../assets/images/figures/27-Wireflow-Admin-5.png" alt="Wireflow" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
@@ -246,17 +247,17 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** doctor de un establecimiento de PNAS, **quiero** registrar la anamnesis, el examen físico y el diagnóstico en una sola atención, **para** mantener la información clínica ordenada y completa. (US012, US013)
 - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
-*Figura 28 (Wireflow 1 Doctores)* 
-<img src="../assets/images/figures/28-Wireflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 28 (Wireflow 1 Doctores)*  
+<img src="../assets/images/figures/28-Wireflow-Doctor-1.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 29 (Wireflow 2 Doctores)* 
-<img src="../assets/images/figures/29-Wireflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 29 (Wireflow 2 Doctores)*  
+<img src="../assets/images/figures/29-Wireflow-Doctor-2.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 30 (Wireflow 3 Doctores)* 
-<img src="../assets/images/figures/30-Wireflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 30 (Wireflow 3 Doctores)*  
+<img src="../assets/images/figures/30-Wireflow-Doctor-3.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 31 (Wireflow 4 Doctores)* 
-<img src="../assets/images/figures/31-Wireflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 31 (Wireflow 4 Doctores)*  
+<img src="../assets/images/figures/31-Wireflow-Doctor-4.png" alt="Wireflow" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
@@ -265,64 +266,64 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** paciente, **quiero** recibir recordatorios automáticos de mis citas, **para** reducir olvidos, inasistencias y confusiones sobre la fecha u hora de atención. (US008)
 - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
-*Figura 32 (Wireflow 1 Pacientes)* 
-<img src="../assets/images/figures/32-Wireflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 32 (Wireflow 1 Pacientes)*  
+<img src="../assets/images/figures/32-Wireflow-Pacient-1.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 33 (Wireflow 2 Pacientes)* 
-<img src="../assets/images/figures/33-Wireflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 33 (Wireflow 2 Pacientes)*  
+<img src="../assets/images/figures/33-Wireflow-Pacient-2.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 34 (Wireflow 3 Pacientes)* 
-<img src="../assets/images/figures/34-Wireflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 34 (Wireflow 3 Pacientes)*  
+<img src="../assets/images/figures/34-Wireflow-Pacient-3.png" alt="Wireflow" style="width: 100vw;">
 
-*Figura 35 (Wireflow 4 Pacientes)* 
-<img src="../assets/images/figures/35-Wireflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+*Figura 35 (Wireflow 4 Pacientes)*  
+<img src="../assets/images/figures/35-Wireflow-Pacient-4.png" alt="Wireflow" style="width: 100vw;">
 
 ### 4.4.3. Web Applications Mock-ups
 
 *Figura 36 (Admin Clinic Settings)*  
-<img src="../assets/images/figures/36-Admin Clinic Settings.png" alt="36-Admin Clinic Settings" style="width: 100vw;">
+<img src="../assets/images/figures/36-Admin Clinic Settings.png" alt="Admin Clinic Settings" style="width: 100vw;">
 
 *Figura 37 (Admin Billing)*  
-<img src="../assets/images/figures/37-Admin Billing.png" alt="37-Admin Billing" style="width: 100vw;">
+<img src="../assets/images/figures/37-Admin Billing.png" alt="Admin Billing" style="width: 100vw;">
 
 *Figura 38 (Admin Operations)*  
-<img src="../assets/images/figures/38-Admin Operations.png" alt="38-Admin Operations" style="width: 100vw;">
+<img src="../assets/images/figures/38-Admin Operations.png" alt="Admin Operations" style="width: 100vw;">
 
 *Figura 39 (Admin Users)*  
-<img src="../assets/images/figures/39-Admin Users.png" alt="39-Admin Users" style="width: 100vw;">
+<img src="../assets/images/figures/39-Admin Users.png" alt="Admin Users" style="width: 100vw;">
 
 *Figura 40 (Admin Dashboard)*  
-<img src="../assets/images/figures/40-Admin Dashboard.png" alt="40-Admin Dashboard" style="width: 100vw;">
+<img src="../assets/images/figures/40-Admin Dashboard.png" alt="Admin Dashboard" style="width: 100vw;">
 
 *Figura 41 (Patient Profile)*  
-<img src="../assets/images/figures/41-Patient Profile.png" alt="41-Patient Profile" style="width: 100vw;">
+<img src="../assets/images/figures/41-Patient Profile.png" alt="Patient Profile" style="width: 100vw;">
 
 *Figura 42 (Patient History)*  
-<img src="../assets/images/figures/42-Patient History.png" alt="42-Patient History" style="width: 100vw;">
+<img src="../assets/images/figures/42-Patient History.png" alt="Patient History" style="width: 100vw;">
 
 *Figura 43 (Patient Prescriptions)*  
-<img src="../assets/images/figures/43-Patient Prescriptions.png" alt="43-Patient Prescriptions" style="width: 100vw;">
+<img src="../assets/images/figures/43-Patient Prescriptions.png" alt="Patient Prescriptions" style="width: 100vw;">
 
 *Figura 44 (Patient Appointments)*  
-<img src="../assets/images/figures/44-Patient Appointments.png" alt="44-Patient Appointments" style="width: 100vw;">
+<img src="../assets/images/figures/44-Patient Appointments.png" alt="Patient Appointments" style="width: 100vw;">
 
 *Figura 45 (Patient Dashboard)*  
-<img src="../assets/images/figures/45-Patient Dashboard.png" alt="45-Patient Dashboard" style="width: 100vw;">
+<img src="../assets/images/figures/45-Patient Dashboard.png" alt="Patient Dashboard" style="width: 100vw;">
 
 *Figura 46 (Doctor Profile)*  
-<img src="../assets/images/figures/46-Doctor Profile.png" alt="46-Doctor Profile" style="width: 100vw;">
+<img src="../assets/images/figures/46-Doctor Profile.png" alt="Doctor Profile" style="width: 100vw;">
 
 *Figura 47 (Doctor Orders)*  
-<img src="../assets/images/figures/47-Doctor Orders.png" alt="47-Doctor Orders" style="width: 100vw;">
+<img src="../assets/images/figures/47-Doctor Orders.png" alt="Doctor Orders" style="width: 100vw;">
 
 *Figura 48 (Doctor Agenda)*  
-<img src="../assets/images/figures/48-Doctor Agenda.png" alt="48-Doctor Agenda" style="width: 100vw;">
+<img src="../assets/images/figures/48-Doctor Agenda.png" alt="Doctor Agenda" style="width: 100vw;">
 
 *Figura 49 (Doctor Patients)*  
-<img src="../assets/images/figures/49-Doctor Patients.png" alt="49-Doctor Patients" style="width: 100vw;">
+<img src="../assets/images/figures/49-Doctor Patients.png" alt="Doctor Patients" style="width: 100vw;">
 
 *Figura 50 (Doctor Dashboard)*  
-<img src="../assets/images/figures/50-Doctor Dashboard.png" alt="50-Doctor Dashboard" style="width: 100vw;">
+<img src="../assets/images/figures/50-Doctor Dashboard.png" alt="Doctor Dashboard" style="width: 100vw;">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -335,19 +336,19 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
 
 *Figura 51 (Userflow 1 Administradores)* 
-<img src="../assets/images/figures/51-Userflow-Admin-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/51-Userflow-Admin-1.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 52 (Userflow 2 Administradores)* 
-<img src="../assets/images/figures/52-Userflow-Admin-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/52-Userflow-Admin-2.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 53 (Userflow 3 Administradores)* 
-<img src="../assets/images/figures/53-Userflow-Admin-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/53-Userflow-Admin-3.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 54 (Userflow 4 Administradores)* 
-<img src="../assets/images/figures/54-Userflow-Admin-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/54-Userflow-Admin-4.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 55 (Userflow 5 Administradores)* 
-<img src="../assets/images/figures/55-Userflow-Admin-5.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/55-Userflow-Admin-5.png" alt="Userflow" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
@@ -357,16 +358,16 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** doctor de un establecimiento de PNAS, **quiero** emitir recetas digitales y órdenes de exámenes desde la misma consulta, **para** facilitar el tratamiento, la dispensación y el seguimiento diagnóstico del paciente. (US014, US015)
 
 *Figura 56 (Userflow 1 Doctores)* 
-<img src="../assets/images/figures/56-Userflow-Doctor-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/56-Userflow-Doctor-1.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 57 (Userflow 2 Doctores)* 
-<img src="../assets/images/figures/57-Userflow-Doctor-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/57-Userflow-Doctor-2.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 58 (Userflow 3 Doctores)* 
-<img src="../assets/images/figures/58-Userflow-Doctor-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/58-Userflow-Doctor-3.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 59 (Userflow 4 Doctores)* 
-<img src="../assets/images/figures/59-Userflow-Doctor-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/59-Userflow-Doctor-4.png" alt="Userflow" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
@@ -376,16 +377,16 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** paciente, **quiero** consultar mi historial clínico, resultados y recetas emitidas en línea, **para** dar seguimiento a mis diagnósticos y tratamientos sin solicitar copias físicas. (US006, US007)
 
 *Figura 60 (Userflow 1 Pacientes)* 
-<img src="../assets/images/figures/60-Userflow-Pacient-1.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/60-Userflow-Pacient-1.png" alt="Userflow" style="width: 100vw;">
     
 *Figura 61 (Userflow 2 Pacientes)* 
-<img src="../assets/images/figures/61-Userflow-Pacient-2.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/61-Userflow-Pacient-2.png" alt="Userflow" style="width: 100vw;">
     
 *Figura 62 (Userflow 3 Pacientes)* 
-<img src="../assets/images/figures/62-Userflow-Pacient-3.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/62-Userflow-Pacient-3.png" alt="Userflow" style="width: 100vw;">
 
 *Figura 63 (Userflow 4 Pacientes)* 
-<img src="../assets/images/figures/63-Userflow-Pacient-4.png" alt="Landing Page Mock-Up" style="width: 100vw;">
+<img src="../assets/images/figures/63-Userflow-Pacient-4.png" alt="Userflow" style="width: 100vw;">
 
 ## 4.5. Web Applications Prototyping
 
@@ -422,36 +423,36 @@ Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final
 El diagrama de contexto presenta una visión de alto nivel del sistema Vitalia, mostrando su interacción con los actores externos y sistemas externos relevantes. Este diagrama permite comprender el alcance del sistema, identificando quiénes lo utilizan y con qué servicios externos se integra, sin entrar en detalles técnicos internos.
 
 *Figura 65 (Context Diagram)*  
-<img src="../assets/images/figures/65-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/65-context-diagram.png" alt="Context Diagram" style="width: 100vw;">
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 El diagrama de contenedores descompone el sistema en sus principales unidades de ejecución, mostrando cómo se distribuyen las responsabilidades dentro de la arquitectura. En este nivel se identifican elementos como la aplicación web, API Gateway y los distintos servicios o bounded contexts, así como las tecnologías utilizadas y la forma en que estos se comunican entre sí.
 
 *Figura 66 (Container Diagram)*  
-<img src="../assets/images/figures/66-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/66-container-diagram.png" alt="Container Diagram" style="width: 100vw;">
 
 ### 4.6.4. Software Architecture Components Diagrams
 
 El diagrama de componentes profundiza en cada contenedor, detallando los módulos internos que lo conforman y sus interacciones. Este nivel permite visualizar la organización interna.
 
 *Figura 67 (Component Diagram - Identity & Tenant Context)*  
-<img src="../assets/images/figures/67-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/67-component-diagram-1.png" alt="Component Diagram" style="width: 100vw;">
 
 *Figura 68 (Component Diagram - Clinical Context)*  
-<img src="../assets/images/figures/68-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/68-component-diagram-2.png" alt="Component Diagram" style="width: 100vw;">
 
 *Figura 69 (Component Diagram - Schedule Context)*  
-<img src="../assets/images/figures/69-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/69-component-diagram-3.png" alt="Component Diagram" style="width: 100vw;">
 
 *Figura 70 (Component Diagram - Pharmacy & Inventory Context)*  
-<img src="../assets/images/figures/70-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/70-component-diagram-4.png" alt="Component Diagram" style="width: 100vw;">
 
 *Figura 71 (Component Diagram - Dashboard and Analytics Context)*  
-<img src="../assets/images/figures/71-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/71-component-diagram-5.png" alt="Component Diagram" style="width: 100vw;">
 
 *Figura 72 (Component Diagram - Billing Context)*  
-<img src="../assets/images/figures/72-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/72-component-diagram-6.png" alt="Component Diagram" style="width: 100vw;">
 
 ## 4.7. Software Object-Oriented Design
 
@@ -464,22 +465,22 @@ En la segunda etapa, estas clases fueron organizadas en distintos Bounded Contex
 Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada clase dentro de su contexto, clasificándolas como Entity, Value Object o Aggregate. Esta identificación permitió definir con precisión las reglas de negocio, los límites de consistencia y las responsabilidades de cada componente dentro del dominio. Como resultado, los diagramas finales reflejan una arquitectura sólida, coherente y alineada con los principios de DDD, mostrando no solo la estructura del sistema, sino también la lógica y comportamiento del dominio.
 
 *Figura 73 (Class Diagram - Identity and Clinic Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram - Identity and Clinic Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-identity-clinic-context.svg" alt="Class Diagram" style="width: 100vw;">
 
 *Figura 74 (Class Diagram - Clinical Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram - Clinical Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-clinical-context.svg" alt="Class Diagram" style="width: 100vw;">
 
 *Figura 75 (Class Diagram - Scheduling Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram - Scheduling Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-scheduling-context.svg" alt="Class Diagram" style="width: 100vw;">
 
 *Figura 76 (Class Diagram - Pharmacy & Inventory Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-pharmacy-inventory-context.svg" alt="Class Diagram" style="width: 100vw;">
 
 *Figura 77 (Class Diagram - Dashboard and Analytics Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-dashboard-analytics-context.svg" alt="Class Diagram" style="width: 100vw;">
 
 *Figura 78 (Class Diagram - Billing Context)*  
-<img src="../assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram - Billing Context" style="width: 100vw;">
+<img src="../assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram" style="width: 100vw;">
 
 ### 4.8.1. Database Diagrams
 

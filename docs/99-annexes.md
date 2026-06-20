@@ -4,7 +4,7 @@
 
 | Diagrama | Enlace al diagrama |
 | --- | --- |
-| **BicPicture EventStorming** | [BigPicture EventStorming](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/big-picture-event-storming-diagram.svg) |
+| **BigPicture EventStorming** | [BigPicture EventStorming](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/big-picture-event-storming-diagram.svg) |
 | **DesignLevel EventStorming** | [DesignLevel EventStorming](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/design-level-event-storming-diagram.svg) |
 | **Class Diagram** | [Class Diagram](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/class-diagram-etapa-3.puml) |
 | **Database Diagram** | [Database Diagram](https://raw.githubusercontent.com/kinetia-upc/vitalia-docs/refs/heads/main/assets/diagrams/database-diagram.svg) |

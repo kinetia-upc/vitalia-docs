@@ -1,5 +1,9 @@
-# Video About-the-Team
+## Video About-the-Team
 
-En este video, el equipo de Vitalia se presenta y comparte su pasión por la salud y el bienestar. Conoce a los miembros del equipo, sus roles y cómo trabajan juntos para crear soluciones innovadoras que mejoran la calidad de vida de las personas. Descubre la visión y misión de Vitalia, así como los valores que guían su trabajo diario. ¡No te pierdas esta oportunidad de conocer al equipo detrás de Vitalia!
+En esta sección se presenta el video About-the-Team de KinetiaLabs, equipo responsable del desarrollo de Vitalia. El video permite conocer a los integrantes del grupo, sus perfiles, responsabilidades y la forma en que colaboraron durante el proyecto para construir una solución orientada a mejorar la gestión clínica y administrativa en establecimientos de salud.
 
-**Video About-the-Team Link:** [https://www.youtube.com/watch?v=example](https://www.youtube.com/watch?v=example)
+Asimismo, se muestra cómo el equipo organizó el trabajo durante las distintas etapas del proyecto, desde la investigación inicial y el diseño de la propuesta, hasta la implementación del frontend, backend, despliegue y validación de Vitalia.
+
+**Video About-the-Team Link:** [https://youtu.be/1H503xuijtA](https://youtu.be/1H503xuijtA)
+
+<img src="../assets/images/others/team-video-evidence.png" alt="Video About The Team" style="width: 100vw;">

@@ -4,7 +4,7 @@
 
 #### *5.2.1.1. Sprint Planning 1*
 
-Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por seccion de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
+Para el desarrollo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por sección de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
 
 | **Sprint #** | 1 |
 | --- | --- |
@@ -58,7 +58,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
   <tbody>
       <tr>
       <td>US044</td>
-      <td>LLamados a la acción visibles</td>
+      <td>Llamados a la acción visibles</td>
       <td>2</td>
       <td>TO01</td>
       <td>Hero</td>
@@ -222,14 +222,14 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>vitalia-landing</td>
       <td>develop</td>
       <td>6052506</td>
-      <td>feat: Añadir estructura seccion features</td>
+      <td>feat: Añadir estructura sección features</td>
       <td>2026-06-22</td>
     </tr>
     <tr>
       <td>vitalia-landing</td>
       <td>develop</td>
       <td>d56689e</td>
-      <td>feat: Añadir estilos seccion features</td>
+      <td>feat: Añadir estilos sección features</td>
       <td>2026-06-22</td>
     </tr>
     <tr>
@@ -292,7 +292,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>vitalia-landing</td>
       <td>feature/aboutus</td>
       <td>19045f4</td>
-      <td>feat: add about us csss section</td>
+      <td>feat: add about us css section</td>
       <td>2026-06-25</td>
     </tr>
     <tr>

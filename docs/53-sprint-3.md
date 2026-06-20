@@ -487,6 +487,13 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>refactor: clean up controller names, fix translations, and add db resiliency</td>
       <td>2026-06-19</td>
     </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>b7e61b6</td>
+      <td>feat(tenant): add healthcare centers, branches and appointment fees backend</td>
+      <td>2026-06-19</td>
+    </tr>
   </tbody>
 </table>
 
