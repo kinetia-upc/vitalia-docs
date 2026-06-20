@@ -216,7 +216,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistado: | Entrevistador:  |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/15-entrevista-paciente03.png" alt="paciente-03" width="2930"/> | <img src="../assets/images/interviews/validation/16-entrevistador09.png" alt="entrevistador-09" width="300"/> |
+| <img src="../assets/images/interviews/validation/15-entrevista-paciente03.png" alt="paciente-03" width="2930"/> | <img src="../assets/images/interviews/validation/16-entrevistador09.png" alt="entrevistador-09" width="240"/> |
 | Inicia | 58:48 |
 | Duración: | 6:52 |
 | Nombre completo: | Cesas Contreras |
