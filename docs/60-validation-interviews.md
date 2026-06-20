@@ -114,7 +114,6 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 **Entrevista 1**
 
-
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | --- | --- |
 | <img src="../assets/images/interviews/validation/01-entrevista-administrador01.png" alt="admin-01" width="4600"/> | <img src="../assets/images/interviews/validation/02-entrevistador01.png" width="180"/> |
@@ -193,7 +192,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistada: | Entrevistador: Leo Dulanto |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/11-entrevista-paciente01.png" alt="doctor-03" width="2930"/> | <img src="../assets/images/interviews/validation/12-entrevistador07.png" alt="entrevistador-05" width="178"/> |
+| <img src="../assets/images/interviews/validation/11-entrevista-paciente01.png" alt="paciente-01" width="2930"/> | <img src="../assets/images/interviews/validation/12-entrevistador07.png" alt="entrevistador-05" width="178"/> |
 | Inicia | 40:15 |
 | Duración: | 8:24 |
 | Nombre completo: | Margarita Espino  |
@@ -205,7 +204,7 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | --- | --- |
-| <img src="../assets/images/interviews/validation/13-entrevista-paciente02.png" alt="paciente-02" width="7300"/> | <img src="../assets/images/interviews/validation/14-entrevistador08.png" alt="entrevistador-05" width="238"/> |
+| <img src="../assets/images/interviews/validation/13-entrevista-paciente02.png" alt="paciente-02" width="7300"/> | <img src="../assets/images/interviews/validation/14-entrevistador08.png" alt="entrevistador-08" width="238"/> |
 | Inicia | 48:50 |
 | Duración: | 9:59 |
 | Nombre completo: | Gianella Levice |
@@ -217,24 +216,29 @@ Esta sección presenta el diseño de entrevistas para validar la propuesta de va
 
 | Entrevistado: | Entrevistador:  |
 | --- | --- |
-|  |  |
+| <img src="../assets/images/interviews/validation/15-entrevista-paciente03.png" alt="paciente-03" width="2930"/> | <img src="../assets/images/interviews/validation/16-entrevistador09.png" alt="entrevistador-09" width="300"/> |
 | Inicia | 58:48 |
 | Duración: | 6:52 |
-| Nombre completo: | |
+| Nombre completo: | Cesas Contreras |
 | Edad: | 19 |
-| Distrito: |  |
-| Resumen: |  |
+| Distrito: | Rimac |
+| Resumen: | En la entrevista podemos ver cómo el usuario César Contreras evalúa de forma muy positiva la landing page y la aplicación Vitalia, destacando desde el inicio que el sitio web comunica con total claridad el propósito del proyecto. Al revisar las funciones de la aplicación, observamos que el flujo para reservar y pagar una cita le resultó sumamente sencillo e intuitivo gracias a un diseño limpio y al uso estratégico de botones llamativos que guían al usuario. Asimismo, encontramos que las secciones de historial clínico y recetas médicas son claras, legibles y fáciles de interpretar, lo que lleva al entrevistado a concluir que la interfaz es tan accesible que incluso un adulto mayor podría utilizarla sin mayores complicaciones. Finalmente, como un valioso aporte de mejora, notamos su sugerencia de incluir dentro del apartado de recetas digitales un listado que distinga entre marcas de medicamentos genéricos y de laboratorio para enriquecer aún más la experiencia del paciente. |
 
 ### 5.3.3. Evaluaciones según heurísticas
+
 **UX Heuristics & Principles Evaluation**
+
 **Usability – Inclusive Design – Information Architecture**
+
 CARRERA : Ingeniería de Software
 CURSO : Aplicaciones Web
 SECCIÓN : 10203
 PROFESORES : Todos
 AUDITOR : KinetiaLabs
 SITE o APP A EVALUAR: Vitalia
+
 **TAREAS A EVALUAR:**
+
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1. Explorar la Landing Page y comprender el propósito de Vitalia.
@@ -251,6 +255,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. Evaluar funciones administrativas avanzadas que dependan de endpoints aún no implementados.
 
 **ESCALA DE SEVERIDAD:** Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
 | Nivel | Descripción |
 |---|---|
 | 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado, salvo que exista disponibilidad de tiempo. |
@@ -259,6 +264,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 | 4 | Problema muy grave: error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
 
 **TABLA RESUMEN:**
+
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
 |---|---|---|---|
 | 1 | La reposición de farmacia aparece dentro del módulo de facturación | 2 | Correspondencia entre el sistema y el mundo real |
