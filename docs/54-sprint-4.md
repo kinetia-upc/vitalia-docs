@@ -9,7 +9,7 @@
 | **Location** | Reunión virtual |
 | **Prepared By** | Leo César Dulanto Espino |
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
-| **Sprint n Goal** |  |
+| **Sprint n Goal** | Our focus is on strengthening secure access, clinical continuity, and key integrations. We believe it delivers a more reliable experience to patients, doctors, and administrative staff. This will be confirmed when users can authenticate securely, recover access, preserve clinical data during connectivity issues, and complete exam, prescription, appointment, identity, and payment flows. |
 | **Sprint n Velocity** |  |
 | **Sum of Story Points** | |
 
