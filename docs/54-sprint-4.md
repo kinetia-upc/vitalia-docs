@@ -15,7 +15,13 @@
 
 #### 5.2.4.2. Aspect Leaders and Collaborators
 
-
+| Team Member | GitHub Username | Register/Login View | IAM API | Tenant | Pharmacy | Consume API |
+| --- | --- | --- | --- | --- | --- | --- |
+| Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
+| Dulanto Espino, Leo César | Leotens | C | L | C | C | C |
+| Ruiz Mideyros, Adrian | AdrixRyz | C | C | C | C | L |
+| Alexther Kamil Diaz Martinez | kamil-tron | L | C | C | C | C |
+| Rojas Tello, Nestor Alonso | nes-ro | C | C | C | L | C |
 
 #### 5.2.4.3. Sprint Backlog 4
 
