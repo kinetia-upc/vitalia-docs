@@ -1,4 +1,4 @@
-### 5.2.2. Sprint 2
+﻿### 5.2.2. Sprint 2
 
 #### *5.2.2.1. Sprint Planning 2*
 
@@ -88,10 +88,21 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
+      <td>US009</td>
+      <td>Accesibilidad de interfaz</td>
+      <td>5</td>
+      <td>TO16</td>
+      <td>Ajustes de accesibilidad visual</td>
+      <td>Mejorar legibilidad, jerarquía visual y claridad de acciones en las vistas principales</td>
+      <td>1</td>
+      <td>AdrixRyz</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
       <td>US034A</td>
       <td>Definición de accesos basados en roles (RBAC)</td>
       <td>5</td>
-      <td>TO16</td>
+      <td>TO17</td>
       <td>Navigation Guards y Roles</td>
       <td>Implementar guards de navegación para restringir vistas</td>
       <td>1</td>
@@ -102,7 +113,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>US001</td>
       <td>Registro de paciente</td>
       <td>5</td>
-      <td>TO17</td>
+      <td>TO18</td>
       <td>Vista de Registro de Paciente</td>
       <td>Construir el formulario reactivo para nuevos pacientes</td>
       <td>1</td>
@@ -113,9 +124,130 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>US006</td>
       <td>Consulta de historial clínico</td>
       <td>2</td>
-      <td>TO18</td>
+      <td>TO19</td>
       <td>Panel de historial clínico</td>
       <td>Construir vista de historial del paciente</td>
+      <td>1</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US007</td>
+      <td>Consulta de resultados y recetas</td>
+      <td>5</td>
+      <td>TO20</td>
+      <td>Vista de documentos clínicos</td>
+      <td>Construir la visualización de resultados y recetas emitidas para el paciente</td>
+      <td>1</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US028</td>
+      <td>Descarga de historial clínico como PDF</td>
+      <td>5</td>
+      <td>TO21</td>
+      <td>Descarga de historial</td>
+      <td>Agregar acción para generar y descargar el historial clínico del paciente en formato PDF</td>
+      <td>1</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US023</td>
+      <td>Visualización de detalles de cita</td>
+      <td>3</td>
+      <td>TO22</td>
+      <td>Detalle de cita del paciente</td>
+      <td>Implementar la vista de detalle para consultar fecha, médico, especialidad y estado de una cita</td>
+      <td>1</td>
+      <td>kamil-tron</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US010</td>
+      <td>Agenda médica diaria</td>
+      <td>3</td>
+      <td>TO23</td>
+      <td>Calendario y Agenda</td>
+      <td>Construir la visualización de la agenda médica</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US022</td>
+      <td>Visualización de mini calendario</td>
+      <td>5</td>
+      <td>TO24</td>
+      <td>Mini calendario médico</td>
+      <td>Agregar un calendario mensual para seleccionar días y revisar citas programadas</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US011</td>
+      <td>Consulta rápida del historial del paciente</td>
+      <td>5</td>
+      <td>TO25</td>
+      <td>Acceso rápido a historial</td>
+      <td>Implementar acceso al historial clínico del paciente desde el flujo de atención médica</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US019</td>
+      <td>Vista de HCE del paciente</td>
+      <td>3</td>
+      <td>TO26</td>
+      <td>Vista HCE para médico</td>
+      <td>Construir una vista resumida de historia clínica electrónica antes de la consulta</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US017</td>
+      <td>Gráficos evolutivos de visitas</td>
+      <td>5</td>
+      <td>TO27</td>
+      <td>Gráficos de visitas</td>
+      <td>Mostrar visualizaciones de tendencia de visitas del paciente en el módulo médico</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US020</td>
+      <td>Cierre de atención sin pérdida de datos</td>
+      <td>5</td>
+      <td>TO28</td>
+      <td>Guardado confiable de atención</td>
+      <td>Agregar confirmación de guardado y cierre seguro para la información registrada en consulta</td>
+      <td>1</td>
+      <td>AleeAsto</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US021</td>
+      <td>Registro único de pacientes</td>
+      <td>5</td>
+      <td>TO29</td>
+      <td>Registro administrativo de pacientes</td>
+      <td>Implementar formulario administrativo para crear fichas únicas y evitar duplicidad de pacientes</td>
+      <td>1</td>
+      <td>Leotens</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>US038</td>
+      <td>Cancelar citas y eventos desde administración</td>
+      <td>5</td>
+      <td>TO30</td>
+      <td>Cancelación administrativa</td>
+      <td>Permitir al administrador cancelar citas o eventos registrados desde la agenda</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
@@ -124,7 +256,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>US018</td>
       <td>Ingreso de medicinas al inventario</td>
       <td>2</td>
-      <td>TO19</td>
+      <td>TO31</td>
       <td>Módulo de farmacia</td>
       <td>Implementar módulo de recetas y farmacia</td>
       <td>1</td>
@@ -132,21 +264,10 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US010</td>
-      <td>Agenda médica diaria</td>
-      <td>3</td>
-      <td>TO20</td>
-      <td>Calendario y Agenda</td>
-      <td>Construir la visualización de la agenda médica</td>
-      <td>1</td>
-      <td>AleeAsto</td>
-      <td>Completed</td>
-    </tr>
-    <tr>
       <td>US025</td>
       <td>Facturación y cobros</td>
       <td>2</td>
-      <td>TO21</td>
+      <td>TO32</td>
       <td>Vista de facturación</td>
       <td>Integrar métricas de facturación y pagos</td>
       <td>1</td>
@@ -157,7 +278,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>US027</td>
       <td>Dashboard operativo</td>
       <td>2</td>
-      <td>TO22</td>
+      <td>TO33</td>
       <td>Tablero principal</td>
       <td>Implementar dashboard de administración</td>
       <td>1</td>
