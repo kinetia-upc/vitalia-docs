@@ -57,7 +57,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
   </thead>
   <tbody>
       <tr>
-      <td>US044</td>
+      <td>US046</td>
       <td>Llamados a la acción visibles</td>
       <td>2</td>
       <td>TO01</td>
@@ -68,7 +68,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US039</td>
+      <td>US041</td>
       <td>Visualización de propuesta de valor</td>
       <td>2</td>
       <td>TO02</td>
@@ -79,7 +79,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US041</td>
+      <td>US043</td>
       <td>Sección de funcionalidades clave</td>
       <td>2</td>
       <td>TO03</td>
@@ -90,7 +90,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US042</td>
+      <td>US044</td>
       <td>Presentación por segmentos objetivo</td>
       <td>3</td>
       <td>TO04</td>
@@ -101,7 +101,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US043</td>
+      <td>US045</td>
       <td>Evidencia de diferenciación competitiva</td>
       <td>2</td>
       <td>TO05</td>
@@ -112,7 +112,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US043</td>
+      <td>US045</td>
       <td>Evidencia de diferenciación competitiva</td>
       <td>2</td>
       <td>TO06</td>
@@ -123,7 +123,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US040</td>
+      <td>US042</td>
       <td>Solicitud de contacto comercial</td>
       <td>3</td>
       <td>TO07</td>
@@ -134,7 +134,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US040</td>
+      <td>US042</td>
       <td>Solicitud de contacto comercial</td>
       <td>3</td>
       <td>TO08</td>
@@ -145,7 +145,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US045</td>
+      <td>US047</td>
       <td>Cambio de idioma en landing page</td>
       <td>2</td>
       <td>TO09</td>

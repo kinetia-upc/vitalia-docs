@@ -163,7 +163,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US012</td>
+      <td>US011</td>
       <td>Registro de anamnesis y examen físico</td>
       <td>5</td>
       <td>TO44</td>
@@ -174,7 +174,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US012</td>
+      <td>US011</td>
       <td>Registro de anamnesis y examen físico</td>
       <td>5</td>
       <td>TO45</td>
@@ -185,7 +185,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US013</td>
+      <td>US012</td>
       <td>Emisión de diagnóstico</td>
       <td>3</td>
       <td>TO46</td>
@@ -196,7 +196,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US013</td>
+      <td>US012</td>
       <td>Emisión de diagnóstico</td>
       <td>3</td>
       <td>TO47</td>
@@ -207,7 +207,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US014</td>
+      <td>US013</td>
       <td>Emisión de recetas digitales</td>
       <td>5</td>
       <td>TO48</td>
@@ -218,7 +218,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US014</td>
+      <td>US013</td>
       <td>Emisión de recetas digitales</td>
       <td>5</td>
       <td>TO49</td>
@@ -229,7 +229,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US018</td>
+      <td>US017</td>
       <td>Ingreso de medicinas al inventario</td>
       <td>3</td>
       <td>TO50</td>
@@ -240,7 +240,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US018</td>
+      <td>US017</td>
       <td>Ingreso de medicinas al inventario</td>
       <td>3</td>
       <td>TO51</td>
@@ -251,7 +251,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US024</td>
+      <td>US023</td>
       <td>Pagar la cita</td>
       <td>5</td>
       <td>TO52</td>
@@ -262,7 +262,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US024</td>
+      <td>US023</td>
       <td>Pagar la cita</td>
       <td>5</td>
       <td>TO53</td>
@@ -273,7 +273,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US026</td>
+      <td>US025</td>
       <td>Control de pagos pendientes</td>
       <td>3</td>
       <td>TO54</td>
@@ -284,7 +284,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US026</td>
+      <td>US025</td>
       <td>Control de pagos pendientes</td>
       <td>3</td>
       <td>TO55</td>

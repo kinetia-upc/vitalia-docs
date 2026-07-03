@@ -84,7 +84,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US035A</td>
+      <td>US035</td>
       <td>Cifrado de información médica sensible</td>
       <td>5</td>
       <td>TO63</td>
@@ -95,7 +95,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US035A</td>
+      <td>US035</td>
       <td>Cifrado de información médica sensible</td>
       <td>5</td>
       <td>TO64</td>
@@ -106,7 +106,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US035A</td>
+      <td>US035</td>
       <td>Cifrado de información médica sensible</td>
       <td>5</td>
       <td>TO65</td>
@@ -117,7 +117,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US035B</td>
+      <td>US036</td>
       <td>Bloqueos automáticos y sesiones seguras</td>
       <td>3</td>
       <td>TO66</td>
@@ -128,7 +128,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US035B</td>
+      <td>US036</td>
       <td>Bloqueos automáticos y sesiones seguras</td>
       <td>3</td>
       <td>TO67</td>
@@ -139,7 +139,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US035B</td>
+      <td>US036</td>
       <td>Bloqueos automáticos y sesiones seguras</td>
       <td>3</td>
       <td>TO68</td>
@@ -183,7 +183,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US030A</td>
+      <td>US029</td>
       <td>Integración con servicios de identidad (RENIEC)</td>
       <td>5</td>
       <td>TO72</td>
@@ -194,7 +194,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US030A</td>
+      <td>US029</td>
       <td>Integración con servicios de identidad (RENIEC)</td>
       <td>5</td>
       <td>TO73</td>
@@ -205,7 +205,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US030A</td>
+      <td>US029</td>
       <td>Integración con servicios de identidad (RENIEC)</td>
       <td>5</td>
       <td>TO74</td>
@@ -216,7 +216,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US030B</td>
+      <td>US030</td>
       <td>Sincronización con pasarelas de pago</td>
       <td>3</td>
       <td>TO75</td>
@@ -227,7 +227,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US030B</td>
+      <td>US030</td>
       <td>Sincronización con pasarelas de pago</td>
       <td>3</td>
       <td>TO76</td>
@@ -238,7 +238,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US030B</td>
+      <td>US030</td>
       <td>Sincronización con pasarelas de pago</td>
       <td>3</td>
       <td>TO77</td>
@@ -249,7 +249,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US015</td>
+      <td>US014</td>
       <td>Solicitud de exámenes</td>
       <td>5</td>
       <td>TO78</td>
@@ -260,7 +260,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US015</td>
+      <td>US014</td>
       <td>Solicitud de exámenes</td>
       <td>5</td>
       <td>TO79</td>
@@ -271,7 +271,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US015</td>
+      <td>US014</td>
       <td>Solicitud de exámenes</td>
       <td>5</td>
       <td>TO80</td>
@@ -282,7 +282,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US029</td>
+      <td>US028</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO81</td>
@@ -293,7 +293,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US029</td>
+      <td>US028</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO82</td>
@@ -304,7 +304,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US029</td>
+      <td>US028</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO83</td>
@@ -315,7 +315,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US016</td>
+      <td>US015</td>
       <td>Repetición rápida de recetas frecuentes</td>
       <td>5</td>
       <td>TO84</td>
@@ -326,7 +326,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US016</td>
+      <td>US015</td>
       <td>Repetición rápida de recetas frecuentes</td>
       <td>5</td>
       <td>TO85</td>
@@ -337,7 +337,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US016</td>
+      <td>US015</td>
       <td>Repetición rápida de recetas frecuentes</td>
       <td>5</td>
       <td>TO86</td>
@@ -348,7 +348,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US036A</td>
+      <td>US037</td>
       <td>Caché y guardado local temporal</td>
       <td>5</td>
       <td>TO87</td>
@@ -359,7 +359,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US036A</td>
+      <td>US037</td>
       <td>Caché y guardado local temporal</td>
       <td>5</td>
       <td>TO88</td>
@@ -370,7 +370,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US036A</td>
+      <td>US037</td>
       <td>Caché y guardado local temporal</td>
       <td>5</td>
       <td>TO89</td>
@@ -381,7 +381,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US036B</td>
+      <td>US038</td>
       <td>Sincronización diferida tras restablecimiento</td>
       <td>3</td>
       <td>TO90</td>
@@ -392,7 +392,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US036B</td>
+      <td>US038</td>
       <td>Sincronización diferida tras restablecimiento</td>
       <td>3</td>
       <td>TO91</td>
@@ -403,7 +403,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US036B</td>
+      <td>US038</td>
       <td>Sincronización diferida tras restablecimiento</td>
       <td>3</td>
       <td>TO92</td>

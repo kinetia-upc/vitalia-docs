@@ -66,7 +66,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US037</td>
+      <td>US039</td>
       <td>Navegación simple</td>
       <td>3</td>
       <td>TO14</td>
@@ -88,7 +88,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US009</td>
+      <td>US008</td>
       <td>Accesibilidad de interfaz</td>
       <td>5</td>
       <td>TO16</td>
@@ -99,7 +99,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US034A</td>
+      <td>US034</td>
       <td>Definición de accesos basados en roles (RBAC)</td>
       <td>5</td>
       <td>TO17</td>
@@ -143,7 +143,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US028</td>
+      <td>US027</td>
       <td>Descarga de historial clínico como PDF</td>
       <td>5</td>
       <td>TO21</td>
@@ -154,7 +154,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US023</td>
+      <td>US022</td>
       <td>Visualización de detalles de cita</td>
       <td>3</td>
       <td>TO22</td>
@@ -165,7 +165,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US010</td>
+      <td>US009</td>
       <td>Agenda médica diaria</td>
       <td>3</td>
       <td>TO23</td>
@@ -176,7 +176,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US022</td>
+      <td>US021</td>
       <td>Visualización de mini calendario</td>
       <td>5</td>
       <td>TO24</td>
@@ -187,7 +187,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US011</td>
+      <td>US010</td>
       <td>Consulta rápida del historial del paciente</td>
       <td>5</td>
       <td>TO25</td>
@@ -198,7 +198,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US019</td>
+      <td>US018</td>
       <td>Vista de HCE del paciente</td>
       <td>3</td>
       <td>TO26</td>
@@ -209,7 +209,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US017</td>
+      <td>US016</td>
       <td>Gráficos evolutivos de visitas</td>
       <td>5</td>
       <td>TO27</td>
@@ -220,7 +220,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US020</td>
+      <td>US019</td>
       <td>Cierre de atención sin pérdida de datos</td>
       <td>5</td>
       <td>TO28</td>
@@ -231,7 +231,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US021</td>
+      <td>US020</td>
       <td>Registro único de pacientes</td>
       <td>5</td>
       <td>TO29</td>
@@ -242,7 +242,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US038</td>
+      <td>US040</td>
       <td>Cancelar citas y eventos desde administración</td>
       <td>5</td>
       <td>TO30</td>
@@ -253,7 +253,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US018</td>
+      <td>US017</td>
       <td>Ingreso de medicinas al inventario</td>
       <td>2</td>
       <td>TO31</td>
@@ -264,7 +264,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US025</td>
+      <td>US024</td>
       <td>Facturación y cobros</td>
       <td>2</td>
       <td>TO32</td>
@@ -275,7 +275,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US027</td>
+      <td>US026</td>
       <td>Dashboard operativo</td>
       <td>2</td>
       <td>TO33</td>
