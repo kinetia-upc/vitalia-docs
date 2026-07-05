@@ -1,36 +1,50 @@
-# Informe del trabajo Final
+<div align="center">
 
-<img src="../assets/images/others/upc-logo.png" alt="upc-logo" width="150"/><br>
+<img src="../assets/images/others/upc-logo.png" alt="UPC Logo" width="150px">  
 
-**Universidad Peruana de Ciencias Aplicadas (UPC)**
+Universidad Peruana de Ciencias Aplicadas
 
-**Facultad:** Ingeniería
+Carrera de Ingeniería de Software
 
-**Carrera:** Ingeniería de Software
+**1ASI0730**
 
-**Periodo:** 2026-10
+**Aplicaciones Web**
 
-**Curso:** Aplicaciones Web (1ASI0730)
+NRC
 
-**NRC:** 10203
+**10203**
 
-**Profesor:** Sánchez Ponce, Alex Humberto
+**Informe del Trabajo Final**
 
-**Startup:** KinetiaLabs
+Docente
 
-**Product:** Vitalia
+**Sánchez Ponce, Alex Humberto**
 
-**Relación de integrantes:**
+Equipo
 
-| Apellidos, Nombres | Código |
+**KinetiaLabs**
+
+Proyecto
+
+**Vitalia**
+
+**Integrantes**
+
+| Código | Apellidos y Nombres |
 | --- | --- |
-| Ruiz Mideyros, Adrian | U20241E177 |
-| Rojas Tello, Nestor Alonso | U202317099 |
-| Astocondor Bazan, Alejandra Isabel | U202410678 |
-| Diaz Martinez, Alexther Kamil | U202412316 |
-| Dulanto Espino, Leo César | U202410254 |
+| U20241E177 | Ruiz Mideyros, Adrian |
+| U202317099 | Rojas Tello, Nestor Alonso |
+| U202410678 | Astocondor Bazan, Alejandra Isabel |
+| U202412316 | Diaz Martinez, Alexther Kamil |
+| U202410254 | Dulanto Espino, Leo César |
 
-**Junio, 2026**
+**Período 202610**
+
+**Julio 2026**
+
+</div>
+
+---
 
 # Registro de versiones del informe
 
@@ -59,6 +73,8 @@
 | 0.2.1 | 13/5/26 | @AdrixRyz | docs: añadir sprint 2 |
 | 0.3.0 | 17/6/26 | @kamil-tron | docs: realizar correciones del tb1 |
 | 0.3.1 | 17/6/26 | @Leotens | docs: añadir sprint 3 |
+| 0.4.0 | 2/7/26 | @kamil-tron | docs: realizar correciones del av2 |
+| 0.4.1 | 3/7/26 | @Leotens | docs: añadir sprint 4 |
 
 # Project Report Collaboration Insights
 
@@ -77,6 +93,10 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 **AV2**
 
 <img src="../assets/images/others/docs-insights-av2.png" alt="Docs Insights AV2" style="width: 100vw;">
+
+**TB2**
+
+<img src="../assets/images/others/docs-insights-tb2.png" alt="Docs Insights TB2" style="width: 100vw;">
 
 # Tabla de contenidos
 
@@ -185,6 +205,15 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.3.6. Services Documentation Evidence for Sprint Review  
 5.2.3.7. Software Deployment Evidence for Sprint Review  
 5.2.3.8. Team Collaboration Insights during Sprint  
+[**5.2.4. Sprint 4**](54-sprint-4.md)  
+5.2.4.1. Sprint Planning 4  
+5.2.4.2. Aspect Leaders and Collaborators  
+5.2.4.3. Sprint Backlog 4  
+5.2.4.4. Development Evidence for Sprint Review  
+5.2.4.5. Execution Evidence for Sprint Review  
+5.2.4.6. Services Documentation Evidence for Sprint Review  
+5.2.4.7. Software Deployment Evidence for Sprint Review  
+5.2.4.8. Team Collaboration Insights during Sprint  
 [**5.3. Validation Interviews**](60-validation-interviews.md)  
 5.3.1. Diseño de Entrevistas  
 5.3.2. Registro de Entrevistas  
