@@ -802,4 +802,24 @@ Sprint #: Sprint 4
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+Para este Sprint 4 no se requirió realizar un despliegue manual. Gracias a la configuración implementada en entregables previos, el proyecto ya cuenta con un flujo automatizado. De este modo, cualquier actualización o nuevo cambio integrado en la rama main desencadena automáticamente la actualización del despliegue en el entorno correspondiente.
+
+**Landing Page link:** [https://kinetia-upc.github.io/vitalia-landing/](https://kinetia-upc.github.io/vitalia-landing/)
+
+**Frontend link:** [https://vitalia-frontend-kinetia.vercel.app](https://vitalia-frontend-kinetia.vercel.app)
+
+**Swagger Documentation Link:** [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html)
+
+**Landing page Deployment:**
+
+<img src="../assets/images/others/s4-landing-deployment.png" alt="s4-landing-deploy" style="width: 100vw;"/>
+
+**Frontend Deployment:**
+
+<img src="../assets/images/others/s4-frontend-deployment.png" alt="s4-frontend-deploy" style="width: 100vw;"/>
+
+**Backend Deployment:**
+
+<img src="../assets/images/others/s4-backend-deployment.png" alt="s4-backend-deploy" style="width: 100vw;"/>
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
