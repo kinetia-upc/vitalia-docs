@@ -793,6 +793,118 @@ Sprint #: Sprint 4
       <td>fix: billing</td>
       <td>2026-07-08</td>
     </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>a7700ac</td>
+      <td>feat: Add healthcare center selector to sign up</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>76b0f7f</td>
+      <td>fix: billing</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/doctor-dashboard-agenda-ui</td>
+      <td>c28d4c2</td>
+      <td>feat: doctor complete views</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/fix-billing-revenue-summary</td>
+      <td>f260873</td>
+      <td>fix: align billing revenue summary</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>7aa5f87</td>
+      <td>feat: add healthcare center selector to register</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>c726a98</td>
+      <td>fix: send normalized register payload</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>b1b938c</td>
+      <td>fix: keep admin-created role profiles linked</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>c99fd36</td>
+      <td>fix: improve register layout spacing</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>3aa06f2</td>
+      <td>feat: support healthcare center image url</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>5040211</td>
+      <td>fix: render sidebar healthcare center branding</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/api-dni</td>
+      <td>78dc441</td>
+      <td>feat: add api peru</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/fix-swagger-documentation</td>
+      <td>fae12a7</td>
+      <td>feat: enforce jwt authentication</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>209ef6a</td>
+      <td>feat: add healthcare center image url</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>40274ee</td>
+      <td>feat: add healthcare center image url migration</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>40274ee</td>
+      <td>feat: add healthcare center image url migration</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/healthcenter-register</td>
+      <td>ef807d7</td>
+      <td>feat: add endpoint IdentityLookup</td>
+      <td>2026-07-08</td>
+    </tr>
   </tbody>
 </table>
 
