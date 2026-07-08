@@ -284,7 +284,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 **Problema:**  
 En el módulo de Billing se incluye una sección llamada "Pharmacy Stock Replenishment", relacionada con el monitoreo y reposición de medicamentos. Aunque puede tener relación con compras o costos, para el usuario esta funcionalidad pertenece principalmente al flujo de farmacia. Ubicarla dentro de facturación puede generar confusión sobre dónde debe buscarse la gestión de inventario.
 
-<img src="../assets/images/figures/heuristica-problema1.png" alt="Reposición de farmacia dentro del módulo de facturación" style="width: 100vw;">
+<img src="../assets/images/others/heuristica-problema1.png" alt="Reposición de farmacia dentro del módulo de facturación" style="width: 100vw;">
 
 **Recomendación:**  
 Reubicar la reposición de stock dentro de un módulo de farmacia o inventario. Si debe mantenerse en Billing, se recomienda agregar una etiqueta o explicación breve que indique que se trata de una reposición asociada a costos u órdenes de compra.
@@ -299,7 +299,7 @@ Reubicar la reposición de stock dentro de un módulo de farmacia o inventario. 
 **Problema:**  
 En la vista de historial clínico se muestran fechas y estados con formatos distintos, por ejemplo "12 may.", "19-JUN.", "ARCHIVADO" y "COMPLETADO". Esta variación obliga al usuario a interpretar cada dato por separado y reduce la claridad de una sección que debería facilitar la revisión rápida de la evolución médica.
 
-<img src="../assets/images/figures/heuristica-problema2.png" alt="Historial clínico con formatos poco uniformes" style="width: 100vw;">
+<img src="../assets/images/others/heuristica-problema2.png" alt="Historial clínico con formatos poco uniformes" style="width: 100vw;">
 
 **Recomendación:**  
 Usar un formato uniforme para fechas, estados y etiquetas dentro del historial. También se recomienda mantener el mismo idioma en todos los elementos para que la línea de tiempo sea más fácil de revisar.
@@ -314,7 +314,7 @@ Usar un formato uniforme para fechas, estados y etiquetas dentro del historial. 
 **Problema:**  
 En el modal de resumen de cita se muestran datos importantes como doctor, fecha, hora, clínica, estado, pago e ID de cita con una distribución muy similar entre todos los campos. Esto hace que la información principal no destaque lo suficiente y que el usuario tenga que leer todo el contenido para identificar rápidamente los datos más relevantes.
 
-<img src="../assets/images/figures/heuristica-problema3.png" alt="Resumen de cita con baja jerarquía visual" style="width: 100vw;">
+<img src="../assets/images/others/heuristica-problema3.png" alt="Resumen de cita con baja jerarquía visual" style="width: 100vw;">
 
 **Recomendación:**  
 Mejorar la jerarquía visual del modal destacando primero los datos esenciales de la cita, como médico, fecha, hora y estado. Los datos secundarios, como el ID de cita, pueden mostrarse con menor énfasis o en una sección inferior.
@@ -329,7 +329,7 @@ Mejorar la jerarquía visual del modal destacando primero los datos esenciales d
 **Problema:**  
 En las tarjetas de recetas, el precio unitario aparece en la parte inferior con poco énfasis visual. Al tratarse de información relevante para el paciente, puede pasar desapercibida o confundirse con un dato secundario, especialmente cuando la tarjeta contiene varios campos clínicos.
 
-<img src="../assets/images/figures/heuristica-problema4.png" alt="Precio de recetas con baja visibilidad" style="width: 100vw;">
+<img src="../assets/images/others/heuristica-problema4.png" alt="Precio de recetas con baja visibilidad" style="width: 100vw;">
 
 **Recomendación:**  
 Presentar el precio en una sección más visible de la tarjeta, usando una etiqueta clara como "Precio unitario" y, si corresponde, mostrar también el subtotal o costo estimado de la receta.
@@ -344,7 +344,7 @@ Presentar el precio en una sección más visible de la tarjeta, usando una etiqu
 **Problema:**  
 En la lista de "Próximas citas" se muestran citas con fechas anteriores o estados como "cancelled" junto con acciones como reagendar o cancelar. Esto puede generar confusión porque el usuario podría interpretar que esas citas aún están vigentes o intentar realizar acciones sobre citas que ya no deberían tratarse como próximas.
 
-<img src="../assets/images/figures/heuristica-problema5.png" alt="Citas pasadas o canceladas dentro de próximas citas" style="width: 100vw;">
+<img src="../assets/images/others/heuristica-problema5.png" alt="Citas pasadas o canceladas dentro de próximas citas" style="width: 100vw;">
 
 **Recomendación:**  
 Ocultar las citas que ya pasaron de la sección de próximas citas o moverlas a una sección de historial. Si se mantienen visibles, deben mostrarse con una etiqueta clara como "Finalizada", "Pasada" o "Cancelada" y limitar las acciones disponibles.
@@ -359,7 +359,7 @@ Ocultar las citas que ya pasaron de la sección de próximas citas o moverlas a 
 **Problema:**  
 En la vista de operaciones se utilizan iconos como "+", "*" y "#" para representar alertas, avisos de capacidad y actualizaciones de personal. Estos símbolos no comunican por sí solos el tipo de aviso, por lo que el usuario debe leer todo el texto para comprender la prioridad o categoría del mensaje.
 
-<img src="../assets/images/figures/heuristica-problema6.png" alt="Iconos poco claros en alertas y avisos operativos" style="width: 100vw;">
+<img src="../assets/images/others/heuristica-problema6.png" alt="Iconos poco claros en alertas y avisos operativos" style="width: 100vw;">
 
 **Recomendación:**  
 Utilizar iconos más representativos para cada tipo de aviso, por ejemplo un símbolo de advertencia para mantenimiento, un indicador de capacidad para ocupación y un icono de personal para cambios de turno. También se recomienda mantener colores y etiquetas consistentes según la prioridad del aviso.

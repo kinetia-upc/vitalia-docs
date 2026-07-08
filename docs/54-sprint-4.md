@@ -823,3 +823,11 @@ Para este Sprint 4 no se requirió realizar un despliegue manual. Gracias a la c
 <img src="../assets/images/others/s4-backend-deployment.png" alt="s4-backend-deploy" style="width: 100vw;"/>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
+
+A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
+
+<img src="../assets/images/others/s4-collab-insight-front.png" alt="s4-collab-insight-front"  style="width: 100vw;"/>
+
+<img src="../assets/images/others/s4-collab-insight-back.png" alt="s4-collab-insight-back" style="width: 100vw;"/>
+
+El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
