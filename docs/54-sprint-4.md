@@ -1,4 +1,4 @@
-﻿### 5.2.4. Sprint 4
+### 5.2.4. Sprint 4
 
 #### 5.2.4.1. Spring Planning 4
 
@@ -911,6 +911,170 @@ Sprint #: Sprint 4
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este Sprint se amplió la documentación de los Web Services que soportan las funcionalidades e integraciones de Vitalia. Se incorporaron endpoints REST para autenticación (sign-in / sign-up), gestión de usuarios por roles (administrador, doctor, paciente), centros de salud, sucursales, doctores, pacientes, especialidades, programación de citas, franjas de disponibilidad, historias clínicas, diagnósticos con catálogo CIE-10, tratamientos, recetas, detalles de prescripción, órdenes médicas, medicamentos, inventario por sucursal, reposiciones de inventario, tarifas de cita y reclamos de facturación. Estos servicios permitieron reemplazar los flujos simulados del frontend por operaciones conectadas al backend con persistencia de datos en PostgreSQL.
+
+Asimismo, se configuró la autorización mediante JWT (Bearer Token) para los endpoints protegidos y su uso desde Swagger UI. La documentación generada con OpenAPI (Swashbuckle) permite visualizar las operaciones disponibles, sus parámetros, cuerpos de solicitud, modelos de respuesta y códigos HTTP, además de realizar pruebas con datos de ejemplo.
+
+A continuación, se presenta la relación de los principales endpoints trabajados durante el Sprint 4.
+
+**Repositorio de Web Services:** [Repositorio backend del proyecto Vitalia](https://github.com/kinetia-upc/vitalia-backend)
+
+**Repositorio Frontend:** [Repositorio frontend del proyecto Vitalia](https://github.com/kinetia-upc/vitalia-frontend)
+
+**URL de la documentación Swagger:** [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html)
+
+**Base de datos utilizada:** PostgreSQL
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <th>Recurso</th>
+      <th>Endpoint Base</th>
+      <th>Acciones Implementadas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">IAM</td>
+      <td>Authentication</td>
+      <td>/api/v1/authentication</td>
+      <td>POST signIn, POST signUp</td>
+    </tr>
+    <tr>
+      <td>Users</td>
+      <td>/api/v1/users</td>
+      <td>GET (listar), GET por ID, PUT (actualizar)</td>
+    </tr>
+    <tr>
+      <td rowspan="7">Tenant</td>
+      <td>Healthcare Centers</td>
+      <td>/api/v1/healthcareCenters</td>
+      <td>GET (listar), GET por ID, POST, PUT, DELETE</td>
+    </tr>
+    <tr>
+      <td>Branches</td>
+      <td>/api/v1/branches</td>
+      <td>GET (listar, filtrar por centro), GET por ID, GET catálogo CIE-10, POST, PUT, DELETE</td>
+    </tr>
+    <tr>
+      <td>Doctors</td>
+      <td>/api/v1/doctors</td>
+      <td>GET (listar), GET por ID, POST, PUT</td>
+    </tr>
+    <tr>
+      <td>Patients</td>
+      <td>/api/v1/patients</td>
+      <td>GET (listar), GET por ID, POST, PUT</td>
+    </tr>
+    <tr>
+      <td>Specialities</td>
+      <td>/api/v1/specialities</td>
+      <td>GET (listar), GET por ID, POST, PUT, DELETE</td>
+    </tr>
+    <tr>
+      <td>Doctor Specialities</td>
+      <td>/api/v1/doctorSpecialities</td>
+      <td>GET (listar), POST</td>
+    </tr>
+    <tr>
+      <td>Appointment Fees</td>
+      <td>/api/v1/appointmentFees</td>
+      <td>GET (listar), GET por ID, POST, PUT, DELETE</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Scheduling</td>
+      <td>Appointments</td>
+      <td>/api/v1/appointments</td>
+      <td>GET (listar, filtrar por doctor/paciente/sucursal/fecha), GET por ID, POST, PATCH, DELETE</td>
+    </tr>
+    <tr>
+      <td>Availability Slots</td>
+      <td>/api/v1/availabilitySlots</td>
+      <td>GET (listar, filtrar por doctor/sucursal/fecha), GET por ID, POST, PATCH, DELETE</td>
+    </tr>
+    <tr>
+      <td rowspan="6">Clinical</td>
+      <td>Medical Records</td>
+      <td>/api/v1/medicalRecords</td>
+      <td>GET (listar), GET por código, GET por paciente, GET por cita, POST</td>
+    </tr>
+    <tr>
+      <td>Diagnoses</td>
+      <td>/api/v1/diagnoses</td>
+      <td>GET (listar), GET por ID, GET por historia clínica, POST, PATCH (CIE-10), DELETE</td>
+    </tr>
+    <tr>
+      <td>Treatments</td>
+      <td>/api/v1/treatments</td>
+      <td>GET (listar), GET por ID, GET por historia clínica, POST, PATCH, DELETE</td>
+    </tr>
+    <tr>
+      <td>Prescriptions</td>
+      <td>/api/v1/prescriptions</td>
+      <td>GET (listar), GET por ID, GET por historia clínica, POST, DELETE</td>
+    </tr>
+    <tr>
+      <td>Prescription Details</td>
+      <td>/api/v1/prescriptionDetails</td>
+      <td>GET (listar), GET por clave compuesta, GET por receta, POST, PUT, DELETE</td>
+    </tr>
+    <tr>
+      <td>Medical Orders</td>
+      <td>/api/v1/medicalOrders</td>
+      <td>GET (listar, filtrar por paciente/cita), GET por ID, GET por código, POST, PATCH, DELETE</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Pharmacy</td>
+      <td>Medicines</td>
+      <td>/api/v1/medicines</td>
+      <td>GET (listar, búsqueda por nombre), GET por ID, POST, PUT, DELETE</td>
+    </tr>
+    <tr>
+      <td>Branch Medicines</td>
+      <td>/api/v1/branchMedicines</td>
+      <td>GET (listar, filtrar por sucursal), GET por sucursal y medicamento, POST, PUT, DELETE</td>
+    </tr>
+    <tr>
+      <td>Medicine Restocks</td>
+      <td>/api/v1/medicineRestocks</td>
+      <td>GET (listar, filtrar por sucursal), GET por ID, POST</td>
+    </tr>
+    <tr>
+      <td>Billing</td>
+      <td>Billing Claims</td>
+      <td>/api/v1/billingClaims</td>
+      <td>GET (listar, búsqueda), GET por ID, POST, PUT, DELETE</td>
+    </tr>
+  </tbody>
+</table>
+
+**Evidencia de ejecución**
+
+Para evidenciar la integración de servicios del Sprint 4 se utilizaron los proyectos frontend y backend de Vitalia. El backend expone los endpoints mediante Swagger UI y el frontend consume estos contratos para ejecutar los flujos de autenticación, gestión de usuarios por rol, administración de centros de salud y sucursales, programación de citas médicas, registro de historias clínicas, diagnósticos CIE-10, tratamientos, prescripciones, órdenes médicas, gestión de farmacia e inventario, y facturación.
+
+A continuación se muestran capturas de la documentación Swagger UI con la ejecución de los principales endpoints:
+
+**POST /api/v1/authentication/signIn — Inicio de sesión:**
+
+<img src="../assets/images/others/s4-swagger-sign-in.png" alt="Swagger Sign In" style="width: 100vw;"/>
+
+**GET /api/v1/users — Listado de usuarios:**
+
+<img src="../assets/images/others/s4-swagger-users.png" alt="Swagger Users" style="width: 100vw;"/>
+
+**GET /api/v1/appointments — Listado de citas:**
+
+<img src="../assets/images/others/s4-swagger-appointments.png" alt="Swagger Appointments" style="width: 100vw;"/>
+
+**DELETE /api/v1/appointments/{appointmentId} — Eliminación de cita:**
+
+<img src="../assets/images/others/s4-swagger-delete-appointment.png" alt="Swagger Delete Appointment" style="width: 100vw;"/>
+
+**GET /api/v1/medicines — Listado de medicamentos:**
+
+<img src="../assets/images/others/s4-swagger-medicines.png" alt="Swagger Medicines" style="width: 100vw;"/>
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
