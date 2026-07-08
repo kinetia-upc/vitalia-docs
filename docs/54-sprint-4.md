@@ -418,6 +418,384 @@ Sprint #: Sprint 4
 
 #### 5.2.4.4. Development Evidence for Sprint Review
 
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>0768b51</td>
+      <td>feat: add sign up flow</td>
+      <td>2026-07-02</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>0c59dc7</td>
+      <td>feat: add sign in flow</td>
+      <td>2026-07-02</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>007e709</td>
+      <td>feat: add forgot password flow</td>
+      <td>2026-07-02</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>bb241c5</td>
+      <td>feat: backend connection</td>
+      <td>2026-07-02</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>c12139c</td>
+      <td>fix: dashboard connect</td>
+      <td>2026-07-02</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/iam</td>
+      <td>dbf931c</td>
+      <td>feat: add iam module and extras</td>
+      <td>2026-07-02</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>4ae13eb</td>
+      <td>fix: many visual and backend connection bugs</td>
+      <td>2026-07-03</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>a04b51f</td>
+      <td>fix: several frontend modeling errors</td>
+      <td>2026-07-03</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>5f5e4cf</td>
+      <td>fix: deploy routing</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>b608145</td>
+      <td>fix: patient flows bugs</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/cie10codes</td>
+      <td>fadb433</td>
+      <td>feat: add cie selector in clinic settings</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/cie10codes</td>
+      <td>74d0411</td>
+      <td>fix: improve medic attention workflow</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/cie10codes</td>
+      <td>1cce686</td>
+      <td>feat: add cie10diagnosis in doctor workflow</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>ccd03bd</td>
+      <td>fix: save second diagnosis</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>7b0f5d2</td>
+      <td>fix: patient flows bugs</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/cie10codes</td>
+      <td>f87a7f4</td>
+      <td>feat: add branch-based CIE-10 diagnosis catalog</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/cie10codes</td>
+      <td>89c60fe</td>
+      <td>fix: branch lookup for diagnosis catalog validation</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>0b9770d</td>
+      <td>feat: WHO ICD-10 catalog provider</td>
+      <td>2026-07-04</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>e035c1b</td>
+      <td>feat: optimize database seeding</td>
+      <td>2026-07-05</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>b30dfbf</td>
+      <td>fix notification alert button, and schedule views</td>
+      <td>2026-07-06</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>5017045</td>
+      <td>Add MIT License to the project</td>
+      <td>2026-07-06</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/tenant</td>
+      <td>e734d35</td>
+      <td>fix: CanConnect Function with Migrations</td>
+      <td>2026-07-06</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/tenant</td>
+      <td>611c1a8</td>
+      <td>fix: CanConnect with Migrations, DB seeder ID generator, and add more availability slotes</td>
+      <td>2026-07-06</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>1bef5a8</td>
+      <td>Add MIT License to the project</td>
+      <td>2026-07-06</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/fix_clinical</td>
+      <td>958fb2a</td>
+      <td>feat: update create user modal</td>
+      <td>2026-07-07</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>75781db</td>
+      <td>feat: Start attention before editing a medical record</td>
+      <td>2026-07-07</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/tenant</td>
+      <td>30f5e92</td>
+      <td>fix: generate sequential medical record codes and stamp seed audit timestamps</td>
+      <td>2026-07-07</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>develop</td>
+      <td>226b614</td>
+      <td>feat: improve doctor, patients views</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/fix_iam</td>
+      <td>4717e86</td>
+      <td>feat: register/iam with correct user</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>f5db403</td>
+      <td>feat:add weekly admissions date navigation</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>5f68c0c</td>
+      <td>feat:enhance admissions chart visuals</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>2c89f9b</td>
+      <td>feat:add admissions chart translations</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>524d537</td>
+      <td>feat:remove hardcoded operations labels</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>5cd2780</td>
+      <td>feat:improve operations board layout</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>8914eca</td>
+      <td>feat:fix availability slot deletion</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/fix-admin-view-create-user</td>
+      <td>f119a21</td>
+      <td>fix: fix admin update user modal</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/fix-admin-view-create-user</td>
+      <td>3407073</td>
+      <td>fix: persist role profile edits from admin users</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>734418d</td>
+      <td>feat: remove hardcoded system load metric</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>252fd5c</td>
+      <td>feat: refine billing revenue and claim resolution flow</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>618f6a5</td>
+      <td>feat: separate pharmacy catalog from branch inventory</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-frontend]</td>
+      <td>feature/IAM</td>
+      <td>30f86e5</td>
+      <td>feat: improve clinic settings pharmacy controls</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>51615db</td>
+      <td>feat: extend prescription repository capabilities</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>c9a86db</td>
+      <td>feat: update prescription and prescription detail command services</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>08cdb5a</td>
+      <td>fix: minor adjustments to diagnosis, medical record and treatment services</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>176eea1</td>
+      <td>feat: update database seeder</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/scheduling</td>
+      <td>43ebece</td>
+      <td>chore: update seed data</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/fix-admin-view-create-user</td>
+      <td>80e1c86</td>
+      <td>fix: allow optional password updates</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/fix-admin-view-create-user</td>
+      <td>db60e80</td>
+      <td>feat: add put doctor endpoint</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>develop</td>
+      <td>5152211</td>
+      <td>fix: Patients doctors view configuration</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/IAM</td>
+      <td>8c6dd62</td>
+      <td>feat: seed additional common medicines</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/IAM</td>
+      <td>b155b24</td>
+      <td>feat: expand pharmacy seed catalog</td>
+      <td>2026-07-08</td>
+    </tr>
+    <tr>
+      <td>[vitalia-backend]</td>
+      <td>feature/IAM</td>
+      <td>853b86c</td>
+      <td>fix: billing</td>
+      <td>2026-07-08</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
