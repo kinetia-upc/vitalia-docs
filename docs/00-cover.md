@@ -74,7 +74,8 @@ Proyecto
 | 0.3.0 | 17/6/26 | @kamil-tron | docs: realizar correciones del tb1 |
 | 0.3.1 | 17/6/26 | @Leotens | docs: añadir sprint 3 |
 | 0.4.0 | 2/7/26 | @kamil-tron | docs: realizar correciones del av2 |
-| 0.4.1 | 3/7/26 | @Leotens | docs: añadir sprint 4 |
+| 0.4.1 | 5/7/26 | @Leotens | docs: añadir sprint 4 |
+| 1.0.0 | 8/7/26 | @AdrixRyz | docs: realizar correciones finales |
 
 # Project Report Collaboration Insights
 

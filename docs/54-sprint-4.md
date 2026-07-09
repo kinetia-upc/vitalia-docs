@@ -25,6 +25,8 @@
 
 #### 5.2.4.3. Sprint Backlog 4
 
+El Sprint Backlog 4 se enfocó en consolidar la versión integrada de Vitalia, reforzando la autenticación y seguridad de la plataforma, completando flujos clínicos y administrativos pendientes, e incorporando capacidades de resiliencia ante fallos de conectividad. Además, se priorizó la conexión entre frontend y backend para procesos críticos como registro, gestión de usuarios, farmacia, recetas, órdenes médicas, facturación e integración con servicios externos de identidad.
+
 **Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
 <img src="../assets/images/others/s4-sprint-backlog.png" alt="Sprint Backlog 4" style="width: 100vw;">
@@ -910,6 +912,17 @@ Sprint #: Sprint 4
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 4 se completó un incremento funcional orientado a estabilizar y cerrar los principales flujos transaccionales de Vitalia sobre una arquitectura ya integrada entre frontend y backend. El trabajo del Sprint permitió validar la autenticación de usuarios, el registro conectado a servicios reales, la administración de perfiles y centros de salud, la continuidad de los flujos clínicos para atención médica y recetas, así como mejoras operativas en farmacia, facturación y manejo de datos ante escenarios de desconexión temporal.
+
+**Principales entregables funcionales:**
+- Flujo de autenticación completo con inicio de sesión, registro, recuperación de contraseña y redirección según rol de usuario.
+- Refuerzo de seguridad mediante sesiones controladas, validación de accesos, protección de endpoints con JWT y tratamiento seguro de información clínica sensible.
+- Integración del registro y administración de usuarios con centros de salud, perfiles por rol y consulta de identidad externa mediante DNI.
+- Consolidación del flujo clínico del doctor con diagnósticos apoyados en catálogo CIE-10, emisión de recetas y generación de órdenes médicas.
+- Mejora del módulo de farmacia e inventario para consultar recetas, actualizar estados de dispensación y relacionar medicamentos con stock disponible.
+- Ajustes del módulo de facturación y conciliación de pagos para reflejar mejor el estado financiero asociado a citas y reclamos.
+- Implementación de guardado temporal local y sincronización diferida para preservar información cuando la conexión se interrumpe y enviarla automáticamente al restablecerse.
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 Durante este Sprint se amplió la documentación de los Web Services que soportan las funcionalidades e integraciones de Vitalia. Se incorporaron endpoints REST para autenticación (sign-in / sign-up), gestión de usuarios por roles (administrador, doctor, paciente), centros de salud, sucursales, doctores, pacientes, especialidades, programación de citas, franjas de disponibilidad, historias clínicas, diagnósticos con catálogo CIE-10, tratamientos, recetas, detalles de prescripción, órdenes médicas, medicamentos, inventario por sucursal, reposiciones de inventario, tarifas de cita y reclamos de facturación. Estos servicios permitieron reemplazar los flujos simulados del frontend por operaciones conectadas al backend con persistencia de datos en PostgreSQL.
@@ -1102,7 +1115,7 @@ Para este Sprint 4 no se requirió realizar un despliegue manual. Gracias a la c
 
 A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 
-<img src="../assets/images/others/s4-collab-insight-front.png" alt="s4-collab-insight-front"  style="width: 100vw;"/>
+<img src="../assets/images/others/s4-collab-insight-front.png" alt="s4-collab-insight-front" style="width: 100vw;"/>
 
 <img src="../assets/images/others/s4-collab-insight-back.png" alt="s4-collab-insight-back" style="width: 100vw;"/>
 

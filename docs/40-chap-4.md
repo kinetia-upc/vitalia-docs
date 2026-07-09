@@ -482,6 +482,8 @@ Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada 
 *Figura 78 (Class Diagram - Billing Context)*  
 <img src="../assets/diagrams/class-diagram-etapa-3-billing-context.svg" alt="Class Diagram" style="width: 100vw;">
 
+## 4.8. Database Design
+
 ### 4.8.1. Database Diagrams
 
 *Figura 79 (Database Diagram)*  
