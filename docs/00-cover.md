@@ -30,13 +30,40 @@ Proyecto
 
 **Integrantes**
 
-| Código | Apellidos y Nombres |
-| --- | --- |
-| U20241E177 | Ruiz Mideyros, Adrian |
-| U202317099 | Rojas Tello, Nestor Alonso |
-| U202410678 | Astocondor Bazan, Alejandra Isabel |
-| U202412316 | Diaz Martinez, Alexther Kamil |
-| U202410254 | Dulanto Espino, Leo César |
+<div style="text-align: center;">
+<div style="display: inline-block;">
+<table style="width: auto; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th style="padding: 8px; border: 1px solid #666; text-align: center;">Código</th>
+      <th style="padding: 8px; border: 1px solid #666; text-align: center;">Apellidos y Nombres</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U20241E177</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Ruiz Mideyros, Adrian</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U202317099</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Rojas Tello, Nestor Alonso</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U202410678</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Astocondor Bazan, Alejandra Isabel</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U202412316</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Diaz Martinez, Alexther Kamil</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">U202410254</td>
+      <td style="padding: 8px; border: 1px solid #666; text-align: center;">Dulanto Espino, Leo César</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
 
 **Período 202610**
 
