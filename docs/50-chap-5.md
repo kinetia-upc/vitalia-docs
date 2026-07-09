@@ -115,3 +115,5 @@ El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de Gi
 5.	Una vez desplegado, el sitio estará disponible.
 
 Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestionarán mediante commits y merges hacia la rama main. Cada cambio publicado en esta rama generará automáticamente una nueva versión desplegada del sitio.
+
+La URL planificada para la landing page desplegada es la publicada mediante GitHub Pages desde el repositorio oficial del proyecto, quedando disponible para validación funcional y revisión de stakeholders una vez completada la configuración del despliegue.

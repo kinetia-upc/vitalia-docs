@@ -1,6 +1,6 @@
 ### 5.2.4. Sprint 4
 
-#### 5.2.4.1. Spring Planning 4
+#### *5.2.4.1. Sprint Planning 4*
 
 | **Sprint #** | 4 |
 | --- | --- |
@@ -10,10 +10,10 @@
 | **Prepared By** | Leo César Dulanto Espino |
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
 | **Sprint n Goal** | Our focus is on strengthening secure access, clinical continuity, and key integrations. We believe it delivers a more reliable experience to patients, doctors, and administrative staff. This will be confirmed when users can authenticate securely, recover access, preserve clinical data during connectivity issues, and complete exam, prescription, appointment, identity, and payment flows. |
-| **Sprint n Velocity** | 50 sp |
-| **Sum of Story Points** | 45 sp |
+| **Sprint n Velocity** | 50 SP |
+| **Sum of Story Points** | 45 SP |
 
-#### 5.2.4.2. Aspect Leaders and Collaborators
+#### *5.2.4.2. Aspect Leaders and Collaborators*
 
 | Team Member | GitHub Username | Register/Login View | IAM API | Tenant | Pharmacy | Consume API |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,7 @@
 | Alexther Kamil Diaz Martinez | kamil-tron | L | C | C | C | C |
 | Rojas Tello, Nestor Alonso | nes-ro | C | C | C | L | C |
 
-#### 5.2.4.3. Sprint Backlog 4
+#### *5.2.4.3. Sprint Backlog 4*
 
 El Sprint Backlog 4 se enfocó en consolidar la versión integrada de Vitalia, reforzando la autenticación y seguridad de la plataforma, completando flujos clínicos y administrativos pendientes, e incorporando capacidades de resiliencia ante fallos de conectividad. Además, se priorizó la conexión entre frontend y backend para procesos críticos como registro, gestión de usuarios, farmacia, recetas, órdenes médicas, facturación e integración con servicios externos de identidad.
 
@@ -284,7 +284,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US028</td>
+      <td>US049</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO81</td>
@@ -295,7 +295,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US028</td>
+      <td>US049</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO82</td>
@@ -306,7 +306,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US028</td>
+      <td>US049</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO83</td>
@@ -418,7 +418,7 @@ Sprint #: Sprint 4
   </tbody>
 </table>
 
-#### 5.2.4.4. Development Evidence for Sprint Review
+#### *5.2.4.4. Development Evidence for Sprint Review*
 
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -427,7 +427,7 @@ Sprint #: Sprint 4
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
@@ -896,13 +896,6 @@ Sprint #: Sprint 4
     <tr>
       <td>[vitalia-backend]</td>
       <td>feature/healthcenter-register</td>
-      <td>40274ee</td>
-      <td>feat: add healthcare center image url migration</td>
-      <td>2026-07-08</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>feature/healthcenter-register</td>
       <td>ef807d7</td>
       <td>feat: add endpoint IdentityLookup</td>
       <td>2026-07-08</td>
@@ -910,7 +903,7 @@ Sprint #: Sprint 4
   </tbody>
 </table>
 
-#### 5.2.4.5. Execution Evidence for Sprint Review
+#### *5.2.4.5. Execution Evidence for Sprint Review*
 
 Durante el Sprint 4 se completó un incremento funcional orientado a estabilizar y cerrar los principales flujos transaccionales de Vitalia sobre una arquitectura ya integrada entre frontend y backend. El trabajo del Sprint permitió validar la autenticación de usuarios, el registro conectado a servicios reales, la administración de perfiles y centros de salud, la continuidad de los flujos clínicos para atención médica y recetas, así como mejoras operativas en farmacia, facturación y manejo de datos ante escenarios de desconexión temporal.
 
@@ -923,9 +916,9 @@ Durante el Sprint 4 se completó un incremento funcional orientado a estabilizar
 - Ajustes del módulo de facturación y conciliación de pagos para reflejar mejor el estado financiero asociado a citas y reclamos.
 - Implementación de guardado temporal local y sincronización diferida para preservar información cuando la conexión se interrumpe y enviarla automáticamente al restablecerse.
 
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### *5.2.4.6. Services Documentation Evidence for Sprint Review*
 
-Durante este Sprint se amplió la documentación de los Web Services que soportan las funcionalidades e integraciones de Vitalia. Se incorporaron endpoints REST para autenticación (sign-in / sign-up), gestión de usuarios por roles (administrador, doctor, paciente), centros de salud, sucursales, doctores, pacientes, especialidades, programación de citas, franjas de disponibilidad, historias clínicas, diagnósticos con catálogo CIE-10, tratamientos, recetas, detalles de prescripción, órdenes médicas, medicamentos, inventario por sucursal, reposiciones de inventario, tarifas de cita y reclamos de facturación. Estos servicios permitieron reemplazar los flujos simulados del frontend por operaciones conectadas al backend con persistencia de datos en PostgreSQL.
+Durante este Sprint se amplió la documentación de los Web Services que soportan las funcionalidades e integraciones de Vitalia. Se incorporaron endpoints REST para autenticación (sign-in / sign-up), gestión de usuarios por roles (administrador, doctor, paciente), centros de salud, sucursales, doctores, pacientes, especialidades, programación de citas, franjas de disponibilidad, historias clínicas, diagnósticos con catálogo CIE-10, tratamientos, recetas, detalles de prescripción, órdenes médicas, medicamentos, inventario por sucursal, reposiciones de inventario, tarifas de cita y reclamos de facturación. Estos servicios permitieron reemplazar los flujos simulados del frontend por operaciones conectadas al backend con persistencia de datos en MySQL.
 
 Asimismo, se configuró la autorización mediante JWT (Bearer Token) para los endpoints protegidos y su uso desde Swagger UI. La documentación generada con OpenAPI (Swashbuckle) permite visualizar las operaciones disponibles, sus parámetros, cuerpos de solicitud, modelos de respuesta y códigos HTTP, además de realizar pruebas con datos de ejemplo.
 
@@ -937,7 +930,7 @@ A continuación, se presenta la relación de los principales endpoints trabajado
 
 **URL de la documentación Swagger:** [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html)
 
-**Base de datos utilizada:** PostgreSQL
+**Base de datos utilizada:** MySQL
 
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -1089,7 +1082,7 @@ A continuación se muestran capturas de la documentación Swagger UI con la ejec
 
 <img src="../assets/images/others/s4-swagger-medicines.png" alt="Swagger Medicines" style="width: 100vw;"/>
 
-#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### *5.2.4.7. Software Deployment Evidence for Sprint Review*
 
 Para este Sprint 4 no se requirió realizar un despliegue manual. Gracias a la configuración implementada en entregables previos, el proyecto ya cuenta con un flujo automatizado. De este modo, cualquier actualización o nuevo cambio integrado en la rama main desencadena automáticamente la actualización del despliegue en el entorno correspondiente.
 
@@ -1111,7 +1104,7 @@ Para este Sprint 4 no se requirió realizar un despliegue manual. Gracias a la c
 
 <img src="../assets/images/others/s4-backend-deployment.png" alt="s4-backend-deploy" style="width: 100vw;"/>
 
-#### 5.2.4.8. Team Collaboration Insights during Sprint 
+#### *5.2.4.8. Team Collaboration Insights during Sprint*
 
 A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 

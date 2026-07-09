@@ -50,8 +50,8 @@ Proyecto
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | --- | --- | --- | --- |
-| 0.1.0 | 15/4/26 | @AleeAsto | docs: añadir la descripción del startup y antecedentes y problematica |
-| 0.1.1 | 15/4/26 | @AdrixRyz | docs: añadir los puntos previos al capitulo 1 |
+| 0.1.0 | 15/4/26 | @AleeAsto | docs: añadir la descripción del startup y antecedentes y problemática |
+| 0.1.1 | 15/4/26 | @AdrixRyz | docs: añadir los puntos previos al capítulo 1 |
 | 0.1.2 | 16/4/26 | @Leotens | docs: añadir todos los puntos de Lean UX Process |
 | 0.1.3 | 16/4/26 | @Leotens | docs: añadir diseño y registro de entrevistas |
 | 0.1.4 | 17/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
@@ -62,20 +62,20 @@ Proyecto
 | 0.1.9 | 21/4/26 | @nes-ro | docs: añadir bigpicture eventstorming |
 | 0.1.10 | 22/4/26 | @AleeAsto | docs: añadir todos los puntos de software configuration management |
 | 0.1.11 | 23/4/26 | @AdrixRyz | docs: añadir todos los puntos de style guidelines |
-| 0.1.12 | 23/4/26 | @Leotens | docs: añadir todos los puntos del capitulo 3 |
+| 0.1.12 | 23/4/26 | @Leotens | docs: añadir todos los puntos del capítulo 3 |
 | 0.1.13 | 24/4/26 | @AleeAsto | docs: añadir landing page ui design |
 | 0.1.14 | 25/4/26 | @nes-ro | docs: añadir todos los puntos de domain-driven software architecture |
 | 0.1.15 | 25/4/26 | @nes-ro | docs: añadir database design diagram |
-| 0.1.16 | 24/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
+| 0.1.16 | 25/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
 | 0.1.17 | 25/4/26 | @kamil-tron | docs: añadir todos los puntos de Information Architecture |
 | 0.1.18 | 25/4/26 | @AleeAsto | docs: añadir sprint 1 |
-| 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correciones del av1 |
+| 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correcciones del av1 |
 | 0.2.1 | 13/5/26 | @AdrixRyz | docs: añadir sprint 2 |
-| 0.3.0 | 17/6/26 | @kamil-tron | docs: realizar correciones del tb1 |
+| 0.3.0 | 17/6/26 | @kamil-tron | docs: realizar correcciones del tb1 |
 | 0.3.1 | 17/6/26 | @Leotens | docs: añadir sprint 3 |
-| 0.4.0 | 2/7/26 | @kamil-tron | docs: realizar correciones del av2 |
+| 0.4.0 | 2/7/26 | @kamil-tron | docs: realizar correcciones del av2 |
 | 0.4.1 | 5/7/26 | @Leotens | docs: añadir sprint 4 |
-| 1.0.0 | 8/7/26 | @AdrixRyz | docs: realizar correciones finales |
+| 1.0.0 | 8/7/26 | @AdrixRyz | docs: realizar correcciones finales |
 
 # Project Report Collaboration Insights
 
@@ -219,11 +219,11 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.3.1. Diseño de Entrevistas  
 5.3.2. Registro de Entrevistas  
 5.3.3. Evaluaciones según heurísticas  
-[**5.4. Video-About-the-Product**](70-product-video.md)  
+[**5.4. Video About-the-Product**](70-product-video.md)  
 
 [**Conclusiones**](80-conclusions.md)  
 [**Recomendaciones**](81-recommendations.md)  
-[**Video-About-the-Team**](82-team-video.md)  
+[**Video About-the-Team**](82-team-video.md)  
 [**Bibliografía**](90-bibliography.md)  
 [**Anexos**](99-annexes.md)  
 

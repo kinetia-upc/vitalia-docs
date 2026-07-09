@@ -50,8 +50,8 @@ Proyecto
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | --- | --- | --- | --- |
-| 0.1.0 | 15/4/26 | @AleeAsto | docs: añadir la descripción del startup y antecedentes y problematica |
-| 0.1.1 | 15/4/26 | @AdrixRyz | docs: añadir los puntos previos al capitulo 1 |
+| 0.1.0 | 15/4/26 | @AleeAsto | docs: añadir la descripción del startup y antecedentes y problemática |
+| 0.1.1 | 15/4/26 | @AdrixRyz | docs: añadir los puntos previos al capítulo 1 |
 | 0.1.2 | 16/4/26 | @Leotens | docs: añadir todos los puntos de Lean UX Process |
 | 0.1.3 | 16/4/26 | @Leotens | docs: añadir diseño y registro de entrevistas |
 | 0.1.4 | 17/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
@@ -62,20 +62,20 @@ Proyecto
 | 0.1.9 | 21/4/26 | @nes-ro | docs: añadir bigpicture eventstorming |
 | 0.1.10 | 22/4/26 | @AleeAsto | docs: añadir todos los puntos de software configuration management |
 | 0.1.11 | 23/4/26 | @AdrixRyz | docs: añadir todos los puntos de style guidelines |
-| 0.1.12 | 23/4/26 | @Leotens | docs: añadir todos los puntos del capitulo 3 |
+| 0.1.12 | 23/4/26 | @Leotens | docs: añadir todos los puntos del capítulo 3 |
 | 0.1.13 | 24/4/26 | @AleeAsto | docs: añadir landing page ui design |
 | 0.1.14 | 25/4/26 | @nes-ro | docs: añadir todos los puntos de domain-driven software architecture |
 | 0.1.15 | 25/4/26 | @nes-ro | docs: añadir database design diagram |
-| 0.1.16 | 24/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
+| 0.1.16 | 25/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
 | 0.1.17 | 25/4/26 | @kamil-tron | docs: añadir todos los puntos de Information Architecture |
 | 0.1.18 | 25/4/26 | @AleeAsto | docs: añadir sprint 1 |
-| 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correciones del av1 |
+| 0.2.0 | 13/5/26 | @AdrixRyz | docs: realizar correcciones del av1 |
 | 0.2.1 | 13/5/26 | @AdrixRyz | docs: añadir sprint 2 |
-| 0.3.0 | 17/6/26 | @kamil-tron | docs: realizar correciones del tb1 |
+| 0.3.0 | 17/6/26 | @kamil-tron | docs: realizar correcciones del tb1 |
 | 0.3.1 | 17/6/26 | @Leotens | docs: añadir sprint 3 |
-| 0.4.0 | 2/7/26 | @kamil-tron | docs: realizar correciones del av2 |
+| 0.4.0 | 2/7/26 | @kamil-tron | docs: realizar correcciones del av2 |
 | 0.4.1 | 5/7/26 | @Leotens | docs: añadir sprint 4 |
-| 1.0.0 | 8/7/26 | @AdrixRyz | docs: realizar correciones finales |
+| 1.0.0 | 8/7/26 | @AdrixRyz | docs: realizar correcciones finales |
 
 # Project Report Collaboration Insights
 
@@ -109,7 +109,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **Student Outcome**
 
-[**Capítulo I: Introducción**](10-chap-1.md)  
+[**Capítulo I: Introducción**](docs/10-chap-1.md)  
 1.1. Startup Profile  
 1.1.1. Descripción del startup  
 1.1.2. Perfiles de integrantes del equipo  
@@ -122,7 +122,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 1.2.2.4. Lean UX Canvas  
 1.3. Segmentos objetivo  
 
-[**Capítulo II: Requirements Elicitation & Analysis**](20-chap-2.md)  
+[**Capítulo II: Requirements Elicitation & Analysis**](docs/20-chap-2.md)  
 2.1. Competidores  
 2.1.1. Análisis competitivo  
 2.1.2. Estrategias y tácticas frente a competidores  
@@ -138,12 +138,12 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 2.4. Big Picture EventStorming  
 2.5. Ubiquitous Language  
 
-[**Capítulo III: Requirements Specification**](30-chap-3.md)  
+[**Capítulo III: Requirements Specification**](docs/30-chap-3.md)  
 3.1. User Stories  
 3.2. Impact Mapping  
 3.3. Product Backlog  
 
-[**Capítulo IV: Product Design**](40-chap-4.md)  
+[**Capítulo IV: Product Design**](docs/40-chap-4.md)  
 4.1. Style Guidelines  
 4.1.1. General Style Guidelines  
 4.1.2. Web Style Guidelines  
@@ -172,14 +172,14 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 4.8. Database Design  
 4.8.1. Database Diagrams  
 
-[**Capítulo V: Product Implementation, Validation & Deployment**](50-chap-5.md)  
+[**Capítulo V: Product Implementation, Validation & Deployment**](docs/50-chap-5.md)  
 5.1. Software Configuration Management  
 5.1.1. Software Development Environment Configuration  
 5.1.2. Source Code Management  
 5.1.3. Source Code Style Guide & Conventions  
 5.1.4. Software Deployment Configuration  
 5.2. Landing Page, Services & Applications Implementation  
-[**5.2.1. Sprint 1**](51-sprint-1.md)  
+[**5.2.1. Sprint 1**](docs/51-sprint-1.md)  
 5.2.1.1. Sprint Planning 1  
 5.2.1.2. Aspect Leaders and Collaborators  
 5.2.1.3. Sprint Backlog 1  
@@ -188,7 +188,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.1.6. Services Documentation Evidence for Sprint Review  
 5.2.1.7. Software Deployment Evidence for Sprint Review  
 5.2.1.8. Team Collaboration Insights during Sprint  
-[**5.2.2. Sprint 2**](52-sprint-2.md)  
+[**5.2.2. Sprint 2**](docs/52-sprint-2.md)  
 5.2.2.1. Sprint Planning 2  
 5.2.2.2. Aspect Leaders and Collaborators  
 5.2.2.3. Sprint Backlog 2  
@@ -197,7 +197,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.2.6. Services Documentation Evidence for Sprint Review  
 5.2.2.7. Software Deployment Evidence for Sprint Review  
 5.2.2.8. Team Collaboration Insights during Sprint  
-[**5.2.3. Sprint 3**](53-sprint-3.md)  
+[**5.2.3. Sprint 3**](docs/53-sprint-3.md)  
 5.2.3.1. Sprint Planning 3  
 5.2.3.2. Aspect Leaders and Collaborators  
 5.2.3.3. Sprint Backlog 3  
@@ -206,7 +206,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.3.6. Services Documentation Evidence for Sprint Review  
 5.2.3.7. Software Deployment Evidence for Sprint Review  
 5.2.3.8. Team Collaboration Insights during Sprint  
-[**5.2.4. Sprint 4**](54-sprint-4.md)  
+[**5.2.4. Sprint 4**](docs/54-sprint-4.md)  
 5.2.4.1. Sprint Planning 4  
 5.2.4.2. Aspect Leaders and Collaborators  
 5.2.4.3. Sprint Backlog 4  
@@ -215,17 +215,17 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 5.2.4.6. Services Documentation Evidence for Sprint Review  
 5.2.4.7. Software Deployment Evidence for Sprint Review  
 5.2.4.8. Team Collaboration Insights during Sprint  
-[**5.3. Validation Interviews**](60-validation-interviews.md)  
+[**5.3. Validation Interviews**](docs/60-validation-interviews.md)  
 5.3.1. Diseño de Entrevistas  
 5.3.2. Registro de Entrevistas  
 5.3.3. Evaluaciones según heurísticas  
-[**5.4. Video-About-the-Product**](70-product-video.md)  
+[**5.4. Video About-the-Product**](docs/70-product-video.md)  
 
-[**Conclusiones**](80-conclusions.md)  
-[**Recomendaciones**](81-recommendations.md)  
-[**Video-About-the-Team**](82-team-video.md)  
-[**Bibliografía**](90-bibliography.md)  
-[**Anexos**](99-annexes.md)  
+[**Conclusiones**](docs/80-conclusions.md)  
+[**Recomendaciones**](docs/81-recommendations.md)  
+[**Video About-the-Team**](docs/82-team-video.md)  
+[**Bibliografía**](docs/90-bibliography.md)  
+[**Anexos**](docs/99-annexes.md)  
 
 # Student Outcome
 
@@ -235,7 +235,6 @@ En esta sección se describe cómo cada integrante contribuyó al desarrollo del
 | --- | --- | --- |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en reuniones de coordinación para alinear criterios del informe, proponer acuerdos de redacción y apoyar la integración visual y conceptual de los capítulos trabajados por el equipo.<br>**TB1:** Guió sesiones de Sprint Planning equilibrando la participación de sus compañeros, promoviendo decisiones consensuadas y reforzando una dirección compartida para el desarrollo inicial del producto.<br>**AV2:** Guió al grupo durante el avance 2 organizando tareas, definiendo roles y promoviendo acuerdos para que todos participaran en las decisiones principales.<br>**TB2:** Lideró la integración del consumo de APIs externas coordinando con el equipo la estructura de comunicación entre frontend y backend, promoviendo decisiones técnicas compartidas sobre pasarelas de pago y mecanismos de resiliencia ante desconexión.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Contribuyó a las decisiones grupales mediante discusiones técnicas y de negocio, ayudando a priorizar enfoques, comparar alternativas y sostener una dirección común durante la entrega.<br>**TB1:** Orientó la estructura de trabajo resolviendo dudas conceptuales, escuchando aportes de sus compañeros y alineando expectativas técnicas con el diseño general del proyecto.<br>**AV2:** Aportó liderazgo en la revisión de avances, apoyó la resolución de dudas del equipo y colaboró en la toma de decisiones durante las correcciones.<br>**TB2:** Guió la definición del módulo de farmacia proponiendo flujos de dispensación y reutilización de recetas, facilitando acuerdos técnicos con el equipo sobre validaciones de inventario y restricciones clínicas.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Favoreció la coordinación constante del equipo al comunicar avances, validar observaciones de sus compañeros y conectar actividades de investigación, diseño y documentación del producto.<br>**TB1:** Facilitó acuerdos visuales integrando propuestas individuales en un estándar común, promoviendo retroalimentación constructiva y ayudando a consolidar una propuesta de diseño compartida.<br>**AV2:** Participó activamente en la toma de decisiones, respondió consultas del grupo y facilitó la comunicación para mantener una dirección compartida del trabajo.<br>**TB2:** Coordinó las entrevistas de validación con los tres segmentos objetivo, orientando al equipo en la preparación de guías y la recopilación de hallazgos para incorporar mejoras al producto de forma consensuada.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Impulsó el trabajo conjunto compartiendo observaciones sobre usuarios, estructura del sistema y organización de contenidos, fortaleciendo la colaboración y el consenso en decisiones grupales.<br>**TB1:** Condujo conversaciones para simplificar el flujo del producto, promoviendo debate abierto y acuerdos lógicos sobre la organización de información y navegación principal.<br>**AV2:** Analizó los avances del documento, propuso correcciones y motivó reuniones de coordinación para acordar tareas, tiempos y responsabilidades del equipo.<br>**TB2:** Impulsó el diseño del módulo de autenticación y recuperación de acceso, liderando sesiones de revisión técnica sobre seguridad, sincronización diferida y flujos de login multi-rol con participación activa de todos los integrantes.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Promovió el diálogo entre integrantes mediante sesiones de revisión, recolección de retroalimentación y organización de aportes para convertirlos en criterios comunes de trabajo.<br>**TB1:** Impulsó la corresponsabilidad en la definición del Backlog, moderando debates sobre complejidad y asegurando que todos compartieran compromiso y visión de éxito.<br>**AV2:** Sostuvo una participación constante en la producción y revisión del avance, apoyando al equipo con iniciativa, resiliencia y disposición para resolver bloqueos.<br>**TB2:** Dirigió el Sprint Planning 4 y la definición del IAM API, promoviendo una distribución equitativa de responsabilidades entre seguridad, integraciones y continuidad clínica, asegurando que cada decisión contara con el respaldo del equipo. | **AV1:** El equipo ejerció un liderazgo distribuido basado en coordinación, diálogo y construcción de acuerdos. Las actividades evidencian colaboración real, más que una división aislada de funciones.<br><br>**TB1:** Durante este ciclo se consolidó un liderazgo rotativo y empático. Los integrantes asumieron iniciativa en momentos clave, respetando los aportes del grupo y fortaleciendo la cohesión del equipo.<br><br>**AV2:** El equipo reforzó el liderazgo conjunto al organizar responsabilidades, revisar avances y tomar decisiones de manera compartida, manteniendo una comunicación constante durante el desarrollo del avance.<br><br>**TB2:** El liderazgo compartido alcanzó su mayor madurez durante el TB2. Cada integrante asumió la conducción de un aspecto crítico del producto (autenticación, farmacia, integraciones, validación, seguridad), generando decisiones técnicas respaldadas por todo el equipo y demostrando autonomía con responsabilidad colectiva. |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | Ruiz Mideyros, Adrian (U20241E177)<br>**AV1:** Participó en la definición de acuerdos y avances parciales, ayudando a sostener una dinámica ordenada, respetuosa y orientada al cumplimiento de metas comunes.<br>**TB1:** Fomentó un ambiente inclusivo al considerar la disponibilidad de sus compañeros, proponer metas individuales realistas y colaborar en bases comunes para evitar sobrecargas.<br>**AV2:** Ayudó a ordenar las actividades del avance, propuso una distribución clara de tareas y dio seguimiento para que el equipo cumpliera los plazos acordados.<br>**TB2:** Planificó y completó la integración con pasarelas de pago y el sistema de caché offline, compartiendo avances tempranos para que el equipo pudiera validar flujos dependientes y cumplir los objetivos del sprint sin retrasos.<br><br>Rojas Tello, Nestor Alonso (U202317099)<br>**AV1:** Apoyó la planificación del grupo priorizando actividades, proponiendo una secuencia de trabajo clara y conectando las decisiones técnicas con los objetivos del proyecto.<br>**TB1:** Promovió comunicación transparente en la gestión del avance, ayudó a despejar obstáculos del equipo y cuidó la puntualidad para no afectar metas comunes.<br>**AV2:** Colaboró en la planificación de tareas, compartió avances oportunamente y apoyó la resolución de problemas para no retrasar el trabajo de sus compañeros.<br>**TB2:** Estableció metas claras para el módulo de farmacia y recetas, comunicó avances de dispensación e inventario de manera oportuna y apoyó la validación del producto entrevistando a pacientes para recoger retroalimentación directa.<br><br>Astocondor Bazan, Alejandra Isabel (U202410678)<br>**AV1:** Contribuyó a un ambiente colaborativo compartiendo avances, recibiendo observaciones y ajustando sus aportes según la retroalimentación entregada por el equipo.<br>**TB1:** Generó retroalimentación positiva al compartir avances tempranos, dar visibilidad al estado del proyecto y responder a necesidades de soporte visual de sus compañeros.<br>**AV2:** Mantuvo comunicación constante sobre sus avances, atendió observaciones del equipo y ajustó su trabajo para cumplir las metas acordadas del avance.<br>**TB2:** Organizó las entrevistas de validación con administradores, doctores y pacientes, planificó la integración con RENIEC y órdenes de exámenes, y consolidó los hallazgos heurísticos para que el equipo priorizara correcciones de manera informada.<br><br>Diaz Martinez, Alexther Kamil (U202412316)<br>**AV1:** Aportó a la organización colectiva revisando avances, integrando comentarios y verificando que la información compartida ayudara al cumplimiento de objetivos comunes.<br>**TB1:** Fortaleció la confianza grupal al establecer canales claros para visualizar logros, validar entregables y motivar el cumplimiento oportuno de las metas.<br>**AV2:** Promovió reuniones de coordinación, compartió criterios para corregir el documento y ayudó a mantener el ritmo de trabajo frente a los pendientes.<br>**TB2:** Definió las tareas de autenticación, recuperación de contraseña y sincronización diferida, coordinó las correcciones del AV2 y mantuvo reuniones de seguimiento para asegurar que todos los flujos de login y seguridad estuvieran listos dentro del plazo.<br><br>Dulanto Espino, Leo César (U202410254)<br>**AV1:** Impulsó la coordinación mediante revisiones periódicas, intercambio de ideas y ajuste de prioridades, fortaleciendo la capacidad grupal para cumplir lo planificado.<br>**TB1:** Contribuyó al balance de carga apoyando la estimación del esfuerzo, mostrando flexibilidad y manteniendo constancia para alcanzar los objetivos pactados.<br>**AV2:** Apoyó la organización de tareas, comunicó avances con regularidad y colaboró en la revisión de pendientes para cumplir los objetivos del equipo.<br>**TB2:** Planificó el Sprint 4 definiendo velocidad y asignaciones, implementó la autenticación por rol y los mecanismos de cifrado y sesiones seguras, y comunicó el estado de cada tarea para que el equipo mantuviera visibilidad completa del progreso. | **AV1:** La evidencia muestra un entorno colaborativo, con metas compartidas, seguimiento de avances y retroalimentación constante. El cumplimiento de objetivos surgió de la coordinación entre integrantes.<br><br>**TB1:** El éxito de esta etapa se apoyó en corresponsabilidad e inclusión. La comunicación horizontal permitió ajustar ritmos de trabajo y sostener un entorno confiable de ayuda mutua.<br><br>**AV2:** El equipo logró sostener un entorno colaborativo mediante planificación, seguimiento y retroalimentación. La distribución de tareas y la comunicación constante permitieron cumplir los objetivos del avance.<br><br>**TB2:** El TB2 representó la entrega más completa del proyecto. El equipo planificó, ejecutó y validó funcionalidades críticas (IAM, farmacia, integraciones externas, seguridad y resiliencia offline) manteniendo un entorno inclusivo donde cada integrante cumplió sus objetivos individuales y contribuyó al logro colectivo mediante comunicación constante, entrevistas de validación y evaluaciones heurísticas. |
-
 
 # Capítulo I: Introducción
 
@@ -540,7 +539,6 @@ Asimismo, en el Perú, la Ley N° 29414 (Art. 15) establece que todo paciente ti
 
 Desde una perspectiva económica, el uso de Historias Clínicas Electrónicas (HCE) contribuye a reducir gastos innecesarios, ya que evita la repetición de exámenes médicos al permitir que el profesional de salud acceda de manera inmediata a los resultados previos del paciente. Esto no solo mejora la seguridad clínica, sino también optimiza el gasto del paciente en su atención médica.
 
-
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
@@ -643,7 +641,7 @@ Vitalia se diseña considerando normativas locales y necesidades reales del PNAS
 
 ### 2.2.2. Registro de entrevistas
 
-**Needfinding Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D]( https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Needfinding Interviews Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQDgJy2PUoP0TYZDkGzJovVSAdekNtVsyw0nG7B4hpjrJgY?e=cRDMrY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
@@ -983,7 +981,6 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 * **Commission (Comisión):** Porcentaje del costo de la consulta o monto fijo previamente acordado que le corresponde al médico por la atención brindada.
 * **Liquidation (Liquidación):** Cálculo consolidado (diario o mensual) que determina el monto total de dinero que el administrador del policlínico debe transferir a un médico, basado en las atenciones realizadas y sus respectivas comisiones.
 
-
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories
@@ -1018,18 +1015,18 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 | US014 | Solicitud de exámenes | **Como** médico, **quiero** generar órdenes de exámenes desde la misma consulta, **para** agilizar el plan diagnóstico del paciente. | **Scenario 1: Orden generada**<br>**Given** que el médico requiere estudios complementarios,<br>**When** selecciona los exámenes y confirma la orden,<br>**Then** el sistema registra la solicitud y la deja disponible para seguimiento.<br><br>**Scenario 2: Orden sin justificación clínica mínima**<br>**Given** que el establecimiento exige observación asociada a la orden,<br>**When** el médico intenta emitirla sin ese dato,<br>**Then** el sistema solicita completar la información requerida. | E2 |
 | US015 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | **Scenario 1: Reutilización de receta previa**<br>**Given** que el paciente tiene una receta anterior apta para repetición,<br>**When** el médico selecciona la opción de reutilizarla y la confirma,<br>**Then** el sistema carga los medicamentos para su revisión y emisión final.<br><br>**Scenario 2: Receta previa no apta**<br>**Given** que la receta anterior contiene medicamentos restringidos o desactualizados,<br>**When** el médico intenta reutilizarla,<br>**Then** el sistema impide la emisión automática y solicita revisión manual. | E2 |
 | US016 | Gráficos evolutivos de visitas | **Como** médico, **quiero** visualizar la tendencia visitas de los pacientes, **para** detectar frecuencia de uso. | **Scenario 1: Gráfico generado**<br>**Given** que existen registros históricos de triaje,<br>**When** el médico abre pacientes,<br>**Then** el sistema muestra las gráficas de visitas del paciente. | E2 |
-| US017 | Ingreso de medicinas al inventario | **Como** administrador, **quiero** registrar las medicinas, **para** mantener un registro de inventario de mi farmacia. | **Scenario 1: Registro de medicina**<br>**Given** el administrador ingresa a clinic settings/pharmacy,<br>**When** oprime el boton de agregar y rellena los campos <br>**Then** la aplicación registra el medicamento en el sistema. | E2 |
-| US018 | Emisión de recetas | **Como** médico, **quiero** registrar nuevas recetas, **para** facilitar mi flujo de trabajo. | **Scenario 1: emisión de receta exitosa**<br>**Given** que el doctor esta en pacientes,<br>**And** el médico selecciona la opción ver de asignar receta,<br>**When** rellena todos los datos **Then** el sistema registra la receta del paciente.<br><br> | E2 |
+| US017 | Ingreso de medicinas al inventario | **Como** administrador, **quiero** registrar las medicinas, **para** mantener un registro de inventario de mi farmacia. | **Scenario 1: Registro de medicina**<br>**Given** que el administrador ingresa a `clinic settings/pharmacy`,<br>**When** oprime el botón de agregar y rellena los campos,<br>**Then** la aplicación registra el medicamento en el sistema. | E2 |
+| US018 | Emisión de recetas | **Como** médico, **quiero** registrar nuevas recetas, **para** facilitar mi flujo de trabajo. | **Scenario 1: Emisión de receta exitosa**<br>**Given** que el doctor está en pacientes,<br>**And** selecciona la opción para asignar una receta,<br>**When** rellena todos los datos requeridos,<br>**Then** el sistema registra la receta del paciente. | E2 |
 | US019 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | **Scenario 1: Guardado exitoso**<br>**Given** que el médico completó la atención clínica,<br>**When** guarda y cierra la consulta,<br>**Then** el sistema confirma que la información fue registrada correctamente.<br><br>**Scenario 2: Fallo temporal de conexión**<br>**Given** que ocurre una interrupción momentánea al guardar la consulta,<br>**When** el sistema detecta el problema,<br>**Then** preserva la información capturada e informa al médico el estado del guardado. | E2 |
 | US020 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | **Scenario 1: Nuevo paciente registrado**<br>**Given** que el paciente no existe en la base de datos institucional,<br>**When** el administrativo registra su información obligatoria,<br>**Then** el sistema crea una ficha única para futuras atenciones.<br><br>**Scenario 2: Detección de posible duplicado**<br>**Given** que los datos ingresados coinciden con un paciente existente,<br>**When** el administrativo intenta crear un nuevo registro,<br>**Then** el sistema alerta la posible duplicidad antes de guardar. | E3 |
-| US021 | Visualización de mini calendario | **Como** médico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | **Scenario 1: Visualización exitosa **<br>**Given** que el médico esta en agenda,<br>**When** hace click en un dia del calendario ,<br>**Then** el sistema muestra el horario del día seleccionado<br><br> | E3 |
-| US022 | Visualización de detalles de cita | **Como** paciente, **quiero** visualizar los detalles de mi cita programada **para** no tener dudas de su contenido. | **Scenario 1: Paciente marcado como presente**<br>**Given** que el paciente tiene una cita activa,<br>**When**le da click a visualizar detalles**Then** el sistema muestra los detalles de la cita.<br><br>. | E3 |
-| US023 | Pagar la cita | **Como** paciente, **quiero** pagar las citas medicas desde la aplicación, **para** facilitar mi experiencia. | **Scenario 1: Pago exitoso **<br>**Given** que el paciente tiene una cita<br>**When** oprime el boton pagar y sigue los pasos,<br>**Then** se registra la venta en el sistema. | E3 |
+| US021 | Visualización de mini calendario | **Como** médico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | **Scenario 1: Visualización exitosa**<br>**Given** que el médico está en agenda,<br>**When** hace clic en un día del calendario,<br>**Then** el sistema muestra el horario del día seleccionado. | E3 |
+| US022 | Visualización de detalles de cita | **Como** paciente, **quiero** visualizar los detalles de mi cita programada, **para** no tener dudas de su contenido. | **Scenario 1: Visualización de detalles**<br>**Given** que el paciente tiene una cita activa,<br>**When** le da clic a visualizar detalles,<br>**Then** el sistema muestra los detalles de la cita. | E3 |
+| US023 | Pagar la cita | **Como** paciente, **quiero** pagar las citas médicas desde la aplicación, **para** facilitar mi experiencia. | **Scenario 1: Pago exitoso**<br>**Given** que el paciente tiene una cita,<br>**When** oprime el botón pagar y sigue los pasos,<br>**Then** se registra la venta en el sistema. | E3 |
 | US024 | Generación automatizada de comprobantes | **Como** personal administrativo, **quiero** emitir boletas y facturas de forma automatizada tras cerrar la atención, **para** reducir errores en caja. | **Scenario 1: Comprobante emitido**<br>**Given** la consulta finalizada y valorizada,<br>**When** se procesa el cobro en el módulo de caja,<br>**Then** el sistema genera la versión digital del comprobante. | E3 |
 | US025 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | **Scenario 1: Listado de pendientes**<br>**Given** que existen atenciones no canceladas total o parcialmente,<br>**When** el administrativo consulta el módulo de pagos pendientes,<br>**Then** el sistema muestra el detalle actualizado de montos, fechas y estados.<br><br>**Scenario 2: Sin deudas registradas**<br>**Given** que todas las atenciones del periodo están pagadas,<br>**When** el administrativo revisa el módulo,<br>**Then** el sistema informa que no existen pendientes por cobrar. | E3 |
 | US026 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | **Scenario 1: Indicadores disponibles**<br>**Given** que existen datos cargados en el periodo consultado,<br>**When** el administrativo ingresa al dashboard y aplica filtros,<br>**Then** el sistema muestra indicadores resumidos y actualizados según el criterio seleccionado.<br><br>**Scenario 2: Periodo sin datos**<br>**Given** que el rango consultado no tiene actividad registrada,<br>**When** el administrativo visualiza el dashboard,<br>**Then** el sistema muestra el estado vacío sin errores ni cifras inconsistentes. | E3 |
-| US027 | Descarga de historial clinico como pdf | **Como** paciente, **quiero** descargar mi historial clinico en pdf, **para** tener mis documentos fisicamente. | **Scenario 1: Reporte generado**<br>**Given** que el sistema cuenta con datos operativos del periodo,<br>**When** el paciente solicita descargar su historial clinico,<br>**Then** el sistema genera el documento listo para imprimir.<br><br> | E3 |
-| US028 | Registro de citas como administrador | **Como** personal administrativo, **quiero** registrar citas manualmente, **para** agendar pacientes que no manejen la tecnología o se presenten de forma presencial | **Scenario 1: Creación de cita desde admin**<br>**Given** el administrador se encuentra en schedule,<br>**When** hace click en agendar recurso, y rellena todos los campos <br>**Then** el sistema agenda una cita.<br><br | E3 |
+| US027 | Descarga de historial clínico como PDF | **Como** paciente, **quiero** descargar mi historial clínico en PDF, **para** tener mis documentos físicamente. | **Scenario 1: Reporte generado**<br>**Given** que el sistema cuenta con datos operativos del periodo,<br>**When** el paciente solicita descargar su historial clínico,<br>**Then** el sistema genera el documento listo para imprimir. | E3 |
+| US028 | Registro de citas como administrador | **Como** personal administrativo, **quiero** registrar citas manualmente, **para** agendar pacientes que no manejen la tecnología o se presenten de forma presencial. | **Scenario 1: Creación de cita desde administración**<br>**Given** que el administrador se encuentra en `schedule`,<br>**When** hace clic en agendar recurso y rellena todos los campos,<br>**Then** el sistema agenda una cita. | E3 |
 | US029 | Integración con servicios de identidad (RENIEC) | **Como** administrativo, **quiero** autocompletar datos del paciente ingresando su DNI mediante un servicio externo, **para** registrar pacientes de forma rápida y sin errores. | **Scenario 1: Autocompletar exitoso**<br>**Given** la ventana de nuevo registro,<br>**When** el administrativo digita un DNI válido y presiona consultar,<br>**Then** el sistema trae nombres y apellidos de forma automatizada. | E3 |
 | US030 | Sincronización con pasarelas de pago | **Como** administrador, **quiero** integrar pasarelas de pago digital vía API, **para** conciliar automáticamente las transacciones en línea. | **Scenario 1: Conciliación exitosa**<br>**Given** una transacción por pasarela externa,<br>**When** se valida el callback de la pasarela,<br>**Then** el sistema marca el cobro de la cita como pagado. | E3 |
 | US031 | Diseño responsive | **Como** usuario, **quiero** utilizar la plataforma desde celular, tablet o computadora, **para** acceder al sistema según el contexto de uso. | **Scenario 1: Visualización adaptable**<br>**Given** que el usuario accede desde distintos tamaños de pantalla,<br>**When** navega por los módulos principales,<br>**Then** el sistema adapta su interfaz sin perder funcionalidad ni legibilidad.<br><br>**Scenario 2: Cambio de orientación o tamaño**<br>**Given** que el usuario cambia la orientación del dispositivo o el tamaño de la ventana,<br>**When** continúa usando la plataforma,<br>**Then** el sistema reajusta la distribución sin romper la navegación. | E4 |
@@ -1041,7 +1038,7 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 | US037 | Caché y guardado local temporal | **Como** usuario, **quiero** que mis datos ingresados se guarden localmente ante un corte de internet, **para** evitar perder información redactada durante minutos. | **Scenario 1: Almacenamiento offline**<br>**Given** un corte temporal de conexión a internet,<br>**When** el médico escribe en el editor clínico,<br>**Then** los datos se resguardan en el LocalStorage / IndexDB. | E4 |
 | US038 | Sincronización diferida tras restablecimiento | **Como** usuario, **quiero** que el sistema sincronice automáticamente los datos guardados localmente al recuperar la conexión, **para** mantener el registro unificado sin intervención manual. | **Scenario 1: Sincronización post-corte**<br>**Given** datos resguardados offline,<br>**When** el sistema detecta reconexión de internet,<br>**Then** lanza un proceso de fondo que sincroniza las notas pendientes con el servidor. | E4 |
 | US039 | Navegación simple | **Como** usuario, **quiero** encontrar las funciones principales con pocos pasos, **para** reducir la curva de aprendizaje y el tiempo de uso. | **Scenario 1: Ruta corta a funciones clave**<br>**Given** que el usuario necesita acceder a una función principal del sistema,<br>**When** navega desde el menú principal,<br>**Then** puede llegar a dicha función mediante una ruta clara y directa.<br><br>**Scenario 2: Usuario nuevo en la plataforma**<br>**Given** que el usuario usa el sistema por primera vez,<br>**When** explora las opciones visibles,<br>**Then** el sistema presenta etiquetas comprensibles y organización coherente. | E4 |
-| US040 | Cancelar citas y eventos desde administración | **Como** administrador, **quiero** eliminar registros de citas o eventos en la plataforma, **para** tener manejar errores manuales. | **Scenario 1: Acción eliminar citas**<br>**Given** el administrador esta en agenda ,<br>**When** selecciona la cita y presiona cancelar ,<br>**Then** el sistema cancela la cita correspondiente.<br><br>| E4 |
+| US040 | Cancelar citas y eventos desde administración | **Como** administrador, **quiero** eliminar registros de citas o eventos en la plataforma, **para** manejar errores manuales. | **Scenario 1: Acción de eliminar citas**<br>**Given** que el administrador está en agenda,<br>**When** selecciona la cita y presiona cancelar,<br>**Then** el sistema cancela la cita correspondiente. | E4 |
 | US041 | Visualización de propuesta de valor | **Como** visitante, **quiero** entender rápidamente qué problema resuelve Vitalia, **para** evaluar si el software se ajusta a mi establecimiento de salud. | **Scenario 1: Información principal visible**<br>**Given** que un visitante entra a la landing page por primera vez,<br>**When** revisa la sección inicial del sitio,<br>**Then** encuentra una propuesta de valor clara enfocada en la gestión clínica integral.<br><br>**Scenario 2: Navegación rápida del contenido**<br>**Given** que el visitante desea identificar la solución sin leer todo el sitio,<br>**When** recorre los bloques principales,<br>**Then** puede reconocer de forma resumida beneficios y público objetivo. | E5 |
 | US042 | Solicitud de contacto comercial | **Como** visitante interesado, **quiero** dejar mis datos en un formulario de contacto, **para** solicitar una demostración o mayor información del producto. | **Scenario 1: Formulario enviado**<br>**Given** que el visitante completa sus datos de contacto y mensaje,<br>**When** envía el formulario correctamente,<br>**Then** el sistema registra la solicitud y muestra una confirmación de recepción.<br><br>**Scenario 2: Formulario incompleto**<br>**Given** que el visitante omite datos obligatorios del formulario,<br>**When** intenta enviarlo,<br>**Then** el sistema muestra validaciones y no procesa la solicitud. | E5 |
 | US043 | Sección de funcionalidades clave | **Como** visitante, **quiero** ver las funcionalidades principales del sistema en la landing page, **para** comprender el alcance de la solución antes de solicitar una demo. | **Scenario 1: Funcionalidades visibles**<br>**Given** que el visitante explora la página informativa,<br>**When** llega a la sección de funcionalidades,<br>**Then** el sistema presenta módulos como citas, historia clínica, farmacia y facturación de forma clara.<br><br>**Scenario 2: Contenido resumido y comprensible**<br>**Given** que el visitante no conoce el producto,<br>**When** revisa esa sección,<br>**Then** comprende el valor de cada funcionalidad sin necesidad de soporte adicional. | E5 |
@@ -1101,16 +1098,16 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 | 15 | US001 | Registro de paciente | **Como** paciente nuevo, **quiero** crear mi cuenta con mis datos personales básicos, **para** acceder a mis servicios médicos desde un solo lugar. | 5 |
 | 16 | US006 | Consulta de historial clínico | **Como** paciente, **quiero** visualizar mi historial clínico digital, **para** revisar diagnósticos, atenciones y continuidad de tratamiento sin depender de copias físicas. | 5 |
 | 17 | US007 | Consulta de resultados y recetas | **Como** paciente, **quiero** ver mis resultados y recetas emitidas en línea, **para** evitar ir al establecimiento solo para recoger información. | 5 |
-| 18 | US027 | Descarga de historial clinico como pdf | **Como** paciente, **quiero** descargar mi historial clinico en pdf, **para** tener mis documentos fisicamente. | 5 |
+| 18 | US027 | Descarga de historial clínico como PDF | **Como** paciente, **quiero** descargar mi historial clínico en PDF, **para** tener mis documentos físicamente. | 5 |
 | 19 | US022 | Visualización de detalles de cita | **Como** paciente, **quiero** visualizar los detalles de mi cita programada **para** no tener dudas de su contenido. | 3 |
 | 20 | US009 | Agenda médica diaria | **Como** médico, **quiero** visualizar mi agenda diaria organizada, **para** preparar mis consultas y administrar mejor mi jornada. | 3 |
 | 21 | US021 | Visualización de mini calendario | **Como** médico, **quiero** visualizar un minicalendario mensual, **para** ver mis citas durante el mes. | 5 |
 | 22 | US010 | Consulta rápida del historial del paciente | **Como** médico, **quiero** acceder rápidamente al historial clínico del paciente antes y durante la consulta, **para** tomar decisiones con información completa. | 5 |
-| 23 | US018 | Vista de hce del paciente | **Como** médico, **quiero** revisar datos de historial clinico antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo. | 3 |
+| 23 | US048 | Vista de HCE del paciente | **Como** médico, **quiero** revisar datos de historial clínico antes de la consulta, **para** priorizar mejor la atención y ahorrar tiempo. | 3 |
 | 24 | US016 | Gráficos evolutivos de visitas | **Como** médico, **quiero** visualizar la tendencia visitas de los pacientes, **para** detectar frecuencia de uso. | 5 |
 | 25 | US019 | Cierre de atención sin pérdida de datos | **Como** médico, **quiero** guardar y cerrar una consulta de manera confiable, **para** evitar pérdida de información por lentitud o fallas de conectividad. | 5 |
 | 26 | US020 | Registro único de pacientes | **Como** personal administrativo, **quiero** registrar pacientes en una base unificada, **para** evitar duplicidad de datos entre admisión y atención médica. | 5 |
-| 27 | US040 | Cancelar citas y eventos desde administración | **Como** administrador, **quiero** eliminar registros de citas o eventos en la plataforma, **para** tener manejar errores manuales. | 5 |
+| 27 | US040 | Cancelar citas y eventos desde administración | **Como** administrador, **quiero** eliminar registros de citas o eventos en la plataforma, **para** manejar errores manuales. | 5 |
 | 28 | US017 | Ingreso de medicinas al inventario | **Como** administrador, **quiero** registrar las medicinas, **para** mantener un registro de inventario de mi farmacia. | 3 |
 | 29 | US024 | Generación automatizada de comprobantes | **Como** personal administrativo, **quiero** emitir boletas y facturas de forma automatizada tras cerrar la atención, **para** reducir errores en caja. | 5 |
 | 30 | US026 | Dashboard operativo | **Como** personal administrativo, **quiero** ver métricas de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones con información consolidada. | 5 |
@@ -1122,7 +1119,7 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 | 36 | US011 | Registro de anamnesis y examen físico | **Como** médico, **quiero** registrar anamnesis y examen físico en una sola atención, **para** documentar la consulta de forma ordenada y completa. | 5 |
 | 37 | US012 | Emisión de diagnóstico | **Como** médico, **quiero** registrar el diagnóstico de la consulta, **para** dejar constancia clínica y orientar el tratamiento del paciente. | 3 |
 | 38 | US013 | Emisión de recetas digitales | **Como** médico, **quiero** emitir recetas digitales legibles, **para** reducir errores y facilitar la dispensación de medicamentos. | 5 |
-| 39 | US023 | Pagar la cita | **Como** paciente, **quiero** pagar las citas medicas desde la aplicación, **para** facilitar mi experiencia. | 5 |
+| 39 | US023 | Pagar la cita | **Como** paciente, **quiero** pagar las citas médicas desde la aplicación, **para** facilitar mi experiencia. | 5 |
 | 40 | US025 | Control de pagos pendientes | **Como** personal administrativo, **quiero** visualizar atenciones con pagos pendientes, **para** dar seguimiento oportuno y mantener el orden financiero del establecimiento. | 3 |
 | 41 | TS005 | Integración del frontend con APIs reales | **Como** desarrollador, **quiero** reemplazar el consumo de mock services por endpoints reales del backend, **para** que las vistas de la aplicación trabajen con datos persistentes y actualizados. | 5 |
 | 42 | TS006 | Manejo de errores y validaciones API | **Como** desarrollador, **quiero** estandarizar las validaciones, códigos HTTP y respuestas de error del backend, **para** que el frontend pueda mostrar mensajes claros y mantener un comportamiento confiable ante fallos. | 3 |
@@ -1133,11 +1130,10 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 | 47 | US029 | Integración con servicios de identidad (RENIEC) | **Como** administrativo, **quiero** autocompletar datos del paciente ingresando su DNI mediante un servicio externo, **para** registrar pacientes de forma rápida. | 5 |
 | 48 | US030 | Sincronización con pasarelas de pago | **Como** administrador, **quiero** integrar pasarelas de pago digital vía API, **para** conciliar automáticamente las transacciones en línea. | 3 |
 | 49 | US014 | Solicitud de exámenes | **Como** médico, **quiero** generar órdenes de exámenes desde la misma consulta, **para** agilizar el plan diagnóstico del paciente. | 5 |
-| 50 | US028 | Gestión de farmacia | **Como** personal administrativo o de farmacia, **quiero** consultar las recetas emitidas y su estado de dispensación, **para** coordinar la entrega de medicamentos de forma ordenada. | 5 |
+| 50 | US049 | Gestión de farmacia | **Como** personal administrativo o de farmacia, **quiero** consultar las recetas emitidas y su estado de dispensación, **para** coordinar la entrega de medicamentos de forma ordenada. | 5 |
 | 51 | US015 | Repetición rápida de recetas frecuentes | **Como** médico, **quiero** reutilizar recetas frecuentes o previas con un clic, **para** reducir tiempo administrativo en controles repetitivos. | 5 |
 | 52 | US037 | Caché y guardado local temporal | **Como** usuario, **quiero** que mis datos ingresados se guarden localmente ante un corte de internet, **para** evitar perder información redactada. | 5 |
 | 53 | US038 | Sincronización diferida tras restablecimiento | **Como** usuario, **quiero** que el sistema sincronice automáticamente los datos guardados localmente al recuperar la conexión, **para** mantener la integridad. | 3 |
-
 
 # Capítulo IV: Product Design
 
@@ -1304,7 +1300,7 @@ Para asegurar la correcta indexación en motores de búsqueda y la presentación
 | --- | --- | --- |
 | **Title** | Vitalia by KinetiaLabs \| El SaaS Integral para Policlínicos | Vitalia App \| Iniciar Sesión |
 | **Meta Description** | Centraliza tu policlínico: citas, historia clínica, farmacia y facturación en un solo sistema. Optimiza la gestión clínica de forma fácil y segura. | Accede a tu portal seguro en Vitalia. Gestiona tus citas médicas, revisa tus resultados y conéctate con tu clínica. |
-| **Meta Keywords** | software para clinicas, historia clinica electronica peru, saas medico, gestion de policlinicos, facturacion medica, KinetiaLabs | vitalia login, portal del paciente, acceso medicos vitalia, historial clinico online |
+| **Meta Keywords** | software para clínicas, historia clínica electrónica Perú, SaaS médico, gestión de policlínicos, facturación médica, KinetiaLabs | Vitalia login, portal del paciente, acceso médicos Vitalia, historial clínico online |
 | **Meta Author** | KinetiaLabs | KinetiaLabs |
 
 ### 4.2.4. Searching Systems
@@ -1364,7 +1360,7 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
 - **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
 - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
-- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
+- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US026, US030)
 
 *Figura 23 (Wireflow 1 Administradores)*  
 <img src="./assets/images/figures/23-Wireflow-Admin-1.png" alt="Wireflow" style="width: 100vw;">
@@ -1474,7 +1470,7 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 - **Como** administrador de un establecimiento de PNAS, **quiero** programar citas solicitadas por canales presenciales o telefónicos y confirmar la asistencia del paciente, **para** actualizar el flujo de atención en tiempo real. (US022, US023)
 - **Como** administrador de un establecimiento de PNAS, **quiero** gestionar el circuito operativo posterior a la atención, incluyendo recetas para farmacia, facturación electrónica y pagos pendientes, **para** mantener ordenado el proceso asistencial y financiero. (US025, US026, US029)
 - **Como** administrador de un establecimiento de PNAS, **quiero** consultar indicadores de citas, atenciones e ingresos en un dashboard, **para** tomar decisiones operativas con información consolidada y actualizada. (US027)
-- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US028, US030)
+- **Como** administrador de un establecimiento de PNAS, **quiero** generar reportes automáticos e integrar Vitalia con otros sistemas mediante API, **para** reducir trabajo manual y evitar el aislamiento de la operación del establecimiento. (US026, US030)
 
 *Figura 51 (Userflow 1 Administradores)* 
 <img src="./assets/images/figures/51-Userflow-Admin-1.png" alt="Userflow" style="width: 100vw;">
@@ -1531,9 +1527,9 @@ El sistema de navegación define las acciones y técnicas que guían a los usuar
 
 ## 4.5. Web Applications Prototyping
 
-En esta sección se presentan los prototipos de interfaz de usuario (UI) para Desktop y Mobile Web Browser, los cuales simulan la interacción y navegación de los principales flujos definidos en los User Flow Diagrams, alineados con las historias de usuario previamente descritas. En el caso del segmento de administradores, se representan flujos como el registro y gestión de pacientes (US021, US024), la programación y confirmación de citas (US022, US023), y la gestión del circuito posterior a la atención, incluyendo recetas, facturación y pagos (US025, US026, US029), así como la consulta de indicadores y generación de reportes (US027, US028, US030). Para el segmento de doctores, los prototipos cubren la revisión de agenda y datos de triaje (US010, US019), el acceso al historial clínico y resúmenes automáticos (US011, US017), el registro integral de la atención médica (US012, US013), y la emisión de recetas digitales y órdenes de exámenes (US014, US015). Finalmente, para el segmento de pacientes, se incluyen flujos de creación de cuenta e inicio de sesión (US001, US002), gestión de citas digitales (US003, US004, US005), recepción de recordatorios (US008) y consulta de historial clínico y resultados en línea (US006, US007). El diseño de estos prototipos responde a criterios de usabilidad, consistencia y claridad en la arquitectura de información, estructurando la navegación en módulos funcionales según el rol del usuario. La validación de estos flujos se presenta mediante un video demostrativo que evidencia la interacción y navegación en los prototipos, reemplazando las capturas estáticas al mostrar de forma más completa el comportamiento dinámico del sistema.
+En esta sección se presentan los prototipos de interfaz de usuario (UI) para Desktop y Mobile Web Browser, los cuales simulan la interacción y navegación de los principales flujos definidos en los User Flow Diagrams, alineados con las historias de usuario previamente descritas. En el caso del segmento de administradores, se representan flujos como el registro y gestión de pacientes (US021, US024), la programación y confirmación de citas (US022, US023), y la gestión del circuito posterior a la atención, incluyendo recetas, facturación y pagos (US025, US026, US029), así como la consulta de indicadores y generación de reportes (US027, US026, US030). Para el segmento de doctores, los prototipos cubren la revisión de agenda y datos de triaje (US010, US019), el acceso al historial clínico y resúmenes automáticos (US011, US017), el registro integral de la atención médica (US012, US013), y la emisión de recetas digitales y órdenes de exámenes (US014, US015). Finalmente, para el segmento de pacientes, se incluyen flujos de creación de cuenta e inicio de sesión (US001, US002), gestión de citas digitales (US003, US004, US005), recepción de recordatorios (US008) y consulta de historial clínico y resultados en línea (US006, US007). El diseño de estos prototipos responde a criterios de usabilidad, consistencia y claridad en la arquitectura de información, estructurando la navegación en módulos funcionales según el rol del usuario. La validación de estos flujos se presenta mediante un video demostrativo que evidencia la interacción y navegación en los prototipos, reemplazando las capturas estáticas al mostrar de forma más completa el comportamiento dinámico del sistema.
 
-**Prototype Video Link:** [https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca ](https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca )
+**Prototype Video Link:** [https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca](https://upcedupe-my.sharepoint.com/personal/u202410678_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202410678_upc_edu_pe%2FDocuments%2FUniversidad%2FCiclo5%2Fprototype%2Emkv&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7f436198-8fbe-46a0-be83-45666c03bdca)
 
 <img src="./assets/images/others/prototype-evidence.png" alt="Prototype Evidence" style="width: 100vw;"/>
 
@@ -1629,7 +1625,6 @@ Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada 
 
 *Figura 79 (Database Diagram)*  
 <img src="./assets/diagrams/database-diagram.svg" alt="Database Diagram" style="width: 100vw;">
-
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1749,18 +1744,17 @@ El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de Gi
 
 Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestionarán mediante commits y merges hacia la rama main. Cada cambio publicado en esta rama generará automáticamente una nueva versión desplegada del sitio.
 
-
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
 
 #### *5.2.1.1. Sprint Planning 1*
 
-Para el desarrollo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por sección de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
+Para el desarrollo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por sección de la landing, agilizando su desarrollo. Dentro de la landing se presenta quiénes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
 
 | **Sprint #** | 1 |
 | --- | --- |
-| **Date** | 2026-24-04 |
+| **Date** | 2026-04-24 |
 | **Time** | 4:00 PM |
 | **Location** | Reunión virtual |
 | **Prepared By** | Adrian Ruiz Mideyros |
@@ -1781,7 +1775,7 @@ Para el desarrollo del primer sprint nos centramos en el desarrollo de la landin
 
 #### *5.2.1.3. Sprint Backlog 1*
 
-El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing page de Vitalia, priorizando las secciones visibles para comunicar la propuesta de valor, funcionalidades, planes, contacto y quienes somos.
+El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing page de Vitalia, priorizando las secciones visibles para comunicar la propuesta de valor, funcionalidades, planes, contacto y quiénes somos.
 
 **Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
@@ -1952,7 +1946,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
@@ -2097,37 +2091,36 @@ Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestio
 
 <img src="./assets/images/others/s1-collab-insight-2.png" alt="s1-collab-insight-2" style="width: 100vw;"/>
 
-
 ### 5.2.2. Sprint 2
 
 #### *5.2.2.1. Sprint Planning 2*
 
-Para el desarrollo del segundo sprint, el equipo se centrar� en la construcci�n del Frontend de la aplicaci�n web de Vitalia utilizando el framework Vue.js. El enfoque principal consiste en estructurar la arquitectura SPA (Single Page Application) utilizando herramientas como Vue Router y Pinia para la gesti�n de estados, implementar el sistema de dise�o responsivo "Santuario Cl�nico" y simular/consumir datos (Fake API / json-server) para dar soporte a los flujos funcionales de pacientes, m�dicos y administradores.
+Para el desarrollo del segundo sprint, el equipo se centrará en la construcción del Frontend de la aplicación web de Vitalia utilizando el framework Vue.js. El enfoque principal consiste en estructurar la arquitectura SPA (Single Page Application) utilizando herramientas como Vue Router y Pinia para la gestión de estados, implementar el sistema de diseño responsivo "Santuario Clínico" y simular/consumir datos (Fake API / json-server) para dar soporte a los flujos funcionales de pacientes, médicos y administradores.
 
 | **Sprint #** | 2 |
 | --- | --- |
 | **Date** | 2026-05-10 |
 | **Time** | 16:30 |
-| **Location** | Reuni�n virtual |
+| **Location** | Reunión virtual |
 | **Prepared By** | Nestor Alonso Rojas Tello |
-| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo C�sar Dulanto Espino |
+| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
 | **Sprint n Goal** | Our focus is on building a fully interactive and responsive user interface for the Vitalia web application using Vue.js. The goal is to implement secure Role-Based Access Control (RBAC) navigation, core patient workflows, and primary views for medical agendas and appointment booking, integrated with simulated data services (Mock APIs). This will be validated once the web application is deployed, ensuring a seamless, intuitive experience for patients, doctors, and administrators across both mobile and desktop devices. |
 | **Sprint n Velocity** | Designamos aceptar hasta 34 SP |
 | **Sum of Story Points** | 34 SP |
 
 #### *5.2.2.2. Aspect Leaders and Collaborators*
 
-| Team Member | GitHub Username | Vue Core & Router | Vistas Paciente | Vistas M�dico | Vistas Admin | Mock Services |
+| Team Member | GitHub Username | Vue Core & Router | Vistas Paciente | Vistas Médico | Vistas Admin | Mock Services |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
-| Dulanto Espino, Leo C�sar | Leotens | C | C | C | L | C |
+| Dulanto Espino, Leo César | Leotens | C | C | C | L | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | L | C | C | C | C |
 | Alexther Kamil Diaz Martinez | kamil-tron | C | L | C | C | C |
 | Rojas Tello, Alonso | nes-ro | C | C | C | C | L |
 
 #### *5.2.2.3. Sprint Backlog 2*
 
-El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitalia, incluyendo la navegaci�n, el dise�o responsivo, el control de acceso por roles y los primeros flujos para pacientes, m�dicos y administradores. Con estas tareas se dej� una aplicaci�n interactiva conectada a servicios simulados para validar la experiencia antes de integrar APIs reales.
+El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia, incluyendo la navegación, el diseño responsivo, el control de acceso por roles y los primeros flujos para pacientes, médicos y administradores. Con estas tareas se dejó una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de integrar APIs reales.
 
 **Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
@@ -2156,33 +2149,33 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
   <tbody>
     <tr>
       <td>US031</td>
-      <td>Dise�o responsive</td>
+      <td>Diseño responsive</td>
       <td>5</td>
       <td>TO13</td>
       <td>Componentes Base Responsivos</td>
-      <td>Adaptar los layouts de UI "Santuario Cl�nico" a m�vil/escritorio</td>
+      <td>Adaptar los layouts de UI "Santuario Clínico" a móvil/escritorio</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US039</td>
-      <td>Navegaci�n simple</td>
+      <td>Navegación simple</td>
       <td>3</td>
       <td>TO14</td>
-      <td>Configuraci�n de Rutas y Sidebar</td>
-      <td>Configurar el sistema de Vue Router y men� persistente</td>
+      <td>Configuración de Rutas y Sidebar</td>
+      <td>Configurar el sistema de Vue Router y menú persistente</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US032</td>
-      <td>Tiempo de respuesta �gil</td>
+      <td>Tiempo de respuesta ágil</td>
       <td>5</td>
       <td>TO15</td>
       <td>Lazy Loading y Componentes</td>
-      <td>Implementar carga perezosa en rutas e im�genes pesadas</td>
+      <td>Implementar carga perezosa en rutas e imágenes pesadas</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
@@ -2193,18 +2186,18 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
       <td>5</td>
       <td>TO16</td>
       <td>Ajustes de accesibilidad visual</td>
-      <td>Mejorar legibilidad, jerarqu�a visual y claridad de acciones en las vistas principales</td>
+      <td>Mejorar legibilidad, jerarquía visual y claridad de acciones en las vistas principales</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US034</td>
-      <td>Definici�n de accesos basados en roles (RBAC)</td>
+      <td>Definición de accesos basados en roles (RBAC)</td>
       <td>5</td>
       <td>TO17</td>
       <td>Navigation Guards y Roles</td>
-      <td>Implementar guards de navegaci�n para restringir vistas</td>
+      <td>Implementar guards de navegación para restringir vistas</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2222,10 +2215,10 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
     </tr>
     <tr>
       <td>US006</td>
-      <td>Consulta de historial cl�nico</td>
+      <td>Consulta de historial clínico</td>
       <td>2</td>
       <td>TO19</td>
-      <td>Panel de historial cl�nico</td>
+      <td>Panel de historial clínico</td>
       <td>Construir vista de historial del paciente</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2236,117 +2229,117 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
       <td>Consulta de resultados y recetas</td>
       <td>5</td>
       <td>TO20</td>
-      <td>Vista de documentos cl�nicos</td>
-      <td>Construir la visualizaci�n de resultados y recetas emitidas para el paciente</td>
+      <td>Vista de documentos clínicos</td>
+      <td>Construir la visualización de resultados y recetas emitidas para el paciente</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US027</td>
-      <td>Descarga de historial cl�nico como PDF</td>
+      <td>Descarga de historial clínico como PDF</td>
       <td>5</td>
       <td>TO21</td>
       <td>Descarga de historial</td>
-      <td>Agregar acci�n para generar y descargar el historial cl�nico del paciente en formato PDF</td>
+      <td>Agregar acción para generar y descargar el historial clínico del paciente en formato PDF</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US022</td>
-      <td>Visualizaci�n de detalles de cita</td>
+      <td>Visualización de detalles de cita</td>
       <td>3</td>
       <td>TO22</td>
       <td>Detalle de cita del paciente</td>
-      <td>Implementar la vista de detalle para consultar fecha, m�dico, especialidad y estado de una cita</td>
+      <td>Implementar la vista de detalle para consultar fecha, médico, especialidad y estado de una cita</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US009</td>
-      <td>Agenda m�dica diaria</td>
+      <td>Agenda médica diaria</td>
       <td>3</td>
       <td>TO23</td>
       <td>Calendario y Agenda</td>
-      <td>Construir la visualizaci�n de la agenda m�dica</td>
+      <td>Construir la visualización de la agenda médica</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US021</td>
-      <td>Visualizaci�n de mini calendario</td>
+      <td>Visualización de mini calendario</td>
       <td>5</td>
       <td>TO24</td>
-      <td>Mini calendario m�dico</td>
-      <td>Agregar un calendario mensual para seleccionar d�as y revisar citas programadas</td>
+      <td>Mini calendario médico</td>
+      <td>Agregar un calendario mensual para seleccionar días y revisar citas programadas</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US010</td>
-      <td>Consulta r�pida del historial del paciente</td>
+      <td>Consulta rápida del historial del paciente</td>
       <td>5</td>
       <td>TO25</td>
-      <td>Acceso r�pido a historial</td>
-      <td>Implementar acceso al historial cl�nico del paciente desde el flujo de atenci�n m�dica</td>
+      <td>Acceso rápido a historial</td>
+      <td>Implementar acceso al historial clínico del paciente desde el flujo de atención médica</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US018</td>
+      <td>US048</td>
       <td>Vista de HCE del paciente</td>
       <td>3</td>
       <td>TO26</td>
-      <td>Vista HCE para m�dico</td>
-      <td>Construir una vista resumida de historia cl�nica electr�nica antes de la consulta</td>
+      <td>Vista HCE para médico</td>
+      <td>Construir una vista resumida de historia clínica electrónica antes de la consulta</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US016</td>
-      <td>Gr�ficos evolutivos de visitas</td>
+      <td>Gráficos evolutivos de visitas</td>
       <td>5</td>
       <td>TO27</td>
-      <td>Gr�ficos de visitas</td>
-      <td>Mostrar visualizaciones de tendencia de visitas del paciente en el m�dulo m�dico</td>
+      <td>Gráficos de visitas</td>
+      <td>Mostrar visualizaciones de tendencia de visitas del paciente en el módulo médico</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US019</td>
-      <td>Cierre de atenci�n sin p�rdida de datos</td>
+      <td>Cierre de atención sin pérdida de datos</td>
       <td>5</td>
       <td>TO28</td>
-      <td>Guardado confiable de atenci�n</td>
-      <td>Agregar confirmaci�n de guardado y cierre seguro para la informaci�n registrada en consulta</td>
+      <td>Guardado confiable de atención</td>
+      <td>Agregar confirmación de guardado y cierre seguro para la información registrada en consulta</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US020</td>
-      <td>Registro �nico de pacientes</td>
+      <td>Registro único de pacientes</td>
       <td>5</td>
       <td>TO29</td>
       <td>Registro administrativo de pacientes</td>
-      <td>Implementar formulario administrativo para crear fichas �nicas y evitar duplicidad de pacientes</td>
+      <td>Implementar formulario administrativo para crear fichas únicas y evitar duplicidad de pacientes</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US040</td>
-      <td>Cancelar citas y eventos desde administraci�n</td>
+      <td>Cancelar citas y eventos desde administración</td>
       <td>5</td>
       <td>TO30</td>
-      <td>Cancelaci�n administrativa</td>
+      <td>Cancelación administrativa</td>
       <td>Permitir al administrador cancelar citas o eventos registrados desde la agenda</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2357,19 +2350,19 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
       <td>Ingreso de medicinas al inventario</td>
       <td>2</td>
       <td>TO31</td>
-      <td>M�dulo de farmacia</td>
-      <td>Implementar m�dulo de recetas y farmacia</td>
+      <td>Módulo de farmacia</td>
+      <td>Implementar módulo de recetas y farmacia</td>
       <td>1</td>
       <td>nes-ro</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US024</td>
-      <td>Facturaci�n y cobros</td>
+      <td>Facturación y cobros</td>
       <td>2</td>
       <td>TO32</td>
-      <td>Vista de facturaci�n</td>
-      <td>Integrar m�tricas de facturaci�n y pagos</td>
+      <td>Vista de facturación</td>
+      <td>Integrar métricas de facturación y pagos</td>
       <td>1</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2380,7 +2373,7 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
       <td>2</td>
       <td>TO33</td>
       <td>Tablero principal</td>
-      <td>Implementar dashboard de administraci�n</td>
+      <td>Implementar dashboard de administración</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
@@ -2397,7 +2390,7 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>      
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
@@ -2524,26 +2517,26 @@ El Sprint Backlog 2 concentra la construcci�n del frontend principal de Vitali
 
 #### *5.2.2.5. Execution Evidence for Sprint Review*
 
-Durante este Sprint, el equipo complet� con �xito la transici�n del dise�o UI/UX hacia una aplicaci�n interactiva construida en **Vue 3**. Se estructur� la arquitectura interna de la Single Page Application (SPA) y se integr� la l�gica de negocio en el Frontend mediante vistas reactivas para los tres perfiles de usuario (Administradores, M�dicos y Pacientes).
+Durante este Sprint, el equipo completó con éxito la transición del diseño UI/UX hacia una aplicación interactiva construida en **Vue 3**. Se estructuró la arquitectura interna de la Single Page Application (SPA) y se integró la lógica de negocio en el Frontend mediante vistas reactivas para los tres perfiles de usuario (Administradores, Médicos y Pacientes).
 
 **Principales entregables funcionales:**
-- **Calendario y Flujo de Agendamiento:** Un calendario funcional que permite al paciente interactuar y programar citas m�dicas en tiempo real.
-- **Historial Cl�nico Din�mico:** Un panel especializado que centraliza los antecedentes del paciente, facilitando la visualizaci�n r�pida de registros m�dicos previos.
-- **M�dulo Administrativo y Facturaci�n:** Tableros dedicados para la gesti�n de configuraciones de la cl�nica, perfiles de usuarios del sistema y anal�ticas/m�tricas de facturaci�n iniciales.
-- **M�dulo de Farmacia y �rdenes M�dicas:** Vistas dise�adas para el perfil del doctor enfocadas en la emisi�n estructurada de �rdenes y seguimiento de recetas.
+- **Calendario y Flujo de Agendamiento:** Un calendario funcional que permite al paciente interactuar y programar citas médicas en tiempo real.
+- **Historial Clínico Dinámico:** Un panel especializado que centraliza los antecedentes del paciente, facilitando la visualización rápida de registros médicos previos.
+- **Módulo Administrativo y Facturación:** Tableros dedicados para la gestión de configuraciones de la clínica, perfiles de usuarios del sistema y analíticas/métricas de facturación iniciales.
+- **Módulo de Farmacia y Órdenes Médicas:** Vistas diseñadas para el perfil del doctor enfocadas en la emisión estructurada de órdenes y seguimiento de recetas.
 
 #### *5.2.2.6. Services Documentation Evidence for Sprint Review*
 
-Para alimentar las vistas funcionales sin depender inicialmente de un backend de producci�n acoplado, el Frontend consume una **Fake API REST** desplegada independientemente. 
+Para alimentar las vistas funcionales sin depender inicialmente de un backend de producción acoplado, el Frontend consume una **Fake API REST** desplegada independientemente. 
 
-El dise�o de la integraci�n se organiz� de la siguiente forma:
-- **API Consumption Layer:** M�dulos internos en Vue encargados de encapsular las peticiones HTTP (mediante Axios/Fetch) centralizando las llamadas hacia el servidor simulado.
+El diseño de la integración se organizó de la siguiente forma:
+- **API Consumption Layer:** Módulos internos en Vue encargados de encapsular las peticiones HTTP (mediante Axios/Fetch) centralizando las llamadas hacia el servidor simulado.
 - **Domain Entities & Assemblers:** Para mitigar riesgos de cambio de esquema, el proyecto implementa la capa de Entidades de Dominio y Ensambladores que transforman la respuesta cruda del JSON al modelo de datos de negocio de Vitalia.
 - **Endpoint Simulation:** El mock server aloja colecciones clave como `/patients`, `/appointments`, `/medical-records`, `/pharmacy` y `/billing`.
 
 #### *5.2.2.7. Software Deployment Evidence for Sprint Review*
 
-El despliegue continuo del Frontend de la aplicaci�n web (Single Page Application) se encuentra configurado exitosamente en Vercel.
+El despliegue continuo del Frontend de la aplicación web (Single Page Application) se encuentra configurado exitosamente en Vercel.
 
 **Frontend App Link:** [https://vitalia-frontend-kinetia.vercel.app](https://vitalia-frontend-kinetia.vercel.app)
 
@@ -2553,16 +2546,15 @@ El despliegue continuo del Frontend de la aplicaci�n web (Single Page Applicat
 
 #### *5.2.2.8. Team Collaboration Insights during Sprint*
 
-Para la organizaci�n t�cnica del desarrollo del Frontend, el equipo adopt� un flujo de trabajo basado en GitFlow con ramas de caracter�sticas (`feature/`) bien definidas (como `feature/scheduling`, `feature/patient-history`, `feature/analytics`, etc.), garantizando una integraci�n ordenada hacia la rama `develop`.
+Para la organización técnica del desarrollo del Frontend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (`feature/`) bien definidas (como `feature/scheduling`, `feature/patient-history`, `feature/analytics`, etc.), garantizando una integración ordenada hacia la rama `develop`.
 
-A continuaci�n se presenta la evidencia de las interacciones y control de colaboraci�n registrados durante el transcurso de este Sprint:
+A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 
 <img src="./assets/images/others/s2-collab-insight-1.png" alt="s2-collab-insight-1"  style="width: 100vw;"/>
 
 <img src="./assets/images/others/s2-collab-insight-2.png" alt="s2-collab-insight-2" style="width: 100vw;"/>
 
-El gr�fico y m�tricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los l�deres t�cnicos de m�dulo definidos en la planificaci�n.
-
+El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
 
 ### 5.2.3. Sprint 3
 
@@ -2572,9 +2564,9 @@ El gr�fico y m�tricas evidencian una alta frecuencia de commits organizados 
 | --- | --- |
 | **Date** | 2026-06-07 |
 | **Time** | 22:00 |
-| **Location** | Reuni�n virtual |
+| **Location** | Reunión virtual |
 | **Prepared By** | Adrian Ruiz Mideyros |
-| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo C�sar Dulanto Espino |
+| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
 | **Sprint n Goal** | Our focus is on establishing the core backend architecture and foundational APIs for secure user authentication and appointment workflows. We believe it delivers the automation and streamlining of clinical and administrative processes, ensuring a reliable and secure data flow to patients, doctors, and administrators. This will be confirmed when the frontend successfully authenticates users and retrieves real agenda data from the server, replacing the previously used mock APIs. |
 | **Sprint n Velocity** | Designamos aceptar hasta 50 SP |
 | **Sum of Story Points** | 48 SP |
@@ -2584,14 +2576,14 @@ El gr�fico y m�tricas evidencian una alta frecuencia de commits organizados 
 | Team Member | GitHub Username | Scheduling | Pharmacy | Clinical | Billing | Consume API |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
-| Dulanto Espino, Leo C�sar | Leotens | L | C | C | C | C |
+| Dulanto Espino, Leo César | Leotens | L | C | C | C | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | C | C | C | C | L |
 | Alexther Kamil Diaz Martinez | kamil-tron | C | L | C | C | C |
 | Rojas Tello, Nestor Alonso | nes-ro | C | C | C | L | C |
 
 #### *5.2.3.3. Sprint Backlog 3*
 
-El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentaci�n Swagger, persistencia por contexto, endpoints para citas, farmacia, historia cl�nica y facturaci�n, adem�s de la integraci�n del frontend con datos provenientes del servidor.
+El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentación Swagger, persistencia por contexto, endpoints para citas, farmacia, historia clínica y facturación, además de la integración del frontend con datos provenientes del servidor.
 
 **Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
@@ -2620,22 +2612,22 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
   <tbody>
     <tr>
       <td>TS003</td>
-      <td>Documentaci�n OpenAPI/Swagger de endpoints</td>
+      <td>Documentación OpenAPI/Swagger de endpoints</td>
       <td>3</td>
       <td>TO34</td>
-      <td>Configuraci�n de Swagger UI</td>
-      <td>Integrar la documentaci�n OpenAPI en el backend y habilitar Swagger UI</td>
+      <td>Configuración de Swagger UI</td>
+      <td>Integrar la documentación OpenAPI en el backend y habilitar Swagger UI</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>TS003</td>
-      <td>Documentaci�n OpenAPI/Swagger de endpoints</td>
+      <td>Documentación OpenAPI/Swagger de endpoints</td>
       <td>3</td>
       <td>TO35</td>
-      <td>Documentaci�n de contratos REST</td>
-      <td>Definir rutas, par�metros, cuerpos de solicitud y respuestas para los endpoints implementados</td>
+      <td>Documentación de contratos REST</td>
+      <td>Definir rutas, parámetros, cuerpos de solicitud y respuestas para los endpoints implementados</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2656,7 +2648,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Persistencia y repositorios por contexto</td>
       <td>5</td>
       <td>TO37</td>
-      <td>Repositorios y servicios de aplicaci�n</td>
+      <td>Repositorios y servicios de aplicación</td>
       <td>Crear repositorios y servicios para consultar, registrar y actualizar datos por bounded context</td>
       <td>2</td>
       <td>AdrixRyz</td>
@@ -2667,8 +2659,8 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Reserva digital de citas</td>
       <td>5</td>
       <td>TO38</td>
-      <td>Endpoint de disponibilidad m�dica</td>
-      <td>Implementar servicio para consultar horarios disponibles por especialidad, m�dico y fecha</td>
+      <td>Endpoint de disponibilidad médica</td>
+      <td>Implementar servicio para consultar horarios disponibles por especialidad, médico y fecha</td>
       <td>2</td>
       <td>Leotens</td>
       <td>Completed</td>
@@ -2678,18 +2670,18 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Reserva digital de citas</td>
       <td>5</td>
       <td>TO39</td>
-      <td>Endpoint de creaci�n de citas</td>
-      <td>Implementar registro de citas desde el backend y respuesta de confirmaci�n para el frontend</td>
+      <td>Endpoint de creación de citas</td>
+      <td>Implementar registro de citas desde el backend y respuesta de confirmación para el frontend</td>
       <td>2</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US004</td>
-      <td>Reprogramaci�n de citas</td>
+      <td>Reprogramación de citas</td>
       <td>5</td>
       <td>TO40</td>
-      <td>Validaci�n de cambios de horario</td>
+      <td>Validación de cambios de horario</td>
       <td>Implementar reglas para verificar disponibilidad y restricciones antes de reprogramar una cita</td>
       <td>2</td>
       <td>Leotens</td>
@@ -2697,21 +2689,21 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US004</td>
-      <td>Reprogramaci�n de citas</td>
+      <td>Reprogramación de citas</td>
       <td>5</td>
       <td>TO41</td>
-      <td>Endpoint de reprogramaci�n</td>
-      <td>Actualizar fecha y hora de una cita existente y devolver la nueva programaci�n al frontend</td>
+      <td>Endpoint de reprogramación</td>
+      <td>Actualizar fecha y hora de una cita existente y devolver la nueva programación al frontend</td>
       <td>2</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US005</td>
-      <td>Cancelaci�n de citas</td>
+      <td>Cancelación de citas</td>
       <td>3</td>
       <td>TO42</td>
-      <td>Reglas de cancelaci�n</td>
+      <td>Reglas de cancelación</td>
       <td>Implementar validaciones para determinar si una cita puede ser cancelada</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2719,10 +2711,10 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US005</td>
-      <td>Cancelaci�n de citas</td>
+      <td>Cancelación de citas</td>
       <td>3</td>
       <td>TO43</td>
-      <td>Endpoint de cancelaci�n</td>
+      <td>Endpoint de cancelación</td>
       <td>Actualizar el estado de la cita y liberar el horario correspondiente</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2730,51 +2722,51 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US011</td>
-      <td>Registro de anamnesis y examen f�sico</td>
+      <td>Registro de anamnesis y examen físico</td>
       <td>5</td>
       <td>TO44</td>
-      <td>Modelo de atenci�n cl�nica</td>
-      <td>Definir la estructura backend para registrar anamnesis, examen f�sico y observaciones cl�nicas</td>
+      <td>Modelo de atención clínica</td>
+      <td>Definir la estructura backend para registrar anamnesis, examen físico y observaciones clínicas</td>
       <td>2</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US011</td>
-      <td>Registro de anamnesis y examen f�sico</td>
+      <td>Registro de anamnesis y examen físico</td>
       <td>5</td>
       <td>TO45</td>
-      <td>Endpoint de registro cl�nico</td>
-      <td>Implementar guardado de la atenci�n cl�nica asociada al paciente y m�dico responsable</td>
+      <td>Endpoint de registro clínico</td>
+      <td>Implementar guardado de la atención clínica asociada al paciente y médico responsable</td>
       <td>2</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US012</td>
-      <td>Emisi�n de diagn�stico</td>
+      <td>Emisión de diagnóstico</td>
       <td>3</td>
       <td>TO46</td>
-      <td>Entidad de diagn�stico</td>
-      <td>Crear estructura para registrar diagn�sticos vinculados a una atenci�n cl�nica</td>
+      <td>Entidad de diagnóstico</td>
+      <td>Crear estructura para registrar diagnósticos vinculados a una atención clínica</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US012</td>
-      <td>Emisi�n de diagn�stico</td>
+      <td>Emisión de diagnóstico</td>
       <td>3</td>
       <td>TO47</td>
-      <td>Endpoint de diagn�stico</td>
-      <td>Implementar creaci�n y consulta de diagn�sticos desde el backend</td>
+      <td>Endpoint de diagnóstico</td>
+      <td>Implementar creación y consulta de diagnósticos desde el backend</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US013</td>
-      <td>Emisi�n de recetas digitales</td>
+      <td>Emisión de recetas digitales</td>
       <td>5</td>
       <td>TO48</td>
       <td>Modelo de receta digital</td>
@@ -2785,11 +2777,11 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US013</td>
-      <td>Emisi�n de recetas digitales</td>
+      <td>Emisión de recetas digitales</td>
       <td>5</td>
       <td>TO49</td>
-      <td>Endpoint de emisi�n de recetas</td>
-      <td>Permitir la creaci�n de recetas digitales asociadas a una atenci�n cl�nica</td>
+      <td>Endpoint de emisión de recetas</td>
+      <td>Permitir la creación de recetas digitales asociadas a una atención clínica</td>
       <td>2</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2799,8 +2791,8 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Ingreso de medicinas al inventario</td>
       <td>3</td>
       <td>TO50</td>
-      <td>Modelo de inventario farmac�utico</td>
-      <td>Definir entidades para medicamentos, stock, presentaci�n y disponibilidad</td>
+      <td>Modelo de inventario farmacéutico</td>
+      <td>Definir entidades para medicamentos, stock, presentación y disponibilidad</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2811,7 +2803,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>3</td>
       <td>TO51</td>
       <td>Endpoint de registro de medicinas</td>
-      <td>Implementar creaci�n y actualizaci�n de medicamentos desde el m�dulo de farmacia</td>
+      <td>Implementar creación y actualización de medicamentos desde el módulo de farmacia</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2822,7 +2814,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>5</td>
       <td>TO52</td>
       <td>Modelo de pagos de citas</td>
-      <td>Crear estructura para registrar montos, m�todo de pago y estado de pago de una cita</td>
+      <td>Crear estructura para registrar montos, método de pago y estado de pago de una cita</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2833,7 +2825,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>5</td>
       <td>TO53</td>
       <td>Endpoint de pago</td>
-      <td>Implementar registro de pago y actualizaci�n del estado financiero de la cita</td>
+      <td>Implementar registro de pago y actualización del estado financiero de la cita</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2862,10 +2854,10 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>TS005</td>
-      <td>Integraci�n del frontend con APIs reales</td>
+      <td>Integración del frontend con APIs reales</td>
       <td>5</td>
       <td>TO56</td>
-      <td>Configuraci�n de servicios HTTP reales</td>
+      <td>Configuración de servicios HTTP reales</td>
       <td>Actualizar la capa de consumo del frontend para apuntar a los endpoints reales del backend</td>
       <td>2</td>
       <td>AdrixRyz</td>
@@ -2873,11 +2865,11 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>TS005</td>
-      <td>Integraci�n del frontend con APIs reales</td>
+      <td>Integración del frontend con APIs reales</td>
       <td>5</td>
       <td>TO57</td>
       <td>Reemplazo de mock services</td>
-      <td>Sustituir llamadas al mock server por peticiones al backend en los m�dulos del Sprint 3</td>
+      <td>Sustituir llamadas al mock server por peticiones al backend en los módulos del Sprint 3</td>
       <td>2</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
@@ -2899,7 +2891,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>3</td>
       <td>TO59</td>
       <td>Respuestas de error estandarizadas</td>
-      <td>Definir c�digos HTTP y mensajes de error consistentes para el consumo desde frontend</td>
+      <td>Definir códigos HTTP y mensajes de error consistentes para el consumo desde frontend</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
@@ -2916,7 +2908,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
@@ -3065,18 +3057,18 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
-Durante el Sprint 3 se logr� avanzar en la integraci�n funcional entre el frontend y los servicios backend desarrollados para los principales flujos de Vitalia. Se implementaron y validaron vistas relacionadas con la gesti�n de citas, disponibilidad m�dica, atenci�n cl�nica, diagn�sticos, tratamientos, recetas digitales, medicamentos y reclamos de facturaci�n, reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecuci�n presentadas en esta secci�n muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
+Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de Vitalia. Se implementaron y validaron vistas relacionadas con la gestión de citas, disponibilidad médica, atención clínica, diagnósticos, tratamientos, recetas digitales, medicamentos y reclamos de facturación, reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
 
 **Principales entregables funcionales:**
-- Endpoints REST para gesti�n de citas, disponibilidad m�dica, atenci�n cl�nica, diagn�sticos, tratamientos, recetas digitales, medicamentos e informaci�n de facturaci�n.
-- Integraci�n de la capa de consumo del frontend con los servicios backend reales.
-- Validaci�n de flujos de usuario para reserva, reprogramaci�n y cancelaci�n de citas
-- Despliegue del backend en un entorno de producci�n para su integraci�n continua con el frontend.
-- Documentaci�n de los servicios REST implementados mediante OpenAPI/Swagger para su consulta y validaci�n por parte del equipo y stakeholders.
+- Endpoints REST para gestión de citas, disponibilidad médica, atención clínica, diagnósticos, tratamientos, recetas digitales, medicamentos e información de facturación.
+- Integración de la capa de consumo del frontend con los servicios backend reales.
+- Validación de flujos de usuario para reserva, reprogramación y cancelación de citas
+- Despliegue del backend en un entorno de producción para su integración continua con el frontend.
+- Documentación de los servicios REST implementados mediante OpenAPI/Swagger para su consulta y validación por parte del equipo y stakeholders.
 
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
 
-Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentaci�n permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestion de citas, disponibilidad medica, registros clinicos, diagnosticos, recetas, tratamientos, medicamentos y reclamos de facturacion. Adem�s del uso de una base de datos MySQL para la persistencia de la informaci�n. A continuaci�n se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
+Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestión de citas, disponibilidad médica, registros clínicos, diagnósticos, recetas, tratamientos, medicamentos y reclamos de facturación. Además, se utilizó una base de datos MySQL para la persistencia de la información. A continuación se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
 
 | Recurso | Endpoint Base | Acciones Implementadas |
 | --- | --- | --- |
@@ -3093,33 +3085,33 @@ Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los co
 | Prescriptions | `/api/v1/prescriptions` | GET, POST, GET por ID, DELETE, GET por medical record |
 | Treatments | `/api/v1/treatments` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
 
-**Evidencia de ejecuci�n**
+**Evidencia de ejecución**
 
-Para mostrar la interaci�n, ejecutamos 5 endpoints relacionados al bounded de scheduling. Entre los cuales veremos busqueda de citas y horarios disponibles, como su creaci�n o eliminaci�n de ellos.
+Para mostrar la interacción, ejecutamos 5 endpoints relacionados con el bounded context de scheduling. Entre ellos veremos la búsqueda de citas y horarios disponibles, así como su creación o eliminación.
 
-1. GET /api/v1/appointments: Permite buscar citas, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecuci�n no se a�adio parametros, por lo cual nos brinda la lista completa de citas.
+1. GET /api/v1/appointments: Permite buscar citas con parámetros opcionales, los cuales filtran según indique el usuario. En esta ejecución no se añadió ningún parámetro, por lo cual se obtiene la lista completa de citas.
 
 <img src="./assets/images/others/services-get-appointments.png" alt="Get-Appointments Endpoint" style="width: 100vw;">
 
-2. POST /api/v1/appointments: Se solicita la informaci�n necesaria para crear una cita. Al ejecutarse se a�adira la cita a la base de datos.
+2. POST /api/v1/appointments: Se solicita la información necesaria para crear una cita. Al ejecutarse, se añadirá la cita a la base de datos.
 
 <img src="./assets/images/others/services-post-appointments.png" alt="Post-Appointments Endpoint" style="width: 100vw;">
 
-3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecuci�n no se a�adio parametros, por lo cual nos brinda la lista completa de horarios disponibles.
+3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles con parámetros opcionales, los cuales filtran según indique el usuario. En esta ejecución no se añadió ningún parámetro, por lo cual se obtiene la lista completa de horarios disponibles.
 
 <img src="./assets/images/others/services-get-availability-slots.png" alt="Get-Availability-Slots Endpoint" style="width: 100vw;">
 
-4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita la id del horario que se desea eliminar. Tras su ejecuci�n seria eliminado de la base de datos el horario asignado por la id.
+4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita el ID del horario que se desea eliminar. Tras su ejecución, el horario asignado a ese ID queda eliminado de la base de datos.
 
 <img src="./assets/images/others/services-delete-availability-slots.png" alt="Delete-Availability-Slots Endpoint" style="width: 100vw;">
 
-5. GET /api/v1/availabilitySlots: Es el mismo endpoint de busqueda de horarios disponibles, en este caso lo volvemos a usar para verificar la eliminaci�n del horario escogido (slot-003).
+5. GET /api/v1/availabilitySlots: Es el mismo endpoint de búsqueda de horarios disponibles; en este caso lo volvemos a usar para verificar la eliminación del horario escogido (`slot-003`).
 
 <img src="./assets/images/others/services-get-availability-slots-2.png" alt="Get-Availability-Slots-2 Endpoint" style="width: 100vw;">
 
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
-Durante el Sprint 3 se realiz� el despliegue del backend de Vitalia en un entorno de producci�n utilizando Render como plataforma de hosting. Este despliegue permiti� validar la correcta configuraci�n del entorno, la conexi�n a la base de datos MySQL y la disponibilidad de los servicios REST implementados para su consumo desde el frontend. La evidencia presentada en esta secci�n muestra capturas del proceso de despliegue en Render, confirmando que el backend est� operativo y accesible para su integraci�n con el frontend.
+Durante el Sprint 3 se realizó el despliegue del backend de Vitalia en un entorno de producción utilizando Render como plataforma de hosting. Este despliegue permitió validar la correcta configuración del entorno, la conexión a la base de datos MySQL y la disponibilidad de los servicios REST implementados para su consumo desde el frontend. La evidencia presentada en esta sección muestra capturas del proceso de despliegue en Render, confirmando que el backend está operativo y accesible para su integración con el frontend.
 
 **Swagger Documentation Link:** [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html)
 
@@ -3131,20 +3123,19 @@ Durante el Sprint 3 se realiz� el despliegue del backend de Vitalia en un ento
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
 
-Para la organizaci�n t�cnica del desarrollo del Backend, el equipo adopt� un flujo de trabajo basado en GitFlow con ramas de caracter�sticas (`feature/`) bien definidas (como `feature/scheduling`, `feature/billing`, `feature/pharmacy`, etc.), garantizando una integraci�n ordenada hacia la rama `develop`.
+Para la organización técnica del desarrollo del Backend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (`feature/`) bien definidas (como `feature/scheduling`, `feature/billing`, `feature/pharmacy`, etc.), garantizando una integración ordenada hacia la rama `develop`.
 
-A continuaci�n se presenta la evidencia de las interacciones y control de colaboraci�n registrados durante el transcurso de este Sprint:
+A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
 
 <img src="./assets/images/others/s3-collab-insight-1.png" alt="s3-collab-insight-1"  style="width: 100vw;"/>
 
 <img src="./assets/images/others/s3-collab-insight-2.png" alt="s3-collab-insight-2" style="width: 100vw;"/>
 
-El gr�fico y m�tricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los l�deres t�cnicos de m�dulo definidos en la planificaci�n.
-
+El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
 
 ### 5.2.4. Sprint 4
 
-#### 5.2.4.1. Spring Planning 4
+#### *5.2.4.1. Sprint Planning 4*
 
 | **Sprint #** | 4 |
 | --- | --- |
@@ -3154,10 +3145,10 @@ El gr�fico y m�tricas evidencian una alta frecuencia de commits organizados 
 | **Prepared By** | Leo César Dulanto Espino |
 | **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
 | **Sprint n Goal** | Our focus is on strengthening secure access, clinical continuity, and key integrations. We believe it delivers a more reliable experience to patients, doctors, and administrative staff. This will be confirmed when users can authenticate securely, recover access, preserve clinical data during connectivity issues, and complete exam, prescription, appointment, identity, and payment flows. |
-| **Sprint n Velocity** | 50 sp |
-| **Sum of Story Points** | 45 sp |
+| **Sprint n Velocity** | 50 SP |
+| **Sum of Story Points** | 45 SP |
 
-#### 5.2.4.2. Aspect Leaders and Collaborators
+#### *5.2.4.2. Aspect Leaders and Collaborators*
 
 | Team Member | GitHub Username | Register/Login View | IAM API | Tenant | Pharmacy | Consume API |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -3167,7 +3158,7 @@ El gr�fico y m�tricas evidencian una alta frecuencia de commits organizados 
 | Alexther Kamil Diaz Martinez | kamil-tron | L | C | C | C | C |
 | Rojas Tello, Nestor Alonso | nes-ro | C | C | C | L | C |
 
-#### 5.2.4.3. Sprint Backlog 4
+#### *5.2.4.3. Sprint Backlog 4*
 
 El Sprint Backlog 4 se enfocó en consolidar la versión integrada de Vitalia, reforzando la autenticación y seguridad de la plataforma, completando flujos clínicos y administrativos pendientes, e incorporando capacidades de resiliencia ante fallos de conectividad. Además, se priorizó la conexión entre frontend y backend para procesos críticos como registro, gestión de usuarios, farmacia, recetas, órdenes médicas, facturación e integración con servicios externos de identidad.
 
@@ -3428,7 +3419,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US028</td>
+      <td>US049</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO81</td>
@@ -3439,7 +3430,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US028</td>
+      <td>US049</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO82</td>
@@ -3450,7 +3441,7 @@ Sprint #: Sprint 4
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US028</td>
+      <td>US049</td>
       <td>Gestión de farmacia</td>
       <td>5</td>
       <td>TO83</td>
@@ -3562,7 +3553,7 @@ Sprint #: Sprint 4
   </tbody>
 </table>
 
-#### 5.2.4.4. Development Evidence for Sprint Review
+#### *5.2.4.4. Development Evidence for Sprint Review*
 
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -3571,7 +3562,7 @@ Sprint #: Sprint 4
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
@@ -4040,13 +4031,6 @@ Sprint #: Sprint 4
     <tr>
       <td>[vitalia-backend]</td>
       <td>feature/healthcenter-register</td>
-      <td>40274ee</td>
-      <td>feat: add healthcare center image url migration</td>
-      <td>2026-07-08</td>
-    </tr>
-    <tr>
-      <td>[vitalia-backend]</td>
-      <td>feature/healthcenter-register</td>
       <td>ef807d7</td>
       <td>feat: add endpoint IdentityLookup</td>
       <td>2026-07-08</td>
@@ -4054,7 +4038,7 @@ Sprint #: Sprint 4
   </tbody>
 </table>
 
-#### 5.2.4.5. Execution Evidence for Sprint Review
+#### *5.2.4.5. Execution Evidence for Sprint Review*
 
 Durante el Sprint 4 se completó un incremento funcional orientado a estabilizar y cerrar los principales flujos transaccionales de Vitalia sobre una arquitectura ya integrada entre frontend y backend. El trabajo del Sprint permitió validar la autenticación de usuarios, el registro conectado a servicios reales, la administración de perfiles y centros de salud, la continuidad de los flujos clínicos para atención médica y recetas, así como mejoras operativas en farmacia, facturación y manejo de datos ante escenarios de desconexión temporal.
 
@@ -4067,9 +4051,9 @@ Durante el Sprint 4 se completó un incremento funcional orientado a estabilizar
 - Ajustes del módulo de facturación y conciliación de pagos para reflejar mejor el estado financiero asociado a citas y reclamos.
 - Implementación de guardado temporal local y sincronización diferida para preservar información cuando la conexión se interrumpe y enviarla automáticamente al restablecerse.
 
-#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### *5.2.4.6. Services Documentation Evidence for Sprint Review*
 
-Durante este Sprint se amplió la documentación de los Web Services que soportan las funcionalidades e integraciones de Vitalia. Se incorporaron endpoints REST para autenticación (sign-in / sign-up), gestión de usuarios por roles (administrador, doctor, paciente), centros de salud, sucursales, doctores, pacientes, especialidades, programación de citas, franjas de disponibilidad, historias clínicas, diagnósticos con catálogo CIE-10, tratamientos, recetas, detalles de prescripción, órdenes médicas, medicamentos, inventario por sucursal, reposiciones de inventario, tarifas de cita y reclamos de facturación. Estos servicios permitieron reemplazar los flujos simulados del frontend por operaciones conectadas al backend con persistencia de datos en PostgreSQL.
+Durante este Sprint se amplió la documentación de los Web Services que soportan las funcionalidades e integraciones de Vitalia. Se incorporaron endpoints REST para autenticación (sign-in / sign-up), gestión de usuarios por roles (administrador, doctor, paciente), centros de salud, sucursales, doctores, pacientes, especialidades, programación de citas, franjas de disponibilidad, historias clínicas, diagnósticos con catálogo CIE-10, tratamientos, recetas, detalles de prescripción, órdenes médicas, medicamentos, inventario por sucursal, reposiciones de inventario, tarifas de cita y reclamos de facturación. Estos servicios permitieron reemplazar los flujos simulados del frontend por operaciones conectadas al backend con persistencia de datos en MySQL.
 
 Asimismo, se configuró la autorización mediante JWT (Bearer Token) para los endpoints protegidos y su uso desde Swagger UI. La documentación generada con OpenAPI (Swashbuckle) permite visualizar las operaciones disponibles, sus parámetros, cuerpos de solicitud, modelos de respuesta y códigos HTTP, además de realizar pruebas con datos de ejemplo.
 
@@ -4081,7 +4065,7 @@ A continuación, se presenta la relación de los principales endpoints trabajado
 
 **URL de la documentación Swagger:** [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html)
 
-**Base de datos utilizada:** PostgreSQL
+**Base de datos utilizada:** MySQL
 
 <table border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -4264,7 +4248,6 @@ A continuación se presenta la evidencia de las interacciones y control de colab
 <img src="./assets/images/others/s4-collab-insight-back.png" alt="s4-collab-insight-back" style="width: 100vw;"/>
 
 El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
-
 
 ## 5.3. Validation Interviews
 
@@ -4641,7 +4624,6 @@ En esta sección se presenta el video publicitario de Vitalia, una plataforma in
 
 <img src="./assets/images/others/product-video-evidence.png" alt="Video About The Product" style="width: 100vw;">
 
-
 # Conclusiones
 
 - **Sobre el Problem Statement y la propuesta de valor:** La problemática de fragmentación operativa en establecimientos del Primer Nivel de Atención de Salud quedó suficientemente validada a lo largo del proyecto. Vitalia demostró ser una propuesta coherente para centralizar procesos clínicos, administrativos y de soporte en una sola plataforma, reduciendo la dependencia de registros dispersos, tareas manuales y múltiples herramientas desconectadas.
@@ -4652,10 +4634,9 @@ En esta sección se presenta el video publicitario de Vitalia, una plataforma in
 
 - **Sobre la implementación del producto final:** La entrega final evidencia la evolución desde una landing page inicial y prototipos con datos simulados hacia una aplicación web funcional conectada a servicios reales. Al cierre del proyecto se cuenta con autenticación, registro, recuperación de contraseña, gestión de usuarios y centros de salud, programación de citas, flujo clínico con diagnósticos CIE-10, recetas, órdenes médicas, farmacia, inventario, facturación y documentación Swagger operativa.
 
-- **Sobre la integración y confiabilidad del sistema:** El proyecto logró integrar frontend, backend, base de datos PostgreSQL y despliegues accesibles públicamente, lo que permitió validar flujos completos de negocio. Además, la incorporación de controles como JWT, sesiones seguras, cifrado de información sensible y mecanismos de guardado temporal con sincronización diferida fortaleció la confiabilidad de la solución frente a riesgos de seguridad y conectividad.
+- **Sobre la integración y confiabilidad del sistema:** El proyecto logró integrar frontend, backend, base de datos MySQL y despliegues accesibles públicamente, lo que permitió validar flujos completos de negocio. Además, la incorporación de controles como JWT, sesiones seguras, cifrado de información sensible y mecanismos de guardado temporal con sincronización diferida fortaleció la confiabilidad de la solución frente a riesgos de seguridad y conectividad.
 
 - **Sobre la gestión del equipo y el proceso de desarrollo:** La organización por sprints, el uso de GitHub, Trello, Conventional Commits y el enfoque de Docs-as-Code favorecieron una colaboración constante y trazable. La evidencia de commits, despliegues y documentación demuestra que el equipo no solo construyó funcionalidades, sino que también sostuvo un proceso disciplinado de seguimiento, integración y mejora continua hasta la entrega final.
-
 
 # Recomendaciones
 
@@ -4671,7 +4652,6 @@ En esta sección se presenta el video publicitario de Vitalia, una plataforma in
 
 - **Mantenimiento documental y de proceso:** Se recomienda conservar el enfoque de Docs-as-Code y la disciplina de trazabilidad entre backlog, commits, evidencias y entregables. Esta práctica no solo mejora la comunicación del equipo, sino que también deja una base ordenada para transferencia de conocimiento, auditoría académica o continuidad del proyecto.
 
-
 ## Video About-the-Team
 
 En esta sección se presenta el video About-the-Team de KinetiaLabs, equipo responsable del desarrollo de Vitalia. El video permite conocer a los integrantes del grupo, sus perfiles, responsabilidades y la forma en que colaboraron durante el proyecto para construir una solución orientada a mejorar la gestión clínica y administrativa en establecimientos de salud.
@@ -4681,7 +4661,6 @@ Asimismo, se muestra cómo el equipo organizó el trabajo durante las distintas 
 **Video About-the-Team Link:** [https://youtu.be/1H503xuijtA](https://youtu.be/1H503xuijtA)
 
 <img src="./assets/images/others/team-video-evidence.png" alt="Video About The Team" style="width: 100vw;">
-
 
 # Bibliografía
 
@@ -4702,7 +4681,6 @@ Ministerio de Salud del Perú. (2011). *Plan Nacional de Fortalecimiento del Pri
 Organización Panamericana de Salud. (2021, 7 septiembre). *Hoja informativa - Historias clínicas electrónicas y la importancia de cómo documentar.* https://www.paho.org/es/documentos/hoja-informativa-historias-clinicas-electronicas-importancia-como-documentar
 
 Wafa K. Alanazi. (2024). Effect of electronic prescription system modifications on reducing prescribing errors in a military hospital. *Journal Of Pharmaceutical Policy And Practice.* https://doi.org/10.1080/20523211.2024.2431177
-
 
 # Anexos
 
@@ -4727,5 +4705,3 @@ Wafa K. Alanazi. (2024). Effect of electronic prescription system modifications 
 | Frontend Desplegado | [https://vitalia-frontend-kinetia.vercel.app](https://vitalia-frontend-kinetia.vercel.app) |
 | Repositorio del Backend | [https://github.com/kinetia-upc/vitalia-backend](https://github.com/kinetia-upc/vitalia-backend) |
 | Backend Desplegado (Swagger Docs) | [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html) |
-
-

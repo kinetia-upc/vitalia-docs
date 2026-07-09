@@ -4,11 +4,11 @@
 
 #### *5.2.1.1. Sprint Planning 1*
 
-Para el desarrollo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por sección de la landing, agilizando su desarrollo. Dentro de la landing se presenta quienes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
+Para el desarrollo del primer sprint nos centramos en el desarrollo de la landing page de nuestra aplicación. Para ello designamos tareas específicas para cada sección, de modo que podamos repartirnos estas tareas entre los integrantes del grupo por sección de la landing, agilizando su desarrollo. Dentro de la landing se presenta quiénes somos, funcionalidades, planes, manera de contactarnos y sobre la organización.
 
 | **Sprint #** | 1 |
 | --- | --- |
-| **Date** | 2026-24-04 |
+| **Date** | 2026-04-24 |
 | **Time** | 4:00 PM |
 | **Location** | Reunión virtual |
 | **Prepared By** | Adrian Ruiz Mideyros |
@@ -29,7 +29,7 @@ Para el desarrollo del primer sprint nos centramos en el desarrollo de la landin
 
 #### *5.2.1.3. Sprint Backlog 1*
 
-El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing page de Vitalia, priorizando las secciones visibles para comunicar la propuesta de valor, funcionalidades, planes, contacto y quienes somos.
+El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing page de Vitalia, priorizando las secciones visibles para comunicar la propuesta de valor, funcionalidades, planes, contacto y quiénes somos.
 
 **Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
@@ -200,7 +200,7 @@ El Sprint Backlog 1 reúne las tareas necesarias para implementar la landing pag
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>

@@ -350,7 +350,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
@@ -510,7 +510,7 @@ Durante el Sprint 3 se logró avanzar en la integración funcional entre el fron
 
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
 
-Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestion de citas, disponibilidad medica, registros clinicos, diagnosticos, recetas, tratamientos, medicamentos y reclamos de facturacion. Además del uso de una base de datos MySQL para la persistencia de la información. A continuación se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
+Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestión de citas, disponibilidad médica, registros clínicos, diagnósticos, recetas, tratamientos, medicamentos y reclamos de facturación. Además, se utilizó una base de datos MySQL para la persistencia de la información. A continuación se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
 
 | Recurso | Endpoint Base | Acciones Implementadas |
 | --- | --- | --- |
@@ -529,25 +529,25 @@ Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los co
 
 **Evidencia de ejecución**
 
-Para mostrar la interación, ejecutamos 5 endpoints relacionados al bounded de scheduling. Entre los cuales veremos busqueda de citas y horarios disponibles, como su creación o eliminación de ellos.
+Para mostrar la interacción, ejecutamos 5 endpoints relacionados con el bounded context de scheduling. Entre ellos veremos la búsqueda de citas y horarios disponibles, así como su creación o eliminación.
 
-1. GET /api/v1/appointments: Permite buscar citas, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de citas.
+1. GET /api/v1/appointments: Permite buscar citas con parámetros opcionales, los cuales filtran según indique el usuario. En esta ejecución no se añadió ningún parámetro, por lo cual se obtiene la lista completa de citas.
 
 <img src="../assets/images/others/services-get-appointments.png" alt="Get-Appointments Endpoint" style="width: 100vw;">
 
-2. POST /api/v1/appointments: Se solicita la información necesaria para crear una cita. Al ejecutarse se añadira la cita a la base de datos.
+2. POST /api/v1/appointments: Se solicita la información necesaria para crear una cita. Al ejecutarse, se añadirá la cita a la base de datos.
 
 <img src="../assets/images/others/services-post-appointments.png" alt="Post-Appointments Endpoint" style="width: 100vw;">
 
-3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de horarios disponibles.
+3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles con parámetros opcionales, los cuales filtran según indique el usuario. En esta ejecución no se añadió ningún parámetro, por lo cual se obtiene la lista completa de horarios disponibles.
 
 <img src="../assets/images/others/services-get-availability-slots.png" alt="Get-Availability-Slots Endpoint" style="width: 100vw;">
 
-4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita la id del horario que se desea eliminar. Tras su ejecución seria eliminado de la base de datos el horario asignado por la id.
+4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita el ID del horario que se desea eliminar. Tras su ejecución, el horario asignado a ese ID queda eliminado de la base de datos.
 
 <img src="../assets/images/others/services-delete-availability-slots.png" alt="Delete-Availability-Slots Endpoint" style="width: 100vw;">
 
-5. GET /api/v1/availabilitySlots: Es el mismo endpoint de busqueda de horarios disponibles, en este caso lo volvemos a usar para verificar la eliminación del horario escogido (slot-003).
+5. GET /api/v1/availabilitySlots: Es el mismo endpoint de búsqueda de horarios disponibles; en este caso lo volvemos a usar para verificar la eliminación del horario escogido (`slot-003`).
 
 <img src="../assets/images/others/services-get-availability-slots-2.png" alt="Get-Availability-Slots-2 Endpoint" style="width: 100vw;">
 

@@ -198,7 +198,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <td>Completed</td>
     </tr>
     <tr>
-      <td>US018</td>
+      <td>US048</td>
       <td>Vista de HCE del paciente</td>
       <td>3</td>
       <td>TO26</td>
@@ -297,7 +297,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia
       <th>Branch</th>
       <th>Commit Id</th>
       <th>Commit Message</th>      
-      <th>Commited on (Date)</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
