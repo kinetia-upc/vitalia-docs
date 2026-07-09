@@ -2102,32 +2102,32 @@ Cuando el proyecto estÃ© en fase de mantenimiento, las actualizaciones se gestio
 
 #### *5.2.2.1. Sprint Planning 2*
 
-Para el desarrollo del segundo sprint, el equipo se centrará en la construcción del Frontend de la aplicación web de Vitalia utilizando el framework Vue.js. El enfoque principal consiste en estructurar la arquitectura SPA (Single Page Application) utilizando herramientas como Vue Router y Pinia para la gestión de estados, implementar el sistema de diseño responsivo "Santuario Clínico" y simular/consumir datos (Fake API / json-server) para dar soporte a los flujos funcionales de pacientes, médicos y administradores.
+Para el desarrollo del segundo sprint, el equipo se centrarï¿½ en la construcciï¿½n del Frontend de la aplicaciï¿½n web de Vitalia utilizando el framework Vue.js. El enfoque principal consiste en estructurar la arquitectura SPA (Single Page Application) utilizando herramientas como Vue Router y Pinia para la gestiï¿½n de estados, implementar el sistema de diseï¿½o responsivo "Santuario Clï¿½nico" y simular/consumir datos (Fake API / json-server) para dar soporte a los flujos funcionales de pacientes, mï¿½dicos y administradores.
 
 | **Sprint #** | 2 |
 | --- | --- |
 | **Date** | 2026-05-10 |
 | **Time** | 16:30 |
-| **Location** | Reunión virtual |
+| **Location** | Reuniï¿½n virtual |
 | **Prepared By** | Nestor Alonso Rojas Tello |
-| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
+| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo Cï¿½sar Dulanto Espino |
 | **Sprint n Goal** | Our focus is on building a fully interactive and responsive user interface for the Vitalia web application using Vue.js. The goal is to implement secure Role-Based Access Control (RBAC) navigation, core patient workflows, and primary views for medical agendas and appointment booking, integrated with simulated data services (Mock APIs). This will be validated once the web application is deployed, ensuring a seamless, intuitive experience for patients, doctors, and administrators across both mobile and desktop devices. |
 | **Sprint n Velocity** | Designamos aceptar hasta 34 SP |
 | **Sum of Story Points** | 34 SP |
 
 #### *5.2.2.2. Aspect Leaders and Collaborators*
 
-| Team Member | GitHub Username | Vue Core & Router | Vistas Paciente | Vistas Médico | Vistas Admin | Mock Services |
+| Team Member | GitHub Username | Vue Core & Router | Vistas Paciente | Vistas Mï¿½dico | Vistas Admin | Mock Services |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
-| Dulanto Espino, Leo César | Leotens | C | C | C | L | C |
+| Dulanto Espino, Leo Cï¿½sar | Leotens | C | C | C | L | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | L | C | C | C | C |
 | Alexther Kamil Diaz Martinez | kamil-tron | C | L | C | C | C |
 | Rojas Tello, Alonso | nes-ro | C | C | C | C | L |
 
 #### *5.2.2.3. Sprint Backlog 2*
 
-El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia, incluyendo la navegación, el diseño responsivo, el control de acceso por roles y los primeros flujos para pacientes, médicos y administradores. Con estas tareas se dejó una aplicación interactiva conectada a servicios simulados para validar la experiencia antes de integrar APIs reales.
+El Sprint Backlog 2 concentra la construcciï¿½n del frontend principal de Vitalia, incluyendo la navegaciï¿½n, el diseï¿½o responsivo, el control de acceso por roles y los primeros flujos para pacientes, mï¿½dicos y administradores. Con estas tareas se dejï¿½ una aplicaciï¿½n interactiva conectada a servicios simulados para validar la experiencia antes de integrar APIs reales.
 
 **Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
@@ -2156,33 +2156,33 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
   <tbody>
     <tr>
       <td>US031</td>
-      <td>Diseño responsive</td>
+      <td>Diseï¿½o responsive</td>
       <td>5</td>
       <td>TO13</td>
       <td>Componentes Base Responsivos</td>
-      <td>Adaptar los layouts de UI "Santuario Clínico" a móvil/escritorio</td>
+      <td>Adaptar los layouts de UI "Santuario Clï¿½nico" a mï¿½vil/escritorio</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US039</td>
-      <td>Navegación simple</td>
+      <td>Navegaciï¿½n simple</td>
       <td>3</td>
       <td>TO14</td>
-      <td>Configuración de Rutas y Sidebar</td>
-      <td>Configurar el sistema de Vue Router y menú persistente</td>
+      <td>Configuraciï¿½n de Rutas y Sidebar</td>
+      <td>Configurar el sistema de Vue Router y menï¿½ persistente</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US032</td>
-      <td>Tiempo de respuesta ágil</td>
+      <td>Tiempo de respuesta ï¿½gil</td>
       <td>5</td>
       <td>TO15</td>
       <td>Lazy Loading y Componentes</td>
-      <td>Implementar carga perezosa en rutas e imágenes pesadas</td>
+      <td>Implementar carga perezosa en rutas e imï¿½genes pesadas</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
@@ -2193,18 +2193,18 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
       <td>5</td>
       <td>TO16</td>
       <td>Ajustes de accesibilidad visual</td>
-      <td>Mejorar legibilidad, jerarquía visual y claridad de acciones en las vistas principales</td>
+      <td>Mejorar legibilidad, jerarquï¿½a visual y claridad de acciones en las vistas principales</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US034</td>
-      <td>Definición de accesos basados en roles (RBAC)</td>
+      <td>Definiciï¿½n de accesos basados en roles (RBAC)</td>
       <td>5</td>
       <td>TO17</td>
       <td>Navigation Guards y Roles</td>
-      <td>Implementar guards de navegación para restringir vistas</td>
+      <td>Implementar guards de navegaciï¿½n para restringir vistas</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2222,10 +2222,10 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
     </tr>
     <tr>
       <td>US006</td>
-      <td>Consulta de historial clínico</td>
+      <td>Consulta de historial clï¿½nico</td>
       <td>2</td>
       <td>TO19</td>
-      <td>Panel de historial clínico</td>
+      <td>Panel de historial clï¿½nico</td>
       <td>Construir vista de historial del paciente</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2236,63 +2236,63 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
       <td>Consulta de resultados y recetas</td>
       <td>5</td>
       <td>TO20</td>
-      <td>Vista de documentos clínicos</td>
-      <td>Construir la visualización de resultados y recetas emitidas para el paciente</td>
+      <td>Vista de documentos clï¿½nicos</td>
+      <td>Construir la visualizaciï¿½n de resultados y recetas emitidas para el paciente</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US027</td>
-      <td>Descarga de historial clínico como PDF</td>
+      <td>Descarga de historial clï¿½nico como PDF</td>
       <td>5</td>
       <td>TO21</td>
       <td>Descarga de historial</td>
-      <td>Agregar acción para generar y descargar el historial clínico del paciente en formato PDF</td>
+      <td>Agregar acciï¿½n para generar y descargar el historial clï¿½nico del paciente en formato PDF</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US022</td>
-      <td>Visualización de detalles de cita</td>
+      <td>Visualizaciï¿½n de detalles de cita</td>
       <td>3</td>
       <td>TO22</td>
       <td>Detalle de cita del paciente</td>
-      <td>Implementar la vista de detalle para consultar fecha, médico, especialidad y estado de una cita</td>
+      <td>Implementar la vista de detalle para consultar fecha, mï¿½dico, especialidad y estado de una cita</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US009</td>
-      <td>Agenda médica diaria</td>
+      <td>Agenda mï¿½dica diaria</td>
       <td>3</td>
       <td>TO23</td>
       <td>Calendario y Agenda</td>
-      <td>Construir la visualización de la agenda médica</td>
+      <td>Construir la visualizaciï¿½n de la agenda mï¿½dica</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US021</td>
-      <td>Visualización de mini calendario</td>
+      <td>Visualizaciï¿½n de mini calendario</td>
       <td>5</td>
       <td>TO24</td>
-      <td>Mini calendario médico</td>
-      <td>Agregar un calendario mensual para seleccionar días y revisar citas programadas</td>
+      <td>Mini calendario mï¿½dico</td>
+      <td>Agregar un calendario mensual para seleccionar dï¿½as y revisar citas programadas</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US010</td>
-      <td>Consulta rápida del historial del paciente</td>
+      <td>Consulta rï¿½pida del historial del paciente</td>
       <td>5</td>
       <td>TO25</td>
-      <td>Acceso rápido a historial</td>
-      <td>Implementar acceso al historial clínico del paciente desde el flujo de atención médica</td>
+      <td>Acceso rï¿½pido a historial</td>
+      <td>Implementar acceso al historial clï¿½nico del paciente desde el flujo de atenciï¿½n mï¿½dica</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
@@ -2302,51 +2302,51 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
       <td>Vista de HCE del paciente</td>
       <td>3</td>
       <td>TO26</td>
-      <td>Vista HCE para médico</td>
-      <td>Construir una vista resumida de historia clínica electrónica antes de la consulta</td>
+      <td>Vista HCE para mï¿½dico</td>
+      <td>Construir una vista resumida de historia clï¿½nica electrï¿½nica antes de la consulta</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US016</td>
-      <td>Gráficos evolutivos de visitas</td>
+      <td>Grï¿½ficos evolutivos de visitas</td>
       <td>5</td>
       <td>TO27</td>
-      <td>Gráficos de visitas</td>
-      <td>Mostrar visualizaciones de tendencia de visitas del paciente en el módulo médico</td>
+      <td>Grï¿½ficos de visitas</td>
+      <td>Mostrar visualizaciones de tendencia de visitas del paciente en el mï¿½dulo mï¿½dico</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US019</td>
-      <td>Cierre de atención sin pérdida de datos</td>
+      <td>Cierre de atenciï¿½n sin pï¿½rdida de datos</td>
       <td>5</td>
       <td>TO28</td>
-      <td>Guardado confiable de atención</td>
-      <td>Agregar confirmación de guardado y cierre seguro para la información registrada en consulta</td>
+      <td>Guardado confiable de atenciï¿½n</td>
+      <td>Agregar confirmaciï¿½n de guardado y cierre seguro para la informaciï¿½n registrada en consulta</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US020</td>
-      <td>Registro único de pacientes</td>
+      <td>Registro ï¿½nico de pacientes</td>
       <td>5</td>
       <td>TO29</td>
       <td>Registro administrativo de pacientes</td>
-      <td>Implementar formulario administrativo para crear fichas únicas y evitar duplicidad de pacientes</td>
+      <td>Implementar formulario administrativo para crear fichas ï¿½nicas y evitar duplicidad de pacientes</td>
       <td>1</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US040</td>
-      <td>Cancelar citas y eventos desde administración</td>
+      <td>Cancelar citas y eventos desde administraciï¿½n</td>
       <td>5</td>
       <td>TO30</td>
-      <td>Cancelación administrativa</td>
+      <td>Cancelaciï¿½n administrativa</td>
       <td>Permitir al administrador cancelar citas o eventos registrados desde la agenda</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2357,19 +2357,19 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
       <td>Ingreso de medicinas al inventario</td>
       <td>2</td>
       <td>TO31</td>
-      <td>Módulo de farmacia</td>
-      <td>Implementar módulo de recetas y farmacia</td>
+      <td>Mï¿½dulo de farmacia</td>
+      <td>Implementar mï¿½dulo de recetas y farmacia</td>
       <td>1</td>
       <td>nes-ro</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US024</td>
-      <td>Facturación y cobros</td>
+      <td>Facturaciï¿½n y cobros</td>
       <td>2</td>
       <td>TO32</td>
-      <td>Vista de facturación</td>
-      <td>Integrar métricas de facturación y pagos</td>
+      <td>Vista de facturaciï¿½n</td>
+      <td>Integrar mï¿½tricas de facturaciï¿½n y pagos</td>
       <td>1</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2380,7 +2380,7 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
       <td>2</td>
       <td>TO33</td>
       <td>Tablero principal</td>
-      <td>Implementar dashboard de administración</td>
+      <td>Implementar dashboard de administraciï¿½n</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
@@ -2524,26 +2524,26 @@ El Sprint Backlog 2 concentra la construcción del frontend principal de Vitalia,
 
 #### *5.2.2.5. Execution Evidence for Sprint Review*
 
-Durante este Sprint, el equipo completó con éxito la transición del diseño UI/UX hacia una aplicación interactiva construida en **Vue 3**. Se estructuró la arquitectura interna de la Single Page Application (SPA) y se integró la lógica de negocio en el Frontend mediante vistas reactivas para los tres perfiles de usuario (Administradores, Médicos y Pacientes).
+Durante este Sprint, el equipo completï¿½ con ï¿½xito la transiciï¿½n del diseï¿½o UI/UX hacia una aplicaciï¿½n interactiva construida en **Vue 3**. Se estructurï¿½ la arquitectura interna de la Single Page Application (SPA) y se integrï¿½ la lï¿½gica de negocio en el Frontend mediante vistas reactivas para los tres perfiles de usuario (Administradores, Mï¿½dicos y Pacientes).
 
 **Principales entregables funcionales:**
-- **Calendario y Flujo de Agendamiento:** Un calendario funcional que permite al paciente interactuar y programar citas médicas en tiempo real.
-- **Historial Clínico Dinámico:** Un panel especializado que centraliza los antecedentes del paciente, facilitando la visualización rápida de registros médicos previos.
-- **Módulo Administrativo y Facturación:** Tableros dedicados para la gestión de configuraciones de la clínica, perfiles de usuarios del sistema y analíticas/métricas de facturación iniciales.
-- **Módulo de Farmacia y Órdenes Médicas:** Vistas diseñadas para el perfil del doctor enfocadas en la emisión estructurada de órdenes y seguimiento de recetas.
+- **Calendario y Flujo de Agendamiento:** Un calendario funcional que permite al paciente interactuar y programar citas mï¿½dicas en tiempo real.
+- **Historial Clï¿½nico Dinï¿½mico:** Un panel especializado que centraliza los antecedentes del paciente, facilitando la visualizaciï¿½n rï¿½pida de registros mï¿½dicos previos.
+- **Mï¿½dulo Administrativo y Facturaciï¿½n:** Tableros dedicados para la gestiï¿½n de configuraciones de la clï¿½nica, perfiles de usuarios del sistema y analï¿½ticas/mï¿½tricas de facturaciï¿½n iniciales.
+- **Mï¿½dulo de Farmacia y ï¿½rdenes Mï¿½dicas:** Vistas diseï¿½adas para el perfil del doctor enfocadas en la emisiï¿½n estructurada de ï¿½rdenes y seguimiento de recetas.
 
 #### *5.2.2.6. Services Documentation Evidence for Sprint Review*
 
-Para alimentar las vistas funcionales sin depender inicialmente de un backend de producción acoplado, el Frontend consume una **Fake API REST** desplegada independientemente. 
+Para alimentar las vistas funcionales sin depender inicialmente de un backend de producciï¿½n acoplado, el Frontend consume una **Fake API REST** desplegada independientemente. 
 
-El diseño de la integración se organizó de la siguiente forma:
-- **API Consumption Layer:** Módulos internos en Vue encargados de encapsular las peticiones HTTP (mediante Axios/Fetch) centralizando las llamadas hacia el servidor simulado.
+El diseï¿½o de la integraciï¿½n se organizï¿½ de la siguiente forma:
+- **API Consumption Layer:** Mï¿½dulos internos en Vue encargados de encapsular las peticiones HTTP (mediante Axios/Fetch) centralizando las llamadas hacia el servidor simulado.
 - **Domain Entities & Assemblers:** Para mitigar riesgos de cambio de esquema, el proyecto implementa la capa de Entidades de Dominio y Ensambladores que transforman la respuesta cruda del JSON al modelo de datos de negocio de Vitalia.
 - **Endpoint Simulation:** El mock server aloja colecciones clave como `/patients`, `/appointments`, `/medical-records`, `/pharmacy` y `/billing`.
 
 #### *5.2.2.7. Software Deployment Evidence for Sprint Review*
 
-El despliegue continuo del Frontend de la aplicación web (Single Page Application) se encuentra configurado exitosamente en Vercel.
+El despliegue continuo del Frontend de la aplicaciï¿½n web (Single Page Application) se encuentra configurado exitosamente en Vercel.
 
 **Frontend App Link:** [https://vitalia-frontend-kinetia.vercel.app](https://vitalia-frontend-kinetia.vercel.app)
 
@@ -2553,15 +2553,15 @@ El despliegue continuo del Frontend de la aplicación web (Single Page Applicatio
 
 #### *5.2.2.8. Team Collaboration Insights during Sprint*
 
-Para la organización técnica del desarrollo del Frontend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (`feature/`) bien definidas (como `feature/scheduling`, `feature/patient-history`, `feature/analytics`, etc.), garantizando una integración ordenada hacia la rama `develop`.
+Para la organizaciï¿½n tï¿½cnica del desarrollo del Frontend, el equipo adoptï¿½ un flujo de trabajo basado en GitFlow con ramas de caracterï¿½sticas (`feature/`) bien definidas (como `feature/scheduling`, `feature/patient-history`, `feature/analytics`, etc.), garantizando una integraciï¿½n ordenada hacia la rama `develop`.
 
-A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
+A continuaciï¿½n se presenta la evidencia de las interacciones y control de colaboraciï¿½n registrados durante el transcurso de este Sprint:
 
 <img src="./assets/images/others/s2-collab-insight-1.png" alt="s2-collab-insight-1"  style="width: 100vw;"/>
 
 <img src="./assets/images/others/s2-collab-insight-2.png" alt="s2-collab-insight-2" style="width: 100vw;"/>
 
-El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
+El grï¿½fico y mï¿½tricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los lï¿½deres tï¿½cnicos de mï¿½dulo definidos en la planificaciï¿½n.
 
 
 ### 5.2.3. Sprint 3
@@ -2572,9 +2572,9 @@ El gráfico y métricas evidencian una alta frecuencia de commits organizados y un
 | --- | --- |
 | **Date** | 2026-06-07 |
 | **Time** | 22:00 |
-| **Location** | Reunión virtual |
+| **Location** | Reuniï¿½n virtual |
 | **Prepared By** | Adrian Ruiz Mideyros |
-| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo César Dulanto Espino |
+| **Attendees** | Adrian Ruiz Mideyros, Nestor Alonso Rojas Tello, Alejandra Isabel Astocondor Bazan, Alexther Kamil Diaz Martinez, Leo Cï¿½sar Dulanto Espino |
 | **Sprint n Goal** | Our focus is on establishing the core backend architecture and foundational APIs for secure user authentication and appointment workflows. We believe it delivers the automation and streamlining of clinical and administrative processes, ensuring a reliable and secure data flow to patients, doctors, and administrators. This will be confirmed when the frontend successfully authenticates users and retrieves real agenda data from the server, replacing the previously used mock APIs. |
 | **Sprint n Velocity** | Designamos aceptar hasta 50 SP |
 | **Sum of Story Points** | 48 SP |
@@ -2584,14 +2584,14 @@ El gráfico y métricas evidencian una alta frecuencia de commits organizados y un
 | Team Member | GitHub Username | Scheduling | Pharmacy | Clinical | Billing | Consume API |
 | --- | --- | --- | --- | --- | --- | --- |
 | Astocondor Bazan, Alejandra Isabel | AleeAsto | C | C | L | C | C |
-| Dulanto Espino, Leo César | Leotens | L | C | C | C | C |
+| Dulanto Espino, Leo Cï¿½sar | Leotens | L | C | C | C | C |
 | Ruiz Mideyros, Adrian | AdrixRyz | C | C | C | C | L |
 | Alexther Kamil Diaz Martinez | kamil-tron | C | L | C | C | C |
 | Rojas Tello, Nestor Alonso | nes-ro | C | C | C | L | C |
 
 #### *5.2.3.3. Sprint Backlog 3*
 
-El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentación Swagger, persistencia por contexto, endpoints para citas, farmacia, historia clínica y facturación, además de la integración del frontend con datos provenientes del servidor.
+El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reemplazar progresivamente los servicios simulados por APIs reales. Las tareas cubren documentaciï¿½n Swagger, persistencia por contexto, endpoints para citas, farmacia, historia clï¿½nica y facturaciï¿½n, ademï¿½s de la integraciï¿½n del frontend con datos provenientes del servidor.
 
 **Trello Board Link:** [https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board](https://trello.com/invite/b/69e0ffa8dc72e4967311e1aa/ATTI47d8e7ca896972d7014ef7746935492a02062707/vitalia-board)
 
@@ -2620,22 +2620,22 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
   <tbody>
     <tr>
       <td>TS003</td>
-      <td>Documentación OpenAPI/Swagger de endpoints</td>
+      <td>Documentaciï¿½n OpenAPI/Swagger de endpoints</td>
       <td>3</td>
       <td>TO34</td>
-      <td>Configuración de Swagger UI</td>
-      <td>Integrar la documentación OpenAPI en el backend y habilitar Swagger UI</td>
+      <td>Configuraciï¿½n de Swagger UI</td>
+      <td>Integrar la documentaciï¿½n OpenAPI en el backend y habilitar Swagger UI</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>TS003</td>
-      <td>Documentación OpenAPI/Swagger de endpoints</td>
+      <td>Documentaciï¿½n OpenAPI/Swagger de endpoints</td>
       <td>3</td>
       <td>TO35</td>
-      <td>Documentación de contratos REST</td>
-      <td>Definir rutas, parámetros, cuerpos de solicitud y respuestas para los endpoints implementados</td>
+      <td>Documentaciï¿½n de contratos REST</td>
+      <td>Definir rutas, parï¿½metros, cuerpos de solicitud y respuestas para los endpoints implementados</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2656,7 +2656,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Persistencia y repositorios por contexto</td>
       <td>5</td>
       <td>TO37</td>
-      <td>Repositorios y servicios de aplicación</td>
+      <td>Repositorios y servicios de aplicaciï¿½n</td>
       <td>Crear repositorios y servicios para consultar, registrar y actualizar datos por bounded context</td>
       <td>2</td>
       <td>AdrixRyz</td>
@@ -2667,8 +2667,8 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Reserva digital de citas</td>
       <td>5</td>
       <td>TO38</td>
-      <td>Endpoint de disponibilidad médica</td>
-      <td>Implementar servicio para consultar horarios disponibles por especialidad, médico y fecha</td>
+      <td>Endpoint de disponibilidad mï¿½dica</td>
+      <td>Implementar servicio para consultar horarios disponibles por especialidad, mï¿½dico y fecha</td>
       <td>2</td>
       <td>Leotens</td>
       <td>Completed</td>
@@ -2678,18 +2678,18 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Reserva digital de citas</td>
       <td>5</td>
       <td>TO39</td>
-      <td>Endpoint de creación de citas</td>
-      <td>Implementar registro de citas desde el backend y respuesta de confirmación para el frontend</td>
+      <td>Endpoint de creaciï¿½n de citas</td>
+      <td>Implementar registro de citas desde el backend y respuesta de confirmaciï¿½n para el frontend</td>
       <td>2</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US004</td>
-      <td>Reprogramación de citas</td>
+      <td>Reprogramaciï¿½n de citas</td>
       <td>5</td>
       <td>TO40</td>
-      <td>Validación de cambios de horario</td>
+      <td>Validaciï¿½n de cambios de horario</td>
       <td>Implementar reglas para verificar disponibilidad y restricciones antes de reprogramar una cita</td>
       <td>2</td>
       <td>Leotens</td>
@@ -2697,21 +2697,21 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US004</td>
-      <td>Reprogramación de citas</td>
+      <td>Reprogramaciï¿½n de citas</td>
       <td>5</td>
       <td>TO41</td>
-      <td>Endpoint de reprogramación</td>
-      <td>Actualizar fecha y hora de una cita existente y devolver la nueva programación al frontend</td>
+      <td>Endpoint de reprogramaciï¿½n</td>
+      <td>Actualizar fecha y hora de una cita existente y devolver la nueva programaciï¿½n al frontend</td>
       <td>2</td>
       <td>Leotens</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US005</td>
-      <td>Cancelación de citas</td>
+      <td>Cancelaciï¿½n de citas</td>
       <td>3</td>
       <td>TO42</td>
-      <td>Reglas de cancelación</td>
+      <td>Reglas de cancelaciï¿½n</td>
       <td>Implementar validaciones para determinar si una cita puede ser cancelada</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2719,10 +2719,10 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US005</td>
-      <td>Cancelación de citas</td>
+      <td>Cancelaciï¿½n de citas</td>
       <td>3</td>
       <td>TO43</td>
-      <td>Endpoint de cancelación</td>
+      <td>Endpoint de cancelaciï¿½n</td>
       <td>Actualizar el estado de la cita y liberar el horario correspondiente</td>
       <td>1</td>
       <td>Leotens</td>
@@ -2730,51 +2730,51 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US011</td>
-      <td>Registro de anamnesis y examen físico</td>
+      <td>Registro de anamnesis y examen fï¿½sico</td>
       <td>5</td>
       <td>TO44</td>
-      <td>Modelo de atención clínica</td>
-      <td>Definir la estructura backend para registrar anamnesis, examen físico y observaciones clínicas</td>
+      <td>Modelo de atenciï¿½n clï¿½nica</td>
+      <td>Definir la estructura backend para registrar anamnesis, examen fï¿½sico y observaciones clï¿½nicas</td>
       <td>2</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US011</td>
-      <td>Registro de anamnesis y examen físico</td>
+      <td>Registro de anamnesis y examen fï¿½sico</td>
       <td>5</td>
       <td>TO45</td>
-      <td>Endpoint de registro clínico</td>
-      <td>Implementar guardado de la atención clínica asociada al paciente y médico responsable</td>
+      <td>Endpoint de registro clï¿½nico</td>
+      <td>Implementar guardado de la atenciï¿½n clï¿½nica asociada al paciente y mï¿½dico responsable</td>
       <td>2</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US012</td>
-      <td>Emisión de diagnóstico</td>
+      <td>Emisiï¿½n de diagnï¿½stico</td>
       <td>3</td>
       <td>TO46</td>
-      <td>Entidad de diagnóstico</td>
-      <td>Crear estructura para registrar diagnósticos vinculados a una atención clínica</td>
+      <td>Entidad de diagnï¿½stico</td>
+      <td>Crear estructura para registrar diagnï¿½sticos vinculados a una atenciï¿½n clï¿½nica</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US012</td>
-      <td>Emisión de diagnóstico</td>
+      <td>Emisiï¿½n de diagnï¿½stico</td>
       <td>3</td>
       <td>TO47</td>
-      <td>Endpoint de diagnóstico</td>
-      <td>Implementar creación y consulta de diagnósticos desde el backend</td>
+      <td>Endpoint de diagnï¿½stico</td>
+      <td>Implementar creaciï¿½n y consulta de diagnï¿½sticos desde el backend</td>
       <td>1</td>
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
     <tr>
       <td>US013</td>
-      <td>Emisión de recetas digitales</td>
+      <td>Emisiï¿½n de recetas digitales</td>
       <td>5</td>
       <td>TO48</td>
       <td>Modelo de receta digital</td>
@@ -2785,11 +2785,11 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>US013</td>
-      <td>Emisión de recetas digitales</td>
+      <td>Emisiï¿½n de recetas digitales</td>
       <td>5</td>
       <td>TO49</td>
-      <td>Endpoint de emisión de recetas</td>
-      <td>Permitir la creación de recetas digitales asociadas a una atención clínica</td>
+      <td>Endpoint de emisiï¿½n de recetas</td>
+      <td>Permitir la creaciï¿½n de recetas digitales asociadas a una atenciï¿½n clï¿½nica</td>
       <td>2</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2799,8 +2799,8 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>Ingreso de medicinas al inventario</td>
       <td>3</td>
       <td>TO50</td>
-      <td>Modelo de inventario farmacéutico</td>
-      <td>Definir entidades para medicamentos, stock, presentación y disponibilidad</td>
+      <td>Modelo de inventario farmacï¿½utico</td>
+      <td>Definir entidades para medicamentos, stock, presentaciï¿½n y disponibilidad</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2811,7 +2811,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>3</td>
       <td>TO51</td>
       <td>Endpoint de registro de medicinas</td>
-      <td>Implementar creación y actualización de medicamentos desde el módulo de farmacia</td>
+      <td>Implementar creaciï¿½n y actualizaciï¿½n de medicamentos desde el mï¿½dulo de farmacia</td>
       <td>1</td>
       <td>kamil-tron</td>
       <td>Completed</td>
@@ -2822,7 +2822,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>5</td>
       <td>TO52</td>
       <td>Modelo de pagos de citas</td>
-      <td>Crear estructura para registrar montos, método de pago y estado de pago de una cita</td>
+      <td>Crear estructura para registrar montos, mï¿½todo de pago y estado de pago de una cita</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2833,7 +2833,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>5</td>
       <td>TO53</td>
       <td>Endpoint de pago</td>
-      <td>Implementar registro de pago y actualización del estado financiero de la cita</td>
+      <td>Implementar registro de pago y actualizaciï¿½n del estado financiero de la cita</td>
       <td>2</td>
       <td>nes-ro</td>
       <td>Completed</td>
@@ -2862,10 +2862,10 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>TS005</td>
-      <td>Integración del frontend con APIs reales</td>
+      <td>Integraciï¿½n del frontend con APIs reales</td>
       <td>5</td>
       <td>TO56</td>
-      <td>Configuración de servicios HTTP reales</td>
+      <td>Configuraciï¿½n de servicios HTTP reales</td>
       <td>Actualizar la capa de consumo del frontend para apuntar a los endpoints reales del backend</td>
       <td>2</td>
       <td>AdrixRyz</td>
@@ -2873,11 +2873,11 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
     </tr>
     <tr>
       <td>TS005</td>
-      <td>Integración del frontend con APIs reales</td>
+      <td>Integraciï¿½n del frontend con APIs reales</td>
       <td>5</td>
       <td>TO57</td>
       <td>Reemplazo de mock services</td>
-      <td>Sustituir llamadas al mock server por peticiones al backend en los módulos del Sprint 3</td>
+      <td>Sustituir llamadas al mock server por peticiones al backend en los mï¿½dulos del Sprint 3</td>
       <td>2</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
@@ -2899,7 +2899,7 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
       <td>3</td>
       <td>TO59</td>
       <td>Respuestas de error estandarizadas</td>
-      <td>Definir códigos HTTP y mensajes de error consistentes para el consumo desde frontend</td>
+      <td>Definir cï¿½digos HTTP y mensajes de error consistentes para el consumo desde frontend</td>
       <td>1</td>
       <td>AdrixRyz</td>
       <td>Completed</td>
@@ -3065,18 +3065,18 @@ El backlog del Sprint 3 se orienta a consolidar la arquitectura backend y reempl
 
 #### *5.2.3.5. Execution Evidence for Sprint Review*
 
-Durante el Sprint 3 se logró avanzar en la integración funcional entre el frontend y los servicios backend desarrollados para los principales flujos de Vitalia. Se implementaron y validaron vistas relacionadas con la gestión de citas, disponibilidad médica, atención clínica, diagnósticos, tratamientos, recetas digitales, medicamentos y reclamos de facturación, reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecución presentadas en esta sección muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
+Durante el Sprint 3 se logrï¿½ avanzar en la integraciï¿½n funcional entre el frontend y los servicios backend desarrollados para los principales flujos de Vitalia. Se implementaron y validaron vistas relacionadas con la gestiï¿½n de citas, disponibilidad mï¿½dica, atenciï¿½n clï¿½nica, diagnï¿½sticos, tratamientos, recetas digitales, medicamentos y reclamos de facturaciï¿½n, reemplazando progresivamente el uso de datos simulados por peticiones reales a la API. Las evidencias de ejecuciï¿½n presentadas en esta secciï¿½n muestran las principales vistas implementadas y permiten comprobar que los usuarios pueden interactuar con funcionalidades clave del sistema dentro del alcance definido para el Sprint.
 
 **Principales entregables funcionales:**
-- Endpoints REST para gestión de citas, disponibilidad médica, atención clínica, diagnósticos, tratamientos, recetas digitales, medicamentos e información de facturación.
-- Integración de la capa de consumo del frontend con los servicios backend reales.
-- Validación de flujos de usuario para reserva, reprogramación y cancelación de citas
-- Despliegue del backend en un entorno de producción para su integración continua con el frontend.
-- Documentación de los servicios REST implementados mediante OpenAPI/Swagger para su consulta y validación por parte del equipo y stakeholders.
+- Endpoints REST para gestiï¿½n de citas, disponibilidad mï¿½dica, atenciï¿½n clï¿½nica, diagnï¿½sticos, tratamientos, recetas digitales, medicamentos e informaciï¿½n de facturaciï¿½n.
+- Integraciï¿½n de la capa de consumo del frontend con los servicios backend reales.
+- Validaciï¿½n de flujos de usuario para reserva, reprogramaciï¿½n y cancelaciï¿½n de citas
+- Despliegue del backend en un entorno de producciï¿½n para su integraciï¿½n continua con el frontend.
+- Documentaciï¿½n de los servicios REST implementados mediante OpenAPI/Swagger para su consulta y validaciï¿½n por parte del equipo y stakeholders.
 
 #### *5.2.3.6. Services Documentation Evidence for Sprint Review*
 
-Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentación permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestion de citas, disponibilidad medica, registros clinicos, diagnosticos, recetas, tratamientos, medicamentos y reclamos de facturacion. Además del uso de una base de datos MySQL para la persistencia de la información. A continuación se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
+Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los contextos de Scheduling, Clinical, Pharmacy y Billing mediante OpenAPI/Swagger. Esta documentaciï¿½n permite evidenciar los servicios implementados dentro del alcance del Sprint, incluyendo las rutas base y las acciones disponibles para la gestion de citas, disponibilidad medica, registros clinicos, diagnosticos, recetas, tratamientos, medicamentos y reclamos de facturacion. Ademï¿½s del uso de una base de datos MySQL para la persistencia de la informaciï¿½n. A continuaciï¿½n se presenta un resumen de los endpoints documentados y las acciones implementadas para cada recurso:
 
 | Recurso | Endpoint Base | Acciones Implementadas |
 | --- | --- | --- |
@@ -3093,33 +3093,33 @@ Durante el Sprint 3 se documentaron los endpoints REST correspondientes a los co
 | Prescriptions | `/api/v1/prescriptions` | GET, POST, GET por ID, DELETE, GET por medical record |
 | Treatments | `/api/v1/treatments` | GET, POST, GET por ID, PATCH, DELETE, GET por medical record |
 
-**Evidencia de ejecución**
+**Evidencia de ejecuciï¿½n**
 
-Para mostrar la interación, ejecutamos 5 endpoints relacionados al bounded de scheduling. Entre los cuales veremos busqueda de citas y horarios disponibles, como su creación o eliminación de ellos.
+Para mostrar la interaciï¿½n, ejecutamos 5 endpoints relacionados al bounded de scheduling. Entre los cuales veremos busqueda de citas y horarios disponibles, como su creaciï¿½n o eliminaciï¿½n de ellos.
 
-1. GET /api/v1/appointments: Permite buscar citas, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de citas.
+1. GET /api/v1/appointments: Permite buscar citas, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecuciï¿½n no se aï¿½adio parametros, por lo cual nos brinda la lista completa de citas.
 
 <img src="./assets/images/others/services-get-appointments.png" alt="Get-Appointments Endpoint" style="width: 100vw;">
 
-2. POST /api/v1/appointments: Se solicita la información necesaria para crear una cita. Al ejecutarse se añadira la cita a la base de datos.
+2. POST /api/v1/appointments: Se solicita la informaciï¿½n necesaria para crear una cita. Al ejecutarse se aï¿½adira la cita a la base de datos.
 
 <img src="./assets/images/others/services-post-appointments.png" alt="Post-Appointments Endpoint" style="width: 100vw;">
 
-3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecución no se añadio parametros, por lo cual nos brinda la lista completa de horarios disponibles.
+3. GET /api/v1/availabilitySlots: Permite buscar horarios disponibles, con parametros opcionales, los cuales van a filtrar segun indique el usuario. En esta ejecuciï¿½n no se aï¿½adio parametros, por lo cual nos brinda la lista completa de horarios disponibles.
 
 <img src="./assets/images/others/services-get-availability-slots.png" alt="Get-Availability-Slots Endpoint" style="width: 100vw;">
 
-4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita la id del horario que se desea eliminar. Tras su ejecución seria eliminado de la base de datos el horario asignado por la id.
+4. DELETE /api/v1/availabilitySlots: Da la posibilidad de eliminar un horario disponible de la base de datos. Para ello se solicita la id del horario que se desea eliminar. Tras su ejecuciï¿½n seria eliminado de la base de datos el horario asignado por la id.
 
 <img src="./assets/images/others/services-delete-availability-slots.png" alt="Delete-Availability-Slots Endpoint" style="width: 100vw;">
 
-5. GET /api/v1/availabilitySlots: Es el mismo endpoint de busqueda de horarios disponibles, en este caso lo volvemos a usar para verificar la eliminación del horario escogido (slot-003).
+5. GET /api/v1/availabilitySlots: Es el mismo endpoint de busqueda de horarios disponibles, en este caso lo volvemos a usar para verificar la eliminaciï¿½n del horario escogido (slot-003).
 
 <img src="./assets/images/others/services-get-availability-slots-2.png" alt="Get-Availability-Slots-2 Endpoint" style="width: 100vw;">
 
 #### *5.2.3.7. Software Deployment Evidence for Sprint Review*
 
-Durante el Sprint 3 se realizó el despliegue del backend de Vitalia en un entorno de producción utilizando Render como plataforma de hosting. Este despliegue permitió validar la correcta configuración del entorno, la conexión a la base de datos MySQL y la disponibilidad de los servicios REST implementados para su consumo desde el frontend. La evidencia presentada en esta sección muestra capturas del proceso de despliegue en Render, confirmando que el backend está operativo y accesible para su integración con el frontend.
+Durante el Sprint 3 se realizï¿½ el despliegue del backend de Vitalia en un entorno de producciï¿½n utilizando Render como plataforma de hosting. Este despliegue permitiï¿½ validar la correcta configuraciï¿½n del entorno, la conexiï¿½n a la base de datos MySQL y la disponibilidad de los servicios REST implementados para su consumo desde el frontend. La evidencia presentada en esta secciï¿½n muestra capturas del proceso de despliegue en Render, confirmando que el backend estï¿½ operativo y accesible para su integraciï¿½n con el frontend.
 
 **Swagger Documentation Link:** [https://vitalia-backend-zf3p.onrender.com/swagger/index.html](https://vitalia-backend-zf3p.onrender.com/swagger/index.html)
 
@@ -3131,15 +3131,15 @@ Durante el Sprint 3 se realizó el despliegue del backend de Vitalia en un entorn
 
 #### *5.2.3.8. Team Collaboration Insights during Sprint*
 
-Para la organización técnica del desarrollo del Backend, el equipo adoptó un flujo de trabajo basado en GitFlow con ramas de características (`feature/`) bien definidas (como `feature/scheduling`, `feature/billing`, `feature/pharmacy`, etc.), garantizando una integración ordenada hacia la rama `develop`.
+Para la organizaciï¿½n tï¿½cnica del desarrollo del Backend, el equipo adoptï¿½ un flujo de trabajo basado en GitFlow con ramas de caracterï¿½sticas (`feature/`) bien definidas (como `feature/scheduling`, `feature/billing`, `feature/pharmacy`, etc.), garantizando una integraciï¿½n ordenada hacia la rama `develop`.
 
-A continuación se presenta la evidencia de las interacciones y control de colaboración registrados durante el transcurso de este Sprint:
+A continuaciï¿½n se presenta la evidencia de las interacciones y control de colaboraciï¿½n registrados durante el transcurso de este Sprint:
 
 <img src="./assets/images/others/s3-collab-insight-1.png" alt="s3-collab-insight-1"  style="width: 100vw;"/>
 
 <img src="./assets/images/others/s3-collab-insight-2.png" alt="s3-collab-insight-2" style="width: 100vw;"/>
 
-El gráfico y métricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los líderes técnicos de módulo definidos en la planificación.
+El grï¿½fico y mï¿½tricas evidencian una alta frecuencia de commits organizados y un balance de responsabilidades alineado con los lï¿½deres tï¿½cnicos de mï¿½dulo definidos en la planificaciï¿½n.
 
 
 ### 5.2.4. Sprint 4
